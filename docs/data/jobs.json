@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-09T05:59:27+00:00",
+ "generated_at": "2026-07-09T06:01:30+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -25,13 +25,13 @@
   },
   {
    "name": "CCCAA (Cal JC)",
-   "ok": true,
-   "count": 0
+   "ok": false,
+   "error": "HTTP Error 405: "
   },
   {
    "name": "NWAC (NW JC)",
-   "ok": true,
-   "count": 8
+   "ok": false,
+   "error": "HTTP Error 405: "
   }
  ],
  "count": 99,
