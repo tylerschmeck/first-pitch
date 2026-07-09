@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>First Pitch — College Softball Coaching Jobs</title>
+<meta name="description" content="Every college softball coaching job, swept from NCAA Market, NFCA, NJCAA and NAIA boards — with program budgets, trends and school context.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='42' fill='%23f2d545'/><path d='M22 22 Q50 38 78 22' stroke='%23c23b3b' stroke-width='5' fill='none'/><path d='M22 78 Q50 62 78 78' stroke='%23c23b3b' stroke-width='5' fill='none'/></svg>">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap top-inner">
+    <div class="brand">
+      <svg class="brand-ball" viewBox="0 0 100 100" aria-hidden="true">
+        <circle cx="50" cy="50" r="46" class="ball-fill"/>
+        <path d="M18 24 Q50 44 82 24" class="ball-seam"/>
+        <path d="M18 76 Q50 56 82 76" class="ball-seam"/>
+        <g class="ball-stitch">
+          <path d="M30 27 l6 6 M40 32 l5 6 M50 35 l4 6 M60 32 l3 6 M70 27 l1 6"/>
+          <path d="M30 73 l6 -6 M40 68 l5 -6 M50 65 l4 -6 M60 68 l3 -6 M70 73 l1 -6"/>
+        </g>
+      </svg>
+      <div>
+        <h1>First Pitch</h1>
+        <p class="tagline">Every college softball coaching job. One page.</p>
+      </div>
+    </div>
+    <div class="top-meta">
+      <span id="updated" class="updated" title=""></span>
+      <button id="themeToggle" class="icon-btn" type="button" aria-label="Toggle dark mode">
+        <svg viewBox="0 0 24 24" width="17" height="17" aria-hidden="true"><path class="moon" d="M20.3 13.6A8.3 8.3 0 0 1 10.4 3.7 8.3 8.3 0 1 0 20.3 13.6Z"/><g class="sun"><circle cx="12" cy="12" r="4.6"/><g stroke-linecap="round"><path d="M12 2.5v2.6M12 18.9v2.6M2.5 12h2.6M18.9 12h2.6M5.2 5.2l1.9 1.9M16.9 16.9l1.9 1.9M18.8 5.2l-1.9 1.9M7.1 16.9l-1.9 1.9"/></g></g></svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <section class="summary" id="summary" aria-live="polite"></section>
+
+  <nav class="tabs" role="tablist" aria-label="Job lists">
+    <button class="tab is-active" data-tab="all" role="tab" aria-selected="true">All jobs <span class="tab-n" id="nAll"></span></button>
+    <button class="tab" data-tab="saved" role="tab" aria-selected="false">Saved <span class="tab-n" id="nSaved"></span></button>
+    <button class="tab" data-tab="hidden" role="tab" aria-selected="false">Hidden <span class="tab-n" id="nHidden"></span></button>
+  </nav>
+
+  <section class="controls" aria-label="Filters">
+    <div class="search-row">
+      <div class="search">
+        <svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="m20 20-3.8-3.8" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        <input id="q" type="search" placeholder="Search school, title, city, conference…" autocomplete="off">
+      </div>
+      <select id="stateSel" aria-label="Filter by state"></select>
+      <select id="sortSel" aria-label="Sort order">
+        <option value="new">Newest first</option>
+        <option value="old">Oldest first</option>
+        <option value="budget">Biggest budget</option>
+        <option value="school">School A→Z</option>
+      </select>
+    </div>
+    <div class="chip-rows">
+      <div class="chips" id="divChips" role="group" aria-label="Division">
+        <button class="chip" data-group="d1">D1</button>
+        <button class="chip" data-group="d2">D2</button>
+        <button class="chip" data-group="d3">D3</button>
+        <button class="chip" data-group="naia">NAIA</button>
+        <button class="chip" data-group="juco">JuCo</button>
+        <button class="chip" data-group="other">Other</button>
+      </div>
+      <span class="chip-sep" aria-hidden="true"></span>
+      <div class="chips" id="typeChips" role="group" aria-label="Position type">
+        <button class="chip" data-type="head">Head coach</button>
+        <button class="chip" data-type="assistant">Assistant</button>
+        <button class="chip" data-type="other">GA / other</button>
+      </div>
+      <button class="clear-btn" id="clearBtn" type="button" hidden>Clear filters</button>
+    </div>
+  </section>
+
+  <section id="list" class="list" aria-live="polite"></section>
+
+  <div id="empty" class="empty" hidden>
+    <p class="empty-big">No jobs match these filters.</p>
+    <p>Try widening the division or position type, or <button class="linklike" id="emptyClear" type="button">clear all filters</button>.</p>
+  </div>
+
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <p>Sweeps <span id="srcList"></span> every 6 hours. Program finances &amp; rosters from the U.S. Dept. of Education
+      <a href="https://ope.ed.gov/athletics/" target="_blank" rel="noopener">EADA survey</a> (<span id="eadaYear"></span>);
+      conference &amp; team sites from the NCAA directory. Figures are the school's own federal filings — treat them as context, not gospel.</p>
+    <p class="foot-love">Built for one very good coach. Go get 'em. 🥎</p>
+  </div>
+</footer>
+
+<div id="tip" class="tip" hidden></div>
+<script src="app.js"></script>
+</body>
+</html>
