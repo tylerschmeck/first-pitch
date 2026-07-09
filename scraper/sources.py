@@ -295,9 +295,102 @@ def naia():
     return jobs
 
 
+# --------------------------------------------------------- CCCAA (Cal JC)
+# California community colleges compete in the CCCAA (a.k.a. 3C2A), a separate
+# body from the NJCAA. Their board lists every sport as a vertical label/value
+# table: rows of (College, Location, Job Title, Link to Job Title, Deadline),
+# one 5-row group per job. We keep the softball ones.
+
+def _parse_datestr(s):
+    s = (s or "").strip().replace(".", "")
+    for fmt in ("%b %d, %Y", "%B %d, %Y", "%m/%d/%Y", "%m/%d/%y"):
+        try:
+            return datetime.strptime(s, fmt).date().isoformat()
+        except ValueError:
+            continue
+    return None
+
+
+def cccaa():
+    doc = fetch("https://www.cccaasports.org/services/employ-current")
+    rows = re.findall(r"<tr[^>]*>(.*?)</tr>", doc, re.S)
+    jobs, cur = [], {}
+
+    def flush():
+        title = cur.get("title", "")
+        if title and SOFTBALL_TITLE.search(title):
+            city = state = ""
+            mloc = re.match(r"^(.*?),\s*([A-Za-z]{2})\b", cur.get("location", ""))
+            if mloc:
+                city, state = mloc.group(1).strip(), mloc.group(2).upper()
+            jobs.append({
+                "title": title, "school": cur.get("college", ""),
+                "city": city, "state": state,
+                "url": cur.get("url") or "https://www.cccaasports.org/services/employ-current",
+                "source": "CCCAA (Cal JC)", "posted": None,
+                "description": title, "division_hint": "CCCAA",
+                "deadline": cur.get("deadline", ""), "contact": "",
+            })
+
+    for r in rows:
+        cells = re.findall(r"<t[dh][^>]*>(.*?)</t[dh]>", r, re.S)
+        if len(cells) < 2:
+            continue
+        label = clean_text(cells[0]).lower()
+        val = clean_text(cells[1])
+        if label.startswith("college"):
+            flush()
+            cur = {"college": val}
+        elif label.startswith("location"):
+            cur["location"] = val
+        elif label.startswith("job title") or label == "title":
+            cur["title"] = val
+        elif label.startswith("link"):
+            mh = re.search(r'href="([^"]+)"', cells[1])
+            if mh:
+                cur["url"] = html.unescape(mh.group(1))
+        elif label.startswith("deadline"):
+            cur["deadline"] = val
+    flush()
+    return jobs
+
+
+# ----------------------------------------------------------- NWAC (NW JC)
+# Northwest Athletic Conference: Washington/Oregon community colleges, also
+# separate from the NJCAA. Board is a 3-column table: POSTED | JOB LISTING
+# (linked) | College/Organization.
+
+def nwac():
+    doc = fetch("https://nwacsports.com/employment")
+    m = re.search(r"<tbody>(.*?)</tbody>", doc, re.S)
+    region = m.group(1) if m else doc
+    jobs = []
+    for r in re.findall(r"<tr[^>]*>(.*?)</tr>", region, re.S):
+        cells = re.findall(r"<t[dh][^>]*>(.*?)</t[dh]>", r, re.S)
+        if len(cells) < 3:
+            continue
+        title = clean_text(cells[1])
+        if not title or title.upper() == "JOB LISTING":
+            continue
+        if not SOFTBALL_TITLE.search(title):
+            continue
+        mh = re.search(r'href="([^"]+)"', cells[1])
+        jobs.append({
+            "title": title, "school": clean_text(cells[2]),
+            "city": "", "state": "",
+            "url": html.unescape(mh.group(1)) if mh else "https://nwacsports.com/employment",
+            "source": "NWAC (NW JC)", "posted": _parse_datestr(clean_text(cells[0])),
+            "description": title, "division_hint": "NWAC",
+            "deadline": "", "contact": "",
+        })
+    return jobs
+
+
 SOURCES = [
     ("NCAA Market", ncaa_market),
     ("NFCA", nfca),
     ("NJCAA Career Center", njcaa),
     ("NAIA Careers", naia),
+    ("CCCAA (Cal JC)", cccaa),
+    ("NWAC (NW JC)", nwac),
 ]

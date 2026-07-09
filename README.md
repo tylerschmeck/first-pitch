@@ -14,12 +14,16 @@ page, see what's new, tap a card, understand the program in ten seconds, apply.
 
 ## What it does
 
-- **Sweeps four boards automatically**: [NCAA Market](https://ncaamarket.ncaa.org)
+- **Sweeps six boards automatically**: [NCAA Market](https://ncaamarket.ncaa.org)
   (all NCAA divisions), the [NFCA job page](https://nfca.org/nfca-job-postings)
   (the softball community hub — all levels), the
-  [NJCAA Career Center](https://careers.njcaa.org) (JuCo), and
-  [NAIA Careers](https://jobs.naia.org). Cross-board duplicates are merged into
-  one card with every apply link.
+  [NJCAA Career Center](https://careers.njcaa.org) (junior colleges),
+  [NAIA Careers](https://jobs.naia.org), the
+  [CCCAA / 3C2A board](https://www.cccaasports.org/services/employ-current)
+  (California community colleges — a separate body from the NJCAA), and the
+  [NWAC board](https://nwacsports.com/employment) (Washington/Oregon community
+  colleges). Cross-board duplicates are merged into one card with every apply
+  link, and any listing older than four months is dropped automatically.
 - **Knows the school.** Each posting is matched against the U.S. Department of
   Education's EADA athletics survey (~1,600 softball-sponsoring schools):
   division, conference, enrollment, public/private, roster size, softball
