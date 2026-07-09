@@ -8,13 +8,28 @@ records the failure without killing the run.
 """
 import html
 import re
+import time
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 
 import requests
 
+# curl_cffi impersonates a real Chrome TLS/JA3 + HTTP2 fingerprint, which clears
+# Cloudflare's datacenter-IP + fingerprint blocking (NFCA 403s plain requests
+# from GitHub Actions). Optional: if it isn't installed we fall back to requests.
+try:
+    from curl_cffi import requests as _cc
+except Exception:  # pragma: no cover
+    _cc = None
+
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36")
+
+BROWSER_HEADERS = {
+    "User-Agent": UA,
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+}
 
 STATE_CODES = {
     "alabama": "AL", "alaska": "AK", "arizona": "AZ", "arkansas": "AR",
@@ -36,11 +51,26 @@ STATE_CODES = {
 VALID_CODES = set(STATE_CODES.values())
 
 
-def fetch(url, timeout=30):
-    r = requests.get(url, headers={"User-Agent": UA, "Accept-Language": "en-US,en;q=0.9"},
-                     timeout=timeout)
-    r.raise_for_status()
-    return r.text
+def fetch(url, timeout=30, tries=3):
+    """Fetch a URL as text, retrying transient failures.
+
+    Prefers curl_cffi with Chrome impersonation (defeats Cloudflare bot
+    blocking from datacenter IPs); falls back to plain requests.
+    """
+    last = None
+    for attempt in range(tries):
+        try:
+            if _cc is not None:
+                r = _cc.get(url, impersonate="chrome", timeout=timeout)
+            else:
+                r = requests.get(url, headers=BROWSER_HEADERS, timeout=timeout)
+            r.raise_for_status()
+            return r.text
+        except Exception as e:
+            last = e
+            if attempt < tries - 1:
+                time.sleep(1.5 * (attempt + 1))
+    raise last
 
 
 def clean_text(s):
