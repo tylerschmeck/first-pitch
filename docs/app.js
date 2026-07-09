@@ -76,8 +76,8 @@
     var hrs = (Date.now() - gen.getTime()) / 36e5;
     var upd = $("#updated");
     upd.innerHTML = '<span class="dot"></span>updated ' + esc(relHours(hrs));
-    upd.title = "Last sweep: " + gen.toLocaleString();
-    if (hrs > 24) { upd.classList.add("stale"); upd.innerHTML += " — may be stale"; }
+    upd.title = "Last sweep: " + gen.toLocaleString() + " — boards are re-swept every 3 hours";
+    if (hrs > 9) { upd.classList.add("stale"); upd.innerHTML += " — sweeps may be paused"; }
 
     $("#eadaYear").textContent = DATA.eada_year || "latest";
     $("#srcList").innerHTML = DATA.sources.map(function (s) {

@@ -1,7 +1,13 @@
 # First Pitch 🥎
 
 **Every college softball coaching job in the U.S. — on one page, refreshed
-every 6 hours, with the context that matters.**
+every 3 hours, with the context that matters.**
+
+Freshness is enforced, not hoped for: the sweeper keeps only what the boards
+list *right now*, stamps every posting with its original post date, and drops
+anything older than 4 months (a coaching search open that long is filled or
+abandoned). The header shows when the last sweep ran and turns amber if
+sweeps ever pause.
 
 Built for a coach who shouldn't have to check five job boards a day. Open the
 page, see what's new, tap a card, understand the program in ten seconds, apply.
@@ -37,8 +43,8 @@ page, see what's new, tap a card, understand the program in ten seconds, apply.
 That's it. The script uses the [GitHub CLI](https://cli.github.com) (`brew
 install gh` if you don't have it) to create a public repo, enable GitHub
 Pages, and start the sweeper. It prints the URL to send her — the site then
-maintains itself: a GitHub Action re-sweeps every 6 hours and commits fresh
-data.
+maintains itself: a GitHub Action re-sweeps every 3 hours (8× a day) and
+commits fresh data.
 
 > **Note:** GitHub pauses cron schedules on repos with no activity for 60
 > days. If that ever happens, open the repo's **Actions** tab and press "Run

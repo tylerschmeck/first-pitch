@@ -51,5 +51,5 @@ URL="https://$USER.github.io/$REPO_NAME/"
 say "Done! The site will be live in ~2 minutes at:"
 echo "    $URL"
 echo
-echo "It re-sweeps every job board automatically every 6 hours."
+echo "It re-sweeps every job board automatically every 3 hours."
 echo "Send that link to your coach — that's all she needs."

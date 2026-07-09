@@ -1,6 +1,7 @@
 {
- "generated_at": "2026-07-09T04:06:31+00:00",
+ "generated_at": "2026-07-09T04:12:12+00:00",
  "eada_year": "2024\u201325",
+ "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
@@ -20,7 +21,7 @@
   {
    "name": "NAIA Careers",
    "ok": true,
-   "count": 1
+   "count": 0
   }
  ],
  "count": 99,
@@ -2255,6 +2256,83 @@
    }
   },
   {
+   "title": "Assistant Softball Coach/Pitching Emphasis",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22367182/assistant-softball-coach-pitching-emphasis"
+    }
+   ],
+   "posted": "2026-06-23",
+   "deadline": "",
+   "contact": "",
+   "id": "0cac66c17393",
+   "type": "assistant",
+   "school_key": "153366",
+   "tok": [
+    "assistant",
+    "emphasis",
+    "pitching"
+   ],
+   "unitid": "153366",
+   "school_name": "Graceland University-Lamoni",
+   "city": "Lamoni",
+   "state": "IA",
+   "division": "NAIA",
+   "group": "naia",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-09",
+   "salary": "",
+   "snippet": "Graceland University is seeking a dynamic Assistant Softball Coach to assist in all operations of a University Softball Program. Applicants must be proactive, have good time management skills and the ability to connect and lead college athletes appropriately. We are seeking a passionate coach who is committed to excellence and is willing to work within the coaching staff to continue our program to greatness.\u2026",
+   "school": {
+    "name": "Graceland University-Lamoni",
+    "city": "Lamoni",
+    "state": "IA",
+    "division": "NAIA",
+    "group": "naia",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 774,
+    "sb_players": 21,
+    "sb_opexp": 39432,
+    "sb_expenses": 205996,
+    "sb_revenue": 205996,
+    "sb_head_ft": 0,
+    "sb_head_pt": 1,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 2,
+    "hc_salary_women": 44364,
+    "ac_salary_women": 20971,
+    "student_aid_women": 1068490,
+    "recruit_exp_women": 38986,
+    "conference": "",
+    "ath_url": "",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     194072,
+     336054,
+     405610,
+     427071,
+     364927,
+     205996
+    ],
+    "trend_players": [
+     21,
+     38,
+     32,
+     38,
+     26,
+     21
+    ]
+   }
+  },
+  {
    "title": "Assistant Softball Coach",
    "links": [
     {
@@ -2551,87 +2629,6 @@
      15,
      22,
      19
-    ]
-   }
-  },
-  {
-   "title": "Assistant Softball Coach/Pitching Emphasis",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22367182/assistant-softball-coach-pitching-emphasis"
-    },
-    {
-     "source": "NAIA Careers",
-     "url": "https://jobs.naia.org/job/assistant-softball-coach-4/"
-    }
-   ],
-   "posted": "2026-06-22",
-   "deadline": "",
-   "contact": "",
-   "id": "0cac66c17393",
-   "type": "assistant",
-   "school_key": "153366",
-   "tok": [
-    "assistant",
-    "emphasis",
-    "pitching"
-   ],
-   "unitid": "153366",
-   "school_name": "Graceland University-Lamoni",
-   "city": "Lamoni",
-   "state": "IA",
-   "division": "NAIA",
-   "group": "naia",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Graceland University is seeking a dynamic Assistant Softball Coach to assist in all operations of a University Softball Program. Applicants must be proactive, have good time management skills and the ability to connect and lead college athletes appropriately. We are seeking a passionate coach who is committed to excellence and is willing to work within the coaching staff to continue our program to greatness.\u2026",
-   "school": {
-    "name": "Graceland University-Lamoni",
-    "city": "Lamoni",
-    "state": "IA",
-    "division": "NAIA",
-    "group": "naia",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 774,
-    "sb_players": 21,
-    "sb_opexp": 39432,
-    "sb_expenses": 205996,
-    "sb_revenue": 205996,
-    "sb_head_ft": 0,
-    "sb_head_pt": 1,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 2,
-    "hc_salary_women": 44364,
-    "ac_salary_women": 20971,
-    "student_aid_women": 1068490,
-    "recruit_exp_women": 38986,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     194072,
-     336054,
-     405610,
-     427071,
-     364927,
-     205996
-    ],
-    "trend_players": [
-     21,
-     38,
-     32,
-     38,
-     26,
-     21
     ]
    }
   },
@@ -7332,5 +7329,106 @@
     ]
    }
   }
- ]
+ ],
+ "seen": {
+  "6bfd433b5593": "2026-07-09",
+  "b3bfa5acc501": "2026-07-09",
+  "1bd1d2243ea1": "2026-07-09",
+  "d0d50f6147e1": "2026-07-09",
+  "a9b675d23aac": "2026-07-09",
+  "d01a1c153845": "2026-07-09",
+  "6f7cc7032079": "2026-07-09",
+  "66f319a3b67f": "2026-07-09",
+  "6152d6ec4361": "2026-07-09",
+  "2f979de02f20": "2026-07-09",
+  "3e298fcd2c7d": "2026-07-09",
+  "a6b8c400c81c": "2026-07-09",
+  "c19ca237bbf3": "2026-07-09",
+  "7e966c47342c": "2026-07-09",
+  "d47e17f05fdc": "2026-07-09",
+  "a9326c727b8d": "2026-07-09",
+  "f4e36379ec03": "2026-07-09",
+  "c90bbe77a6bd": "2026-07-09",
+  "8b9c595adb7b": "2026-07-09",
+  "585847a84c4c": "2026-07-09",
+  "b7a71d51d1d9": "2026-07-09",
+  "0cac66c17393": "2026-07-09",
+  "d386be189b21": "2026-07-09",
+  "a81e3ed2442f": "2026-07-09",
+  "241469e38663": "2026-07-09",
+  "4fb4b1ef6446": "2026-07-09",
+  "facf7663474b": "2026-07-09",
+  "f6e75bcaa5d5": "2026-07-09",
+  "746a1b232f15": "2026-07-09",
+  "cadeb39c3320": "2026-07-09",
+  "7bcafa17db5c": "2026-07-09",
+  "36db334551b8": "2026-07-09",
+  "426448d62e1a": "2026-07-09",
+  "77c4070e9820": "2026-07-09",
+  "4fa6c0ff2416": "2026-07-09",
+  "b6eae43c803b": "2026-07-09",
+  "06678715b44e": "2026-07-09",
+  "6157b7f2ed28": "2026-07-09",
+  "230f89a9a4df": "2026-07-09",
+  "8f5981eafc1d": "2026-07-09",
+  "6825ea940d04": "2026-07-09",
+  "f371f098d659": "2026-07-09",
+  "ab51b85c4b50": "2026-07-09",
+  "d15026de3f7f": "2026-07-09",
+  "75feb34c8e03": "2026-07-09",
+  "1bd975199ae6": "2026-07-09",
+  "43b25cc21dbc": "2026-07-09",
+  "4c056c60a99c": "2026-07-09",
+  "6267ef95dbf7": "2026-07-09",
+  "1c53ca778641": "2026-07-09",
+  "cec1cc3ee078": "2026-07-09",
+  "0a1dbea49bd1": "2026-07-09",
+  "acb6e4e4c922": "2026-07-09",
+  "ad2257272c4b": "2026-07-09",
+  "727e80a27d13": "2026-07-09",
+  "da393177f459": "2026-07-09",
+  "98cc111baa5c": "2026-07-09",
+  "3d0dcf02b711": "2026-07-09",
+  "8b7f7f88000b": "2026-07-09",
+  "d4b13924beed": "2026-07-09",
+  "dc3087f407c5": "2026-07-09",
+  "44069d553dca": "2026-07-09",
+  "bd6e6b032313": "2026-07-09",
+  "73b2fcc56110": "2026-07-09",
+  "450b879ffa47": "2026-07-09",
+  "2b8deebb921e": "2026-07-09",
+  "2ce2b48ada9c": "2026-07-09",
+  "baa05b7cc95e": "2026-07-09",
+  "a70fcd3eb920": "2026-07-09",
+  "dbfd80f18bab": "2026-07-09",
+  "65cc84f81c35": "2026-07-09",
+  "5abf88cbe8cc": "2026-07-09",
+  "e838a441e527": "2026-07-09",
+  "9d196befe576": "2026-07-09",
+  "6ae1599c2db0": "2026-07-09",
+  "deb86c86f6cf": "2026-07-09",
+  "12293e1f4fc5": "2026-07-09",
+  "fc7196391817": "2026-07-09",
+  "c2cc8bfdd265": "2026-07-09",
+  "a746ff2593b0": "2026-07-09",
+  "b3c4bdab8a85": "2026-07-09",
+  "73c2c9224bbd": "2026-07-09",
+  "88a0a3e70647": "2026-07-09",
+  "92570bc7c17b": "2026-07-09",
+  "4b246c6d945d": "2026-07-09",
+  "60e2cf34bbd6": "2026-07-09",
+  "25611366e4f4": "2026-07-09",
+  "d7040b6b2311": "2026-07-09",
+  "f0b4406776a1": "2026-07-09",
+  "9dfbd4f8ec44": "2026-07-09",
+  "0d1b4f3b6277": "2026-07-09",
+  "9eba332a18e4": "2026-07-09",
+  "579f677ae6f7": "2026-07-09",
+  "dc14e68ee02b": "2026-07-09",
+  "ee0b5f4b9eba": "2026-07-09",
+  "ca96890caf3d": "2026-07-09",
+  "d2e828bf3c1b": "2026-07-09",
+  "7d5906f6c9f1": "2026-07-09",
+  "7940a4546058": "2026-07-09"
+ }
 }

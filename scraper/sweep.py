@@ -19,6 +19,13 @@ REPO = Path(__file__).resolve().parent.parent
 DATA = REPO / "docs" / "data"
 JOBS_OUT = DATA / "jobs.json"
 
+# A coaching search that's been open this long is filled or abandoned —
+# never show it, even if a board still lists it.
+MAX_AGE_DAYS = 120
+# How long to remember a job's first_seen after it stops being shown
+# (prevents dropped stale jobs from flapping back as "NEW").
+SEEN_MEMORY_DAYS = 400
+
 
 # ---------------------------------------------------------------- matching
 
@@ -229,13 +236,16 @@ def job_id(school_key, jtype, toks):
 
 def main():
     db = json.loads((DATA / "schools.json").read_text())
-    prev_jobs = []
+    prev_jobs, prev_seen = [], {}
     if JOBS_OUT.exists():
         try:
-            prev_jobs = json.loads(JOBS_OUT.read_text()).get("jobs", [])
+            prev = json.loads(JOBS_OUT.read_text())
+            prev_jobs = prev.get("jobs", [])
+            prev_seen = dict(prev.get("seen", {}))
         except Exception:
             pass
-    prev_seen = {j["id"]: j.get("first_seen") for j in prev_jobs}
+    for j in prev_jobs:
+        prev_seen.setdefault(j["id"], j.get("first_seen"))
 
     def inherit_first_seen(jid, skey, jtype, toks):
         """Carry first_seen across runs even if a board retitles the job."""
@@ -314,7 +324,7 @@ def main():
                     target["title"] = r["title"]
         merged.extend(slots)
 
-    jobs = []
+    jobs, seen_out, stale_dropped = [], {}, 0
     for e in merged:
         uid = e.pop("_uid")
         skey, jtype, toks = e.pop("_skey"), e.pop("_type"), e.pop("_toks")
@@ -339,6 +349,14 @@ def main():
         division = (school["division"] if school else "") or parse_division_hint(e["division_hint"])
         first_seen = inherit_first_seen(jid, skey, jtype, set(toks)) or today
         posted = e["posted"] or first_seen
+        seen_out[jid] = first_seen
+        try:
+            age = (now.date() - datetime.strptime(posted, "%Y-%m-%d").date()).days
+        except ValueError:
+            age = 0
+        if age > MAX_AGE_DAYS:
+            stale_dropped += 1
+            continue
         e.update({
             "division": division or "—",
             "group": group_for_division(division),
@@ -360,16 +378,29 @@ def main():
 
     jobs.sort(key=lambda j: (j["posted"] or "", j["first_seen"]), reverse=True)
 
+    # carry forward first_seen for jobs not in this sweep, pruned by age
+    for jid, fs in prev_seen.items():
+        if jid in seen_out or not fs:
+            continue
+        try:
+            if (now.date() - datetime.strptime(fs, "%Y-%m-%d").date()).days <= SEEN_MEMORY_DAYS:
+                seen_out[jid] = fs
+        except ValueError:
+            pass
+
     out = {
         "generated_at": now.isoformat(timespec="seconds"),
         "eada_year": db.get("eada_year", ""),
+        "max_age_days": MAX_AGE_DAYS,
         "sources": status,
         "count": len(jobs),
         "jobs": jobs,
+        "seen": seen_out,
     }
     JOBS_OUT.write_text(json.dumps(out, indent=1))
     matched = sum(1 for j in jobs if j["unitid"])
-    print("\n%d jobs (%d matched to school data) -> %s" % (len(jobs), matched, JOBS_OUT))
+    print("\n%d jobs (%d matched to school data, %d stale dropped) -> %s"
+          % (len(jobs), matched, stale_dropped, JOBS_OUT))
 
 
 if __name__ == "__main__":
