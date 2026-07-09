@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-09T20:14:44+00:00",
+ "generated_at": "2026-07-09T22:47:02+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -11,7 +11,7 @@
   {
    "name": "NFCA",
    "ok": true,
-   "count": 75
+   "count": 76
   },
   {
    "name": "NJCAA Career Center",
@@ -107,11 +107,15 @@
     {
      "source": "NCAA Market",
      "url": "https://ncaamarket.ncaa.org/jobs/22412194/head-softball-coach"
+    },
+    {
+     "source": "NFCA",
+     "url": "https://www.nwciowa.edu/employment/openings/442/head-softball-coach"
     }
    ],
    "posted": "2026-07-09",
-   "deadline": "",
-   "contact": "",
+   "deadline": "Until position is filled Posting Date: 7/9/26",
+   "contact": "Mindy Stichka",
    "id": "456cf7190ab0",
    "type": "head",
    "school_key": "154101",
