@@ -391,6 +391,14 @@ SOURCES = [
     ("NFCA", nfca),
     ("NJCAA Career Center", njcaa),
     ("NAIA Careers", naia),
-    ("CCCAA (Cal JC)", cccaa),
-    ("NWAC (NW JC)", nwac),
 ]
+
+# Parked sources — parsers work and enrich correctly (verified locally), but
+# PrestoSports (CCCAA + NWAC) returns HTTP 405 to GitHub Actions' datacenter
+# IPs, and free relay proxies (allorigins, corsproxy) are blocked too. They'd
+# show a permanent "FAILED" in the UI for zero current benefit (no live
+# softball openings at time of writing). Re-add to SOURCES the moment there's
+# a working fetch path (residential-egress proxy, or run the sweep somewhere
+# with a non-datacenter IP):
+#   ("CCCAA (Cal JC)", cccaa),
+#   ("NWAC (NW JC)", nwac),

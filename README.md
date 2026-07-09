@@ -14,16 +14,20 @@ page, see what's new, tap a card, understand the program in ten seconds, apply.
 
 ## What it does
 
-- **Sweeps six boards automatically**: [NCAA Market](https://ncaamarket.ncaa.org)
+- **Sweeps four boards automatically**: [NCAA Market](https://ncaamarket.ncaa.org)
   (all NCAA divisions), the [NFCA job page](https://nfca.org/nfca-job-postings)
   (the softball community hub — all levels), the
-  [NJCAA Career Center](https://careers.njcaa.org) (junior colleges),
-  [NAIA Careers](https://jobs.naia.org), the
-  [CCCAA / 3C2A board](https://www.cccaasports.org/services/employ-current)
-  (California community colleges — a separate body from the NJCAA), and the
-  [NWAC board](https://nwacsports.com/employment) (Washington/Oregon community
-  colleges). Cross-board duplicates are merged into one card with every apply
-  link, and any listing older than four months is dropped automatically.
+  [NJCAA Career Center](https://careers.njcaa.org) (junior colleges), and
+  [NAIA Careers](https://jobs.naia.org). Cross-board duplicates are merged into
+  one card with every apply link, and any listing older than four months is
+  dropped automatically.
+- **Two more boards are built but parked** — the CCCAA (California community
+  colleges) and NWAC (Washington/Oregon) boards, which cover junior-college
+  softball jobs the NJCAA doesn't. Their parsers work and are verified, but
+  PrestoSports (who hosts both) returns HTTP 405 to cloud/datacenter IPs like
+  GitHub Actions, and free relay proxies are blocked too, so they can't be
+  swept reliably from the free hosting. The code is ready to switch on
+  (`scraper/sources.py`) the moment there's a working fetch path.
 - **Knows the school.** Each posting is matched against the U.S. Department of
   Education's EADA athletics survey (~1,600 softball-sponsoring schools):
   division, conference, enrollment, public/private, roster size, softball
