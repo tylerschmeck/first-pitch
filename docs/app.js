@@ -289,32 +289,43 @@
     var left;
     if (s) {
       var aid = s.student_aid_women;
+      var yr = DATA.eada_year || "the latest survey";
       left =
-        '<p class="sect-label">Program snapshot</p>' +
+        '<p class="sect-label">Program snapshot ' + srcTag() + "</p>" +
         '<dl class="stats">' +
-          stat("Division", esc(s.division) + (s.conference ? ' <small>· ' + esc(s.conference) + "</small>" : "")) +
-          stat("School", fmtInt(s.enrollment) + ' <small>students · ' + esc(shortSector(s.sector)) + "</small>") +
-          stat("Softball budget <span title='Total program expenses reported to the U.S. Dept. of Education for " + esc(DATA.eada_year) + "'>ⓘ</span>", fmtMoney(s.sb_expenses) + ' <small>' + esc(DATA.eada_year) + "</small>") +
-          stat("Roster size", s.sb_players ? s.sb_players + ' <small>players</small>' : "—") +
-          stat("Avg HC salary <span title='Average salary across all of the school’s women’s-team head coaches (not softball-specific)'>ⓘ</span>", fmtMoney(s.hc_salary_women) + ' <small>women’s teams</small>') +
-          stat("Avg asst salary", fmtMoney(s.ac_salary_women) + ' <small>women’s teams</small>') +
-          stat("Coaching staff", esc(staffLine(s))) +
+          stat("Division", esc(s.division) + (s.conference ? ' <small>· ' + esc(s.conference) + "</small>" : ""),
+            "The school's division as listed in its federal athletics filing. The conference comes from the NCAA's official member directory.") +
+          stat("School", fmtInt(s.enrollment) + ' <small>students · ' + esc(shortSector(s.sector)) + "</small>",
+            "Total enrollment and public/private status from the U.S. Dept. of Education (" + yr + "). Tap “School's federal profile” below to see the full record.") +
+          stat("Softball budget", fmtMoney(s.sb_expenses) + ' <small>' + esc(yr) + "</small>",
+            "Everything the school reported spending on its softball program in " + yr + " — coaching pay, travel, equipment, facilities, and scholarships where they apply. Schools file this themselves with the U.S. Dept. of Education under federal law (the EADA). It's dependable for comparing how big or well-funded programs are, but it's a self-reported total, not audited to the dollar.") +
+          stat("Roster size", s.sb_players ? s.sb_players + ' <small>players</small>' : "—",
+            "Softball players the school reported carrying in " + yr + " (from the same federal filing).") +
+          stat("Avg HC salary", fmtMoney(s.hc_salary_women) + ' <small>women’s teams</small>',
+            "The average pay across ALL of this school's women's-team head coaches — basketball, soccer, softball, and the rest — not softball alone. The federal survey doesn't split salary out by sport, so read this as roughly what a women's head coach earns here (" + yr + ", full-time-equivalent).") +
+          stat("Avg asst salary", fmtMoney(s.ac_salary_women) + ' <small>women’s teams</small>',
+            "Average pay across all of this school's women's-team assistant coaches (not softball alone) — same federal source and same caveat as head-coach pay (" + yr + ").") +
+          stat("Coaching staff", esc(staffLine(s)),
+            "Softball coaches the school reported, split into full-time and part-time (" + yr + "). A mostly part-time staff often points to a smaller-budget program.") +
           (s.group === "d3"
-            ? stat("Athletic aid", '<small>none — D3 has no athletic scholarships</small>')
-            : stat("Athletic aid (women)", fmtMoney(aid) + (aid ? ' <small>per year</small>' : ""))) +
+            ? stat("Athletic aid", '<small>none — D3 has no athletic scholarships</small>',
+                "NCAA Division III schools don't give athletic scholarships by rule. Players get need- and merit-based aid like any other student.")
+            : stat("Athletic aid (women)", fmtMoney(aid) + (aid ? ' <small>per year</small>' : ""),
+                "Total athletic scholarship money awarded to women across every sport (not softball alone), " + yr + ". How much softball gets depends on how the school divides it up.")) +
         "</dl>";
     } else {
       left =
         '<p class="sect-label">Program snapshot</p>' +
-        '<div class="no-data">No softball program in the latest federal athletics survey — this is often a ' +
-        "<b>brand-new program</b> (a build-it-yourself opportunity) or a non-college employer. The news link " +
-        "below is the fastest way to check.</div>";
+        '<div class="no-data">This school has <b>no softball program</b> in the latest federal athletics survey — usually a ' +
+        "<b>brand-new program</b> (a build-it-yourself opportunity) or a non-college employer. The “Program news” link " +
+        "below is the fastest way to check what's going on.</div>";
     }
 
     var right = '<p class="sect-label">The situation</p>' +
       '<div class="meta-line">' + metaBits.map(function (b) { return "<span>" + b + "</span>"; }).join("") + "</div>" +
       (s ? sparkHTML(j) : "") +
-      (j.snippet ? '<p class="snippet">' + esc(j.snippet) + "</p>" : "");
+      (j.snippet ? '<p class="snippet">' + esc(j.snippet) +
+        ' <span class="snippet-src">— from the job posting</span></p>' : "");
 
     var links = j.links.slice();
     var direct = links.filter(function (l) { return l.source === "NFCA"; })[0];
@@ -336,11 +347,40 @@
         '<button class="btn btn-ghost btn-hide" type="button">' + (hidden.has(j.id) ? "Restore" : "Hide") + "</button>" +
       "</div>";
 
-    return '<div class="body-grid"><div>' + left + "</div><div>" + right + "</div></div>" + actions;
+    var sources = "";
+    if (s) {
+      var yr2 = DATA.eada_year || "latest";
+      var navUrl = j.unitid ? "https://nces.ed.gov/collegenavigator/?id=" + encodeURIComponent(j.unitid) : "";
+      sources =
+        '<div class="sources">' +
+          '<span class="sources-label">Where these numbers come from</span>' +
+          "<p>The program figures above are from the <b>EADA</b> — the Equity in Athletics Disclosure Act survey " +
+          "that every college offering sports files with the U.S. Department of Education each year (this is the <b>" + esc(yr2) + "</b> filing). " +
+          "Schools report the data themselves, so use it to compare programs' size and direction — not as exact, audited dollars. " +
+          "Salaries and aid are school-wide women's-sports figures, not softball-only. Hover the ⓘ on any number for the specifics.</p>" +
+          '<div class="sources-links">' +
+            (navUrl ? '<a href="' + esc(navUrl) + '" target="_blank" rel="noopener">School\'s federal profile <span class="ext">↗</span></a>' : "") +
+            '<a href="https://ope.ed.gov/athletics/#/search" target="_blank" rel="noopener">EADA athletics database <span class="ext">↗</span></a>' +
+          "</div>" +
+        "</div>";
+    }
+
+    return '<div class="body-grid"><div>' + left + "</div><div>" + right + "</div></div>" + sources + actions;
   }
 
-  function stat(label, val) {
-    return '<div class="stat"><dt>' + label + "</dt><dd>" + (val || "—") + "</dd></div>";
+  // A small "source" tag shown next to a section heading.
+  function srcTag() {
+    return '<button type="button" class="src-tag info" data-tip="' +
+      esc("These figures come from the U.S. Dept. of Education's EADA athletics survey — the same federal filing every college submits. Details and a link to the source are at the bottom of this card.") +
+      '" aria-label="Source: federal EADA athletics survey. Details at the bottom of this card.">federal data</button>';
+  }
+
+  function stat(label, val, tip) {
+    var info = tip
+      ? ' <button type="button" class="info" data-tip="' + esc(tip) +
+        '" aria-label="' + esc("How this is measured: " + tip) + '">i</button>'
+      : "";
+    return '<div class="stat"><dt>' + esc(label) + info + "</dt><dd>" + (val || "—") + "</dd></div>";
   }
 
   function shortSector(sec) {
@@ -370,7 +410,10 @@
     var endX = x(pts[pts.length - 1][0]).toFixed(1), endY = y(last).toFixed(1);
     return '' +
       '<div class="spark-block">' +
-        '<div class="spark-head"><span class="spark-title">Softball budget, ' + pts[0][0] + "–" + String(pts[pts.length - 1][0]).slice(2) + "</span>" +
+        '<div class="spark-head"><span class="spark-title">Softball budget, ' + pts[0][0] + "–" + String(pts[pts.length - 1][0]).slice(2) +
+          ' <button type="button" class="info" data-tip="' +
+            esc("Six years of the school's reported softball spending, pulled from its federal EADA filings " + pts[0][0] + "–" + pts[pts.length - 1][0] + ". A steady climb signals a program the school is investing in; a drop can signal budget cuts. Hover any point for that year's figure.") +
+            '" aria-label="How this trend is measured">i</button></span>' +
           '<span class="delta ' + cls + '">' + arrow + " " + Math.abs(pct) + "% <small>over " + (pts[pts.length - 1][0] - pts[0][0]) + " yrs</small></span></div>" +
         '<svg class="sparkline" viewBox="0 0 ' + W + " " + H + '" data-pts="' + esc(JSON.stringify(pts)) + '" preserveAspectRatio="none" role="img" aria-label="Budget trend ' +
            pts.map(function (p) { return p[0] + ": " + fmtMoney(p[1]); }).join(", ") + '">' +
@@ -433,4 +476,71 @@
       svg.addEventListener("mouseleave", function () { dot.setAttribute("opacity", "0"); tip.hidden = true; });
     }
   }
+
+  // ---------- info tooltips (source & accuracy notes) ----------
+  // One popover, shown on hover, keyboard focus, or tap of any .info button.
+  var infotip = $("#infotip");
+  var infoAnchor = null;
+
+  function showInfo(btn) {
+    var text = btn.getAttribute("data-tip");
+    if (!text) return;
+    infoAnchor = btn;
+    infotip.textContent = text;
+    infotip.hidden = false;
+    infotip.classList.remove("below");
+    var r = btn.getBoundingClientRect();
+    // measure, then place centered above the icon (or below if no room)
+    var tw = infotip.offsetWidth, th = infotip.offsetHeight;
+    var margin = 8;
+    var cx = r.left + r.width / 2;
+    var left = Math.max(margin, Math.min(cx, window.innerWidth - margin - tw / 2) );
+    // clamp so the box stays fully on-screen
+    left = Math.max(margin + tw / 2, Math.min(left, window.innerWidth - margin - tw / 2));
+    var below = r.top - th - 10 < 4;
+    infotip.classList.toggle("below", below);
+    infotip.style.left = left + "px";
+    infotip.style.top = (below ? r.bottom + 10 : r.top - 10) + "px";
+    // point the arrow at the icon even when the box is clamped sideways
+    var arrowX = cx - (left - tw / 2);
+    arrowX = Math.max(12, Math.min(tw - 12, arrowX));
+    infotip.style.setProperty("--arrow-x", arrowX + "px");
+    btn.setAttribute("aria-expanded", "true");
+  }
+  function hideInfo() {
+    if (!infoAnchor) return;
+    infoAnchor.removeAttribute("aria-expanded");
+    infoAnchor = null;
+    infotip.hidden = true;
+  }
+
+  document.addEventListener("mouseover", function (e) {
+    var btn = e.target.closest && e.target.closest(".info");
+    if (btn) showInfo(btn);
+  });
+  document.addEventListener("mouseout", function (e) {
+    var btn = e.target.closest && e.target.closest(".info");
+    if (btn && btn === infoAnchor && !btn.contains(e.relatedTarget)) hideInfo();
+  });
+  document.addEventListener("focusin", function (e) {
+    var btn = e.target.closest && e.target.closest(".info");
+    if (btn) showInfo(btn);
+  });
+  document.addEventListener("focusout", function (e) {
+    var btn = e.target.closest && e.target.closest(".info");
+    if (btn && btn === infoAnchor) hideInfo();
+  });
+  // tap: toggle (mobile has no hover); stop the card from reacting
+  document.addEventListener("click", function (e) {
+    var btn = e.target.closest && e.target.closest(".info");
+    if (btn) {
+      e.preventDefault(); e.stopPropagation();
+      infoAnchor === btn ? hideInfo() : showInfo(btn);
+    } else if (infoAnchor) {
+      hideInfo();
+    }
+  });
+  window.addEventListener("scroll", function () { if (infoAnchor) hideInfo(); }, true);
+  window.addEventListener("resize", hideInfo);
+  document.addEventListener("keydown", function (e) { if (e.key === "Escape") hideInfo(); });
 })();
