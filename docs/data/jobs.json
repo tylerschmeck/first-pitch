@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-10T09:57:09+00:00",
+ "generated_at": "2026-07-10T15:07:18+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -131,81 +131,6 @@
    "school": null
   },
   {
-   "title": "Assistant Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22412200/assistant-softball-coach"
-    }
-   ],
-   "posted": "2026-07-09",
-   "deadline": "",
-   "contact": "",
-   "id": "1f6a4a73100c",
-   "type": "assistant",
-   "school_key": "139144",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "139144",
-   "school_name": "Berry College",
-   "city": "Mt Berry",
-   "state": "GA",
-   "division": "NCAA D3",
-   "group": "d3",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "This is a 10-month position as an assistant softball coach with additional responsibilities to be assigned depending on the successful candidate's skill set and experience. Reporting to the Head Softball Coach, the candidate will be responsible for assisting the Head Coach with the organization, supervision, and administration of the NCAA Division III intercollegiate softball program. The candidate will also\u2026",
-   "school": {
-    "name": "Berry College",
-    "city": "Mount Berry",
-    "state": "GA",
-    "division": "NCAA D3",
-    "group": "d3",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 2228,
-    "sb_players": 23,
-    "sb_opexp": 82046,
-    "sb_expenses": 245199,
-    "sb_revenue": 254620,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 1,
-    "sb_asst_pt": 0,
-    "hc_salary_women": 55227,
-    "ac_salary_women": 27412,
-    "student_aid_women": 0,
-    "recruit_exp_women": 33811,
-    "conference": "Southern Athletic Association",
-    "ath_url": "https://www.berryvikings.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     167553,
-     193328,
-     234380,
-     203336,
-     242353,
-     245199
-    ],
-    "trend_players": [
-     16,
-     21,
-     21,
-     20,
-     19,
-     23
-    ]
-   }
-  },
-  {
    "title": "Head Softball Coach",
    "links": [
     {
@@ -281,6 +206,81 @@
      34,
      32,
      33
+    ]
+   }
+  },
+  {
+   "title": "Assistant Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22412200/assistant-softball-coach"
+    }
+   ],
+   "posted": "2026-07-09",
+   "deadline": "",
+   "contact": "",
+   "id": "1f6a4a73100c",
+   "type": "assistant",
+   "school_key": "139144",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "139144",
+   "school_name": "Berry College",
+   "city": "Mt Berry",
+   "state": "GA",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-09",
+   "salary": "",
+   "snippet": "This is a 10-month position as an assistant softball coach with additional responsibilities to be assigned depending on the successful candidate's skill set and experience. Reporting to the Head Softball Coach, the candidate will be responsible for assisting the Head Coach with the organization, supervision, and administration of the NCAA Division III intercollegiate softball program. The candidate will also\u2026",
+   "school": {
+    "name": "Berry College",
+    "city": "Mount Berry",
+    "state": "GA",
+    "division": "NCAA D3",
+    "group": "d3",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 2228,
+    "sb_players": 23,
+    "sb_opexp": 82046,
+    "sb_expenses": 245199,
+    "sb_revenue": 254620,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 1,
+    "sb_asst_pt": 0,
+    "hc_salary_women": 55227,
+    "ac_salary_women": 27412,
+    "student_aid_women": 0,
+    "recruit_exp_women": 33811,
+    "conference": "Southern Athletic Association",
+    "ath_url": "https://www.berryvikings.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     167553,
+     193328,
+     234380,
+     203336,
+     242353,
+     245199
+    ],
+    "trend_players": [
+     16,
+     21,
+     21,
+     20,
+     19,
+     23
     ]
    }
   },
@@ -435,6 +435,81 @@
    }
   },
   {
+   "title": "Head Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22405383/head-softball-coach"
+    }
+   ],
+   "posted": "2026-07-07",
+   "deadline": "",
+   "contact": "",
+   "id": "d0d50f6147e1",
+   "type": "head",
+   "school_key": "229832",
+   "tok": [
+    "head"
+   ],
+   "unitid": "229832",
+   "school_name": "Western Texas College",
+   "city": "Snyder",
+   "state": "TX",
+   "division": "NJCAA D1",
+   "group": "juco",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-09",
+   "salary": "$10,000",
+   "snippet": "Position Summary The Head Softball Coach provides leadership, coaching, and administrative oversight for the College\u2019s intercollegiate softball program, supporting student-athlete success, regulatory compliance, and competitive performance. This position is responsible for recruiting and developing student-athletes, organizing practices and competitions, managing program operations, and ensuring alignment with\u2026",
+   "school": {
+    "name": "Western Texas College",
+    "city": "Snyder",
+    "state": "TX",
+    "division": "NJCAA D1",
+    "group": "juco",
+    "sector": "Public, 2-year",
+    "enrollment": 378,
+    "sb_players": 19,
+    "sb_opexp": 50520,
+    "sb_expenses": 242807,
+    "sb_revenue": 260138,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 1,
+    "sb_asst_pt": 0,
+    "hc_salary_women": 63368,
+    "ac_salary_women": 28760,
+    "student_aid_women": 462149,
+    "recruit_exp_women": 32514,
+    "conference": "",
+    "ath_url": "",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     205994,
+     228607,
+     242214,
+     228357,
+     237618,
+     242807
+    ],
+    "trend_players": [
+     15,
+     15,
+     16,
+     15,
+     22,
+     19
+    ]
+   }
+  },
+  {
    "title": "Assistant Softball Coach",
    "links": [
     {
@@ -510,81 +585,6 @@
      24,
      24,
      26
-    ]
-   }
-  },
-  {
-   "title": "Head Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22405383/head-softball-coach"
-    }
-   ],
-   "posted": "2026-07-07",
-   "deadline": "",
-   "contact": "",
-   "id": "d0d50f6147e1",
-   "type": "head",
-   "school_key": "229832",
-   "tok": [
-    "head"
-   ],
-   "unitid": "229832",
-   "school_name": "Western Texas College",
-   "city": "Snyder",
-   "state": "TX",
-   "division": "NJCAA D1",
-   "group": "juco",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "$10,000",
-   "snippet": "Position Summary The Head Softball Coach provides leadership, coaching, and administrative oversight for the College\u2019s intercollegiate softball program, supporting student-athlete success, regulatory compliance, and competitive performance. This position is responsible for recruiting and developing student-athletes, organizing practices and competitions, managing program operations, and ensuring alignment with\u2026",
-   "school": {
-    "name": "Western Texas College",
-    "city": "Snyder",
-    "state": "TX",
-    "division": "NJCAA D1",
-    "group": "juco",
-    "sector": "Public, 2-year",
-    "enrollment": 378,
-    "sb_players": 19,
-    "sb_opexp": 50520,
-    "sb_expenses": 242807,
-    "sb_revenue": 260138,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 1,
-    "sb_asst_pt": 0,
-    "hc_salary_women": 63368,
-    "ac_salary_women": 28760,
-    "student_aid_women": 462149,
-    "recruit_exp_women": 32514,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     205994,
-     228607,
-     242214,
-     228357,
-     237618,
-     242807
-    ],
-    "trend_players": [
-     15,
-     15,
-     16,
-     15,
-     22,
-     19
     ]
    }
   },
@@ -1505,6 +1505,82 @@
    }
   },
   {
+   "title": "Assistant Coach Softball - Pitching Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22389358/assistant-coach-softball-pitching-coach"
+    }
+   ],
+   "posted": "2026-06-30",
+   "deadline": "",
+   "contact": "",
+   "id": "2f979de02f20",
+   "type": "assistant",
+   "school_key": "133951",
+   "tok": [
+    "assistant",
+    "pitching"
+   ],
+   "unitid": "133951",
+   "school_name": "Florida International University",
+   "city": "Miami",
+   "state": "FL",
+   "division": "Other",
+   "group": "other",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-09",
+   "salary": "",
+   "snippet": "About FIU: Florida International University is a Top 50, preeminent public research university with 55,000 students from all 50 states and more than 140 countries, as well as an alumni network of more than 340,000. Located in the global city of Miami, the university offers more than 200 degree programs at the undergraduate, graduate and professional levels, including medicine and law. FIU faculty are leaders in\u2026",
+   "school": {
+    "name": "Florida International University",
+    "city": "Miami",
+    "state": "FL",
+    "division": "Other",
+    "group": "other",
+    "sector": "Public, 4-year or above",
+    "enrollment": 26215,
+    "sb_players": 22,
+    "sb_opexp": 297585,
+    "sb_expenses": 1010546,
+    "sb_revenue": 1010546,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 2,
+    "sb_asst_pt": 0,
+    "hc_salary_women": 108398,
+    "ac_salary_women": 50119,
+    "student_aid_women": 4001321,
+    "recruit_exp_women": 131430,
+    "conference": "Conference USA",
+    "ath_url": "https://www.fiusports.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     531113,
+     508609,
+     655795,
+     899321,
+     738374,
+     1010546
+    ],
+    "trend_players": [
+     24,
+     30,
+     27,
+     23,
+     24,
+     22
+    ]
+   }
+  },
+  {
    "title": "Head Coach, Softball",
    "links": [
     {
@@ -1580,82 +1656,6 @@
      21,
      24,
      21
-    ]
-   }
-  },
-  {
-   "title": "Assistant Coach Softball - Pitching Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22389358/assistant-coach-softball-pitching-coach"
-    }
-   ],
-   "posted": "2026-06-30",
-   "deadline": "",
-   "contact": "",
-   "id": "2f979de02f20",
-   "type": "assistant",
-   "school_key": "133951",
-   "tok": [
-    "assistant",
-    "pitching"
-   ],
-   "unitid": "133951",
-   "school_name": "Florida International University",
-   "city": "Miami",
-   "state": "FL",
-   "division": "Other",
-   "group": "other",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "About FIU: Florida International University is a Top 50, preeminent public research university with 55,000 students from all 50 states and more than 140 countries, as well as an alumni network of more than 340,000. Located in the global city of Miami, the university offers more than 200 degree programs at the undergraduate, graduate and professional levels, including medicine and law. FIU faculty are leaders in\u2026",
-   "school": {
-    "name": "Florida International University",
-    "city": "Miami",
-    "state": "FL",
-    "division": "Other",
-    "group": "other",
-    "sector": "Public, 4-year or above",
-    "enrollment": 26215,
-    "sb_players": 22,
-    "sb_opexp": 297585,
-    "sb_expenses": 1010546,
-    "sb_revenue": 1010546,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 2,
-    "sb_asst_pt": 0,
-    "hc_salary_women": 108398,
-    "ac_salary_women": 50119,
-    "student_aid_women": 4001321,
-    "recruit_exp_women": 131430,
-    "conference": "Conference USA",
-    "ath_url": "https://www.fiusports.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     531113,
-     508609,
-     655795,
-     899321,
-     738374,
-     1010546
-    ],
-    "trend_players": [
-     24,
-     30,
-     27,
-     23,
-     24,
-     22
     ]
    }
   },
@@ -2260,35 +2260,6 @@
    "links": [
     {
      "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22375856/head-softball-coach"
-    }
-   ],
-   "posted": "2026-06-24",
-   "deadline": "",
-   "contact": "",
-   "id": "f4e36379ec03",
-   "type": "head",
-   "school_key": "agnes scott college",
-   "tok": [
-    "head"
-   ],
-   "unitid": null,
-   "school_name": "Agnes Scott College",
-   "city": "Decatur",
-   "state": "GA",
-   "division": "\u2014",
-   "group": "other",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "General Summary: Provides leadership and oversees all aspects of the Softball program, to include coaching the team; planning, organizing, and supervising team practices; actively identifying, evaluating, and recruiting student-athletes. Works within federal, state and local guidelines, office/department, division and college policies and procedures, and the NCAA, athletic conference guidelines. Reports to the\u2026",
-   "school": null
-  },
-  {
-   "title": "Head Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
      "url": "https://ncaamarket.ncaa.org/jobs/22375224/head-softball-coach"
     },
     {
@@ -2362,6 +2333,35 @@
      26
     ]
    }
+  },
+  {
+   "title": "Head Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22375856/head-softball-coach"
+    }
+   ],
+   "posted": "2026-06-24",
+   "deadline": "",
+   "contact": "",
+   "id": "f4e36379ec03",
+   "type": "head",
+   "school_key": "agnes scott college",
+   "tok": [
+    "head"
+   ],
+   "unitid": null,
+   "school_name": "Agnes Scott College",
+   "city": "Decatur",
+   "state": "GA",
+   "division": "\u2014",
+   "group": "other",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-09",
+   "salary": "",
+   "snippet": "General Summary: Provides leadership and oversees all aspects of the Softball program, to include coaching the team; planning, organizing, and supervising team practices; actively identifying, evaluating, and recruiting student-athletes. Works within federal, state and local guidelines, office/department, division and college policies and procedures, and the NCAA, athletic conference guidelines. Reports to the\u2026",
+   "school": null
   },
   {
    "title": "Head Softball Coach",
@@ -3517,81 +3517,6 @@
    }
   },
   {
-   "title": "Head Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22359141/head-softball-coach"
-    }
-   ],
-   "posted": "2026-06-17",
-   "deadline": "",
-   "contact": "",
-   "id": "241469e38663",
-   "type": "head",
-   "school_key": "150756",
-   "tok": [
-    "head"
-   ],
-   "unitid": "150756",
-   "school_name": "Hanover College",
-   "city": "Hanover",
-   "state": "IN",
-   "division": "NCAA D3",
-   "group": "d3",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Position Summary Leads and develops a competitive NCAA Division III women's softball program that operates within the parameters set by Hanover College, the conference, and the NCAA. Ensures an excellent student-athlete experience focused on competitive excellence, academic success, wellness, character development, and inclusive excellence while engaging alumni, families, and the broader community. Primary\u2026",
-   "school": {
-    "name": "Hanover College",
-    "city": "Hanover",
-    "state": "IN",
-    "division": "NCAA D3",
-    "group": "d3",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 1021,
-    "sb_players": 19,
-    "sb_opexp": 57785,
-    "sb_expenses": 117221,
-    "sb_revenue": 117221,
-    "sb_head_ft": 0,
-    "sb_head_pt": 1,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 60502,
-    "ac_salary_women": 42304,
-    "student_aid_women": 0,
-    "recruit_exp_women": 35985,
-    "conference": "Heartland Collegiate Athletic Conference",
-    "ath_url": "https://athletics.hanover.edu/landing/index",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     78938,
-     78108,
-     101667,
-     108826,
-     97785,
-     117221
-    ],
-    "trend_players": [
-     17,
-     14,
-     14,
-     19,
-     17,
-     19
-    ]
-   }
-  },
-  {
    "title": "HEAD WOMEN'S SOFTBALL COACH/RETENTION COORDINATOR",
    "links": [
     {
@@ -3738,6 +3663,81 @@
      19,
      17,
      20
+    ]
+   }
+  },
+  {
+   "title": "Head Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22359141/head-softball-coach"
+    }
+   ],
+   "posted": "2026-06-17",
+   "deadline": "",
+   "contact": "",
+   "id": "241469e38663",
+   "type": "head",
+   "school_key": "150756",
+   "tok": [
+    "head"
+   ],
+   "unitid": "150756",
+   "school_name": "Hanover College",
+   "city": "Hanover",
+   "state": "IN",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-09",
+   "salary": "",
+   "snippet": "Position Summary Leads and develops a competitive NCAA Division III women's softball program that operates within the parameters set by Hanover College, the conference, and the NCAA. Ensures an excellent student-athlete experience focused on competitive excellence, academic success, wellness, character development, and inclusive excellence while engaging alumni, families, and the broader community. Primary\u2026",
+   "school": {
+    "name": "Hanover College",
+    "city": "Hanover",
+    "state": "IN",
+    "division": "NCAA D3",
+    "group": "d3",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 1021,
+    "sb_players": 19,
+    "sb_opexp": 57785,
+    "sb_expenses": 117221,
+    "sb_revenue": 117221,
+    "sb_head_ft": 0,
+    "sb_head_pt": 1,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 60502,
+    "ac_salary_women": 42304,
+    "student_aid_women": 0,
+    "recruit_exp_women": 35985,
+    "conference": "Heartland Collegiate Athletic Conference",
+    "ath_url": "https://athletics.hanover.edu/landing/index",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     78938,
+     78108,
+     101667,
+     108826,
+     97785,
+     117221
+    ],
+    "trend_players": [
+     17,
+     14,
+     14,
+     19,
+     17,
+     19
     ]
    }
   },
@@ -4406,6 +4406,36 @@
    }
   },
   {
+   "title": "Head Softball Coach - Dawson CC",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22344481/head-softball-coach-dawson-cc"
+    }
+   ],
+   "posted": "2026-06-11",
+   "deadline": "",
+   "contact": "",
+   "id": "cadeb39c3320",
+   "type": "head",
+   "school_key": "bechler leadership",
+   "tok": [
+    "dawson",
+    "head"
+   ],
+   "unitid": null,
+   "school_name": "Bechler Leadership",
+   "city": "Glendive",
+   "state": "MT",
+   "division": "\u2014",
+   "group": "other",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-09",
+   "salary": "",
+   "snippet": "Dawson C.C. has teamed up with Bechler Leadership in the search for a Head Softball Coach. SUMMARY OF WORK: The Head Coach for Women\u2019s Softball is responsible for all aspects of their assigned sport including but not limited to building a positive culture, budget management, recruiting, eligibility, compliance, NJCAA documentation, promotion, public relations, scheduling, travel, awarding of scholarships, roster\u2026",
+   "school": null
+  },
+  {
    "title": "Head Softball Coach",
    "links": [
     {
@@ -4483,36 +4513,6 @@
      24
     ]
    }
-  },
-  {
-   "title": "Head Softball Coach - Dawson CC",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22344481/head-softball-coach-dawson-cc"
-    }
-   ],
-   "posted": "2026-06-11",
-   "deadline": "",
-   "contact": "",
-   "id": "cadeb39c3320",
-   "type": "head",
-   "school_key": "bechler leadership",
-   "tok": [
-    "dawson",
-    "head"
-   ],
-   "unitid": null,
-   "school_name": "Bechler Leadership",
-   "city": "Glendive",
-   "state": "MT",
-   "division": "\u2014",
-   "group": "other",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Dawson C.C. has teamed up with Bechler Leadership in the search for a Head Softball Coach. SUMMARY OF WORK: The Head Coach for Women\u2019s Softball is responsible for all aspects of their assigned sport including but not limited to building a positive culture, budget management, recruiting, eligibility, compliance, NJCAA documentation, promotion, public relations, scheduling, travel, awarding of scholarships, roster\u2026",
-   "school": null
   },
   {
    "title": "Assistant Coach (Pitching)",
@@ -7138,41 +7138,41 @@
   }
  ],
  "seen": {
+  "456cf7190ab0": "2026-07-09",
   "5dad2186c904": "2026-07-10",
   "1f6a4a73100c": "2026-07-09",
-  "456cf7190ab0": "2026-07-09",
   "6bfd433b5593": "2026-07-09",
   "b3bfa5acc501": "2026-07-09",
   "1bd1d2243ea1": "2026-07-09",
-  "a9b675d23aac": "2026-07-09",
   "d0d50f6147e1": "2026-07-09",
-  "6f7cc7032079": "2026-07-09",
+  "a9b675d23aac": "2026-07-09",
   "d01a1c153845": "2026-07-09",
+  "6f7cc7032079": "2026-07-09",
   "66f319a3b67f": "2026-07-09",
   "6152d6ec4361": "2026-07-09",
-  "3e298fcd2c7d": "2026-07-09",
   "2f979de02f20": "2026-07-09",
+  "3e298fcd2c7d": "2026-07-09",
   "a6b8c400c81c": "2026-07-09",
   "c19ca237bbf3": "2026-07-09",
   "7e966c47342c": "2026-07-09",
-  "f4e36379ec03": "2026-07-09",
-  "d47e17f05fdc": "2026-07-09",
   "a9326c727b8d": "2026-07-09",
+  "d47e17f05fdc": "2026-07-09",
+  "f4e36379ec03": "2026-07-09",
   "c90bbe77a6bd": "2026-07-09",
   "8b9c595adb7b": "2026-07-09",
   "585847a84c4c": "2026-07-09",
   "b7a71d51d1d9": "2026-07-09",
   "0cac66c17393": "2026-07-09",
   "d386be189b21": "2026-07-09",
-  "241469e38663": "2026-07-09",
   "a81e3ed2442f": "2026-07-09",
   "4fb4b1ef6446": "2026-07-09",
+  "241469e38663": "2026-07-09",
   "facf7663474b": "2026-07-09",
   "f6e75bcaa5d5": "2026-07-09",
   "746a1b232f15": "2026-07-09",
-  "7bcafa17db5c": "2026-07-09",
-  "36db334551b8": "2026-07-09",
   "cadeb39c3320": "2026-07-09",
+  "36db334551b8": "2026-07-09",
+  "7bcafa17db5c": "2026-07-09",
   "06678715b44e": "2026-07-09",
   "6157b7f2ed28": "2026-07-09",
   "230f89a9a4df": "2026-07-09",
