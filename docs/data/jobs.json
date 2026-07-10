@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-07-09T22:47:02+00:00",
+ "generated_at": "2026-07-10T04:30:02+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "name": "NFCA",
@@ -24,8 +24,112 @@
    "count": 1
   }
  ],
- "count": 97,
+ "count": 98,
  "jobs": [
+  {
+   "title": "Assistant Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22412529/assistant-softball-coach"
+    }
+   ],
+   "posted": "2026-07-10",
+   "deadline": "",
+   "contact": "",
+   "id": "5dad2186c904",
+   "type": "assistant",
+   "school_key": "133711",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "133711",
+   "school_name": "Flagler College",
+   "city": "ST AUGUSTINE",
+   "state": "FL",
+   "division": "NCAA D2",
+   "group": "d2",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-10",
+   "salary": "",
+   "snippet": "The Assistant Softball Coach is a full-time, 12-month position that reports directly to the Head Softball Coach. This position oversees the development of Flagler College softball players and executes the prescribed program to ensure their physical readiness to compete successfully in a highly competitive NCAA Division II softball program. The position is also responsible for the recruitment and procurement of\u2026",
+   "school": {
+    "name": "Flagler College",
+    "city": "Saint Augustine",
+    "state": "FL",
+    "division": "NCAA D2",
+    "group": "d2",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 2349,
+    "sb_players": 20,
+    "sb_opexp": 75480,
+    "sb_expenses": 661529,
+    "sb_revenue": 661529,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 1,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 82183,
+    "ac_salary_women": 43602,
+    "student_aid_women": 2648469,
+    "recruit_exp_women": 36168,
+    "conference": "Peach Belt Conference",
+    "ath_url": "https://www.flaglerathletics.com/",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     318905,
+     400034,
+     392435,
+     437067,
+     500643,
+     661529
+    ],
+    "trend_players": [
+     21,
+     26,
+     21,
+     21,
+     17,
+     20
+    ]
+   }
+  },
+  {
+   "title": "Assistant Coach (Pitching Preferred)",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://www.schooljobs.com/careers/sfcc/jobs/5358084/assistant-softball-coach-student-life-assistant?pagetype=transferJobs"
+    }
+   ],
+   "posted": "2026-07-09",
+   "deadline": "Until filled",
+   "contact": "Michele Rupard",
+   "id": "ff7885e43836",
+   "type": "assistant",
+   "school_key": "state fair community college",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": null,
+   "school_name": "State Fair Community College",
+   "city": "Long Beach",
+   "state": "CA",
+   "division": "NJCAA D1",
+   "group": "juco",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-10",
+   "salary": "",
+   "snippet": "Looking for a passionate coach wanting to make an immediate impact at a Division 1 NJCAA school in Missouri. Full-time (12 months) assistant coach position with occasional student life/housing duties. Preference given to those that have pitching experience, or pitching coaching experience. Brand new field, new head coach, extremely supportive administration and an overall great setup for someone to get their start,\u2026",
+   "school": null
+  },
   {
    "title": "Assistant Softball Coach",
    "links": [
@@ -281,7 +385,7 @@
    "posted_is_estimate": false,
    "first_seen": "2026-07-09",
    "salary": "",
-   "snippet": "DESCRIPTION Assist the Head Coach with the recruitment, development, and retention of softball players at the College including team management, planning and execution, scheduling, travel, monitoring player academic progress, equipment control, fundraising, and campus, community, and department relations. The Assistant Coach must be knowledgeable and follow NCAA Division III, Ohio Athletic Conference and appropriate\u2026",
+   "snippet": "Assist the Head Coach with the recruitment, development, and retention of softball players at the College including team management, planning and execution, scheduling, travel, monitoring player academic progress, equipment control, fundraising, and campus, community, and department relations. The Assistant Coach must be knowledgeable and follow NCAA Division III, Ohio Athletic Conference and appropriate governing\u2026",
    "school": {
     "name": "Marietta College",
     "city": "Marietta",
@@ -665,7 +769,7 @@
    "posted_is_estimate": false,
    "first_seen": "2026-07-09",
    "salary": "",
-   "snippet": "DESCRIPTION Drake Athletics is seeking an individual to serve as an assistant coach of the softball program. Full time, 10 month position. This includes assisting with all aspects of the program including, but not limited to, recruiting, player development, scheduling, operations, travel, hiring, budget management, and other administrative duties assigned. Incumbents must be dedicated to the academic, athletic, and\u2026",
+   "snippet": "Drake Athletics is seeking an individual to serve as an assistant coach of the softball program. Full time, 10 month position. This includes assisting with all aspects of the program including, but not limited to, recruiting, player development, scheduling, operations, travel, hiring, budget management, and other administrative duties assigned. Incumbents must be dedicated to the academic, athletic, and personal\u2026",
    "school": {
     "name": "Drake University",
     "city": "Des Moines",
@@ -5579,81 +5683,6 @@
    }
   },
   {
-   "title": "Head Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://www.schooljobs.com/careers/sfcc/jobs/5357862/head-softball-coach?page=1&pagetype=transferJobs"
-    }
-   ],
-   "posted": "2026-05-28",
-   "deadline": "Until Position is Filled",
-   "contact": "Michele Rupard",
-   "id": "ab51b85c4b50",
-   "type": "head",
-   "school_key": "179539",
-   "tok": [
-    "head"
-   ],
-   "unitid": "179539",
-   "school_name": "State Fair Community College",
-   "city": "Sealia",
-   "state": "MO",
-   "division": "NJCAA D1",
-   "group": "juco",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Head Coach of NJCAA Division 1 program, no additional duties for HC. Full-time assistant that has minimal duties in housing (this position is open too). 12-Month contracts for both. BRAND NEW ATHLETIC COMPLEX! Including softball, baseball, and soccer fields with a full-size track. 14 sports total at the institution. Hour and half from Kansas City, MO and two and a half from St. Louis,",
-   "school": {
-    "name": "State Fair Community College",
-    "city": "Sedalia",
-    "state": "MO",
-    "division": "NJCAA D1",
-    "group": "juco",
-    "sector": "Public, 2-year",
-    "enrollment": 1952,
-    "sb_players": 19,
-    "sb_opexp": 78232,
-    "sb_expenses": 283133,
-    "sb_revenue": 283133,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 56786,
-    "ac_salary_women": 48336,
-    "student_aid_women": 390642,
-    "recruit_exp_women": 10636,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     155489,
-     162481,
-     244780,
-     228512,
-     244829,
-     283133
-    ],
-    "trend_players": [
-     18,
-     22,
-     27,
-     20,
-     25,
-     19
-    ]
-   }
-  },
-  {
    "title": "Assistant Coach (Pitching)",
    "links": [
     {
@@ -7184,6 +7213,7 @@
   }
  ],
  "seen": {
+  "5dad2186c904": "2026-07-10",
   "1f6a4a73100c": "2026-07-09",
   "456cf7190ab0": "2026-07-09",
   "6bfd433b5593": "2026-07-09",
@@ -7224,13 +7254,13 @@
   "230f89a9a4df": "2026-07-09",
   "8f5981eafc1d": "2026-07-09",
   "6825ea940d04": "2026-07-09",
-  "ab51b85c4b50": "2026-07-09",
   "d15026de3f7f": "2026-07-09",
   "75feb34c8e03": "2026-07-09",
   "1bd975199ae6": "2026-07-09",
   "43b25cc21dbc": "2026-07-09",
   "6267ef95dbf7": "2026-07-09",
   "1c53ca778641": "2026-07-09",
+  "ff7885e43836": "2026-07-10",
   "cec1cc3ee078": "2026-07-09",
   "0a1dbea49bd1": "2026-07-09",
   "acb6e4e4c922": "2026-07-09",
@@ -7281,6 +7311,7 @@
   "d2e828bf3c1b": "2026-07-09",
   "7d5906f6c9f1": "2026-07-09",
   "7940a4546058": "2026-07-09",
+  "ab51b85c4b50": "2026-07-09",
   "f371f098d659": "2026-07-09",
   "4c056c60a99c": "2026-07-09",
   "77c4070e9820": "2026-07-09",
