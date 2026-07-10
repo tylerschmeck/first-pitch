@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-07-10T15:07:18+00:00",
+ "generated_at": "2026-07-10T17:14:30+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 39
+   "count": 40
   },
   {
    "name": "NFCA",
    "ok": true,
-   "count": 76
+   "count": 79
   },
   {
    "name": "NJCAA Career Center",
@@ -24,8 +24,83 @@
    "count": 1
   }
  ],
- "count": 97,
+ "count": 100,
  "jobs": [
+  {
+   "title": "Assistant Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22416321/assistant-softball-coach"
+    }
+   ],
+   "posted": "2026-07-10",
+   "deadline": "",
+   "contact": "",
+   "id": "ac6fc459f4be",
+   "type": "assistant",
+   "school_key": "233897",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "233897",
+   "school_name": "University of Virginia's College at Wise",
+   "city": "Wise",
+   "state": "VA",
+   "division": "NCAA D2",
+   "group": "d2",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-10",
+   "salary": "$29,000 - $31,000",
+   "snippet": "The University of Virginia\u2019s College at Wise, located in the beautiful rural mountains of southwestern Virginia, is currently seeking applicants for an Assistant Softball Coach. An Assistant Softball Coach works with the sports program and are responsible for contributing to the successful execution of objectives as defined by the Head Coach. They participate in the planning, design, implementation, management, and\u2026",
+   "school": {
+    "name": "University of Virginia's College at Wise",
+    "city": "Wise",
+    "state": "VA",
+    "division": "NCAA D2",
+    "group": "d2",
+    "sector": "Public, 4-year or above",
+    "enrollment": 1075,
+    "sb_players": 25,
+    "sb_opexp": 75364,
+    "sb_expenses": 315555,
+    "sb_revenue": 315555,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 1,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 59001,
+    "ac_salary_women": 29792,
+    "student_aid_women": 646381,
+    "recruit_exp_women": 15825,
+    "conference": "South Atlantic Conference",
+    "ath_url": "https://www.uvawisecavs.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     260277,
+     264820,
+     273592,
+     265025,
+     321961,
+     315555
+    ],
+    "trend_players": [
+     20,
+     19,
+     22,
+     21,
+     27,
+     25
+    ]
+   }
+  },
   {
    "title": "Assistant Softball Coach",
    "links": [
@@ -102,6 +177,157 @@
    }
   },
   {
+   "title": "Assistant Coach (Pitching)",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://myjobs.adp.com/facultyandstaffmaryvilleuniversityexternalcs/cx/job-details?__tx_annotation=false&_fromPublish=true&reqId=5001210712906"
+    }
+   ],
+   "posted": "2026-07-10",
+   "deadline": "Until Position is filled",
+   "contact": "Chanin Billings",
+   "id": "2e5bfb488088",
+   "type": "assistant",
+   "school_key": "178059",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "178059",
+   "school_name": "Maryville University of Saint Louis",
+   "city": "St. Louis",
+   "state": "MO",
+   "division": "NCAA D2",
+   "group": "d2",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-10",
+   "salary": "$36,000",
+   "snippet": "Assistant Softball Coach \u2013 Maryville University (Full-Time) Maryville University is seeking an Assistant Softball Coach to help build a competitive NCAA Division II softball program while developing student-athletes on and off the field. Responsibilities include Coaching and player development Recruiting prospective student-athletes Assisting with scouting, game planning, and film review Supporting team operations,\u2026",
+   "school": {
+    "name": "Maryville University of Saint Louis",
+    "city": "Saint Louis",
+    "state": "MO",
+    "division": "NCAA D2",
+    "group": "d2",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 3656,
+    "sb_players": 21,
+    "sb_opexp": 102118,
+    "sb_expenses": 499367,
+    "sb_revenue": 528901,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 1,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 59982,
+    "ac_salary_women": 43862,
+    "student_aid_women": 1962861,
+    "recruit_exp_women": 46005,
+    "conference": "Great Lakes Valley Conference",
+    "ath_url": "https://www.maryvillesaints.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     343161,
+     379710,
+     380166,
+     427692,
+     430948,
+     499367
+    ],
+    "trend_players": [
+     20,
+     25,
+     24,
+     23,
+     24,
+     21
+    ]
+   }
+  },
+  {
+   "title": "Graduate Assistant Coach",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://nfca.org/nfca-job-postings"
+    }
+   ],
+   "posted": "2026-07-10",
+   "deadline": "7/31/26",
+   "contact": "Whitney Arion",
+   "id": "592651c371ea",
+   "type": "other",
+   "school_key": "156286",
+   "tok": [
+    "assistant",
+    "graduate"
+   ],
+   "unitid": "156286",
+   "school_name": "Bellarmine University",
+   "city": "Louisville",
+   "state": "KY",
+   "division": "NCAA D1",
+   "group": "d1",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-10",
+   "salary": "",
+   "snippet": "Pitching Coach/ director of operations. Please email or contact directly via phone",
+   "school": {
+    "name": "Bellarmine University",
+    "city": "Louisville",
+    "state": "KY",
+    "division": "NCAA D1",
+    "group": "d1",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 2110,
+    "sb_players": 28,
+    "sb_opexp": 196413,
+    "sb_expenses": 691415,
+    "sb_revenue": 691415,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 1,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 75938,
+    "ac_salary_women": 28944,
+    "student_aid_women": 3064919,
+    "recruit_exp_women": 68943,
+    "conference": "Atlantic Sun Conference",
+    "ath_url": "https://athletics.bellarmine.edu",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     313054,
+     323943,
+     443430,
+     470515,
+     613888,
+     691415
+    ],
+    "trend_players": [
+     22,
+     23,
+     26,
+     23,
+     24,
+     28
+    ]
+   }
+  },
+  {
    "title": "Assistant Coach (Pitching Preferred)",
    "links": [
     {
@@ -112,23 +338,69 @@
    "posted": "2026-07-09",
    "deadline": "Until filled",
    "contact": "Michele Rupard",
-   "id": "ff7885e43836",
+   "id": "206f76c36985",
    "type": "assistant",
-   "school_key": "state fair community college",
+   "school_key": "179539",
    "tok": [
     "assistant"
    ],
-   "unitid": null,
+   "unitid": "179539",
    "school_name": "State Fair Community College",
-   "city": "Long Beach",
-   "state": "CA",
+   "city": "Sedalia",
+   "state": "MO",
    "division": "NJCAA D1",
    "group": "juco",
    "posted_is_estimate": false,
    "first_seen": "2026-07-10",
    "salary": "",
    "snippet": "Looking for a passionate coach wanting to make an immediate impact at a Division 1 NJCAA school in Missouri. Full-time (12 months) assistant coach position with occasional student life/housing duties. Preference given to those that have pitching experience, or pitching coaching experience. Brand new field, new head coach, extremely supportive administration and an overall great setup for someone to get their start,\u2026",
-   "school": null
+   "school": {
+    "name": "State Fair Community College",
+    "city": "Sedalia",
+    "state": "MO",
+    "division": "NJCAA D1",
+    "group": "juco",
+    "sector": "Public, 2-year",
+    "enrollment": 1952,
+    "sb_players": 19,
+    "sb_opexp": 78232,
+    "sb_expenses": 283133,
+    "sb_revenue": 283133,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 56786,
+    "ac_salary_women": 48336,
+    "student_aid_women": 390642,
+    "recruit_exp_women": 10636,
+    "conference": "",
+    "ath_url": "",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     155489,
+     162481,
+     244780,
+     228512,
+     244829,
+     283133
+    ],
+    "trend_players": [
+     18,
+     22,
+     27,
+     20,
+     25,
+     19
+    ]
+   }
   },
   {
    "title": "Head Softball Coach",
@@ -215,11 +487,15 @@
     {
      "source": "NCAA Market",
      "url": "https://ncaamarket.ncaa.org/jobs/22412200/assistant-softball-coach"
+    },
+    {
+     "source": "NFCA",
+     "url": "https://berry.interviewexchange.com/jobofferdetails.jsp?JOBID=202353"
     }
    ],
    "posted": "2026-07-09",
-   "deadline": "",
-   "contact": "",
+   "deadline": "Open Until Filled",
+   "contact": "Funmi Peters",
    "id": "1f6a4a73100c",
    "type": "assistant",
    "school_key": "139144",
@@ -7138,6 +7414,7 @@
   }
  ],
  "seen": {
+  "ac6fc459f4be": "2026-07-10",
   "456cf7190ab0": "2026-07-09",
   "5dad2186c904": "2026-07-10",
   "1f6a4a73100c": "2026-07-09",
@@ -7184,7 +7461,8 @@
   "43b25cc21dbc": "2026-07-09",
   "6267ef95dbf7": "2026-07-09",
   "1c53ca778641": "2026-07-09",
-  "ff7885e43836": "2026-07-10",
+  "2e5bfb488088": "2026-07-10",
+  "206f76c36985": "2026-07-10",
   "cec1cc3ee078": "2026-07-09",
   "0a1dbea49bd1": "2026-07-09",
   "acb6e4e4c922": "2026-07-09",
@@ -7218,6 +7496,7 @@
   "a746ff2593b0": "2026-07-09",
   "b3c4bdab8a85": "2026-07-09",
   "73c2c9224bbd": "2026-07-09",
+  "592651c371ea": "2026-07-10",
   "88a0a3e70647": "2026-07-09",
   "92570bc7c17b": "2026-07-09",
   "4b246c6d945d": "2026-07-09",
@@ -7235,6 +7514,7 @@
   "d2e828bf3c1b": "2026-07-09",
   "7d5906f6c9f1": "2026-07-09",
   "7940a4546058": "2026-07-09",
+  "ff7885e43836": "2026-07-10",
   "426448d62e1a": "2026-07-09",
   "ab51b85c4b50": "2026-07-09",
   "f371f098d659": "2026-07-09",
