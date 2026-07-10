@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-07-10T17:14:30+00:00",
+ "generated_at": "2026-07-10T19:55:58+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 40
+   "count": 41
   },
   {
    "name": "NFCA",
@@ -24,8 +24,83 @@
    "count": 1
   }
  ],
- "count": 100,
+ "count": 101,
  "jobs": [
+  {
+   "title": "Head Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22416396/head-softball-coach"
+    }
+   ],
+   "posted": "2026-07-10",
+   "deadline": "",
+   "contact": "",
+   "id": "1a663c4725c5",
+   "type": "head",
+   "school_key": "171571",
+   "tok": [
+    "head"
+   ],
+   "unitid": "171571",
+   "school_name": "Oakland University",
+   "city": "Rochester",
+   "state": "MI",
+   "division": "NCAA D1",
+   "group": "d1",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-10",
+   "salary": "",
+   "snippet": "Administer an educationally sound competitive softball program for female student-athletes, within the rules and policies of any conference Oakland University may enter and NCAA legislated guidelines, and within the assigned fiscal budget as allocated. Plan and implement all phases of a competitive national level NCAA Division I softball program, including student athlete recruitment scheduling, conducting practice\u2026",
+   "school": {
+    "name": "Oakland University",
+    "city": "Rochester Hills",
+    "state": "MI",
+    "division": "NCAA D1",
+    "group": "d1",
+    "sector": "Public, 4-year or above",
+    "enrollment": 10179,
+    "sb_players": 22,
+    "sb_opexp": 168014,
+    "sb_expenses": 698671,
+    "sb_revenue": 698671,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 1,
+    "sb_asst_pt": 2,
+    "hc_salary_women": 111523,
+    "ac_salary_women": 73052,
+    "student_aid_women": 3022381,
+    "recruit_exp_women": 79624,
+    "conference": "Horizon League",
+    "ath_url": "https://goldengrizzlies.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     572093,
+     611618,
+     672722,
+     647559,
+     708678,
+     698671
+    ],
+    "trend_players": [
+     20,
+     25,
+     20,
+     17,
+     20,
+     22
+    ]
+   }
+  },
   {
    "title": "Assistant Softball Coach",
    "links": [
@@ -7414,6 +7489,7 @@
   }
  ],
  "seen": {
+  "1a663c4725c5": "2026-07-10",
   "ac6fc459f4be": "2026-07-10",
   "456cf7190ab0": "2026-07-09",
   "5dad2186c904": "2026-07-10",
