@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-11T10:37:59+00:00",
+ "generated_at": "2026-07-11T13:59:04+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -26,81 +26,6 @@
  ],
  "count": 101,
  "jobs": [
-  {
-   "title": "Head Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22416396/head-softball-coach"
-    }
-   ],
-   "posted": "2026-07-10",
-   "deadline": "",
-   "contact": "",
-   "id": "1a663c4725c5",
-   "type": "head",
-   "school_key": "171571",
-   "tok": [
-    "head"
-   ],
-   "unitid": "171571",
-   "school_name": "Oakland University",
-   "city": "Rochester",
-   "state": "MI",
-   "division": "NCAA D1",
-   "group": "d1",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-10",
-   "salary": "",
-   "snippet": "Administer an educationally sound competitive softball program for female student-athletes, within the rules and policies of any conference Oakland University may enter and NCAA legislated guidelines, and within the assigned fiscal budget as allocated. Plan and implement all phases of a competitive national level NCAA Division I softball program, including student athlete recruitment scheduling, conducting practice\u2026",
-   "school": {
-    "name": "Oakland University",
-    "city": "Rochester Hills",
-    "state": "MI",
-    "division": "NCAA D1",
-    "group": "d1",
-    "sector": "Public, 4-year or above",
-    "enrollment": 10179,
-    "sb_players": 22,
-    "sb_opexp": 168014,
-    "sb_expenses": 698671,
-    "sb_revenue": 698671,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 1,
-    "sb_asst_pt": 2,
-    "hc_salary_women": 111523,
-    "ac_salary_women": 73052,
-    "student_aid_women": 3022381,
-    "recruit_exp_women": 79624,
-    "conference": "Horizon League",
-    "ath_url": "https://goldengrizzlies.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     572093,
-     611618,
-     672722,
-     647559,
-     708678,
-     698671
-    ],
-    "trend_players": [
-     20,
-     25,
-     20,
-     17,
-     20,
-     22
-    ]
-   }
-  },
   {
    "title": "Assistant Softball Coach",
    "links": [
@@ -173,6 +98,81 @@
      21,
      27,
      25
+    ]
+   }
+  },
+  {
+   "title": "Head Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22416396/head-softball-coach"
+    }
+   ],
+   "posted": "2026-07-10",
+   "deadline": "",
+   "contact": "",
+   "id": "1a663c4725c5",
+   "type": "head",
+   "school_key": "171571",
+   "tok": [
+    "head"
+   ],
+   "unitid": "171571",
+   "school_name": "Oakland University",
+   "city": "Rochester",
+   "state": "MI",
+   "division": "NCAA D1",
+   "group": "d1",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-10",
+   "salary": "",
+   "snippet": "Administer an educationally sound competitive softball program for female student-athletes, within the rules and policies of any conference Oakland University may enter and NCAA legislated guidelines, and within the assigned fiscal budget as allocated. Plan and implement all phases of a competitive national level NCAA Division I softball program, including student athlete recruitment scheduling, conducting practice\u2026",
+   "school": {
+    "name": "Oakland University",
+    "city": "Rochester Hills",
+    "state": "MI",
+    "division": "NCAA D1",
+    "group": "d1",
+    "sector": "Public, 4-year or above",
+    "enrollment": 10179,
+    "sb_players": 22,
+    "sb_opexp": 168014,
+    "sb_expenses": 698671,
+    "sb_revenue": 698671,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 1,
+    "sb_asst_pt": 2,
+    "hc_salary_women": 111523,
+    "ac_salary_women": 73052,
+    "student_aid_women": 3022381,
+    "recruit_exp_women": 79624,
+    "conference": "Horizon League",
+    "ath_url": "https://goldengrizzlies.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     572093,
+     611618,
+     672722,
+     647559,
+     708678,
+     698671
+    ],
+    "trend_players": [
+     20,
+     25,
+     20,
+     17,
+     20,
+     22
     ]
    }
   },
@@ -1623,6 +1623,81 @@
    }
   },
   {
+   "title": "Assistant Women's Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22392287/assistant-women-s-softball-coach"
+    }
+   ],
+   "posted": "2026-07-01",
+   "deadline": "",
+   "contact": "",
+   "id": "6152d6ec4361",
+   "type": "assistant",
+   "school_key": "142276",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "142276",
+   "school_name": "Idaho State University",
+   "city": "Pocatello",
+   "state": "ID",
+   "division": "NCAA D1",
+   "group": "d1",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-09",
+   "salary": "$35,000 - $40,000",
+   "snippet": "Primary Purpose of Position: Assist the Head Coach in all aspects of the management and administration of the softball program, with specific emphasis on pitching instruction and development at practices and individual training sessions, scouting opponents, recruiting, game day administration, and academic monitoring of student athletes. Serve as positive role model for student athletes and represent Idaho State in\u2026",
+   "school": {
+    "name": "Idaho State University",
+    "city": "Pocatello",
+    "state": "ID",
+    "division": "NCAA D1",
+    "group": "d1",
+    "sector": "Public, 4-year or above",
+    "enrollment": 6233,
+    "sb_players": 24,
+    "sb_opexp": 299861,
+    "sb_expenses": 899902,
+    "sb_revenue": 899902,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 2,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 84526,
+    "ac_salary_women": 39410,
+    "student_aid_women": 2515314,
+    "recruit_exp_women": 100183,
+    "conference": "Big Sky Conference",
+    "ath_url": "https://www.isubengals.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     633721,
+     527088,
+     702390,
+     776923,
+     808478,
+     899902
+    ],
+    "trend_players": [
+     20,
+     22,
+     23,
+     24,
+     25,
+     24
+    ]
+   }
+  },
+  {
    "title": "Head Softball Coach",
    "links": [
     {
@@ -1698,81 +1773,6 @@
      16,
      16,
      18
-    ]
-   }
-  },
-  {
-   "title": "Assistant Women's Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22392287/assistant-women-s-softball-coach"
-    }
-   ],
-   "posted": "2026-07-01",
-   "deadline": "",
-   "contact": "",
-   "id": "6152d6ec4361",
-   "type": "assistant",
-   "school_key": "142276",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "142276",
-   "school_name": "Idaho State University",
-   "city": "Pocatello",
-   "state": "ID",
-   "division": "NCAA D1",
-   "group": "d1",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "$35,000 - $40,000",
-   "snippet": "Primary Purpose of Position: Assist the Head Coach in all aspects of the management and administration of the softball program, with specific emphasis on pitching instruction and development at practices and individual training sessions, scouting opponents, recruiting, game day administration, and academic monitoring of student athletes. Serve as positive role model for student athletes and represent Idaho State in\u2026",
-   "school": {
-    "name": "Idaho State University",
-    "city": "Pocatello",
-    "state": "ID",
-    "division": "NCAA D1",
-    "group": "d1",
-    "sector": "Public, 4-year or above",
-    "enrollment": 6233,
-    "sb_players": 24,
-    "sb_opexp": 299861,
-    "sb_expenses": 899902,
-    "sb_revenue": 899902,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 2,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 84526,
-    "ac_salary_women": 39410,
-    "student_aid_women": 2515314,
-    "recruit_exp_women": 100183,
-    "conference": "Big Sky Conference",
-    "ath_url": "https://www.isubengals.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     633721,
-     527088,
-     702390,
-     776923,
-     808478,
-     899902
-    ],
-    "trend_players": [
-     20,
-     22,
-     23,
-     24,
-     25,
-     24
     ]
    }
   },
@@ -3868,61 +3868,56 @@
    }
   },
   {
-   "title": "HEAD WOMEN'S SOFTBALL COACH/RETENTION COORDINATOR",
+   "title": "Head Softball Coach",
    "links": [
     {
      "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22359030/head-women-s-softball-coach-retention-coordinator"
-    },
-    {
-     "source": "NFCA",
-     "url": "https://fa-ewca-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2857/?utm_medium=jobshare&utm_source=External+Job+Share"
+     "url": "https://ncaamarket.ncaa.org/jobs/22359141/head-softball-coach"
     }
    ],
    "posted": "2026-06-17",
-   "deadline": "6/26/2026 by 5 PM ET",
-   "contact": "Sandra W McDougal",
-   "id": "a81e3ed2442f",
+   "deadline": "",
+   "contact": "",
+   "id": "241469e38663",
    "type": "head",
-   "school_key": "161341",
+   "school_key": "150756",
    "tok": [
-    "coordinator",
-    "head",
-    "retention"
+    "head"
    ],
-   "unitid": "161341",
-   "school_name": "University of Maine at Presque Isle",
-   "city": "PRESQUE ISLE",
-   "state": "ME",
+   "unitid": "150756",
+   "school_name": "Hanover College",
+   "city": "Hanover",
+   "state": "IN",
    "division": "NCAA D3",
    "group": "d3",
    "posted_is_estimate": false,
    "first_seen": "2026-07-09",
    "salary": "",
-   "snippet": "Position Summary The Head Women\u2019s Softball Coach / Retention Coordinator is a 12-month, full-time position reporting directly to the Director of Athletics. This position is responsible for leading all aspects of the women\u2019s softball program at the NCAA Division III level, including recruiting, coaching, student-athlete development, program administration, and compliance with university and NCAA policies. In addition\u2026",
+   "snippet": "Position Summary Leads and develops a competitive NCAA Division III women's softball program that operates within the parameters set by Hanover College, the conference, and the NCAA. Ensures an excellent student-athlete experience focused on competitive excellence, academic success, wellness, character development, and inclusive excellence while engaging alumni, families, and the broader community. Primary\u2026",
    "school": {
-    "name": "University of Maine at Presque Isle",
-    "city": "Presque Isle",
-    "state": "ME",
+    "name": "Hanover College",
+    "city": "Hanover",
+    "state": "IN",
     "division": "NCAA D3",
     "group": "d3",
-    "sector": "Public, 4-year or above",
-    "enrollment": 1279,
-    "sb_players": 14,
-    "sb_opexp": 25992,
-    "sb_expenses": 55812,
-    "sb_revenue": 55812,
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 1021,
+    "sb_players": 19,
+    "sb_opexp": 57785,
+    "sb_expenses": 117221,
+    "sb_revenue": 117221,
     "sb_head_ft": 0,
     "sb_head_pt": 1,
     "sb_asst_ft": 0,
-    "sb_asst_pt": 0,
-    "hc_salary_women": 39024,
-    "ac_salary_women": 15789,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 60502,
+    "ac_salary_women": 42304,
     "student_aid_women": 0,
-    "recruit_exp_women": 6047,
-    "conference": "North Atlantic Conference",
-    "ath_url": "https://owls.umpi.edu/landing/index",
+    "recruit_exp_women": 35985,
+    "conference": "Heartland Collegiate Athletic Conference",
+    "ath_url": "https://athletics.hanover.edu/landing/index",
     "trend_years": [
+     2020,
      2021,
      2022,
      2023,
@@ -3930,18 +3925,20 @@
      2025
     ],
     "trend_exp": [
-     30071,
-     54406,
-     60000,
-     67429,
-     55812
+     78938,
+     78108,
+     101667,
+     108826,
+     97785,
+     117221
     ],
     "trend_players": [
-     18,
-     13,
+     17,
      14,
-     15,
-     14
+     14,
+     19,
+     17,
+     19
     ]
    }
   },
@@ -4018,56 +4015,61 @@
    }
   },
   {
-   "title": "Head Softball Coach",
+   "title": "HEAD WOMEN'S SOFTBALL COACH/RETENTION COORDINATOR",
    "links": [
     {
      "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22359141/head-softball-coach"
+     "url": "https://ncaamarket.ncaa.org/jobs/22359030/head-women-s-softball-coach-retention-coordinator"
+    },
+    {
+     "source": "NFCA",
+     "url": "https://fa-ewca-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2857/?utm_medium=jobshare&utm_source=External+Job+Share"
     }
    ],
    "posted": "2026-06-17",
-   "deadline": "",
-   "contact": "",
-   "id": "241469e38663",
+   "deadline": "6/26/2026 by 5 PM ET",
+   "contact": "Sandra W McDougal",
+   "id": "a81e3ed2442f",
    "type": "head",
-   "school_key": "150756",
+   "school_key": "161341",
    "tok": [
-    "head"
+    "coordinator",
+    "head",
+    "retention"
    ],
-   "unitid": "150756",
-   "school_name": "Hanover College",
-   "city": "Hanover",
-   "state": "IN",
+   "unitid": "161341",
+   "school_name": "University of Maine at Presque Isle",
+   "city": "PRESQUE ISLE",
+   "state": "ME",
    "division": "NCAA D3",
    "group": "d3",
    "posted_is_estimate": false,
    "first_seen": "2026-07-09",
    "salary": "",
-   "snippet": "Position Summary Leads and develops a competitive NCAA Division III women's softball program that operates within the parameters set by Hanover College, the conference, and the NCAA. Ensures an excellent student-athlete experience focused on competitive excellence, academic success, wellness, character development, and inclusive excellence while engaging alumni, families, and the broader community. Primary\u2026",
+   "snippet": "Position Summary The Head Women\u2019s Softball Coach / Retention Coordinator is a 12-month, full-time position reporting directly to the Director of Athletics. This position is responsible for leading all aspects of the women\u2019s softball program at the NCAA Division III level, including recruiting, coaching, student-athlete development, program administration, and compliance with university and NCAA policies. In addition\u2026",
    "school": {
-    "name": "Hanover College",
-    "city": "Hanover",
-    "state": "IN",
+    "name": "University of Maine at Presque Isle",
+    "city": "Presque Isle",
+    "state": "ME",
     "division": "NCAA D3",
     "group": "d3",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 1021,
-    "sb_players": 19,
-    "sb_opexp": 57785,
-    "sb_expenses": 117221,
-    "sb_revenue": 117221,
+    "sector": "Public, 4-year or above",
+    "enrollment": 1279,
+    "sb_players": 14,
+    "sb_opexp": 25992,
+    "sb_expenses": 55812,
+    "sb_revenue": 55812,
     "sb_head_ft": 0,
     "sb_head_pt": 1,
     "sb_asst_ft": 0,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 60502,
-    "ac_salary_women": 42304,
+    "sb_asst_pt": 0,
+    "hc_salary_women": 39024,
+    "ac_salary_women": 15789,
     "student_aid_women": 0,
-    "recruit_exp_women": 35985,
-    "conference": "Heartland Collegiate Athletic Conference",
-    "ath_url": "https://athletics.hanover.edu/landing/index",
+    "recruit_exp_women": 6047,
+    "conference": "North Atlantic Conference",
+    "ath_url": "https://owls.umpi.edu/landing/index",
     "trend_years": [
-     2020,
      2021,
      2022,
      2023,
@@ -4075,20 +4077,18 @@
      2025
     ],
     "trend_exp": [
-     78938,
-     78108,
-     101667,
-     108826,
-     97785,
-     117221
+     30071,
+     54406,
+     60000,
+     67429,
+     55812
     ],
     "trend_players": [
-     17,
+     18,
+     13,
      14,
-     14,
-     19,
-     17,
-     19
+     15,
+     14
     ]
    }
   },
@@ -7489,8 +7489,8 @@
   }
  ],
  "seen": {
-  "1a663c4725c5": "2026-07-10",
   "ac6fc459f4be": "2026-07-10",
+  "1a663c4725c5": "2026-07-10",
   "456cf7190ab0": "2026-07-09",
   "5dad2186c904": "2026-07-10",
   "1f6a4a73100c": "2026-07-09",
@@ -7499,33 +7499,33 @@
   "1bd1d2243ea1": "2026-07-09",
   "d0d50f6147e1": "2026-07-09",
   "a9b675d23aac": "2026-07-09",
-  "d01a1c153845": "2026-07-09",
   "6f7cc7032079": "2026-07-09",
-  "66f319a3b67f": "2026-07-09",
+  "d01a1c153845": "2026-07-09",
   "6152d6ec4361": "2026-07-09",
+  "66f319a3b67f": "2026-07-09",
   "2f979de02f20": "2026-07-09",
   "3e298fcd2c7d": "2026-07-09",
-  "a6b8c400c81c": "2026-07-09",
   "c19ca237bbf3": "2026-07-09",
+  "a6b8c400c81c": "2026-07-09",
   "7e966c47342c": "2026-07-09",
   "a9326c727b8d": "2026-07-09",
   "d47e17f05fdc": "2026-07-09",
   "f4e36379ec03": "2026-07-09",
   "c90bbe77a6bd": "2026-07-09",
-  "8b9c595adb7b": "2026-07-09",
   "585847a84c4c": "2026-07-09",
+  "8b9c595adb7b": "2026-07-09",
   "b7a71d51d1d9": "2026-07-09",
   "0cac66c17393": "2026-07-09",
   "d386be189b21": "2026-07-09",
-  "a81e3ed2442f": "2026-07-09",
-  "4fb4b1ef6446": "2026-07-09",
   "241469e38663": "2026-07-09",
+  "4fb4b1ef6446": "2026-07-09",
+  "a81e3ed2442f": "2026-07-09",
   "facf7663474b": "2026-07-09",
   "f6e75bcaa5d5": "2026-07-09",
   "746a1b232f15": "2026-07-09",
   "cadeb39c3320": "2026-07-09",
-  "36db334551b8": "2026-07-09",
   "7bcafa17db5c": "2026-07-09",
+  "36db334551b8": "2026-07-09",
   "06678715b44e": "2026-07-09",
   "6157b7f2ed28": "2026-07-09",
   "230f89a9a4df": "2026-07-09",
