@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-07-13T17:26:24+00:00",
+ "generated_at": "2026-07-13T19:55:10+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "name": "NFCA",
    "ok": true,
-   "count": 79
+   "count": 78
   },
   {
    "name": "NJCAA Career Center",
@@ -26,6 +26,81 @@
  ],
  "count": 99,
  "jobs": [
+  {
+   "title": "Head Coach - Womens Softball",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22422692/head-coach-womens-softball"
+    }
+   ],
+   "posted": "2026-07-13",
+   "deadline": "",
+   "contact": "",
+   "id": "87161bbef83f",
+   "type": "head",
+   "school_key": "131113",
+   "tok": [
+    "head"
+   ],
+   "unitid": "131113",
+   "school_name": "Wilmington University",
+   "city": "New Castle",
+   "state": "DE",
+   "division": "NCAA D2",
+   "group": "d2",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-13",
+   "salary": "",
+   "snippet": "Head Coach - Womens Softball Wilmington University Requirements: A bachelor's degree is required. Must possess excellent communication, customer service, organizational, and interpersonal skills. The successful candidate will be detail-oriented, self-motivated, and able to work effectively with diverse populations. The ability to prioritize multiple tasks, make sound independent decisions, and demonstrate creativity\u2026",
+   "school": {
+    "name": "Wilmington University",
+    "city": "New Castle",
+    "state": "DE",
+    "division": "NCAA D2",
+    "group": "d2",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 2985,
+    "sb_players": 21,
+    "sb_opexp": 141477,
+    "sb_expenses": 338344,
+    "sb_revenue": 348057,
+    "sb_head_ft": 0,
+    "sb_head_pt": 1,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 3,
+    "hc_salary_women": 54970,
+    "ac_salary_women": 29987,
+    "student_aid_women": 737821,
+    "recruit_exp_women": 11850,
+    "conference": "",
+    "ath_url": "",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     223981,
+     207387,
+     380552,
+     387063,
+     384665,
+     338344
+    ],
+    "trend_players": [
+     18,
+     23,
+     19,
+     19,
+     24,
+     21
+    ]
+   }
+  },
   {
    "title": "Assistant Softball Coach",
    "links": [
@@ -6899,81 +6974,6 @@
    "links": [
     {
      "source": "NFCA",
-     "url": "https://easternctstateuniversity.applytojob.com/apply/7OcUamWjRG/Head-Softball-Coach"
-    }
-   ],
-   "posted": "2026-05-12",
-   "deadline": "Preferred 5/28/26",
-   "contact": "Lori Runksmeier",
-   "id": "6267ef95dbf7",
-   "type": "head",
-   "school_key": "129215",
-   "tok": [
-    "head"
-   ],
-   "unitid": "129215",
-   "school_name": "Eastern Connecticut State University",
-   "city": "Willimantic",
-   "state": "CT",
-   "division": "NCAA D3",
-   "group": "d3",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "All duties of a head coach managing a nationally competitive program. Full-time, 10 month position with a secondary responsibility within the department. Excellent salary and",
-   "school": {
-    "name": "Eastern Connecticut State University",
-    "city": "Willimantic",
-    "state": "CT",
-    "division": "NCAA D3",
-    "group": "d3",
-    "sector": "Public, 4-year or above",
-    "enrollment": 3262,
-    "sb_players": 19,
-    "sb_opexp": 74327,
-    "sb_expenses": 258290,
-    "sb_revenue": 258290,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 3,
-    "hc_salary_women": 111514,
-    "ac_salary_women": 48989,
-    "student_aid_women": 0,
-    "recruit_exp_women": 9067,
-    "conference": "Little East Conference",
-    "ath_url": "https://gowarriorathletics.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     239672,
-     250954,
-     314309,
-     374893,
-     280886,
-     258290
-    ],
-    "trend_players": [
-     20,
-     18,
-     21,
-     20,
-     19,
-     19
-    ]
-   }
-  },
-  {
-   "title": "Head Coach",
-   "links": [
-    {
-     "source": "NFCA",
      "url": "https://form.jotform.com/261308567291057"
     }
    ],
@@ -7379,6 +7379,7 @@
   }
  ],
  "seen": {
+  "87161bbef83f": "2026-07-13",
   "ac6fc459f4be": "2026-07-10",
   "1a663c4725c5": "2026-07-10",
   "5dad2186c904": "2026-07-10",
@@ -7423,7 +7424,6 @@
   "75feb34c8e03": "2026-07-09",
   "1bd975199ae6": "2026-07-09",
   "43b25cc21dbc": "2026-07-09",
-  "6267ef95dbf7": "2026-07-09",
   "1c53ca778641": "2026-07-09",
   "2e5bfb488088": "2026-07-10",
   "206f76c36985": "2026-07-10",
@@ -7478,6 +7478,7 @@
   "d2e828bf3c1b": "2026-07-09",
   "7d5906f6c9f1": "2026-07-09",
   "7940a4546058": "2026-07-09",
+  "6267ef95dbf7": "2026-07-09",
   "cadeb39c3320": "2026-07-09",
   "36db334551b8": "2026-07-09",
   "ff7885e43836": "2026-07-10",
