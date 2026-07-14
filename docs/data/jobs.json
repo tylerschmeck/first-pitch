@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-14T11:00:16+00:00",
+ "generated_at": "2026-07-14T14:20:01+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -11,7 +11,7 @@
   {
    "name": "NFCA",
    "ok": true,
-   "count": 78
+   "count": 71
   },
   {
    "name": "NJCAA Career Center",
@@ -24,7 +24,7 @@
    "count": 1
   }
  ],
- "count": 99,
+ "count": 92,
  "jobs": [
   {
    "title": "Head Coach - Womens Softball",
@@ -102,81 +102,6 @@
    }
   },
   {
-   "title": "Assistant Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22416321/assistant-softball-coach"
-    }
-   ],
-   "posted": "2026-07-10",
-   "deadline": "",
-   "contact": "",
-   "id": "ac6fc459f4be",
-   "type": "assistant",
-   "school_key": "233897",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "233897",
-   "school_name": "University of Virginia's College at Wise",
-   "city": "Wise",
-   "state": "VA",
-   "division": "NCAA D2",
-   "group": "d2",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-10",
-   "salary": "$29,000 - $31,000",
-   "snippet": "The University of Virginia\u2019s College at Wise, located in the beautiful rural mountains of southwestern Virginia, is currently seeking applicants for an Assistant Softball Coach. An Assistant Softball Coach works with the sports program and are responsible for contributing to the successful execution of objectives as defined by the Head Coach. They participate in the planning, design, implementation, management, and\u2026",
-   "school": {
-    "name": "University of Virginia's College at Wise",
-    "city": "Wise",
-    "state": "VA",
-    "division": "NCAA D2",
-    "group": "d2",
-    "sector": "Public, 4-year or above",
-    "enrollment": 1075,
-    "sb_players": 25,
-    "sb_opexp": 75364,
-    "sb_expenses": 315555,
-    "sb_revenue": 315555,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 1,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 59001,
-    "ac_salary_women": 29792,
-    "student_aid_women": 646381,
-    "recruit_exp_women": 15825,
-    "conference": "South Atlantic Conference",
-    "ath_url": "https://www.uvawisecavs.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     260277,
-     264820,
-     273592,
-     265025,
-     321961,
-     315555
-    ],
-    "trend_players": [
-     20,
-     19,
-     22,
-     21,
-     27,
-     25
-    ]
-   }
-  },
-  {
    "title": "Head Softball Coach",
    "links": [
     {
@@ -248,6 +173,81 @@
      17,
      20,
      22
+    ]
+   }
+  },
+  {
+   "title": "Assistant Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22416321/assistant-softball-coach"
+    }
+   ],
+   "posted": "2026-07-10",
+   "deadline": "",
+   "contact": "",
+   "id": "ac6fc459f4be",
+   "type": "assistant",
+   "school_key": "233897",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "233897",
+   "school_name": "University of Virginia's College at Wise",
+   "city": "Wise",
+   "state": "VA",
+   "division": "NCAA D2",
+   "group": "d2",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-10",
+   "salary": "$29,000 - $31,000",
+   "snippet": "The University of Virginia\u2019s College at Wise, located in the beautiful rural mountains of southwestern Virginia, is currently seeking applicants for an Assistant Softball Coach. An Assistant Softball Coach works with the sports program and are responsible for contributing to the successful execution of objectives as defined by the Head Coach. They participate in the planning, design, implementation, management, and\u2026",
+   "school": {
+    "name": "University of Virginia's College at Wise",
+    "city": "Wise",
+    "state": "VA",
+    "division": "NCAA D2",
+    "group": "d2",
+    "sector": "Public, 4-year or above",
+    "enrollment": 1075,
+    "sb_players": 25,
+    "sb_opexp": 75364,
+    "sb_expenses": 315555,
+    "sb_revenue": 315555,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 1,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 59001,
+    "ac_salary_women": 29792,
+    "student_aid_women": 646381,
+    "recruit_exp_women": 15825,
+    "conference": "South Atlantic Conference",
+    "ath_url": "https://www.uvawisecavs.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     260277,
+     264820,
+     273592,
+     265025,
+     321961,
+     315555
+    ],
+    "trend_players": [
+     20,
+     19,
+     22,
+     21,
+     27,
+     25
     ]
    }
   },
@@ -553,85 +553,6 @@
    }
   },
   {
-   "title": "Head Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22412194/head-softball-coach"
-    },
-    {
-     "source": "NFCA",
-     "url": "https://www.nwciowa.edu/employment/openings/442/head-softball-coach"
-    }
-   ],
-   "posted": "2026-07-09",
-   "deadline": "Until position is filled Posting Date: 7/9/26",
-   "contact": "Mindy Stichka",
-   "id": "456cf7190ab0",
-   "type": "head",
-   "school_key": "154101",
-   "tok": [
-    "head"
-   ],
-   "unitid": "154101",
-   "school_name": "Northwestern College",
-   "city": "Orange City",
-   "state": "IA",
-   "division": "NAIA",
-   "group": "naia",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Northwestern College is seeking applicants for the position of head softball coach. Red Raider softball is seeking a candidate who can lead a nationally contending program which won three consecutive GPAC titles from 2023-2025 and hosted back-to-back NAIA regionals in 2024-2025 with an overall record of 212-59 since 2022. Join the excellent Red Raider athletic department that claimed 5 GPAC titles this past year and\u2026",
-   "school": {
-    "name": "Northwestern College",
-    "city": "Orange City",
-    "state": "IA",
-    "division": "NAIA",
-    "group": "naia",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 1057,
-    "sb_players": 33,
-    "sb_opexp": 75926,
-    "sb_expenses": 436023,
-    "sb_revenue": 440965,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 57308,
-    "ac_salary_women": 33422,
-    "student_aid_women": 1187980,
-    "recruit_exp_women": 7909,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     295101,
-     285885,
-     342198,
-     387898,
-     388189,
-     436023
-    ],
-    "trend_players": [
-     28,
-     33,
-     25,
-     34,
-     32,
-     33
-    ]
-   }
-  },
-  {
    "title": "Assistant Softball Coach",
    "links": [
     {
@@ -707,6 +628,85 @@
      20,
      19,
      23
+    ]
+   }
+  },
+  {
+   "title": "Head Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22412194/head-softball-coach"
+    },
+    {
+     "source": "NFCA",
+     "url": "https://www.nwciowa.edu/employment/openings/442/head-softball-coach"
+    }
+   ],
+   "posted": "2026-07-09",
+   "deadline": "Until position is filled Posting Date: 7/9/26",
+   "contact": "Mindy Stichka",
+   "id": "456cf7190ab0",
+   "type": "head",
+   "school_key": "154101",
+   "tok": [
+    "head"
+   ],
+   "unitid": "154101",
+   "school_name": "Northwestern College",
+   "city": "Orange City",
+   "state": "IA",
+   "division": "NAIA",
+   "group": "naia",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-09",
+   "salary": "",
+   "snippet": "Northwestern College is seeking applicants for the position of head softball coach. Red Raider softball is seeking a candidate who can lead a nationally contending program which won three consecutive GPAC titles from 2023-2025 and hosted back-to-back NAIA regionals in 2024-2025 with an overall record of 212-59 since 2022. Join the excellent Red Raider athletic department that claimed 5 GPAC titles this past year and\u2026",
+   "school": {
+    "name": "Northwestern College",
+    "city": "Orange City",
+    "state": "IA",
+    "division": "NAIA",
+    "group": "naia",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 1057,
+    "sb_players": 33,
+    "sb_opexp": 75926,
+    "sb_expenses": 436023,
+    "sb_revenue": 440965,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 57308,
+    "ac_salary_women": 33422,
+    "student_aid_women": 1187980,
+    "recruit_exp_women": 7909,
+    "conference": "",
+    "ath_url": "",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     295101,
+     285885,
+     342198,
+     387898,
+     388189,
+     436023
+    ],
+    "trend_players": [
+     28,
+     33,
+     25,
+     34,
+     32,
+     33
     ]
    }
   },
@@ -2686,6 +2686,85 @@
    "links": [
     {
      "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22375224/head-softball-coach"
+    },
+    {
+     "source": "NFCA",
+     "url": "https://www.paycomonline.net/v4/ats/web.php/portal/16288201D4A1D6526C3A89AE4682CD7B/jobs/239229"
+    }
+   ],
+   "posted": "2026-06-24",
+   "deadline": "Preference will be given to those application submitted by June 26, 2026",
+   "contact": "Human Resources",
+   "id": "d47e17f05fdc",
+   "type": "head",
+   "school_key": "231581",
+   "tok": [
+    "head"
+   ],
+   "unitid": "231581",
+   "school_name": "Bridgewater College",
+   "city": "Bridgewater",
+   "state": "VA",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-09",
+   "salary": "$42,000 - $48,000",
+   "snippet": "$42,000 - $48,000/annually Bridgewater College Athletics is seeking an accomplished and energetic Head Softball Coach to lead our NCAA Division III softball program. Reporting to the Director of Athletics, the Head Coach is responsible for all aspects of the program, including recruiting, player development, competitive success, academic achievement, and program administration. The successful candidate will be a\u2026",
+   "school": {
+    "name": "Bridgewater College",
+    "city": "Bridgewater",
+    "state": "VA",
+    "division": "NCAA D3",
+    "group": "d3",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 1396,
+    "sb_players": 26,
+    "sb_opexp": 118244,
+    "sb_expenses": 222240,
+    "sb_revenue": 222240,
+    "sb_head_ft": 0,
+    "sb_head_pt": 1,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 4,
+    "hc_salary_women": 55966,
+    "ac_salary_women": 38045,
+    "student_aid_women": 0,
+    "recruit_exp_women": 40305,
+    "conference": "",
+    "ath_url": "",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     94928,
+     76677,
+     175027,
+     182808,
+     196800,
+     222240
+    ],
+    "trend_players": [
+     22,
+     22,
+     26,
+     29,
+     25,
+     26
+    ]
+   }
+  },
+  {
+   "title": "Head Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
      "url": "https://ncaamarket.ncaa.org/jobs/22375856/head-softball-coach"
     }
    ],
@@ -2782,85 +2861,6 @@
      22,
      21,
      21
-    ]
-   }
-  },
-  {
-   "title": "Head Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22375224/head-softball-coach"
-    },
-    {
-     "source": "NFCA",
-     "url": "https://www.paycomonline.net/v4/ats/web.php/portal/16288201D4A1D6526C3A89AE4682CD7B/jobs/239229"
-    }
-   ],
-   "posted": "2026-06-24",
-   "deadline": "Preference will be given to those application submitted by June 26, 2026",
-   "contact": "Human Resources",
-   "id": "d47e17f05fdc",
-   "type": "head",
-   "school_key": "231581",
-   "tok": [
-    "head"
-   ],
-   "unitid": "231581",
-   "school_name": "Bridgewater College",
-   "city": "Bridgewater",
-   "state": "VA",
-   "division": "NCAA D3",
-   "group": "d3",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "$42,000 - $48,000",
-   "snippet": "$42,000 - $48,000/annually Bridgewater College Athletics is seeking an accomplished and energetic Head Softball Coach to lead our NCAA Division III softball program. Reporting to the Director of Athletics, the Head Coach is responsible for all aspects of the program, including recruiting, player development, competitive success, academic achievement, and program administration. The successful candidate will be a\u2026",
-   "school": {
-    "name": "Bridgewater College",
-    "city": "Bridgewater",
-    "state": "VA",
-    "division": "NCAA D3",
-    "group": "d3",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 1396,
-    "sb_players": 26,
-    "sb_opexp": 118244,
-    "sb_expenses": 222240,
-    "sb_revenue": 222240,
-    "sb_head_ft": 0,
-    "sb_head_pt": 1,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 4,
-    "hc_salary_women": 55966,
-    "ac_salary_women": 38045,
-    "student_aid_women": 0,
-    "recruit_exp_women": 40305,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     94928,
-     76677,
-     175027,
-     182808,
-     196800,
-     222240
-    ],
-    "trend_players": [
-     22,
-     22,
-     26,
-     29,
-     25,
-     26
     ]
    }
   },
@@ -3867,65 +3867,77 @@
    }
   },
   {
-   "title": "Head Coach Women's Softball",
+   "title": "Head Softball Coach",
    "links": [
     {
      "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22359148/head-coach-women-s-softball"
+     "url": "https://ncaamarket.ncaa.org/jobs/22359141/head-softball-coach"
     }
    ],
    "posted": "2026-06-17",
    "deadline": "",
    "contact": "",
-   "id": "facf7663474b",
+   "id": "241469e38663",
    "type": "head",
-   "school_key": "445708",
+   "school_key": "150756",
    "tok": [
     "head"
    ],
-   "unitid": "445708",
-   "school_name": "Johnson & Wales University-Charlotte",
-   "city": "Charlotte",
-   "state": "NC",
+   "unitid": "150756",
+   "school_name": "Hanover College",
+   "city": "Hanover",
+   "state": "IN",
    "division": "NCAA D3",
    "group": "d3",
    "posted_is_estimate": false,
    "first_seen": "2026-07-09",
    "salary": "",
-   "snippet": "Coaches, supervises and develops an intercollegiate varsity team, including in-season and off-season programming, in accordance with institutional and departmental objectives within the rules and regulations of the athletic governing bodies. Creates a competitive and fiscally responsible schedule of intercollegiate competition Essential Job Functions Plans, strategizes and oversees all practices and scheduled\u2026",
+   "snippet": "Position Summary Leads and develops a competitive NCAA Division III women's softball program that operates within the parameters set by Hanover College, the conference, and the NCAA. Ensures an excellent student-athlete experience focused on competitive excellence, academic success, wellness, character development, and inclusive excellence while engaging alumni, families, and the broader community. Primary\u2026",
    "school": {
-    "name": "Johnson & Wales University-Charlotte",
-    "city": "Charlotte",
-    "state": "NC",
+    "name": "Hanover College",
+    "city": "Hanover",
+    "state": "IN",
     "division": "NCAA D3",
     "group": "d3",
     "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 1153,
-    "sb_players": 14,
-    "sb_opexp": 34398,
-    "sb_expenses": 144928,
-    "sb_revenue": 163181,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
+    "enrollment": 1021,
+    "sb_players": 19,
+    "sb_opexp": 57785,
+    "sb_expenses": 117221,
+    "sb_revenue": 117221,
+    "sb_head_ft": 0,
+    "sb_head_pt": 1,
     "sb_asst_ft": 0,
-    "sb_asst_pt": 2,
-    "hc_salary_women": 49457,
-    "ac_salary_women": 34512,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 60502,
+    "ac_salary_women": 42304,
     "student_aid_women": 0,
-    "recruit_exp_women": 11925,
-    "conference": "Coast-To-Coast Athletic Conference",
-    "ath_url": "https://charlotte.jwuathletics.com/",
+    "recruit_exp_women": 35985,
+    "conference": "Heartland Collegiate Athletic Conference",
+    "ath_url": "https://athletics.hanover.edu/landing/index",
     "trend_years": [
      2020,
+     2021,
+     2022,
+     2023,
+     2024,
      2025
     ],
     "trend_exp": [
-     null,
-     144928
+     78938,
+     78108,
+     101667,
+     108826,
+     97785,
+     117221
     ],
     "trend_players": [
-     null,
-     14
+     17,
+     14,
+     14,
+     19,
+     17,
+     19
     ]
    }
   },
@@ -4008,81 +4020,6 @@
    }
   },
   {
-   "title": "Head Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22359141/head-softball-coach"
-    }
-   ],
-   "posted": "2026-06-17",
-   "deadline": "",
-   "contact": "",
-   "id": "241469e38663",
-   "type": "head",
-   "school_key": "150756",
-   "tok": [
-    "head"
-   ],
-   "unitid": "150756",
-   "school_name": "Hanover College",
-   "city": "Hanover",
-   "state": "IN",
-   "division": "NCAA D3",
-   "group": "d3",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Position Summary Leads and develops a competitive NCAA Division III women's softball program that operates within the parameters set by Hanover College, the conference, and the NCAA. Ensures an excellent student-athlete experience focused on competitive excellence, academic success, wellness, character development, and inclusive excellence while engaging alumni, families, and the broader community. Primary\u2026",
-   "school": {
-    "name": "Hanover College",
-    "city": "Hanover",
-    "state": "IN",
-    "division": "NCAA D3",
-    "group": "d3",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 1021,
-    "sb_players": 19,
-    "sb_opexp": 57785,
-    "sb_expenses": 117221,
-    "sb_revenue": 117221,
-    "sb_head_ft": 0,
-    "sb_head_pt": 1,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 60502,
-    "ac_salary_women": 42304,
-    "student_aid_women": 0,
-    "recruit_exp_women": 35985,
-    "conference": "Heartland Collegiate Athletic Conference",
-    "ath_url": "https://athletics.hanover.edu/landing/index",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     78938,
-     78108,
-     101667,
-     108826,
-     97785,
-     117221
-    ],
-    "trend_players": [
-     17,
-     14,
-     14,
-     19,
-     17,
-     19
-    ]
-   }
-  },
-  {
    "title": "Assistant Coach, Softball",
    "links": [
     {
@@ -4151,6 +4088,69 @@
      19,
      17,
      20
+    ]
+   }
+  },
+  {
+   "title": "Head Coach Women's Softball",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22359148/head-coach-women-s-softball"
+    }
+   ],
+   "posted": "2026-06-17",
+   "deadline": "",
+   "contact": "",
+   "id": "facf7663474b",
+   "type": "head",
+   "school_key": "445708",
+   "tok": [
+    "head"
+   ],
+   "unitid": "445708",
+   "school_name": "Johnson & Wales University-Charlotte",
+   "city": "Charlotte",
+   "state": "NC",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-09",
+   "salary": "",
+   "snippet": "Coaches, supervises and develops an intercollegiate varsity team, including in-season and off-season programming, in accordance with institutional and departmental objectives within the rules and regulations of the athletic governing bodies. Creates a competitive and fiscally responsible schedule of intercollegiate competition Essential Job Functions Plans, strategizes and oversees all practices and scheduled\u2026",
+   "school": {
+    "name": "Johnson & Wales University-Charlotte",
+    "city": "Charlotte",
+    "state": "NC",
+    "division": "NCAA D3",
+    "group": "d3",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 1153,
+    "sb_players": 14,
+    "sb_opexp": 34398,
+    "sb_expenses": 144928,
+    "sb_revenue": 163181,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 2,
+    "hc_salary_women": 49457,
+    "ac_salary_women": 34512,
+    "student_aid_women": 0,
+    "recruit_exp_women": 11925,
+    "conference": "Coast-To-Coast Athletic Conference",
+    "ath_url": "https://charlotte.jwuathletics.com/",
+    "trend_years": [
+     2020,
+     2025
+    ],
+    "trend_exp": [
+     null,
+     144928
+    ],
+    "trend_players": [
+     null,
+     14
     ]
    }
   },
@@ -4607,81 +4607,6 @@
      21,
      19,
      22
-    ]
-   }
-  },
-  {
-   "title": "Head Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://wiu.interviewexchange.com/jobofferdetails.jsp?JOBID=201335"
-    }
-   ],
-   "posted": "2026-06-12",
-   "deadline": "7/1/26",
-   "contact": "Shelby Borchardt",
-   "id": "7bcafa17db5c",
-   "type": "head",
-   "school_key": "149772",
-   "tok": [
-    "head"
-   ],
-   "unitid": "149772",
-   "school_name": "Western Illinois University",
-   "city": "Macomb",
-   "state": "IL",
-   "division": "NCAA D1",
-   "group": "d1",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Application Deadline: 7/1/26 Posting Date: 6/12/26 The softball head coach is responsible for leading all aspects of a competitive NCAA Division I softball program including, but not limited to: budget management, recruiting, fundraising, supervision of staff, a commitment to student-athlete health and welfare, and directing skill instruction and development. The successful candidate must be fully committed to all\u2026",
-   "school": {
-    "name": "Western Illinois University",
-    "city": "Macomb",
-    "state": "IL",
-    "division": "NCAA D1",
-    "group": "d1",
-    "sector": "Public, 4-year or above",
-    "enrollment": 3736,
-    "sb_players": 24,
-    "sb_opexp": 21987,
-    "sb_expenses": 657975,
-    "sb_revenue": 657975,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 1,
-    "sb_asst_pt": 0,
-    "hc_salary_women": 51183,
-    "ac_salary_women": 36432,
-    "student_aid_women": 1866182,
-    "recruit_exp_women": 46299,
-    "conference": "Ohio Valley Conference",
-    "ath_url": "https://www.goleathernecks.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     365750,
-     437354,
-     561948,
-     437354,
-     637881,
-     657975
-    ],
-    "trend_players": [
-     21,
-     17,
-     19,
-     21,
-     24,
-     24
     ]
    }
   },
@@ -5216,81 +5141,6 @@
    }
   },
   {
-   "title": "Assistant Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://nfca.org/nfca-job-postings"
-    }
-   ],
-   "posted": "2026-06-04",
-   "deadline": "Until Position is filled",
-   "contact": "Lori Perez",
-   "id": "baa05b7cc95e",
-   "type": "assistant",
-   "school_key": "110617",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "110617",
-   "school_name": "California State University-Sacramento",
-   "city": "Sacramento",
-   "state": "CA",
-   "division": "NCAA D1",
-   "group": "d1",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Assistant Coach in areas of hitting and defense. Assist head coach in administrative duties, recruiting, camps, player development, practice and game implementation, and other duties as needed. Please send inquiries and/or resume to Head Coach Lori",
-   "school": {
-    "name": "California State University-Sacramento",
-    "city": "Sacramento",
-    "state": "CA",
-    "division": "NCAA D1",
-    "group": "d1",
-    "sector": "Public, 4-year or above",
-    "enrollment": 22850,
-    "sb_players": 26,
-    "sb_opexp": 73950,
-    "sb_expenses": 1107098,
-    "sb_revenue": 1107098,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 2,
-    "sb_asst_pt": 0,
-    "hc_salary_women": 126123,
-    "ac_salary_women": 83270,
-    "student_aid_women": 3349801,
-    "recruit_exp_women": 144604,
-    "conference": "Big West Conference",
-    "ath_url": "https://www.hornetsports.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     872360,
-     909437,
-     1060656,
-     1167745,
-     1216693,
-     1107098
-    ],
-    "trend_players": [
-     24,
-     27,
-     21,
-     25,
-     25,
-     26
-    ]
-   }
-  },
-  {
    "title": "Graduate Assistant Coach",
    "links": [
     {
@@ -5548,81 +5398,6 @@
    }
   },
   {
-   "title": "Assistant Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://prd.hcm.ndus.edu/psc/recruit/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=2959196&PostingSeq=1"
-    }
-   ],
-   "posted": "2026-06-02",
-   "deadline": "Until Position is Filled",
-   "contact": "Sal Rodriguez",
-   "id": "dbfd80f18bab",
-   "type": "assistant",
-   "school_key": "200253",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "200253",
-   "school_name": "Minot State University",
-   "city": "Minot",
-   "state": "ND",
-   "division": "NCAA D2",
-   "group": "d2",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Minot State University Softball is seeking candidates for our Full-Time Assistant Coach Position. Pitching experience is preferred, but not required. Player development & individualized instruction Scouting, game prep, and in-game adjustments Recruiting and player evaluation Video analysis and performance development Practice planning and team operations Student-athlete mentorship and leadership NCAA Division II\u2026",
-   "school": {
-    "name": "Minot State University",
-    "city": "Minot",
-    "state": "ND",
-    "division": "NCAA D2",
-    "group": "d2",
-    "sector": "Public, 4-year or above",
-    "enrollment": 1696,
-    "sb_players": 24,
-    "sb_opexp": 132785,
-    "sb_expenses": 375438,
-    "sb_revenue": 375438,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 1,
-    "sb_asst_pt": 2,
-    "hc_salary_women": 76762,
-    "ac_salary_women": 76740,
-    "student_aid_women": 674397,
-    "recruit_exp_women": 67899,
-    "conference": "Northern Sun Intercollegiate Conference",
-    "ath_url": "https://www.msubeavers.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     246039,
-     292312,
-     361946,
-     371856,
-     314161,
-     375438
-    ],
-    "trend_players": [
-     23,
-     26,
-     25,
-     24,
-     24,
-     24
-    ]
-   }
-  },
-  {
    "title": "Graduate Assistant Coach",
    "links": [
     {
@@ -5770,81 +5545,6 @@
      14,
      15,
      21
-    ]
-   }
-  },
-  {
-   "title": "Assistant Coach (Pitching)",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://www.murraystatejobs.com/postings/12597"
-    }
-   ],
-   "posted": "2026-05-29",
-   "deadline": "Until Position is filled",
-   "contact": "Kara Amundson",
-   "id": "5abf88cbe8cc",
-   "type": "assistant",
-   "school_key": "157401",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "157401",
-   "school_name": "Murray State University",
-   "city": "Murray",
-   "state": "KY",
-   "division": "NCAA D1",
-   "group": "d1",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Assist the Head Coach with managing and supervising the day to day operations of the athletic team, including teaching, coaching, fund-raising activities; provide leadership and support for the vision and strategies of the Head Coach. Responsibilities & Duties: Recruitment Negotiate scholarship offers to prospects under the direction of the head coach. Coordinate and oversee the recruitment of student-athletes.\u2026",
-   "school": {
-    "name": "Murray State University",
-    "city": "Murray",
-    "state": "KY",
-    "division": "NCAA D1",
-    "group": "d1",
-    "sector": "Public, 4-year or above",
-    "enrollment": 6098,
-    "sb_players": 22,
-    "sb_opexp": 195835,
-    "sb_expenses": 666096,
-    "sb_revenue": 797545,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 2,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 77875,
-    "ac_salary_women": 38542,
-    "student_aid_women": 2439489,
-    "recruit_exp_women": 113108,
-    "conference": "Missouri Valley Conference",
-    "ath_url": "https://www.goracers.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     518901,
-     529786,
-     627586,
-     647827,
-     641031,
-     666096
-    ],
-    "trend_players": [
-     20,
-     23,
-     23,
-     21,
-     21,
-     22
     ]
    }
   },
@@ -6142,81 +5842,6 @@
      20,
      22,
      18
-    ]
-   }
-  },
-  {
-   "title": "Assistant Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://ehwy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3640/?utm_medium=jobshare&utm_source=External+Job+Share"
-    }
-   ],
-   "posted": "2026-05-28",
-   "deadline": "N/A",
-   "contact": "Kelly Robichaud",
-   "id": "12293e1f4fc5",
-   "type": "assistant",
-   "school_key": "191968",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "191968",
-   "school_name": "Ithaca College",
-   "city": "Ithaca",
-   "state": "NY",
-   "division": "NCAA D3",
-   "group": "d3",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "As a member of the coaching staff responsibilities include working closely with the Head Coach to develop and coach an NCAA Division III athletic team. Coaching staff responsibilities include recruitment, and coaching athletes and teams in the College NCAA Division III athletics program, teaching courses in the PALS and/or professional physical education program and/or carrying out assigned administrative\u2026",
-   "school": {
-    "name": "Ithaca College",
-    "city": "Ithaca",
-    "state": "NY",
-    "division": "NCAA D3",
-    "group": "d3",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 4200,
-    "sb_players": 23,
-    "sb_opexp": 69837,
-    "sb_expenses": 203634,
-    "sb_revenue": 203634,
-    "sb_head_ft": 0,
-    "sb_head_pt": 1,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 72706,
-    "ac_salary_women": 45178,
-    "student_aid_women": 0,
-    "recruit_exp_women": 44120,
-    "conference": "Liberty League",
-    "ath_url": "https://athletics.ithaca.edu",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     220621,
-     140465,
-     205958,
-     185727,
-     192675,
-     203634
-    ],
-    "trend_players": [
-     21,
-     20,
-     19,
-     20,
-     17,
-     23
     ]
    }
   },
@@ -6602,7 +6227,7 @@
     }
    ],
    "posted": "2026-05-19",
-   "deadline": "5/31/26",
+   "deadline": "Until position is filled",
    "contact": "Ryan Konitzer",
    "id": "fc7196391817",
    "type": "assistant",
@@ -6619,7 +6244,7 @@
    "posted_is_estimate": false,
    "first_seen": "2026-07-09",
    "salary": "",
-   "snippet": "Full-time position. Will help with all the day-to-day operations of running a successful D3 softball",
+   "snippet": "Posting Date: 5/19/26 Full-time position. Will help with all the day-to-day operations of running a successful D3 softball",
    "school": {
     "name": "University of Wisconsin-Stevens Point",
     "city": "Stevens Point",
@@ -6665,81 +6290,6 @@
      21,
      21,
      19
-    ]
-   }
-  },
-  {
-   "title": "Assistant Coach (Defense/Recruiting)",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://jobs.wichita.edu/jobs/assistant-softball-coach-defense-recruiting-coordinator-wichita-kansas-united-states"
-    }
-   ],
-   "posted": "2026-05-19",
-   "deadline": "Until position is filled",
-   "contact": "Kristi Bredbenner",
-   "id": "c2cc8bfdd265",
-   "type": "assistant",
-   "school_key": "156125",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "156125",
-   "school_name": "Wichita State University",
-   "city": "Wichita",
-   "state": "KS",
-   "division": "NCAA D1",
-   "group": "d1",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Posting Date: 5/19/26 Wichita State Softball, the 2026 American Conference champs, are seeking a full-time Defense & Recruiting Coach. This position is responsible for leading defensive development and managing all aspects of the program\u2019s recruiting efforts. Job Specific Duties: Lead and implement defensive training and game preparation Provide primary instruction for infield development Organize and coordinate all\u2026",
-   "school": {
-    "name": "Wichita State University",
-    "city": "Wichita",
-    "state": "KS",
-    "division": "NCAA D1",
-    "group": "d1",
-    "sector": "Public, 4-year or above",
-    "enrollment": 8687,
-    "sb_players": 21,
-    "sb_opexp": 604661,
-    "sb_expenses": 2093987,
-    "sb_revenue": 2093987,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 3,
-    "sb_asst_pt": 0,
-    "hc_salary_women": 151464,
-    "ac_salary_women": 62255,
-    "student_aid_women": 2836803,
-    "recruit_exp_women": 255136,
-    "conference": "American Conference",
-    "ath_url": "https://www.goshockers.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     1041851,
-     1035461,
-     1461308,
-     1667213,
-     2215164,
-     2093987
-    ],
-    "trend_players": [
-     22,
-     25,
-     24,
-     22,
-     22,
-     21
     ]
    }
   },
@@ -6815,81 +6365,6 @@
      23,
      20,
      13
-    ]
-   }
-  },
-  {
-   "title": "Assistant Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://nfca.org/nfca-job-postings"
-    }
-   ],
-   "posted": "2026-05-15",
-   "deadline": "N/A",
-   "contact": "Jordan Petersen",
-   "id": "b3c4bdab8a85",
-   "type": "assistant",
-   "school_key": "173124",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "173124",
-   "school_name": "Bemidji State University",
-   "city": "Bemidji",
-   "state": "MN",
-   "division": "NCAA D2",
-   "group": "d2",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "The Assistant Softball Coach will assist the Head Softball Coach with all facets of the softball program. Pitching background is preferred but not required Other responsibilities will include but are not limited to recruiting, assisting in practice, traveling, competition preparation, fundraising, and study hall supervision. Looking for someone who is highly motivated, loyal, and loves the game. To apply please send\u2026",
-   "school": {
-    "name": "Bemidji State University",
-    "city": "Bemidji",
-    "state": "MN",
-    "division": "NCAA D2",
-    "group": "d2",
-    "sector": "Public, 4-year or above",
-    "enrollment": 2303,
-    "sb_players": 20,
-    "sb_opexp": 101851,
-    "sb_expenses": 314413,
-    "sb_revenue": 314413,
-    "sb_head_ft": 0,
-    "sb_head_pt": 1,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 128898,
-    "ac_salary_women": 83977,
-    "student_aid_women": 1134611,
-    "recruit_exp_women": 71860,
-    "conference": "Northern Sun Intercollegiate Conference",
-    "ath_url": "https://www.bsubeavers.com/",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     172489,
-     193370,
-     225835,
-     259434,
-     297480,
-     314413
-    ],
-    "trend_players": [
-     15,
-     20,
-     20,
-     21,
-     19,
-     20
     ]
    }
   },
@@ -7380,14 +6855,14 @@
  ],
  "seen": {
   "87161bbef83f": "2026-07-13",
-  "ac6fc459f4be": "2026-07-10",
   "1a663c4725c5": "2026-07-10",
+  "ac6fc459f4be": "2026-07-10",
   "5dad2186c904": "2026-07-10",
-  "456cf7190ab0": "2026-07-09",
   "1f6a4a73100c": "2026-07-09",
-  "1bd1d2243ea1": "2026-07-09",
-  "b3bfa5acc501": "2026-07-09",
+  "456cf7190ab0": "2026-07-09",
   "6bfd433b5593": "2026-07-09",
+  "b3bfa5acc501": "2026-07-09",
+  "1bd1d2243ea1": "2026-07-09",
   "a9b675d23aac": "2026-07-09",
   "d0d50f6147e1": "2026-07-09",
   "6f7cc7032079": "2026-07-09",
@@ -7399,19 +6874,19 @@
   "a6b8c400c81c": "2026-07-09",
   "c19ca237bbf3": "2026-07-09",
   "7e966c47342c": "2026-07-09",
-  "f4e36379ec03": "2026-07-09",
-  "a9326c727b8d": "2026-07-09",
-  "c90bbe77a6bd": "2026-07-09",
   "d47e17f05fdc": "2026-07-09",
+  "f4e36379ec03": "2026-07-09",
+  "c90bbe77a6bd": "2026-07-09",
+  "a9326c727b8d": "2026-07-09",
   "8b9c595adb7b": "2026-07-09",
   "585847a84c4c": "2026-07-09",
   "b7a71d51d1d9": "2026-07-09",
   "0cac66c17393": "2026-07-09",
   "d386be189b21": "2026-07-09",
-  "facf7663474b": "2026-07-09",
-  "a81e3ed2442f": "2026-07-09",
   "241469e38663": "2026-07-09",
+  "a81e3ed2442f": "2026-07-09",
   "4fb4b1ef6446": "2026-07-09",
+  "facf7663474b": "2026-07-09",
   "f6e75bcaa5d5": "2026-07-09",
   "746a1b232f15": "2026-07-09",
   "06678715b44e": "2026-07-09",
@@ -7419,7 +6894,6 @@
   "230f89a9a4df": "2026-07-09",
   "8f5981eafc1d": "2026-07-09",
   "6825ea940d04": "2026-07-09",
-  "7bcafa17db5c": "2026-07-09",
   "d15026de3f7f": "2026-07-09",
   "75feb34c8e03": "2026-07-09",
   "1bd975199ae6": "2026-07-09",
@@ -7445,20 +6919,14 @@
   "2b8deebb921e": "2026-07-09",
   "4fa6c0ff2416": "2026-07-09",
   "2ce2b48ada9c": "2026-07-09",
-  "baa05b7cc95e": "2026-07-09",
   "a70fcd3eb920": "2026-07-09",
-  "dbfd80f18bab": "2026-07-09",
   "65cc84f81c35": "2026-07-09",
-  "5abf88cbe8cc": "2026-07-09",
   "e838a441e527": "2026-07-09",
   "9d196befe576": "2026-07-09",
   "6ae1599c2db0": "2026-07-09",
   "deb86c86f6cf": "2026-07-09",
-  "12293e1f4fc5": "2026-07-09",
   "fc7196391817": "2026-07-09",
-  "c2cc8bfdd265": "2026-07-09",
   "a746ff2593b0": "2026-07-09",
-  "b3c4bdab8a85": "2026-07-09",
   "73c2c9224bbd": "2026-07-09",
   "592651c371ea": "2026-07-10",
   "88a0a3e70647": "2026-07-09",
@@ -7478,6 +6946,13 @@
   "d2e828bf3c1b": "2026-07-09",
   "7d5906f6c9f1": "2026-07-09",
   "7940a4546058": "2026-07-09",
+  "7bcafa17db5c": "2026-07-09",
+  "baa05b7cc95e": "2026-07-09",
+  "dbfd80f18bab": "2026-07-09",
+  "5abf88cbe8cc": "2026-07-09",
+  "12293e1f4fc5": "2026-07-09",
+  "c2cc8bfdd265": "2026-07-09",
+  "b3c4bdab8a85": "2026-07-09",
   "6267ef95dbf7": "2026-07-09",
   "cadeb39c3320": "2026-07-09",
   "36db334551b8": "2026-07-09",
