@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-14T14:20:01+00:00",
+ "generated_at": "2026-07-14T16:41:49+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -26,6 +26,72 @@
  ],
  "count": 92,
  "jobs": [
+  {
+   "title": "Head Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22386923/head-softball-coach"
+    }
+   ],
+   "posted": "2026-07-14",
+   "deadline": "",
+   "contact": "",
+   "id": "a6b8c400c81c",
+   "type": "head",
+   "school_key": "231165",
+   "tok": [
+    "head"
+   ],
+   "unitid": "231165",
+   "school_name": "Vermont State University",
+   "city": "Castleton",
+   "state": "VT",
+   "division": "USCAA",
+   "group": "other",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-09",
+   "salary": "",
+   "snippet": "The position of Head Softball Coach at Vermont State University Castleton will report directly to the Director of Athletics. The coach will manage the daily operations of a NCAA Division III softball program under the guidelines established by Vermont State University, NCAA and the Little East Conference. Responsibilities include, but not limited to, practice and game preparation, the supervision of the assistant\u2026",
+   "school": {
+    "name": "Vermont State University",
+    "city": "Randolph",
+    "state": "VT",
+    "division": "USCAA",
+    "group": "other",
+    "sector": "Public, 4-year or above",
+    "enrollment": 2705,
+    "sb_players": 41,
+    "sb_opexp": 67643,
+    "sb_expenses": 285880,
+    "sb_revenue": 322845,
+    "sb_head_ft": 0,
+    "sb_head_pt": 3,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 6,
+    "hc_salary_women": 36252,
+    "ac_salary_women": 41548,
+    "student_aid_women": 0,
+    "recruit_exp_women": 26200,
+    "conference": "",
+    "ath_url": "",
+    "trend_years": [
+     2020,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     null,
+     258903,
+     285880
+    ],
+    "trend_players": [
+     null,
+     46,
+     41
+    ]
+   }
+  },
   {
    "title": "Head Coach - Womens Softball",
    "links": [
@@ -2237,72 +2303,6 @@
      14,
      19,
      15
-    ]
-   }
-  },
-  {
-   "title": "Head Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22386923/head-softball-coach"
-    }
-   ],
-   "posted": "2026-06-29",
-   "deadline": "",
-   "contact": "",
-   "id": "a6b8c400c81c",
-   "type": "head",
-   "school_key": "231165",
-   "tok": [
-    "head"
-   ],
-   "unitid": "231165",
-   "school_name": "Vermont State University",
-   "city": "Castleton",
-   "state": "VT",
-   "division": "USCAA",
-   "group": "other",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "The position of Head Softball Coach at Vermont State University Castleton will report directly to the Director of Athletics. The coach will manage the daily operations of a NCAA Division III softball program under the guidelines established by Vermont State University, NCAA and the Little East Conference. Responsibilities include, but not limited to, practice and game preparation, the supervision of the assistant\u2026",
-   "school": {
-    "name": "Vermont State University",
-    "city": "Randolph",
-    "state": "VT",
-    "division": "USCAA",
-    "group": "other",
-    "sector": "Public, 4-year or above",
-    "enrollment": 2705,
-    "sb_players": 41,
-    "sb_opexp": 67643,
-    "sb_expenses": 285880,
-    "sb_revenue": 322845,
-    "sb_head_ft": 0,
-    "sb_head_pt": 3,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 6,
-    "hc_salary_women": 36252,
-    "ac_salary_women": 41548,
-    "student_aid_women": 0,
-    "recruit_exp_women": 26200,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     null,
-     258903,
-     285880
-    ],
-    "trend_players": [
-     null,
-     46,
-     41
     ]
    }
   },
