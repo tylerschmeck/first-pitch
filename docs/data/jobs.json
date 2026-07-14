@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-14T16:41:49+00:00",
+ "generated_at": "2026-07-14T19:49:27+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -11,7 +11,7 @@
   {
    "name": "NFCA",
    "ok": true,
-   "count": 71
+   "count": 72
   },
   {
    "name": "NJCAA Career Center",
@@ -24,8 +24,83 @@
    "count": 1
   }
  ],
- "count": 92,
+ "count": 93,
  "jobs": [
+  {
+   "title": "Head Coach",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://cu.taleo.net/careersection/2/jobdetail.ftl?job=40491&lang=en"
+    }
+   ],
+   "posted": "2026-07-14",
+   "deadline": "7/27/26 Posting Date: 7/14/26",
+   "contact": "Heather Sutton",
+   "id": "2203c19ce5c2",
+   "type": "head",
+   "school_key": "126580",
+   "tok": [
+    "head"
+   ],
+   "unitid": "126580",
+   "school_name": "University of Colorado Colorado Springs",
+   "city": "Colorado Springs",
+   "state": "CO",
+   "division": "NCAA D2",
+   "group": "d2",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-14",
+   "salary": "",
+   "snippet": "Head coach of the varsity softball team for intercollegiate competition at a nationally competitive",
+   "school": {
+    "name": "University of Colorado Colorado Springs",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "division": "NCAA D2",
+    "group": "d2",
+    "sector": "Public, 4-year or above",
+    "enrollment": 7131,
+    "sb_players": 27,
+    "sb_opexp": 90169,
+    "sb_expenses": 359950,
+    "sb_revenue": 370684,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 99320,
+    "ac_salary_women": 55070,
+    "student_aid_women": 1378943,
+    "recruit_exp_women": 13678,
+    "conference": "Rocky Mountain Athletic Conference",
+    "ath_url": "https://www.gomountainlions.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     269926,
+     273504,
+     308687,
+     312295,
+     341171,
+     359950
+    ],
+    "trend_players": [
+     22,
+     21,
+     21,
+     24,
+     30,
+     27
+    ]
+   }
+  },
   {
    "title": "Head Softball Coach",
    "links": [
@@ -6891,6 +6966,7 @@
   "746a1b232f15": "2026-07-09",
   "06678715b44e": "2026-07-09",
   "6157b7f2ed28": "2026-07-09",
+  "2203c19ce5c2": "2026-07-14",
   "230f89a9a4df": "2026-07-09",
   "8f5981eafc1d": "2026-07-09",
   "6825ea940d04": "2026-07-09",
