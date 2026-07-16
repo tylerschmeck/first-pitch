@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-07-16T11:14:48+00:00",
+ "generated_at": "2026-07-16T14:29:16+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "name": "NFCA",
@@ -24,8 +24,83 @@
    "count": 1
   }
  ],
- "count": 95,
+ "count": 96,
  "jobs": [
+  {
+   "title": "Assistant Coach's Women's Softball",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22431107/assistant-coach-s-women-s-softball"
+    }
+   ],
+   "posted": "2026-07-16",
+   "deadline": "",
+   "contact": "",
+   "id": "785064da4c02",
+   "type": "assistant",
+   "school_key": "164924",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "164924",
+   "school_name": "Boston College",
+   "city": "Chestnut Hill",
+   "state": "MA",
+   "division": "NCAA D1",
+   "group": "d1",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-16",
+   "salary": "$67,350 to $84,200",
+   "snippet": "Assistant Coach's Women's Softball Reporting to the head women's softball coach, the assistant women's softball coach will help provide leadership and oversight for all aspects of a competitive program. This includes; -Strong ability to assist in providing overall leadership of the women's softball program -Proven recruiter and evaluator at Division I, II or III level -Ability to foster a strong and positive culture\u2026",
+   "school": {
+    "name": "Boston College",
+    "city": "Chestnut Hill",
+    "state": "MA",
+    "division": "NCAA D1",
+    "group": "d1",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 9812,
+    "sb_players": 26,
+    "sb_opexp": 607995,
+    "sb_expenses": 2412518,
+    "sb_revenue": 2412518,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 2,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 194967,
+    "ac_salary_women": 94045,
+    "student_aid_women": 12962005,
+    "recruit_exp_women": 473572,
+    "conference": "Atlantic Coast Conference",
+    "ath_url": "https://www.bceagles.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     1371293,
+     1423812,
+     1614389,
+     2161210,
+     2414614,
+     2412518
+    ],
+    "trend_players": [
+     20,
+     25,
+     21,
+     23,
+     22,
+     26
+    ]
+   }
+  },
   {
    "title": "Head Coach",
    "links": [
@@ -7087,6 +7162,7 @@
   }
  ],
  "seen": {
+  "785064da4c02": "2026-07-16",
   "87161bbef83f": "2026-07-13",
   "ac6fc459f4be": "2026-07-10",
   "1a663c4725c5": "2026-07-10",
