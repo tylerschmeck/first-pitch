@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-07-16T19:37:53+00:00",
+ "generated_at": "2026-07-16T22:27:17+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 41
+   "count": 43
   },
   {
    "name": "NFCA",
    "ok": true,
-   "count": 80
+   "count": 82
   },
   {
    "name": "NJCAA Career Center",
@@ -24,8 +24,158 @@
    "count": 1
   }
  ],
- "count": 99,
+ "count": 103,
  "jobs": [
+  {
+   "title": "Assistant Coach- Softball",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22431721/assistant-coach-softball"
+    }
+   ],
+   "posted": "2026-07-16",
+   "deadline": "",
+   "contact": "",
+   "id": "c6eb0a343ae6",
+   "type": "assistant",
+   "school_key": "182670",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "182670",
+   "school_name": "Dartmouth College",
+   "city": "Hanover",
+   "state": "NH",
+   "division": "NCAA D1",
+   "group": "d1",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-16",
+   "salary": "",
+   "snippet": "Looking for a candidate to assist the head coach in planning, coaching, recruiting, administering, and promoting the softball program within NCAA, Ivy League, and institutional standards. Ideal candidate will have a strong background in either pitching or defensive development and excellent recruiter, teacher, and mentor who will positively contribute to our program\u2019s culture and student-athlete development.\u2026",
+   "school": {
+    "name": "Dartmouth College",
+    "city": "Hanover",
+    "state": "NH",
+    "division": "NCAA D1",
+    "group": "d1",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 4541,
+    "sb_players": 20,
+    "sb_opexp": 206712,
+    "sb_expenses": 588382,
+    "sb_revenue": 588382,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 1,
+    "sb_asst_pt": 2,
+    "hc_salary_women": 138534,
+    "ac_salary_women": 65391,
+    "student_aid_women": 0,
+    "recruit_exp_women": 435853,
+    "conference": "The Ivy League",
+    "ath_url": "https://www.dartmouthsports.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     368314,
+     229082,
+     533538,
+     530419,
+     529259,
+     588382
+    ],
+    "trend_players": [
+     24,
+     16,
+     21,
+     16,
+     15,
+     20
+    ]
+   }
+  },
+  {
+   "title": "Assistant Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22431734/assistant-softball-coach"
+    }
+   ],
+   "posted": "2026-07-16",
+   "deadline": "",
+   "contact": "",
+   "id": "74237ab25b90",
+   "type": "assistant",
+   "school_key": "154095",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "154095",
+   "school_name": "University of Northern Iowa",
+   "city": "Cedar Falls",
+   "state": "IA",
+   "division": "NCAA D1",
+   "group": "d1",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-16",
+   "salary": "",
+   "snippet": "Primary Function: Supports all aspects of competitive NCAA Division I softball program, with primary responsibilities in coaching, recruiting, player development, scouting, and program operations; plays a key role in the instruction and development of student-athletes, focusing on pitchers and catchers, while assisting with team practices, game preparation, and in-game strategy; serves as the program\u2019s lead\u2026",
+   "school": {
+    "name": "University of Northern Iowa",
+    "city": "Cedar Falls",
+    "state": "IA",
+    "division": "NCAA D1",
+    "group": "d1",
+    "sector": "Public, 4-year or above",
+    "enrollment": 6904,
+    "sb_players": 22,
+    "sb_opexp": 197837,
+    "sb_expenses": 825460,
+    "sb_revenue": 825460,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 2,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 98848,
+    "ac_salary_women": 59703,
+    "student_aid_women": 2120639,
+    "recruit_exp_women": 87242,
+    "conference": "Missouri Valley Conference",
+    "ath_url": "https://unipanthers.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     595078,
+     628505,
+     792876,
+     820768,
+     781705,
+     825460
+    ],
+    "trend_players": [
+     23,
+     20,
+     25,
+     25,
+     23,
+     22
+    ]
+   }
+  },
   {
    "title": "Assistant Coach's Women's Softball",
    "links": [
@@ -328,6 +478,156 @@
      28,
      25,
      22
+    ]
+   }
+  },
+  {
+   "title": "Assistant Coach",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://stevens.wd5.myworkdayjobs.com/External"
+    }
+   ],
+   "posted": "2026-07-16",
+   "deadline": "Until position is filled",
+   "contact": "Emily Kaczmarek",
+   "id": "c6988c263366",
+   "type": "assistant",
+   "school_key": "186867",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "186867",
+   "school_name": "Stevens Institute of Technology",
+   "city": "Hoboken",
+   "state": "NJ",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-16",
+   "salary": "",
+   "snippet": "Posting Date: 7/16/26 Position Summary The Assistant Softball Coach assists in the development, implementation, and daily operations of a competitive NCAA Division III softball program. This position supports all aspects of the student-athlete experience, including athletic and personal development, recruiting, competitive preparation, program administration, and operational management. The Assistant Coach\u2026",
+   "school": {
+    "name": "Stevens Institute of Technology",
+    "city": "Hoboken",
+    "state": "NJ",
+    "division": "NCAA D3",
+    "group": "d3",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 4158,
+    "sb_players": 18,
+    "sb_opexp": 135721,
+    "sb_expenses": 293343,
+    "sb_revenue": 293343,
+    "sb_head_ft": 0,
+    "sb_head_pt": 1,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 4,
+    "hc_salary_women": 80384,
+    "ac_salary_women": 40088,
+    "student_aid_women": 0,
+    "recruit_exp_women": 85122,
+    "conference": "Middle Atlantic Conferences",
+    "ath_url": "https://www.stevensducks.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     127200,
+     123399,
+     215353,
+     215234,
+     251557,
+     293343
+    ],
+    "trend_players": [
+     21,
+     22,
+     19,
+     18,
+     18,
+     18
+    ]
+   }
+  },
+  {
+   "title": "Assistant Coach",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://nfca.org/nfca-job-postings"
+    }
+   ],
+   "posted": "2026-07-16",
+   "deadline": "Open until filled",
+   "contact": "",
+   "id": "287e859d9d4f",
+   "type": "assistant",
+   "school_key": "230171",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "230171",
+   "school_name": "Utah Tech University",
+   "city": "St. George",
+   "state": "UT",
+   "division": "NCAA D1",
+   "group": "d1",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-16",
+   "salary": "$42,000",
+   "snippet": "Utah Tech Softball is looking to hire an assistant softball coach - specifically to work with our infielders & hitters. Base salary is $42,000. In addition there is an opportunity to increase salary with additional on-campus instructional camps throughout the year. Unfortunately this position does not include benefits. We are looking for a dynamic individual that can lead our infielders & hitters to be the best in\u2026",
+   "school": {
+    "name": "Utah Tech University",
+    "city": "Saint George",
+    "state": "UT",
+    "division": "NCAA D1",
+    "group": "d1",
+    "sector": "Public, 4-year or above",
+    "enrollment": 6941,
+    "sb_players": 23,
+    "sb_opexp": 316412,
+    "sb_expenses": 874144,
+    "sb_revenue": 874144,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 4,
+    "hc_salary_women": 82385,
+    "ac_salary_women": 45569,
+    "student_aid_women": 1390604,
+    "recruit_exp_women": 103693,
+    "conference": "United Athletic Conference",
+    "ath_url": "https://utahtechtrailblazers.com/",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     531198,
+     487843,
+     629261,
+     741169,
+     826858,
+     874144
+    ],
+    "trend_players": [
+     22,
+     22,
+     22,
+     22,
+     22,
+     23
     ]
    }
   },
@@ -7397,6 +7697,8 @@
  ],
  "seen": {
   "98cc111baa5c": "2026-07-09",
+  "c6eb0a343ae6": "2026-07-16",
+  "74237ab25b90": "2026-07-16",
   "785064da4c02": "2026-07-16",
   "e32a5e12db7a": "2026-07-16",
   "87161bbef83f": "2026-07-13",
@@ -7448,6 +7750,8 @@
   "1bd975199ae6": "2026-07-09",
   "43b25cc21dbc": "2026-07-09",
   "1c53ca778641": "2026-07-09",
+  "c6988c263366": "2026-07-16",
+  "287e859d9d4f": "2026-07-16",
   "ea2153bb6a7a": "2026-07-14",
   "2e5bfb488088": "2026-07-10",
   "206f76c36985": "2026-07-10",
