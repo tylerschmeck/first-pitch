@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-07-16T03:44:57+00:00",
+ "generated_at": "2026-07-16T08:37:43+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "name": "NFCA",
@@ -24,7 +24,7 @@
    "count": 1
   }
  ],
- "count": 96,
+ "count": 95,
  "jobs": [
   {
    "title": "Head Coach",
@@ -4769,81 +4769,6 @@
    }
   },
   {
-   "title": "Assistant Coach, Women's Softball",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22352928/assistant-coach-women-s-softball"
-    }
-   ],
-   "posted": "2026-06-15",
-   "deadline": "",
-   "contact": "",
-   "id": "746a1b232f15",
-   "type": "assistant",
-   "school_key": "233277",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "233277",
-   "school_name": "Radford University",
-   "city": "Radford",
-   "state": "VA",
-   "division": "NCAA D1",
-   "group": "d1",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Assists the head coach in the administration and leadership of the Radford University Division I Softball Program by providing coaching and instruction, recruiting, and facilitation of training and practice activities. An advanced degree in a related field and coaching and/or recruiting experience in softball, or an equivalent level of training and/or work experience. Ability to demonstrate and teach advanced\u2026",
-   "school": {
-    "name": "Radford University",
-    "city": "Radford",
-    "state": "VA",
-    "division": "NCAA D1",
-    "group": "d1",
-    "sector": "Public, 4-year or above",
-    "enrollment": 5504,
-    "sb_players": 21,
-    "sb_opexp": 148584,
-    "sb_expenses": 590896,
-    "sb_revenue": 590896,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 2,
-    "sb_asst_pt": 0,
-    "hc_salary_women": 82585,
-    "ac_salary_women": 43261,
-    "student_aid_women": 1619426,
-    "recruit_exp_women": 56745,
-    "conference": "Big South Conference",
-    "ath_url": "https://www.radfordathletics.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     516020,
-     487680,
-     452128,
-     532544,
-     524485,
-     590896
-    ],
-    "trend_players": [
-     17,
-     18,
-     18,
-     22,
-     21,
-     21
-    ]
-   }
-  },
-  {
    "title": "Assistant Coach",
    "links": [
     {
@@ -7196,7 +7121,6 @@
   "4fb4b1ef6446": "2026-07-09",
   "facf7663474b": "2026-07-09",
   "f6e75bcaa5d5": "2026-07-09",
-  "746a1b232f15": "2026-07-09",
   "06678715b44e": "2026-07-09",
   "6157b7f2ed28": "2026-07-09",
   "9385fae9ae6e": "2026-07-16",
@@ -7258,6 +7182,7 @@
   "ca96890caf3d": "2026-07-09",
   "7d5906f6c9f1": "2026-07-09",
   "7940a4546058": "2026-07-09",
+  "746a1b232f15": "2026-07-09",
   "a9a76ff787ab": "2026-07-09",
   "7bcafa17db5c": "2026-07-09",
   "baa05b7cc95e": "2026-07-09",
