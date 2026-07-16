@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-07-16T16:47:06+00:00",
+ "generated_at": "2026-07-16T19:37:53+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 39
+   "count": 41
   },
   {
    "name": "NFCA",
    "ok": true,
-   "count": 77
+   "count": 80
   },
   {
    "name": "NJCAA Career Center",
@@ -24,7 +24,7 @@
    "count": 1
   }
  ],
- "count": 96,
+ "count": 99,
  "jobs": [
   {
    "title": "Assistant Coach's Women's Softball",
@@ -32,11 +32,15 @@
     {
      "source": "NCAA Market",
      "url": "https://ncaamarket.ncaa.org/jobs/22431107/assistant-coach-s-women-s-softball"
+    },
+    {
+     "source": "NFCA",
+     "url": "https://bc.csod.com/ux/ats/careersite/7/home/requisition/11017?c=bc"
     }
    ],
    "posted": "2026-07-16",
-   "deadline": "",
-   "contact": "",
+   "deadline": "N/A",
+   "contact": "John Bogdan",
    "id": "785064da4c02",
    "type": "assistant",
    "school_key": "164924",
@@ -98,6 +102,232 @@
      23,
      22,
      26
+    ]
+   }
+  },
+  {
+   "title": "Graduate Assistant - Softball",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22431234/graduate-assistant-softball"
+    }
+   ],
+   "posted": "2026-07-16",
+   "deadline": "",
+   "contact": "",
+   "id": "e32a5e12db7a",
+   "type": "other",
+   "school_key": "204936",
+   "tok": [
+    "assistant",
+    "graduate"
+   ],
+   "unitid": "204936",
+   "school_name": "Otterbein University",
+   "city": "Westerville",
+   "state": "OH",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-16",
+   "salary": "",
+   "snippet": "Otterbein University, in partnership with Antioch University Graduate School, seeks a highly motivated and enthusiastic Graduate Teaching Assistant for the Softball program for the 2026\u201327 academic year. Otterbein University is an NCAA Division III institution and a member of the Ohio Athletic Conference. Located in Westerville, Ohio, Otterbein is a nationally recognized liberal arts institution with a strong\u2026",
+   "school": {
+    "name": "Otterbein University",
+    "city": "Westerville",
+    "state": "OH",
+    "division": "NCAA D3",
+    "group": "d3",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 2064,
+    "sb_players": 26,
+    "sb_opexp": 39533,
+    "sb_expenses": 114110,
+    "sb_revenue": 129141,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 2,
+    "hc_salary_women": 57644,
+    "ac_salary_women": 24930,
+    "student_aid_women": 0,
+    "recruit_exp_women": 15863,
+    "conference": "Ohio Athletic Conference",
+    "ath_url": "https://www.otterbeincardinals.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     83923,
+     89171,
+     103770,
+     120989,
+     115233,
+     114110
+    ],
+    "trend_players": [
+     22,
+     18,
+     18,
+     22,
+     17,
+     26
+    ]
+   }
+  },
+  {
+   "title": "Head Coach",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://apptrkr.com/7333418"
+    }
+   ],
+   "posted": "2026-07-16",
+   "deadline": "N/A Posting Date: 7/16/26",
+   "contact": "Human Resources",
+   "id": "aaf152d8b3d2",
+   "type": "head",
+   "school_key": "188429",
+   "tok": [
+    "head"
+   ],
+   "unitid": "188429",
+   "school_name": "Adelphi University",
+   "city": "Garden City",
+   "state": "NY",
+   "division": "NCAA D2",
+   "group": "d2",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-16",
+   "salary": "",
+   "snippet": "The head softball coach is responsible for the recruitment and retention of quality student-athletes. The head coach, in addition to all the requirements detailed in the Responsibilities and Duties section, is recognized as pivotal to, and responsible for, the record of the program as it relates to competitive scheduling, university/community relations and the enhancement and academic achievement of the\u2026",
+   "school": {
+    "name": "Adelphi University",
+    "city": "Garden City",
+    "state": "NY",
+    "division": "NCAA D2",
+    "group": "d2",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 5129,
+    "sb_players": 20,
+    "sb_opexp": 88643,
+    "sb_expenses": 387345,
+    "sb_revenue": 387345,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 3,
+    "hc_salary_women": 60970,
+    "ac_salary_women": 40792,
+    "student_aid_women": 2029574,
+    "recruit_exp_women": 14972,
+    "conference": "Northeast 10 Conference",
+    "ath_url": "https://www.aupanthers.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     447046,
+     369423,
+     452809,
+     507669,
+     521541,
+     387345
+    ],
+    "trend_players": [
+     18,
+     18,
+     18,
+     18,
+     21,
+     20
+    ]
+   }
+  },
+  {
+   "title": "Head Coach",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://jobs.therscfirm.com/17829274963060131693Vvh"
+    }
+   ],
+   "posted": "2026-07-16",
+   "deadline": "Until Position is filled Posting Date: 7/16/26",
+   "contact": "Matthew Banker",
+   "id": "d0f0cd5b2273",
+   "type": "head",
+   "school_key": "110644",
+   "tok": [
+    "head"
+   ],
+   "unitid": "110644",
+   "school_name": "University of California-Davis",
+   "city": "Davis",
+   "state": "CA",
+   "division": "NCAA D1",
+   "group": "d1",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-16",
+   "salary": "",
+   "snippet": "Head coach of the Division I varsity softball team for intercollegiate competition at a nationally competitive",
+   "school": {
+    "name": "University of California-Davis",
+    "city": "Davis",
+    "state": "CA",
+    "division": "NCAA D1",
+    "group": "d1",
+    "sector": "Public, 4-year or above",
+    "enrollment": 31464,
+    "sb_players": 22,
+    "sb_opexp": 225550,
+    "sb_expenses": 1060361,
+    "sb_revenue": 1060361,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 2,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 114174,
+    "ac_salary_women": 50043,
+    "student_aid_women": 6180518,
+    "recruit_exp_women": 222353,
+    "conference": "Mountain West Conference",
+    "ath_url": "https://www.ucdavisaggies.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     734850,
+     724019,
+     791119,
+     988584,
+     1124287,
+     1060361
+    ],
+    "trend_players": [
+     21,
+     25,
+     21,
+     28,
+     25,
+     22
     ]
    }
   },
@@ -2690,6 +2920,85 @@
    }
   },
   {
+   "title": "Assistant Coach (Pitching)",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22431233/assistant-softball-coach"
+    },
+    {
+     "source": "NFCA",
+     "url": "https://www.jobs.cmich.edu/postings/44970"
+    }
+   ],
+   "posted": "2026-06-29",
+   "deadline": "Until position is filled",
+   "contact": "McCall Salmon",
+   "id": "98cc111baa5c",
+   "type": "assistant",
+   "school_key": "169248",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "169248",
+   "school_name": "Central Michigan University",
+   "city": "Mount Pleasant",
+   "state": "MI",
+   "division": "NCAA D1",
+   "group": "d1",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-09",
+   "salary": "",
+   "snippet": "Assistant Softball Coach Posting Number: F-1045 College/Unit: Athletics Home Department: Department of Intercollegiate Athletics Employee Group: Athletic Coach (Faculty) Employment Status: Full-Time Position Type: 12 month Position Classification: Athletic Coach Position Begin Date: Position End Date: Position Summary: Central Michigan University, an FBS member of the Mid-American Conference is seeking applicants\u2026",
+   "school": {
+    "name": "Central Michigan University",
+    "city": "Mount Pleasant",
+    "state": "MI",
+    "division": "NCAA D1",
+    "group": "d1",
+    "sector": "Public, 4-year or above",
+    "enrollment": 8666,
+    "sb_players": 24,
+    "sb_opexp": 291302,
+    "sb_expenses": 943131,
+    "sb_revenue": 943131,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 2,
+    "sb_asst_pt": 0,
+    "hc_salary_women": 142790,
+    "ac_salary_women": 70333,
+    "student_aid_women": 2835760,
+    "recruit_exp_women": 127544,
+    "conference": "Mid-American Conference",
+    "ath_url": "https://www.cmuchippewas.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     720038,
+     731034,
+     849271,
+     947351,
+     901875,
+     943131
+    ],
+    "trend_players": [
+     20,
+     29,
+     27,
+     30,
+     27,
+     24
+    ]
+   }
+  },
+  {
    "title": "Assistant Coach",
    "links": [
     {
@@ -2836,81 +3145,6 @@
      20,
      19,
      19
-    ]
-   }
-  },
-  {
-   "title": "Assistant Coach (Pitching)",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://www.jobs.cmich.edu/postings/44970"
-    }
-   ],
-   "posted": "2026-06-29",
-   "deadline": "Until position is filled",
-   "contact": "McCall Salmon",
-   "id": "98cc111baa5c",
-   "type": "assistant",
-   "school_key": "169248",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "169248",
-   "school_name": "Central Michigan University",
-   "city": "Mount Pleasant",
-   "state": "MI",
-   "division": "NCAA D1",
-   "group": "d1",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Application Deadline: Until position is filled Posting Date: 6/29/26 Central Michigan University, an FBS member of the Mid-American Conference is seeking applicants for Assistant Softball Coach. Position is a full-time, 12 month appointment with full benefit package. Salary is commensurate with experience. This position will be responsible for coordinating the training, identification and recruitment of athletically\u2026",
-   "school": {
-    "name": "Central Michigan University",
-    "city": "Mount Pleasant",
-    "state": "MI",
-    "division": "NCAA D1",
-    "group": "d1",
-    "sector": "Public, 4-year or above",
-    "enrollment": 8666,
-    "sb_players": 24,
-    "sb_opexp": 291302,
-    "sb_expenses": 943131,
-    "sb_revenue": 943131,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 2,
-    "sb_asst_pt": 0,
-    "hc_salary_women": 142790,
-    "ac_salary_women": 70333,
-    "student_aid_women": 2835760,
-    "recruit_exp_women": 127544,
-    "conference": "Mid-American Conference",
-    "ath_url": "https://www.cmuchippewas.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     720038,
-     731034,
-     849271,
-     947351,
-     901875,
-     943131
-    ],
-    "trend_players": [
-     20,
-     29,
-     27,
-     30,
-     27,
-     24
     ]
    }
   },
@@ -7162,7 +7396,9 @@
   }
  ],
  "seen": {
+  "98cc111baa5c": "2026-07-09",
   "785064da4c02": "2026-07-16",
+  "e32a5e12db7a": "2026-07-16",
   "87161bbef83f": "2026-07-13",
   "ac6fc459f4be": "2026-07-10",
   "1a663c4725c5": "2026-07-10",
@@ -7174,8 +7410,8 @@
   "1bd1d2243ea1": "2026-07-09",
   "d0d50f6147e1": "2026-07-09",
   "a9b675d23aac": "2026-07-09",
-  "6f7cc7032079": "2026-07-09",
   "d01a1c153845": "2026-07-09",
+  "6f7cc7032079": "2026-07-09",
   "6152d6ec4361": "2026-07-09",
   "66f319a3b67f": "2026-07-09",
   "2f979de02f20": "2026-07-09",
@@ -7199,6 +7435,8 @@
   "f6e75bcaa5d5": "2026-07-09",
   "06678715b44e": "2026-07-09",
   "6157b7f2ed28": "2026-07-09",
+  "aaf152d8b3d2": "2026-07-16",
+  "d0f0cd5b2273": "2026-07-16",
   "9385fae9ae6e": "2026-07-16",
   "b710c7f6dbd0": "2026-07-15",
   "2203c19ce5c2": "2026-07-14",
@@ -7219,7 +7457,6 @@
   "ad2257272c4b": "2026-07-09",
   "727e80a27d13": "2026-07-09",
   "da393177f459": "2026-07-09",
-  "98cc111baa5c": "2026-07-09",
   "3d0dcf02b711": "2026-07-09",
   "8b7f7f88000b": "2026-07-09",
   "d4b13924beed": "2026-07-09",
