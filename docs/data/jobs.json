@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-07-17T14:09:20+00:00",
+ "generated_at": "2026-07-17T16:38:09+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 42
+   "count": 43
   },
   {
    "name": "NFCA",
@@ -26,6 +26,85 @@
  ],
  "count": 103,
  "jobs": [
+  {
+   "title": "Assistant Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22434256/assistant-softball-coach"
+    },
+    {
+     "source": "NFCA",
+     "url": "https://stevens.wd5.myworkdayjobs.com/External"
+    }
+   ],
+   "posted": "2026-07-16",
+   "deadline": "Until position is filled",
+   "contact": "Emily Kaczmarek",
+   "id": "c6988c263366",
+   "type": "assistant",
+   "school_key": "186867",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "186867",
+   "school_name": "Stevens Institute of Technology",
+   "city": "Hoboken",
+   "state": "NJ",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-16",
+   "salary": "$35,600.00 - $45,066.67",
+   "snippet": "Job Description Assistant Softball Coach Department: Athletics & Recreation Reports To: Head Softball Coach Position Summary The Assistant Softball Coach assists in the development, implementation, and daily operations of a competitive NCAA Division III softball program. This position supports all aspects of the student-athlete experience, including athletic and personal development, recruiting, competitive\u2026",
+   "school": {
+    "name": "Stevens Institute of Technology",
+    "city": "Hoboken",
+    "state": "NJ",
+    "division": "NCAA D3",
+    "group": "d3",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 4158,
+    "sb_players": 18,
+    "sb_opexp": 135721,
+    "sb_expenses": 293343,
+    "sb_revenue": 293343,
+    "sb_head_ft": 0,
+    "sb_head_pt": 1,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 4,
+    "hc_salary_women": 80384,
+    "ac_salary_women": 40088,
+    "student_aid_women": 0,
+    "recruit_exp_women": 85122,
+    "conference": "Middle Atlantic Conferences",
+    "ath_url": "https://www.stevensducks.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     127200,
+     123399,
+     215353,
+     215234,
+     251557,
+     293343
+    ],
+    "trend_players": [
+     21,
+     22,
+     19,
+     18,
+     18,
+     18
+    ]
+   }
+  },
   {
    "title": "Graduate Assistant - Softball",
    "links": [
@@ -478,81 +557,6 @@
      28,
      25,
      22
-    ]
-   }
-  },
-  {
-   "title": "Assistant Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://stevens.wd5.myworkdayjobs.com/External"
-    }
-   ],
-   "posted": "2026-07-16",
-   "deadline": "Until position is filled",
-   "contact": "Emily Kaczmarek",
-   "id": "c6988c263366",
-   "type": "assistant",
-   "school_key": "186867",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "186867",
-   "school_name": "Stevens Institute of Technology",
-   "city": "Hoboken",
-   "state": "NJ",
-   "division": "NCAA D3",
-   "group": "d3",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-16",
-   "salary": "",
-   "snippet": "Posting Date: 7/16/26 Position Summary The Assistant Softball Coach assists in the development, implementation, and daily operations of a competitive NCAA Division III softball program. This position supports all aspects of the student-athlete experience, including athletic and personal development, recruiting, competitive preparation, program administration, and operational management. The Assistant Coach\u2026",
-   "school": {
-    "name": "Stevens Institute of Technology",
-    "city": "Hoboken",
-    "state": "NJ",
-    "division": "NCAA D3",
-    "group": "d3",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 4158,
-    "sb_players": 18,
-    "sb_opexp": 135721,
-    "sb_expenses": 293343,
-    "sb_revenue": 293343,
-    "sb_head_ft": 0,
-    "sb_head_pt": 1,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 4,
-    "hc_salary_women": 80384,
-    "ac_salary_women": 40088,
-    "student_aid_women": 0,
-    "recruit_exp_women": 85122,
-    "conference": "Middle Atlantic Conferences",
-    "ath_url": "https://www.stevensducks.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     127200,
-     123399,
-     215353,
-     215234,
-     251557,
-     293343
-    ],
-    "trend_players": [
-     21,
-     22,
-     19,
-     18,
-     18,
-     18
     ]
    }
   },
@@ -7692,6 +7696,7 @@
   }
  ],
  "seen": {
+  "c6988c263366": "2026-07-16",
   "e32a5e12db7a": "2026-07-16",
   "785064da4c02": "2026-07-16",
   "98cc111baa5c": "2026-07-09",
@@ -7746,7 +7751,6 @@
   "1bd975199ae6": "2026-07-09",
   "43b25cc21dbc": "2026-07-09",
   "1c53ca778641": "2026-07-09",
-  "c6988c263366": "2026-07-16",
   "287e859d9d4f": "2026-07-16",
   "ea2153bb6a7a": "2026-07-14",
   "2e5bfb488088": "2026-07-10",
