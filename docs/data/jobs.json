@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-07-17T16:38:09+00:00",
+ "generated_at": "2026-07-17T19:37:45+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 43
+   "count": 44
   },
   {
    "name": "NFCA",
@@ -24,8 +24,80 @@
    "count": 1
   }
  ],
- "count": 103,
+ "count": 104,
  "jobs": [
+  {
+   "title": "Assistant Coach - Softball",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22434357/assistant-coach-softball"
+    }
+   ],
+   "posted": "2026-07-17",
+   "deadline": "",
+   "contact": "",
+   "id": "37883417afee",
+   "type": "assistant",
+   "school_key": "166027",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "166027",
+   "school_name": "Harvard University",
+   "city": "Boston",
+   "state": "MA",
+   "division": "NCAA D1",
+   "group": "d1",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-17",
+   "salary": "$61,000-$95,000",
+   "snippet": "Under the supervision of the Head Coach, the purpose of this position is to use athletics as a tool to educate college students. By using inter-collegiate competition and all activities related to such competition, this position serves as a teacher and mentor to help build student character, prepare students for a constructive and effective life, and teach valuable life lessons including work ethic; discipline;\u2026",
+   "school": {
+    "name": "Harvard University",
+    "city": "Cambridge",
+    "state": "MA",
+    "division": "NCAA D1",
+    "group": "d1",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 7115,
+    "sb_players": 21,
+    "sb_opexp": 220886,
+    "sb_expenses": 665827,
+    "sb_revenue": 665827,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 1,
+    "sb_asst_pt": 2,
+    "hc_salary_women": 173756,
+    "ac_salary_women": 86078,
+    "student_aid_women": 0,
+    "recruit_exp_women": 637479,
+    "conference": "The Ivy League",
+    "ath_url": "https://gocrimson.com/",
+    "trend_years": [
+     2020,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     433605,
+     550760,
+     694638,
+     627493,
+     665827
+    ],
+    "trend_players": [
+     20,
+     25,
+     26,
+     20,
+     21
+    ]
+   }
+  },
   {
    "title": "Assistant Softball Coach",
    "links": [
@@ -7697,6 +7769,7 @@
  ],
  "seen": {
   "c6988c263366": "2026-07-16",
+  "37883417afee": "2026-07-17",
   "e32a5e12db7a": "2026-07-16",
   "785064da4c02": "2026-07-16",
   "98cc111baa5c": "2026-07-09",
