@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-07-17T03:44:48+00:00",
+ "generated_at": "2026-07-17T08:31:56+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 43
+   "count": 42
   },
   {
    "name": "NFCA",
@@ -5148,12 +5148,8 @@
    }
   },
   {
-   "title": "UMD Head Coach - Softball",
+   "title": "Head Coach",
    "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22356465/umd-head-coach-softball"
-    },
     {
      "source": "NFCA",
      "url": "https://hr.myu.umn.edu/jobs/ext/374338"
@@ -5177,7 +5173,7 @@
    "posted_is_estimate": false,
    "first_seen": "2026-07-09",
    "salary": "",
-   "snippet": "Position Summary The Head Coach develops and maintains a competitive NCAA Division II softball program in a manner compatible with department of athletics and university values, and in compliance with NCAA and NSIC conference rules and regulations. The Head Coach supports the UMD department of athletics mission of excellence in the Classroom, Community and Competition while furthering UMD\u2019s strategic plan. Essential\u2026",
+   "snippet": "The Head Coach develops and maintains a competitive NCAA Division II softball program in a manner compatible with department of athletics and university values, and in compliance with NCAA and NSIC conference rules and regulations. The Head Coach supports the UMD department of athletics mission of excellence in the Classroom, Community and Competition while furthering UMD\u2019s strategic",
    "school": {
     "name": "University of Minnesota-Duluth",
     "city": "Duluth",
@@ -7734,7 +7730,6 @@
   "4fb4b1ef6446": "2026-07-09",
   "241469e38663": "2026-07-09",
   "facf7663474b": "2026-07-09",
-  "f6e75bcaa5d5": "2026-07-09",
   "06678715b44e": "2026-07-09",
   "6157b7f2ed28": "2026-07-09",
   "aaf152d8b3d2": "2026-07-16",
@@ -7745,6 +7740,7 @@
   "230f89a9a4df": "2026-07-09",
   "8f5981eafc1d": "2026-07-09",
   "6825ea940d04": "2026-07-09",
+  "f6e75bcaa5d5": "2026-07-09",
   "d15026de3f7f": "2026-07-09",
   "75feb34c8e03": "2026-07-09",
   "1bd975199ae6": "2026-07-09",
