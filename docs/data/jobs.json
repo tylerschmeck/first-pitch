@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-19T10:49:00+00:00",
+ "generated_at": "2026-07-19T13:58:17+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -1228,81 +1228,6 @@
    }
   },
   {
-   "title": "Head Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22416396/head-softball-coach"
-    }
-   ],
-   "posted": "2026-07-10",
-   "deadline": "",
-   "contact": "",
-   "id": "1a663c4725c5",
-   "type": "head",
-   "school_key": "171571",
-   "tok": [
-    "head"
-   ],
-   "unitid": "171571",
-   "school_name": "Oakland University",
-   "city": "Rochester",
-   "state": "MI",
-   "division": "NCAA D1",
-   "group": "d1",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-10",
-   "salary": "",
-   "snippet": "Administer an educationally sound competitive softball program for female student-athletes, within the rules and policies of any conference Oakland University may enter and NCAA legislated guidelines, and within the assigned fiscal budget as allocated. Plan and implement all phases of a competitive national level NCAA Division I softball program, including student athlete recruitment scheduling, conducting practice\u2026",
-   "school": {
-    "name": "Oakland University",
-    "city": "Rochester Hills",
-    "state": "MI",
-    "division": "NCAA D1",
-    "group": "d1",
-    "sector": "Public, 4-year or above",
-    "enrollment": 10179,
-    "sb_players": 22,
-    "sb_opexp": 168014,
-    "sb_expenses": 698671,
-    "sb_revenue": 698671,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 1,
-    "sb_asst_pt": 2,
-    "hc_salary_women": 111523,
-    "ac_salary_women": 73052,
-    "student_aid_women": 3022381,
-    "recruit_exp_women": 79624,
-    "conference": "Horizon League",
-    "ath_url": "https://goldengrizzlies.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     572093,
-     611618,
-     672722,
-     647559,
-     708678,
-     698671
-    ],
-    "trend_players": [
-     20,
-     25,
-     20,
-     17,
-     20,
-     22
-    ]
-   }
-  },
-  {
    "title": "Assistant Softball Coach",
    "links": [
     {
@@ -1378,6 +1303,81 @@
      21,
      27,
      25
+    ]
+   }
+  },
+  {
+   "title": "Head Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22416396/head-softball-coach"
+    }
+   ],
+   "posted": "2026-07-10",
+   "deadline": "",
+   "contact": "",
+   "id": "1a663c4725c5",
+   "type": "head",
+   "school_key": "171571",
+   "tok": [
+    "head"
+   ],
+   "unitid": "171571",
+   "school_name": "Oakland University",
+   "city": "Rochester",
+   "state": "MI",
+   "division": "NCAA D1",
+   "group": "d1",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-10",
+   "salary": "",
+   "snippet": "Administer an educationally sound competitive softball program for female student-athletes, within the rules and policies of any conference Oakland University may enter and NCAA legislated guidelines, and within the assigned fiscal budget as allocated. Plan and implement all phases of a competitive national level NCAA Division I softball program, including student athlete recruitment scheduling, conducting practice\u2026",
+   "school": {
+    "name": "Oakland University",
+    "city": "Rochester Hills",
+    "state": "MI",
+    "division": "NCAA D1",
+    "group": "d1",
+    "sector": "Public, 4-year or above",
+    "enrollment": 10179,
+    "sb_players": 22,
+    "sb_opexp": 168014,
+    "sb_expenses": 698671,
+    "sb_revenue": 698671,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 1,
+    "sb_asst_pt": 2,
+    "hc_salary_women": 111523,
+    "ac_salary_women": 73052,
+    "student_aid_women": 3022381,
+    "recruit_exp_women": 79624,
+    "conference": "Horizon League",
+    "ath_url": "https://goldengrizzlies.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     572093,
+     611618,
+     672722,
+     647559,
+     708678,
+     698671
+    ],
+    "trend_players": [
+     20,
+     25,
+     20,
+     17,
+     20,
+     22
     ]
    }
   },
@@ -1991,81 +1991,6 @@
    }
   },
   {
-   "title": "Head Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22405383/head-softball-coach"
-    }
-   ],
-   "posted": "2026-07-07",
-   "deadline": "",
-   "contact": "",
-   "id": "d0d50f6147e1",
-   "type": "head",
-   "school_key": "229832",
-   "tok": [
-    "head"
-   ],
-   "unitid": "229832",
-   "school_name": "Western Texas College",
-   "city": "Snyder",
-   "state": "TX",
-   "division": "NJCAA D1",
-   "group": "juco",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "$10,000",
-   "snippet": "Position Summary The Head Softball Coach provides leadership, coaching, and administrative oversight for the College\u2019s intercollegiate softball program, supporting student-athlete success, regulatory compliance, and competitive performance. This position is responsible for recruiting and developing student-athletes, organizing practices and competitions, managing program operations, and ensuring alignment with\u2026",
-   "school": {
-    "name": "Western Texas College",
-    "city": "Snyder",
-    "state": "TX",
-    "division": "NJCAA D1",
-    "group": "juco",
-    "sector": "Public, 2-year",
-    "enrollment": 378,
-    "sb_players": 19,
-    "sb_opexp": 50520,
-    "sb_expenses": 242807,
-    "sb_revenue": 260138,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 1,
-    "sb_asst_pt": 0,
-    "hc_salary_women": 63368,
-    "ac_salary_women": 28760,
-    "student_aid_women": 462149,
-    "recruit_exp_women": 32514,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     205994,
-     228607,
-     242214,
-     228357,
-     237618,
-     242807
-    ],
-    "trend_players": [
-     15,
-     15,
-     16,
-     15,
-     22,
-     19
-    ]
-   }
-  },
-  {
    "title": "Assistant Softball Coach",
    "links": [
     {
@@ -2141,6 +2066,81 @@
      24,
      24,
      26
+    ]
+   }
+  },
+  {
+   "title": "Head Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22405383/head-softball-coach"
+    }
+   ],
+   "posted": "2026-07-07",
+   "deadline": "",
+   "contact": "",
+   "id": "d0d50f6147e1",
+   "type": "head",
+   "school_key": "229832",
+   "tok": [
+    "head"
+   ],
+   "unitid": "229832",
+   "school_name": "Western Texas College",
+   "city": "Snyder",
+   "state": "TX",
+   "division": "NJCAA D1",
+   "group": "juco",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-09",
+   "salary": "$10,000",
+   "snippet": "Position Summary The Head Softball Coach provides leadership, coaching, and administrative oversight for the College\u2019s intercollegiate softball program, supporting student-athlete success, regulatory compliance, and competitive performance. This position is responsible for recruiting and developing student-athletes, organizing practices and competitions, managing program operations, and ensuring alignment with\u2026",
+   "school": {
+    "name": "Western Texas College",
+    "city": "Snyder",
+    "state": "TX",
+    "division": "NJCAA D1",
+    "group": "juco",
+    "sector": "Public, 2-year",
+    "enrollment": 378,
+    "sb_players": 19,
+    "sb_opexp": 50520,
+    "sb_expenses": 242807,
+    "sb_revenue": 260138,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 1,
+    "sb_asst_pt": 0,
+    "hc_salary_women": 63368,
+    "ac_salary_women": 28760,
+    "student_aid_women": 462149,
+    "recruit_exp_women": 32514,
+    "conference": "",
+    "ath_url": "",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     205994,
+     228607,
+     242214,
+     228357,
+     237618,
+     242807
+    ],
+    "trend_players": [
+     15,
+     15,
+     16,
+     15,
+     22,
+     19
     ]
    }
   },
@@ -2828,81 +2828,6 @@
    }
   },
   {
-   "title": "Assistant Women's Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22392287/assistant-women-s-softball-coach"
-    }
-   ],
-   "posted": "2026-07-01",
-   "deadline": "",
-   "contact": "",
-   "id": "6152d6ec4361",
-   "type": "assistant",
-   "school_key": "142276",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "142276",
-   "school_name": "Idaho State University",
-   "city": "Pocatello",
-   "state": "ID",
-   "division": "NCAA D1",
-   "group": "d1",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "$35,000 - $40,000",
-   "snippet": "Primary Purpose of Position: Assist the Head Coach in all aspects of the management and administration of the softball program, with specific emphasis on pitching instruction and development at practices and individual training sessions, scouting opponents, recruiting, game day administration, and academic monitoring of student athletes. Serve as positive role model for student athletes and represent Idaho State in\u2026",
-   "school": {
-    "name": "Idaho State University",
-    "city": "Pocatello",
-    "state": "ID",
-    "division": "NCAA D1",
-    "group": "d1",
-    "sector": "Public, 4-year or above",
-    "enrollment": 6233,
-    "sb_players": 24,
-    "sb_opexp": 299861,
-    "sb_expenses": 899902,
-    "sb_revenue": 899902,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 2,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 84526,
-    "ac_salary_women": 39410,
-    "student_aid_women": 2515314,
-    "recruit_exp_women": 100183,
-    "conference": "Big Sky Conference",
-    "ath_url": "https://www.isubengals.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     633721,
-     527088,
-     702390,
-     776923,
-     808478,
-     899902
-    ],
-    "trend_players": [
-     20,
-     22,
-     23,
-     24,
-     25,
-     24
-    ]
-   }
-  },
-  {
    "title": "Head Softball Coach",
    "links": [
     {
@@ -2978,6 +2903,81 @@
      16,
      16,
      18
+    ]
+   }
+  },
+  {
+   "title": "Assistant Women's Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22392287/assistant-women-s-softball-coach"
+    }
+   ],
+   "posted": "2026-07-01",
+   "deadline": "",
+   "contact": "",
+   "id": "6152d6ec4361",
+   "type": "assistant",
+   "school_key": "142276",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "142276",
+   "school_name": "Idaho State University",
+   "city": "Pocatello",
+   "state": "ID",
+   "division": "NCAA D1",
+   "group": "d1",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-09",
+   "salary": "$35,000 - $40,000",
+   "snippet": "Primary Purpose of Position: Assist the Head Coach in all aspects of the management and administration of the softball program, with specific emphasis on pitching instruction and development at practices and individual training sessions, scouting opponents, recruiting, game day administration, and academic monitoring of student athletes. Serve as positive role model for student athletes and represent Idaho State in\u2026",
+   "school": {
+    "name": "Idaho State University",
+    "city": "Pocatello",
+    "state": "ID",
+    "division": "NCAA D1",
+    "group": "d1",
+    "sector": "Public, 4-year or above",
+    "enrollment": 6233,
+    "sb_players": 24,
+    "sb_opexp": 299861,
+    "sb_expenses": 899902,
+    "sb_revenue": 899902,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 2,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 84526,
+    "ac_salary_women": 39410,
+    "student_aid_women": 2515314,
+    "recruit_exp_women": 100183,
+    "conference": "Big Sky Conference",
+    "ath_url": "https://www.isubengals.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     633721,
+     527088,
+     702390,
+     776923,
+     808478,
+     899902
+    ],
+    "trend_players": [
+     20,
+     22,
+     23,
+     24,
+     25,
+     24
     ]
    }
   },
@@ -3829,6 +3829,85 @@
    "links": [
     {
      "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22375224/head-softball-coach"
+    },
+    {
+     "source": "NFCA",
+     "url": "https://www.paycomonline.net/v4/ats/web.php/portal/16288201D4A1D6526C3A89AE4682CD7B/jobs/239229"
+    }
+   ],
+   "posted": "2026-06-24",
+   "deadline": "Preference will be given to those application submitted by June 26, 2026",
+   "contact": "Human Resources",
+   "id": "d47e17f05fdc",
+   "type": "head",
+   "school_key": "231581",
+   "tok": [
+    "head"
+   ],
+   "unitid": "231581",
+   "school_name": "Bridgewater College",
+   "city": "Bridgewater",
+   "state": "VA",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-09",
+   "salary": "$42,000 - $48,000",
+   "snippet": "$42,000 - $48,000/annually Bridgewater College Athletics is seeking an accomplished and energetic Head Softball Coach to lead our NCAA Division III softball program. Reporting to the Director of Athletics, the Head Coach is responsible for all aspects of the program, including recruiting, player development, competitive success, academic achievement, and program administration. The successful candidate will be a\u2026",
+   "school": {
+    "name": "Bridgewater College",
+    "city": "Bridgewater",
+    "state": "VA",
+    "division": "NCAA D3",
+    "group": "d3",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 1396,
+    "sb_players": 26,
+    "sb_opexp": 118244,
+    "sb_expenses": 222240,
+    "sb_revenue": 222240,
+    "sb_head_ft": 0,
+    "sb_head_pt": 1,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 4,
+    "hc_salary_women": 55966,
+    "ac_salary_women": 38045,
+    "student_aid_women": 0,
+    "recruit_exp_women": 40305,
+    "conference": "",
+    "ath_url": "",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     94928,
+     76677,
+     175027,
+     182808,
+     196800,
+     222240
+    ],
+    "trend_players": [
+     22,
+     22,
+     26,
+     29,
+     25,
+     26
+    ]
+   }
+  },
+  {
+   "title": "Head Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
      "url": "https://ncaamarket.ncaa.org/jobs/22375856/head-softball-coach"
     }
    ],
@@ -3925,85 +4004,6 @@
      22,
      21,
      21
-    ]
-   }
-  },
-  {
-   "title": "Head Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22375224/head-softball-coach"
-    },
-    {
-     "source": "NFCA",
-     "url": "https://www.paycomonline.net/v4/ats/web.php/portal/16288201D4A1D6526C3A89AE4682CD7B/jobs/239229"
-    }
-   ],
-   "posted": "2026-06-24",
-   "deadline": "Preference will be given to those application submitted by June 26, 2026",
-   "contact": "Human Resources",
-   "id": "d47e17f05fdc",
-   "type": "head",
-   "school_key": "231581",
-   "tok": [
-    "head"
-   ],
-   "unitid": "231581",
-   "school_name": "Bridgewater College",
-   "city": "Bridgewater",
-   "state": "VA",
-   "division": "NCAA D3",
-   "group": "d3",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "$42,000 - $48,000",
-   "snippet": "$42,000 - $48,000/annually Bridgewater College Athletics is seeking an accomplished and energetic Head Softball Coach to lead our NCAA Division III softball program. Reporting to the Director of Athletics, the Head Coach is responsible for all aspects of the program, including recruiting, player development, competitive success, academic achievement, and program administration. The successful candidate will be a\u2026",
-   "school": {
-    "name": "Bridgewater College",
-    "city": "Bridgewater",
-    "state": "VA",
-    "division": "NCAA D3",
-    "group": "d3",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 1396,
-    "sb_players": 26,
-    "sb_opexp": 118244,
-    "sb_expenses": 222240,
-    "sb_revenue": 222240,
-    "sb_head_ft": 0,
-    "sb_head_pt": 1,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 4,
-    "hc_salary_women": 55966,
-    "ac_salary_women": 38045,
-    "student_aid_women": 0,
-    "recruit_exp_women": 40305,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     94928,
-     76677,
-     175027,
-     182808,
-     196800,
-     222240
-    ],
-    "trend_players": [
-     22,
-     22,
-     26,
-     29,
-     25,
-     26
     ]
    }
   },
@@ -7634,31 +7634,31 @@
   "74237ab25b90": "2026-07-16",
   "c6eb0a343ae6": "2026-07-16",
   "87161bbef83f": "2026-07-13",
-  "1a663c4725c5": "2026-07-10",
   "ac6fc459f4be": "2026-07-10",
+  "1a663c4725c5": "2026-07-10",
   "456cf7190ab0": "2026-07-09",
-  "5dad2186c904": "2026-07-10",
   "1f6a4a73100c": "2026-07-09",
-  "b3bfa5acc501": "2026-07-09",
+  "5dad2186c904": "2026-07-10",
   "6bfd433b5593": "2026-07-09",
   "1bd1d2243ea1": "2026-07-09",
-  "d0d50f6147e1": "2026-07-09",
+  "b3bfa5acc501": "2026-07-09",
   "a9b675d23aac": "2026-07-09",
+  "d0d50f6147e1": "2026-07-09",
   "d01a1c153845": "2026-07-09",
   "6f7cc7032079": "2026-07-09",
-  "6152d6ec4361": "2026-07-09",
   "66f319a3b67f": "2026-07-09",
+  "6152d6ec4361": "2026-07-09",
   "2f979de02f20": "2026-07-09",
   "3e298fcd2c7d": "2026-07-09",
   "a6b8c400c81c": "2026-07-09",
   "c19ca237bbf3": "2026-07-09",
   "7e966c47342c": "2026-07-09",
   "a9326c727b8d": "2026-07-09",
+  "d47e17f05fdc": "2026-07-09",
   "f4e36379ec03": "2026-07-09",
   "c90bbe77a6bd": "2026-07-09",
-  "d47e17f05fdc": "2026-07-09",
-  "8b9c595adb7b": "2026-07-09",
   "585847a84c4c": "2026-07-09",
+  "8b9c595adb7b": "2026-07-09",
   "b7a71d51d1d9": "2026-07-09",
   "0cac66c17393": "2026-07-09",
   "d386be189b21": "2026-07-09",
