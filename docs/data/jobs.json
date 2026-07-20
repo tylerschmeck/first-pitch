@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-07-20T04:12:12+00:00",
+ "generated_at": "2026-07-20T09:39:43+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 41
+   "count": 39
   },
   {
    "name": "NFCA",
@@ -4008,6 +4008,86 @@
    }
   },
   {
+   "title": "Assistant Softball Coach-Pitching",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22378906/assistant-softball-coach-pitching"
+    },
+    {
+     "source": "NFCA",
+     "url": "https://www.paycomonline.net/v4/ats/web.php/portal/9B25CFBC4D1E53FBF3D00067C7C0E531/jobs/111268"
+    }
+   ],
+   "posted": "2026-06-23",
+   "deadline": "Open until filled",
+   "contact": "Christi Musser",
+   "id": "7e966c47342c",
+   "type": "assistant",
+   "school_key": "217688",
+   "tok": [
+    "assistant",
+    "pitching"
+   ],
+   "unitid": "217688",
+   "school_name": "Charleston Southern University",
+   "city": "North Charleston",
+   "state": "SC",
+   "division": "NCAA D1",
+   "group": "d1",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-09",
+   "salary": "",
+   "snippet": "Summary: Reporting to the Head Softball Coach, the Assistant Softball Coach will be responsible for all phases of a competitive NCAA Division I softball program, competing in the Big South Conference. This position will focus primarily on pitching. Work Performed: On field Coaching, practice planning, recruiting, travel arrangements, budget management, camps/clinics, field maintenance and development of the program\u2026",
+   "school": {
+    "name": "Charleston Southern University",
+    "city": "North Charleston",
+    "state": "SC",
+    "division": "NCAA D1",
+    "group": "d1",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 2710,
+    "sb_players": 22,
+    "sb_opexp": 130087,
+    "sb_expenses": 688719,
+    "sb_revenue": 688719,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 2,
+    "sb_asst_pt": 0,
+    "hc_salary_women": 68221,
+    "ac_salary_women": 42042,
+    "student_aid_women": 2608458,
+    "recruit_exp_women": 60778,
+    "conference": "Big South Conference",
+    "ath_url": "https://csusports.com/",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     563757,
+     525544,
+     536926,
+     609366,
+     635171,
+     688719
+    ],
+    "trend_players": [
+     26,
+     22,
+     21,
+     21,
+     21,
+     22
+    ]
+   }
+  },
+  {
    "title": "Assistant Coach - Softball",
    "links": [
     {
@@ -4464,6 +4544,81 @@
    }
   },
   {
+   "title": "Head Coach",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://nfca.org/nfca-job-postings"
+    }
+   ],
+   "posted": "2026-06-22",
+   "deadline": "Preference will be given to those application submitted by June 26, 2026",
+   "contact": "Jen Windmiller",
+   "id": "d386be189b21",
+   "type": "head",
+   "school_key": "237181",
+   "tok": [
+    "head"
+   ],
+   "unitid": "237181",
+   "school_name": "Bethany College",
+   "city": "Bethany",
+   "state": "WV",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-09",
+   "salary": "",
+   "snippet": "Bethany College is seeking qualified applicants for the full-time, 12-month Head Softball Coach position. This position will report to the Director of Athletics. The successful candidate must coordinate and implement all aspects of a competitive program. View full",
+   "school": {
+    "name": "Bethany College",
+    "city": "Bethany",
+    "state": "WV",
+    "division": "NCAA D3",
+    "group": "d3",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 613,
+    "sb_players": 25,
+    "sb_opexp": 23874,
+    "sb_expenses": 105304,
+    "sb_revenue": 126304,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 47475,
+    "ac_salary_women": 21122,
+    "student_aid_women": 0,
+    "recruit_exp_women": 17290,
+    "conference": "",
+    "ath_url": "",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     103740,
+     75330,
+     72477,
+     85776,
+     91619,
+     105304
+    ],
+    "trend_players": [
+     14,
+     13,
+     18,
+     19,
+     19,
+     25
+    ]
+   }
+  },
+  {
    "title": "Assistant Coach (Pitching)",
    "links": [
     {
@@ -4535,169 +4690,6 @@
      25,
      23,
      20
-    ]
-   }
-  },
-  {
-   "title": "Assistant Softball Coach-Pitching",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22378906/assistant-softball-coach-pitching"
-    },
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22364842/assistant-softball-coach"
-    },
-    {
-     "source": "NFCA",
-     "url": "https://www.paycomonline.net/v4/ats/web.php/portal/9B25CFBC4D1E53FBF3D00067C7C0E531/jobs/111268"
-    }
-   ],
-   "posted": "2026-06-19",
-   "deadline": "Open until filled",
-   "contact": "Christi Musser",
-   "id": "7e966c47342c",
-   "type": "assistant",
-   "school_key": "217688",
-   "tok": [
-    "assistant",
-    "pitching"
-   ],
-   "unitid": "217688",
-   "school_name": "Charleston Southern University",
-   "city": "North Charleston",
-   "state": "SC",
-   "division": "NCAA D1",
-   "group": "d1",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Summary: Reporting to the Head Softball Coach, the Assistant Softball Coach will be responsible for all phases of a competitive NCAA Division I softball program, competing in the Big South Conference. This position will focus primarily on pitching. Work Performed: On field Coaching, practice planning, recruiting, travel arrangements, budget management, camps/clinics, field maintenance and development of the program\u2026",
-   "school": {
-    "name": "Charleston Southern University",
-    "city": "North Charleston",
-    "state": "SC",
-    "division": "NCAA D1",
-    "group": "d1",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 2710,
-    "sb_players": 22,
-    "sb_opexp": 130087,
-    "sb_expenses": 688719,
-    "sb_revenue": 688719,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 2,
-    "sb_asst_pt": 0,
-    "hc_salary_women": 68221,
-    "ac_salary_women": 42042,
-    "student_aid_women": 2608458,
-    "recruit_exp_women": 60778,
-    "conference": "Big South Conference",
-    "ath_url": "https://csusports.com/",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     563757,
-     525544,
-     536926,
-     609366,
-     635171,
-     688719
-    ],
-    "trend_players": [
-     26,
-     22,
-     21,
-     21,
-     21,
-     22
-    ]
-   }
-  },
-  {
-   "title": "Head Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22364799/head-softball-coach"
-    },
-    {
-     "source": "NFCA",
-     "url": "https://nfca.org/nfca-job-postings"
-    }
-   ],
-   "posted": "2026-06-19",
-   "deadline": "Preference will be given to those application submitted by June 26, 2026",
-   "contact": "Jen Windmiller",
-   "id": "d386be189b21",
-   "type": "head",
-   "school_key": "237181",
-   "tok": [
-    "head"
-   ],
-   "unitid": "237181",
-   "school_name": "Bethany College",
-   "city": "WV",
-   "state": "WV",
-   "division": "NCAA D3",
-   "group": "d3",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Bethany College is seeking qualified applicants for the full-time, 12-month Head Softball Coach position. This position will report to the Director of Athletics. The successful candidate must coordinate and implement all aspects of a competitive program. Responsibilities include: Meet recruiting goal - Recruit and retain academically and athletically qualified student-athletes Monitor and support all\u2026",
-   "school": {
-    "name": "Bethany College",
-    "city": "Bethany",
-    "state": "WV",
-    "division": "NCAA D3",
-    "group": "d3",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 613,
-    "sb_players": 25,
-    "sb_opexp": 23874,
-    "sb_expenses": 105304,
-    "sb_revenue": 126304,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 47475,
-    "ac_salary_women": 21122,
-    "student_aid_women": 0,
-    "recruit_exp_women": 17290,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     103740,
-     75330,
-     72477,
-     85776,
-     91619,
-     105304
-    ],
-    "trend_players": [
-     14,
-     13,
-     18,
-     19,
-     19,
-     25
     ]
    }
   },
@@ -7661,7 +7653,6 @@
   "8b9c595adb7b": "2026-07-09",
   "b7a71d51d1d9": "2026-07-09",
   "0cac66c17393": "2026-07-09",
-  "d386be189b21": "2026-07-09",
   "06678715b44e": "2026-07-09",
   "6157b7f2ed28": "2026-07-09",
   "aaf152d8b3d2": "2026-07-16",
@@ -7671,6 +7662,7 @@
   "2203c19ce5c2": "2026-07-14",
   "230f89a9a4df": "2026-07-09",
   "8f5981eafc1d": "2026-07-09",
+  "d386be189b21": "2026-07-09",
   "6825ea940d04": "2026-07-09",
   "a81e3ed2442f": "2026-07-09",
   "f6e75bcaa5d5": "2026-07-09",
