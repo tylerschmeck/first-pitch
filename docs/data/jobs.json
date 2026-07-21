@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-07-21T19:57:24+00:00",
+ "generated_at": "2026-07-21T22:23:26+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 39
+   "count": 41
   },
   {
    "name": "NFCA",
@@ -24,8 +24,158 @@
    "count": 2
   }
  ],
- "count": 104,
+ "count": 106,
  "jobs": [
+  {
+   "title": "Assistant Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22443250/assistant-softball-coach"
+    }
+   ],
+   "posted": "2026-07-21",
+   "deadline": "",
+   "contact": "",
+   "id": "76fb9696d5ed",
+   "type": "assistant",
+   "school_key": "146427",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "146427",
+   "school_name": "Knox College",
+   "city": "Galesburg",
+   "state": "IL",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-21",
+   "salary": "",
+   "snippet": "Assistant Softball Coach Knox College invites applications for the position of Assistant Softball Coach, a full-time 12-month, benefits-eligible position reporting to the Head Softball Coach. The successful candidate is expected to actively contribute to student?athlete development, academic success, and competitive performance while helping to elevate an NCAA Division III program built on accountability, growth,\u2026",
+   "school": {
+    "name": "Knox College",
+    "city": "Galesburg",
+    "state": "IL",
+    "division": "NCAA D3",
+    "group": "d3",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 1118,
+    "sb_players": 19,
+    "sb_opexp": 53741,
+    "sb_expenses": 153025,
+    "sb_revenue": 137704,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 1,
+    "sb_asst_pt": 0,
+    "hc_salary_women": 50269,
+    "ac_salary_women": 30138,
+    "student_aid_women": 0,
+    "recruit_exp_women": 15211,
+    "conference": "Midwest Conference",
+    "ath_url": "https://prairiefire.knox.edu",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     77929,
+     85478,
+     109071,
+     175303,
+     129610,
+     153025
+    ],
+    "trend_players": [
+     15,
+     14,
+     14,
+     17,
+     15,
+     19
+    ]
+   }
+  },
+  {
+   "title": "Head Coach - Softball",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22443256/head-coach-softball"
+    }
+   ],
+   "posted": "2026-07-21",
+   "deadline": "",
+   "contact": "",
+   "id": "31ad743b3296",
+   "type": "head",
+   "school_key": "168148",
+   "tok": [
+    "head"
+   ],
+   "unitid": "168148",
+   "school_name": "Tufts University",
+   "city": "Medford",
+   "state": "MA",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-21",
+   "salary": "",
+   "snippet": "Located five miles from downtown Boston, Tufts University is a Division III member of the National Collegiate Athletic Association (NCAA) and the highly-competitive New England Small College Athletic Conference (NESCAC). Tufts student-athletes participate in 30 varsity sports, 32 club sports and a number of intramural sports. Tufts Athletics has won 19 NCAA team championships since 2010 and has finished in the top\u2026",
+   "school": {
+    "name": "Tufts University",
+    "city": "Medford",
+    "state": "MA",
+    "division": "NCAA D3",
+    "group": "d3",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 6928,
+    "sb_players": 20,
+    "sb_opexp": 126978,
+    "sb_expenses": 323484,
+    "sb_revenue": 346144,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 1,
+    "sb_asst_pt": 2,
+    "hc_salary_women": 92286,
+    "ac_salary_women": 45953,
+    "student_aid_women": 0,
+    "recruit_exp_women": 44639,
+    "conference": "New England Small College Athletic Conference",
+    "ath_url": "https://www.gotuftsjumbos.com/landing/index",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     null,
+     155588,
+     177619,
+     256666,
+     314381,
+     323484
+    ],
+    "trend_players": [
+     null,
+     18,
+     19,
+     22,
+     20,
+     20
+    ]
+   }
+  },
   {
    "title": "Assistant Coach of Women's Softball",
    "links": [
@@ -7765,6 +7915,8 @@
   }
  ],
  "seen": {
+  "76fb9696d5ed": "2026-07-21",
+  "31ad743b3296": "2026-07-21",
   "5c53fec6c0fc": "2026-07-20",
   "492e302e27eb": "2026-07-18",
   "37883417afee": "2026-07-17",
