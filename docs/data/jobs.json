@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-07-21T03:52:46+00:00",
+ "generated_at": "2026-07-21T09:06:46+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "name": "NFCA",
@@ -4538,87 +4538,6 @@
    }
   },
   {
-   "title": "Assistant Softball Coach/Pitching Emphasis",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22367182/assistant-softball-coach-pitching-emphasis"
-    },
-    {
-     "source": "NAIA Careers",
-     "url": "https://jobs.naia.org/job/assistant-softball-coach-4/"
-    }
-   ],
-   "posted": "2026-06-22",
-   "deadline": "",
-   "contact": "",
-   "id": "0cac66c17393",
-   "type": "assistant",
-   "school_key": "153366",
-   "tok": [
-    "assistant",
-    "emphasis",
-    "pitching"
-   ],
-   "unitid": "153366",
-   "school_name": "Graceland University-Lamoni",
-   "city": "Lamoni",
-   "state": "IA",
-   "division": "NAIA",
-   "group": "naia",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Graceland University is seeking a dynamic Assistant Softball Coach to assist in all operations of a University Softball Program. Applicants must be proactive, have good time management skills and the ability to connect and lead college athletes appropriately. We are seeking a passionate coach who is committed to excellence and is willing to work within the coaching staff to continue our program to greatness.\u2026",
-   "school": {
-    "name": "Graceland University-Lamoni",
-    "city": "Lamoni",
-    "state": "IA",
-    "division": "NAIA",
-    "group": "naia",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 774,
-    "sb_players": 21,
-    "sb_opexp": 39432,
-    "sb_expenses": 205996,
-    "sb_revenue": 205996,
-    "sb_head_ft": 0,
-    "sb_head_pt": 1,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 2,
-    "hc_salary_women": 44364,
-    "ac_salary_women": 20971,
-    "student_aid_women": 1068490,
-    "recruit_exp_women": 38986,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     194072,
-     336054,
-     405610,
-     427071,
-     364927,
-     205996
-    ],
-    "trend_players": [
-     21,
-     38,
-     32,
-     38,
-     26,
-     21
-    ]
-   }
-  },
-  {
    "title": "Head Coach",
    "links": [
     {
@@ -4765,6 +4684,83 @@
      25,
      23,
      20
+    ]
+   }
+  },
+  {
+   "title": "Assistant Softball Coach/Pitching Emphasis",
+   "links": [
+    {
+     "source": "NAIA Careers",
+     "url": "https://jobs.naia.org/job/assistant-softball-coach-4/"
+    }
+   ],
+   "posted": "2026-06-22",
+   "deadline": "",
+   "contact": "",
+   "id": "0cac66c17393",
+   "type": "assistant",
+   "school_key": "153366",
+   "tok": [
+    "assistant",
+    "emphasis",
+    "pitching"
+   ],
+   "unitid": "153366",
+   "school_name": "Graceland University-Lamoni",
+   "city": "Lamoni",
+   "state": "IA",
+   "division": "NAIA",
+   "group": "naia",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-09",
+   "salary": "",
+   "snippet": "Graceland University is seeking a dynamic Assistant Softball Coach/Pitching Emphasis to assist in all operations of a University Softball Program. Applicants must be proactive, have good time management skills and the ability to connect and lead college athletes appropriately. We are seeking a passionate coach who is committed to excellence and is willing to work within the coaching staff to",
+   "school": {
+    "name": "Graceland University-Lamoni",
+    "city": "Lamoni",
+    "state": "IA",
+    "division": "NAIA",
+    "group": "naia",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 774,
+    "sb_players": 21,
+    "sb_opexp": 39432,
+    "sb_expenses": 205996,
+    "sb_revenue": 205996,
+    "sb_head_ft": 0,
+    "sb_head_pt": 1,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 2,
+    "hc_salary_women": 44364,
+    "ac_salary_women": 20971,
+    "student_aid_women": 1068490,
+    "recruit_exp_women": 38986,
+    "conference": "",
+    "ath_url": "",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     194072,
+     336054,
+     405610,
+     427071,
+     364927,
+     205996
+    ],
+    "trend_players": [
+     21,
+     38,
+     32,
+     38,
+     26,
+     21
     ]
    }
   },
@@ -7728,7 +7724,6 @@
   "8b9c595adb7b": "2026-07-09",
   "585847a84c4c": "2026-07-09",
   "b7a71d51d1d9": "2026-07-09",
-  "0cac66c17393": "2026-07-09",
   "06678715b44e": "2026-07-09",
   "6157b7f2ed28": "2026-07-09",
   "aaf152d8b3d2": "2026-07-16",
@@ -7795,6 +7790,7 @@
   "ca96890caf3d": "2026-07-09",
   "7d5906f6c9f1": "2026-07-09",
   "7940a4546058": "2026-07-09",
+  "0cac66c17393": "2026-07-09",
   "241469e38663": "2026-07-09",
   "facf7663474b": "2026-07-09",
   "4fb4b1ef6446": "2026-07-09",
