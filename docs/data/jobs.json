@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-21T11:21:27+00:00",
+ "generated_at": "2026-07-21T14:30:16+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -21,10 +21,10 @@
   {
    "name": "NAIA Careers",
    "ok": true,
-   "count": 1
+   "count": 2
   }
  ],
- "count": 103,
+ "count": 104,
  "jobs": [
   {
    "title": "Assistant Coach of Women's Softball",
@@ -98,6 +98,83 @@
      24,
      23,
      23
+    ]
+   }
+  },
+  {
+   "title": "Softball/Housing Graduate Assistant",
+   "links": [
+    {
+     "source": "NAIA Careers",
+     "url": "https://jobs.naia.org/job/softball-housing-graduate-assistant/"
+    }
+   ],
+   "posted": "2026-07-19",
+   "deadline": "",
+   "contact": "",
+   "id": "7b43a964823c",
+   "type": "other",
+   "school_key": "153533",
+   "tok": [
+    "assistant",
+    "graduate",
+    "housing"
+   ],
+   "unitid": "153533",
+   "school_name": "Iowa Lakes Community College",
+   "city": "Estherville",
+   "state": "IA",
+   "division": "NJCAA D2",
+   "group": "juco",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-21",
+   "salary": "",
+   "snippet": "General Job Summary: This part-time position will assist the Head Softball Coach and Housing Department with day-to-day operations working 27.5 hours a week. Position located on the Estherville Campus. Applicant must be expected to enroll in a Masters\u2019 Degree Program at their own expense. Minimum Qualifications: Bachelor\u2019s degree required. College softball and/or coaching experience preferred. College residential\u2026",
+   "school": {
+    "name": "Iowa Lakes Community College",
+    "city": "Estherville",
+    "state": "IA",
+    "division": "NJCAA D2",
+    "group": "juco",
+    "sector": "Public, 2-year",
+    "enrollment": 659,
+    "sb_players": 15,
+    "sb_opexp": 65927,
+    "sb_expenses": 173133,
+    "sb_revenue": 173133,
+    "sb_head_ft": 0,
+    "sb_head_pt": 1,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 3,
+    "hc_salary_women": 53402,
+    "ac_salary_women": 48193,
+    "student_aid_women": 254164,
+    "recruit_exp_women": 18086,
+    "conference": "",
+    "ath_url": "",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     94091,
+     104962,
+     128719,
+     128119,
+     136702,
+     173133
+    ],
+    "trend_players": [
+     17,
+     14,
+     20,
+     14,
+     15,
+     15
     ]
    }
   },
@@ -7790,6 +7867,7 @@
   "ca96890caf3d": "2026-07-09",
   "7d5906f6c9f1": "2026-07-09",
   "7940a4546058": "2026-07-09",
+  "7b43a964823c": "2026-07-21",
   "0cac66c17393": "2026-07-09",
   "241469e38663": "2026-07-09",
   "facf7663474b": "2026-07-09",
