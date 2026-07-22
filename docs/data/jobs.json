@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-22T19:50:30+00:00",
+ "generated_at": "2026-07-22T22:30:22+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -26,6 +26,157 @@
  ],
  "count": 104,
  "jobs": [
+  {
+   "title": "Assistant Coach",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://hamiltoncollege.wd115.myworkdayjobs.com/HamiltonCollegeJobOpportunities/job/Clinton-NY/Assistant-Softball-Coach_JR100205"
+    }
+   ],
+   "posted": "2026-07-22",
+   "deadline": "Until position is filled",
+   "contact": "Stephanie Hartquist",
+   "id": "55ae7d5f9b92",
+   "type": "assistant",
+   "school_key": "191515",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "191515",
+   "school_name": "Hamilton College",
+   "city": "Clinton",
+   "state": "NY",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-22",
+   "salary": "",
+   "snippet": "Application Deadline: Until position is filled Posting Date: 7/22/26 Under limited supervision and direction, the Assistant Coach is responsible for supporting the Head Coach in all aspects of the Softball Program for the College. Using independent judgment and discretion, the Assistant Coach has responsibility in such critical areas as instructing student athletes, recruitment, supporting student athlete academic\u2026",
+   "school": {
+    "name": "Hamilton College",
+    "city": "Clinton",
+    "state": "NY",
+    "division": "NCAA D3",
+    "group": "d3",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 2029,
+    "sb_players": 20,
+    "sb_opexp": 94971,
+    "sb_expenses": 352276,
+    "sb_revenue": 352276,
+    "sb_head_ft": 0,
+    "sb_head_pt": 1,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 100062,
+    "ac_salary_women": 58434,
+    "student_aid_women": 0,
+    "recruit_exp_women": 44379,
+    "conference": "New England Small College Athletic Conference",
+    "ath_url": "https://www.hamilton.edu/athletics",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     155494,
+     142980,
+     185192,
+     230943,
+     324203,
+     352276
+    ],
+    "trend_players": [
+     17,
+     17,
+     18,
+     17,
+     18,
+     20
+    ]
+   }
+  },
+  {
+   "title": "Graduate Assistant Coach",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://nfca.org/nfca-job-postings"
+    }
+   ],
+   "posted": "2026-07-22",
+   "deadline": "N/A",
+   "contact": "Efrain Barraza",
+   "id": "52ed177399b2",
+   "type": "other",
+   "school_key": "207306",
+   "tok": [
+    "assistant",
+    "graduate"
+   ],
+   "unitid": "207306",
+   "school_name": "Northwestern Oklahoma State University",
+   "city": "Alva",
+   "state": "OK",
+   "division": "NCAA D2",
+   "group": "d2",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-22",
+   "salary": "",
+   "snippet": "Northwestern Oklahoma State University is seeking candidates for a graduate assistant softball coach for our women\u2019s Softball program. Northwestern is a member of the NCAA DII and competes as a member of the Great American Conference (GAC). Responsibilities include but are not limited to recruiting, administrative work, coaching in practice and games, field prep, and game-day activities as assigned. Will be\u2026",
+   "school": {
+    "name": "Northwestern Oklahoma State University",
+    "city": "Alva",
+    "state": "OK",
+    "division": "NCAA D2",
+    "group": "d2",
+    "sector": "Public, 4-year or above",
+    "enrollment": 1313,
+    "sb_players": 23,
+    "sb_opexp": 97232,
+    "sb_expenses": 302868,
+    "sb_revenue": 338140,
+    "sb_head_ft": 0,
+    "sb_head_pt": 1,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 3,
+    "hc_salary_women": 54638,
+    "ac_salary_women": 30264,
+    "student_aid_women": 697222,
+    "recruit_exp_women": 35788,
+    "conference": "Great American Conference",
+    "ath_url": "https://www.riderangersride.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     232244,
+     251164,
+     298992,
+     299290,
+     343155,
+     302868
+    ],
+    "trend_players": [
+     28,
+     29,
+     29,
+     28,
+     23,
+     23
+    ]
+   }
+  },
   {
    "title": "Assistant Softball Coach",
    "links": [
@@ -4994,81 +5145,6 @@
    }
   },
   {
-   "title": "Head Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://www.parisjc.edu/hr/jobs/head-softball-coach-kinesiology-faculty.php"
-    }
-   ],
-   "posted": "2026-06-18",
-   "deadline": "Until Position is Filled",
-   "contact": "Clay Cox",
-   "id": "6825ea940d04",
-   "type": "head",
-   "school_key": "227401",
-   "tok": [
-    "head"
-   ],
-   "unitid": "227401",
-   "school_name": "Paris Junior College",
-   "city": "Paris",
-   "state": "TX",
-   "division": "NJCAA D1",
-   "group": "juco",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Paris Junior College is in search of a new head softball coach to lead our nationally ranked program. Three NJCAA World Series appearances in the last five years, 2026 Final Four finish, and averaging 48 wins a year over the last 4 seasons. New turf field with more on the way. Great job, great community, great people and a great",
-   "school": {
-    "name": "Paris Junior College",
-    "city": "Paris",
-    "state": "TX",
-    "division": "NJCAA D1",
-    "group": "juco",
-    "sector": "Public, 2-year",
-    "enrollment": 1251,
-    "sb_players": 21,
-    "sb_opexp": 69388,
-    "sb_expenses": 258257,
-    "sb_revenue": 258257,
-    "sb_head_ft": 0,
-    "sb_head_pt": 1,
-    "sb_asst_ft": 1,
-    "sb_asst_pt": 0,
-    "hc_salary_women": 211698,
-    "ac_salary_women": 43582,
-    "student_aid_women": 72333,
-    "recruit_exp_women": 12552,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     196760,
-     211586,
-     227045,
-     238278,
-     229089,
-     258257
-    ],
-    "trend_players": [
-     23,
-     22,
-     21,
-     21,
-     21,
-     21
-    ]
-   }
-  },
-  {
    "title": "Assistant Coach (Part-Time)",
    "links": [
     {
@@ -7056,78 +7132,6 @@
    }
   },
   {
-   "title": "Head Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://embryriddle.wd1.myworkdayjobs.com/External/job/Prescott-AZ/Women-s-Head-Softball-Coach_R310622"
-    }
-   ],
-   "posted": "2026-05-19",
-   "deadline": "5/31/26",
-   "contact": "ERAU Human Resources",
-   "id": "43b25cc21dbc",
-   "type": "head",
-   "school_key": "104586",
-   "tok": [
-    "head"
-   ],
-   "unitid": "104586",
-   "school_name": "Embry-Riddle Aeronautical University-Prescott",
-   "city": "Prescott",
-   "state": "AZ",
-   "division": "NAIA",
-   "group": "naia",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Embry-Riddle Aeronautical University- Prescott, Arizona invites applications for the position of Full-Time Women\u2019s Head Softball Coach. Embry-Riddle is a member of the NAIA and the Great Southwest Athletic conference , sponsoring 14 sports. Embry-Riddle's Prescott Campus is respected worldwide for cutting-edge instruction and training for tomorrow\u2019s aviation, aerospace, security and intelligence leaders. Prescott is\u2026",
-   "school": {
-    "name": "Embry-Riddle Aeronautical University-Prescott",
-    "city": "Prescott",
-    "state": "AZ",
-    "division": "NAIA",
-    "group": "naia",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 3056,
-    "sb_players": 19,
-    "sb_opexp": 143792,
-    "sb_expenses": 578597,
-    "sb_revenue": 579837,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 68413,
-    "ac_salary_women": 16047,
-    "student_aid_women": 1460750,
-    "recruit_exp_women": 25282,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     394093,
-     475606,
-     493912,
-     571827,
-     578597
-    ],
-    "trend_players": [
-     13,
-     25,
-     23,
-     22,
-     19
-    ]
-   }
-  },
-  {
    "title": "Assistant Coach",
    "links": [
     {
@@ -7811,14 +7815,13 @@
   "230f89a9a4df": "2026-07-09",
   "8f5981eafc1d": "2026-07-09",
   "d386be189b21": "2026-07-09",
-  "6825ea940d04": "2026-07-09",
   "a81e3ed2442f": "2026-07-09",
   "f6e75bcaa5d5": "2026-07-09",
   "d15026de3f7f": "2026-07-09",
   "75feb34c8e03": "2026-07-09",
   "1bd975199ae6": "2026-07-09",
-  "43b25cc21dbc": "2026-07-09",
   "1c53ca778641": "2026-07-09",
+  "55ae7d5f9b92": "2026-07-22",
   "287e859d9d4f": "2026-07-16",
   "ea2153bb6a7a": "2026-07-14",
   "2e5bfb488088": "2026-07-10",
@@ -7848,6 +7851,8 @@
   "fc7196391817": "2026-07-09",
   "a746ff2593b0": "2026-07-09",
   "73c2c9224bbd": "2026-07-09",
+  "52ed177399b2": "2026-07-22",
+  "7940a4546058": "2026-07-09",
   "d2e828bf3c1b": "2026-07-09",
   "592651c371ea": "2026-07-10",
   "88a0a3e70647": "2026-07-09",
@@ -7865,8 +7870,9 @@
   "ee0b5f4b9eba": "2026-07-09",
   "ca96890caf3d": "2026-07-09",
   "7d5906f6c9f1": "2026-07-09",
-  "7940a4546058": "2026-07-09",
   "7b43a964823c": "2026-07-21",
+  "6825ea940d04": "2026-07-09",
+  "43b25cc21dbc": "2026-07-09",
   "6ae1599c2db0": "2026-07-09",
   "0cac66c17393": "2026-07-09",
   "241469e38663": "2026-07-09",
