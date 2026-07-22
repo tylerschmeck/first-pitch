@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-22T16:53:42+00:00",
+ "generated_at": "2026-07-22T19:50:30+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -11,7 +11,7 @@
   {
    "name": "NFCA",
    "ok": true,
-   "count": 82
+   "count": 81
   },
   {
    "name": "NJCAA Career Center",
@@ -24,7 +24,7 @@
    "count": 1
   }
  ],
- "count": 105,
+ "count": 104,
  "jobs": [
   {
    "title": "Assistant Softball Coach",
@@ -6688,81 +6688,6 @@
     }
    ],
    "posted": "2026-05-28",
-   "deadline": "Until Position is Filled",
-   "contact": "Juie Huebner",
-   "id": "6ae1599c2db0",
-   "type": "assistant",
-   "school_key": "221953",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "221953",
-   "school_name": "Tusculum University",
-   "city": "Greeneville",
-   "state": "TN",
-   "division": "NCAA D2",
-   "group": "d2",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "The Assistant Softball Coach will assist the Head Coach in managing an NCAA Division II softball program. Responsibilities include assisting with on-field player development, scouting, recruiting coordination, academic monitoring, practice and game preparation, field maintenance, and ensuring NCAA and conference regulations. Additional duties include camps and clinics, community engagement, fundraising, and overall\u2026",
-   "school": {
-    "name": "Tusculum University",
-    "city": "Greeneville",
-    "state": "TN",
-    "division": "NCAA D2",
-    "group": "d2",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 736,
-    "sb_players": 23,
-    "sb_opexp": 92442,
-    "sb_expenses": 413479,
-    "sb_revenue": 412231,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 1,
-    "sb_asst_pt": 0,
-    "hc_salary_women": 45812,
-    "ac_salary_women": 27364,
-    "student_aid_women": 1722281,
-    "recruit_exp_women": 21112,
-    "conference": "South Atlantic Conference",
-    "ath_url": "https://www.tusculumpioneers.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     331312,
-     322207,
-     304638,
-     291776,
-     386519,
-     413479
-    ],
-    "trend_players": [
-     28,
-     27,
-     26,
-     21,
-     21,
-     23
-    ]
-   }
-  },
-  {
-   "title": "Assistant Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://nfca.org/nfca-job-postings"
-    }
-   ],
-   "posted": "2026-05-28",
    "deadline": "Until Position is filled",
    "contact": "Julie LeMaire",
    "id": "deb86c86f6cf",
@@ -7919,7 +7844,6 @@
   "65cc84f81c35": "2026-07-09",
   "e838a441e527": "2026-07-09",
   "9d196befe576": "2026-07-09",
-  "6ae1599c2db0": "2026-07-09",
   "deb86c86f6cf": "2026-07-09",
   "fc7196391817": "2026-07-09",
   "a746ff2593b0": "2026-07-09",
@@ -7943,6 +7867,7 @@
   "7d5906f6c9f1": "2026-07-09",
   "7940a4546058": "2026-07-09",
   "7b43a964823c": "2026-07-21",
+  "6ae1599c2db0": "2026-07-09",
   "0cac66c17393": "2026-07-09",
   "241469e38663": "2026-07-09",
   "facf7663474b": "2026-07-09",
