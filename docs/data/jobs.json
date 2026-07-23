@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-07-23T19:52:16+00:00",
+ "generated_at": "2026-07-23T22:28:28+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 41
+   "count": 42
   },
   {
    "name": "NFCA",
@@ -24,7 +24,7 @@
    "count": 1
   }
  ],
- "count": 104,
+ "count": 105,
  "jobs": [
   {
    "title": "Head Coach Women's Softball",
@@ -54,6 +54,82 @@
    "salary": "",
    "snippet": "Coaches Job Description: Tasked with managing and overseeing all aspects related to the operations of the UNC Pembroke sport program. Will be responsible for all phases of coaching a Division II sport including: compliance, recruiting, budget management, academic and athletic outcomes, hiring and supervising assistant coaches, and interaction with campus and community constituent groups. Additional duties include\u2026",
    "school": null
+  },
+  {
+   "title": "Graduate Assistant - Women's Softball",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22445901/graduate-assistant-women-s-softball"
+    }
+   ],
+   "posted": "2026-07-23",
+   "deadline": "",
+   "contact": "",
+   "id": "ec6071b0fdef",
+   "type": "other",
+   "school_key": "148405",
+   "tok": [
+    "assistant",
+    "graduate"
+   ],
+   "unitid": "148405",
+   "school_name": "Rockford University",
+   "city": "Rockford",
+   "state": "IL",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-23",
+   "salary": "",
+   "snippet": "Rockford University is seeking a motivated and enthusiastic Graduate Assistant for Women's Softball. This is an excellent opportunity for an aspiring coach to gain hands-on collegiate coaching experience while pursuing a graduate degree. The Graduate Assistant will assist in all aspects of the Women's Softball program, including recruiting, player development, practice planning, game preparation, and academic\u2026",
+   "school": {
+    "name": "Rockford University",
+    "city": "Rockford",
+    "state": "IL",
+    "division": "NCAA D3",
+    "group": "d3",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 930,
+    "sb_players": 26,
+    "sb_opexp": 48859,
+    "sb_expenses": 121238,
+    "sb_revenue": 121238,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 48134,
+    "ac_salary_women": 45429,
+    "student_aid_women": 0,
+    "recruit_exp_women": 7918,
+    "conference": "Northern Athletics Collegiate Conference",
+    "ath_url": "https://www.rockfordregents.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     104105,
+     80110,
+     128852,
+     104002,
+     127180,
+     121238
+    ],
+    "trend_players": [
+     15,
+     21,
+     17,
+     17,
+     22,
+     26
+    ]
+   }
   },
   {
    "title": "Assistant Coach (Pitching)",
@@ -7676,6 +7752,7 @@
  ],
  "seen": {
   "c124472ef591": "2026-07-23",
+  "ec6071b0fdef": "2026-07-23",
   "31ad743b3296": "2026-07-21",
   "76fb9696d5ed": "2026-07-21",
   "5c53fec6c0fc": "2026-07-20",
