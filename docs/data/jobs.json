@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-23T14:38:19+00:00",
+ "generated_at": "2026-07-23T16:52:47+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -11,7 +11,7 @@
   {
    "name": "NFCA",
    "ok": true,
-   "count": 81
+   "count": 80
   },
   {
    "name": "NJCAA Career Center",
@@ -24,7 +24,7 @@
    "count": 1
   }
  ],
- "count": 103,
+ "count": 102,
  "jobs": [
   {
    "title": "Assistant Coach",
@@ -5370,81 +5370,6 @@
    }
   },
   {
-   "title": "Assistant Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://prcc.edu/about/employment-opportunities/"
-    }
-   ],
-   "posted": "2026-06-16",
-   "deadline": "Until position is filled",
-   "contact": "Christie Meeks",
-   "id": "73b2fcc56110",
-   "type": "assistant",
-   "school_key": "176239",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "176239",
-   "school_name": "Pearl River Community College",
-   "city": "Poplarville",
-   "state": "MS",
-   "division": "NJCAA D1",
-   "group": "juco",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Application Deadline: Until position is filled Posting Date: 6/16/26 We are looking for a passionate assistant coach ready to help develop competitors. Our program has championship standards and expectations. Therefore, we are looking for someone who will embrace the challenge of helping continue a championship offense, recruit elite talent, and help maintain a culture of love and excellence. PRCC Softball is a\u2026",
-   "school": {
-    "name": "Pearl River Community College",
-    "city": "Poplarville",
-    "state": "MS",
-    "division": "NJCAA D1",
-    "group": "juco",
-    "sector": "Public, 2-year",
-    "enrollment": 4102,
-    "sb_players": 16,
-    "sb_opexp": 62037,
-    "sb_expenses": 255060,
-    "sb_revenue": 255060,
-    "sb_head_ft": 0,
-    "sb_head_pt": 1,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 2,
-    "hc_salary_women": 64821,
-    "ac_salary_women": 21877,
-    "student_aid_women": 399124,
-    "recruit_exp_women": 10199,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     211310,
-     241033,
-     229405,
-     252352,
-     280464,
-     255060
-    ],
-    "trend_players": [
-     18,
-     22,
-     23,
-     21,
-     19,
-     16
-    ]
-   }
-  },
-  {
    "title": "Graduate Assistant Coach",
    "links": [
     {
@@ -7762,7 +7687,6 @@
   "dc3087f407c5": "2026-07-09",
   "44069d553dca": "2026-07-09",
   "bd6e6b032313": "2026-07-09",
-  "73b2fcc56110": "2026-07-09",
   "450b879ffa47": "2026-07-09",
   "2b8deebb921e": "2026-07-09",
   "4fa6c0ff2416": "2026-07-09",
@@ -7795,6 +7719,7 @@
   "ca96890caf3d": "2026-07-09",
   "7d5906f6c9f1": "2026-07-09",
   "7b43a964823c": "2026-07-21",
+  "73b2fcc56110": "2026-07-09",
   "b7a71d51d1d9": "2026-07-09",
   "6825ea940d04": "2026-07-09",
   "43b25cc21dbc": "2026-07-09",
