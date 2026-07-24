@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-07-24T19:52:18+00:00",
+ "generated_at": "2026-07-24T22:32:17+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "name": "NFCA",
@@ -24,8 +24,83 @@
    "count": 1
   }
  ],
- "count": 103,
+ "count": 104,
  "jobs": [
+  {
+   "title": "Head Coach, Women's Softball",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22451903/head-coach-women-s-softball"
+    }
+   ],
+   "posted": "2026-07-24",
+   "deadline": "",
+   "contact": "",
+   "id": "ae9f6e04dd73",
+   "type": "head",
+   "school_key": "130226",
+   "tok": [
+    "head"
+   ],
+   "unitid": "130226",
+   "school_name": "Quinnipiac University",
+   "city": "Hamden",
+   "state": "CT",
+   "division": "NCAA D1",
+   "group": "d1",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-24",
+   "salary": "",
+   "snippet": "Head Coach, Women's Softball Quinnipiac University seeks applications for a full-time Head Coach for Women's Softball. In this position, you will be responsible for total program management, including coaching, administration, recruitment and coordination of a collegiate women's softball program. You will be responsible for the supervision of assistant coaches as well as be actively involved in collaboration with\u2026",
+   "school": {
+    "name": "Quinnipiac University",
+    "city": "Hamden",
+    "state": "CT",
+    "division": "NCAA D1",
+    "group": "d1",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 6404,
+    "sb_players": 27,
+    "sb_opexp": 235277,
+    "sb_expenses": 1095892,
+    "sb_revenue": 1095892,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 1,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 158579,
+    "ac_salary_women": 60891,
+    "student_aid_women": 9553664,
+    "recruit_exp_women": 196930,
+    "conference": "Metro Conference",
+    "ath_url": "https://www.gobobcats.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     827835,
+     839499,
+     896856,
+     929584,
+     1004281,
+     1095892
+    ],
+    "trend_players": [
+     19,
+     20,
+     19,
+     23,
+     24,
+     27
+    ]
+   }
+  },
   {
    "title": "Assistant Coach",
    "links": [
@@ -7597,6 +7672,7 @@
   }
  ],
  "seen": {
+  "ae9f6e04dd73": "2026-07-24",
   "c124472ef591": "2026-07-23",
   "ec6071b0fdef": "2026-07-23",
   "31ad743b3296": "2026-07-21",
