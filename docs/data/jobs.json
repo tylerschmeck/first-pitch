@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-07-25T03:44:50+00:00",
+ "generated_at": "2026-07-25T08:31:40+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 39
+   "count": 35
   },
   {
    "name": "NFCA",
@@ -24,7 +24,7 @@
    "count": 1
   }
  ],
- "count": 104,
+ "count": 101,
  "jobs": [
   {
    "title": "Head Coach, Women's Softball",
@@ -4412,116 +4412,8 @@
    }
   },
   {
-   "title": "Head Softball Coach",
+   "title": "Head Coach",
    "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22375856/head-softball-coach"
-    }
-   ],
-   "posted": "2026-06-24",
-   "deadline": "",
-   "contact": "",
-   "id": "f4e36379ec03",
-   "type": "head",
-   "school_key": "agnes scott college",
-   "tok": [
-    "head"
-   ],
-   "unitid": null,
-   "school_name": "Agnes Scott College",
-   "city": "Decatur",
-   "state": "GA",
-   "division": "\u2014",
-   "group": "other",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "General Summary: Provides leadership and oversees all aspects of the Softball program, to include coaching the team; planning, organizing, and supervising team practices; actively identifying, evaluating, and recruiting student-athletes. Works within federal, state and local guidelines, office/department, division and college policies and procedures, and the NCAA, athletic conference guidelines. Reports to the\u2026",
-   "school": null
-  },
-  {
-   "title": "Head Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22375734/head-softball-coach"
-    }
-   ],
-   "posted": "2026-06-24",
-   "deadline": "",
-   "contact": "",
-   "id": "c90bbe77a6bd",
-   "type": "head",
-   "school_key": "233277",
-   "tok": [
-    "head"
-   ],
-   "unitid": "233277",
-   "school_name": "Radford University",
-   "city": "Radford",
-   "state": "VA",
-   "division": "NCAA D1",
-   "group": "d1",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "The Head Women's Softball Coach will administer and direct all aspects of the Radford University women's softball program in accordance with university, NCAA and Big South Conference by-laws and guidelines. The Head Coach will be responsible for the recruitment and retention of student-athletes with high academic and physical standards; will recruit, supervise and evaluate a quality coaching staff; recommend\u2026",
-   "school": {
-    "name": "Radford University",
-    "city": "Radford",
-    "state": "VA",
-    "division": "NCAA D1",
-    "group": "d1",
-    "sector": "Public, 4-year or above",
-    "enrollment": 5504,
-    "sb_players": 21,
-    "sb_opexp": 148584,
-    "sb_expenses": 590896,
-    "sb_revenue": 590896,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 2,
-    "sb_asst_pt": 0,
-    "hc_salary_women": 82585,
-    "ac_salary_women": 43261,
-    "student_aid_women": 1619426,
-    "recruit_exp_women": 56745,
-    "conference": "Big South Conference",
-    "ath_url": "https://www.radfordathletics.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     516020,
-     487680,
-     452128,
-     532544,
-     524485,
-     590896
-    ],
-    "trend_players": [
-     17,
-     18,
-     18,
-     22,
-     21,
-     21
-    ]
-   }
-  },
-  {
-   "title": "Head Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22375224/head-softball-coach"
-    },
     {
      "source": "NFCA",
      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/16288201D4A1D6526C3A89AE4682CD7B/jobs/239229"
@@ -4544,8 +4436,8 @@
    "group": "d3",
    "posted_is_estimate": false,
    "first_seen": "2026-07-09",
-   "salary": "$42,000 - $48,000",
-   "snippet": "$42,000 - $48,000/annually Bridgewater College Athletics is seeking an accomplished and energetic Head Softball Coach to lead our NCAA Division III softball program. Reporting to the Director of Athletics, the Head Coach is responsible for all aspects of the program, including recruiting, player development, competitive success, academic achievement, and program administration. The successful candidate will be a\u2026",
+   "salary": "",
+   "snippet": "Bridgewater College Athletics is seeking an accomplished and energetic Head Softball Coach to lead our NCAA Division III softball program. Reporting to the Director of Athletics, the Head Coach is responsible for all aspects of the program, including recruiting, player development, competitive success, academic achievement, and program administration. The successful candidate will be a strong leader, mentor, and\u2026",
    "school": {
     "name": "Bridgewater College",
     "city": "Bridgewater",
@@ -4591,81 +4483,6 @@
      29,
      25,
      26
-    ]
-   }
-  },
-  {
-   "title": "Assistant Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22375806/assistant-softball-coach"
-    }
-   ],
-   "posted": "2026-06-24",
-   "deadline": "",
-   "contact": "",
-   "id": "a9326c727b8d",
-   "type": "assistant",
-   "school_key": "137281",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "137281",
-   "school_name": "Saint Johns River State College",
-   "city": "Palatka",
-   "state": "FL",
-   "division": "NJCAA D2",
-   "group": "juco",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "$35,674.00 - $47,268.00",
-   "snippet": "Assistant Softball Coach Class and Grade This is a full-time, 11-month Para-Professional position. $35,674.00 - $47,268.00 Annually Position Summary: St. Johns River State College seeks a dedicated individual to serve as Assistant Softball Coach. This position assists the Head Softball Coach with all aspects of the softball program, including recruiting, player development, practice planning, game preparation,\u2026",
-   "school": {
-    "name": "Saint Johns River State College",
-    "city": "Palatka",
-    "state": "FL",
-    "division": "NJCAA D2",
-    "group": "juco",
-    "sector": "Public, 4-year or above",
-    "enrollment": 1795,
-    "sb_players": 23,
-    "sb_opexp": 100704,
-    "sb_expenses": 449292,
-    "sb_revenue": 448772,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 1,
-    "sb_asst_pt": 0,
-    "hc_salary_women": 68433,
-    "ac_salary_women": 33549,
-    "student_aid_women": 273264,
-    "recruit_exp_women": 1077,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     215314,
-     234839,
-     291136,
-     345124,
-     374487,
-     449292
-    ],
-    "trend_players": [
-     23,
-     24,
-     24,
-     21,
-     19,
-     23
     ]
    }
   },
@@ -7705,10 +7522,6 @@
   "a6b8c400c81c": "2026-07-09",
   "c19ca237bbf3": "2026-07-09",
   "7e966c47342c": "2026-07-09",
-  "f4e36379ec03": "2026-07-09",
-  "c90bbe77a6bd": "2026-07-09",
-  "d47e17f05fdc": "2026-07-09",
-  "a9326c727b8d": "2026-07-09",
   "06678715b44e": "2026-07-09",
   "aaf152d8b3d2": "2026-07-16",
   "d0f0cd5b2273": "2026-07-16",
@@ -7717,6 +7530,7 @@
   "2203c19ce5c2": "2026-07-14",
   "230f89a9a4df": "2026-07-09",
   "8f5981eafc1d": "2026-07-09",
+  "d47e17f05fdc": "2026-07-09",
   "d386be189b21": "2026-07-09",
   "a81e3ed2442f": "2026-07-09",
   "f6e75bcaa5d5": "2026-07-09",
@@ -7776,6 +7590,9 @@
   "ca96890caf3d": "2026-07-09",
   "7d5906f6c9f1": "2026-07-09",
   "7b43a964823c": "2026-07-21",
+  "f4e36379ec03": "2026-07-09",
+  "c90bbe77a6bd": "2026-07-09",
+  "a9326c727b8d": "2026-07-09",
   "6152d6ec4361": "2026-07-09",
   "8b9c595adb7b": "2026-07-09",
   "6157b7f2ed28": "2026-07-09",
