@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-27T20:01:07+00:00",
+ "generated_at": "2026-07-27T22:31:36+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -16,7 +16,7 @@
   {
    "name": "NJCAA Career Center",
    "ok": true,
-   "count": 1
+   "count": 2
   },
   {
    "name": "NAIA Careers",
@@ -6699,11 +6699,15 @@
    }
   },
   {
-   "title": "Head Coach",
+   "title": "Head Softball Coach",
    "links": [
     {
      "source": "NFCA",
      "url": "https://minnstate.wd115.myworkdayjobs.com/en-US/Minnesota_State_Careers/job/Head-Softball-Coach_JR0000004841"
+    },
+    {
+     "source": "NJCAA Career Center",
+     "url": "https://careers.njcaa.org/jobs/22457670/head-softball-coach"
     }
    ],
    "posted": "2026-05-27",
