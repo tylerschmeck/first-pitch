@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-29T14:36:25+00:00",
+ "generated_at": "2026-07-29T16:44:06+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -11,7 +11,7 @@
   {
    "name": "NFCA",
    "ok": true,
-   "count": 77
+   "count": 78
   },
   {
    "name": "NJCAA Career Center",
@@ -24,7 +24,7 @@
    "count": 1
   }
  ],
- "count": 97,
+ "count": 98,
  "jobs": [
   {
    "title": "Assistant Coach",
@@ -95,6 +95,82 @@
      19,
      22,
      19
+    ]
+   }
+  },
+  {
+   "title": "Graduate Assistant Coach",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://nfca.org/nfca-job-postings"
+    }
+   ],
+   "posted": "2026-07-29",
+   "deadline": "Until position is filled",
+   "contact": "Stephanie DeFeo",
+   "id": "e62b6b968f0a",
+   "type": "other",
+   "school_key": "101587",
+   "tok": [
+    "assistant",
+    "graduate"
+   ],
+   "unitid": "101587",
+   "school_name": "University of West Alabama",
+   "city": "Livingston",
+   "state": "AL",
+   "division": "NCAA D2",
+   "group": "d2",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-29",
+   "salary": "",
+   "snippet": "Position Start Date: 8/14/26 Posting Date: 7/29/26 The University of West Alabama is seeking candidates for a graduate assistant softball coach for our women\u2019s Softball program. West Alabama is a member of the NCAA DII and competes as a member of the Gulf South Conference (GSC). Responsibilities include but are not limited to recruiting, administrative work, coaching in practice and games, field prep, and game-day\u2026",
+   "school": {
+    "name": "University of West Alabama",
+    "city": "Livingston",
+    "state": "AL",
+    "division": "NCAA D2",
+    "group": "d2",
+    "sector": "Public, 4-year or above",
+    "enrollment": 2407,
+    "sb_players": 23,
+    "sb_opexp": 139108,
+    "sb_expenses": 664426,
+    "sb_revenue": 692094,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 2,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 63896,
+    "ac_salary_women": 22203,
+    "student_aid_women": 1856376,
+    "recruit_exp_women": 39342,
+    "conference": "Gulf South Conference",
+    "ath_url": "https://www.uwaathletics.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     349981,
+     472345,
+     399099,
+     528588,
+     623740,
+     664426
+    ],
+    "trend_players": [
+     26,
+     27,
+     21,
+     20,
+     21,
+     23
     ]
    }
   },
@@ -7312,6 +7388,7 @@
   "fc7196391817": "2026-07-09",
   "a746ff2593b0": "2026-07-09",
   "73c2c9224bbd": "2026-07-09",
+  "e62b6b968f0a": "2026-07-29",
   "52ed177399b2": "2026-07-22",
   "7940a4546058": "2026-07-09",
   "d2e828bf3c1b": "2026-07-09",
