@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-29T11:37:45+00:00",
+ "generated_at": "2026-07-29T14:36:25+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -11,7 +11,7 @@
   {
    "name": "NFCA",
    "ok": true,
-   "count": 82
+   "count": 77
   },
   {
    "name": "NJCAA Career Center",
@@ -24,8 +24,80 @@
    "count": 1
   }
  ],
- "count": 103,
+ "count": 97,
  "jobs": [
+  {
+   "title": "Assistant Coach",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://nfca.org/nfca-job-postings"
+    }
+   ],
+   "posted": "2026-07-29",
+   "deadline": "Until position is filled",
+   "contact": "Laura Watten",
+   "id": "739cb2438050",
+   "type": "assistant",
+   "school_key": "132602",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "132602",
+   "school_name": "Bethune-Cookman University",
+   "city": "Daytona Beach",
+   "state": "FL",
+   "division": "NCAA D1",
+   "group": "d1",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-29",
+   "salary": "",
+   "snippet": "Application Deadline: Until position is filled Posting Date: 7/29/26 The Athletic Department at Bethune Cookman University invites applications for the full-time position of Assistant Softball Coach. The Assistant Softball Coach position will participate in the preparation, coordination, practice and game plan preparation, and execution of practice plans during the academic year. The position is responsible for the\u2026",
+   "school": {
+    "name": "Bethune-Cookman University",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "division": "NCAA D1",
+    "group": "d1",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 2668,
+    "sb_players": 19,
+    "sb_opexp": 343457,
+    "sb_expenses": 833099,
+    "sb_revenue": 833099,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 2,
+    "sb_asst_pt": 0,
+    "hc_salary_women": 81162,
+    "ac_salary_women": 46579,
+    "student_aid_women": 988567,
+    "recruit_exp_women": 75954,
+    "conference": "Southwestern Athletic Conf.",
+    "ath_url": "https://www.bcuathletics.com",
+    "trend_years": [
+     2020,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     544912,
+     793879,
+     851130,
+     884062,
+     833099
+    ],
+    "trend_players": [
+     20,
+     24,
+     19,
+     22,
+     19
+    ]
+   }
+  },
   {
    "title": "Head Softball Coach",
    "links": [
@@ -1069,11 +1141,15 @@
     {
      "source": "NCAA Market",
      "url": "https://ncaamarket.ncaa.org/jobs/22434357/assistant-coach-softball"
+    },
+    {
+     "source": "NFCA",
+     "url": "https://us.smrtr.io/4ZnyY"
     }
    ],
    "posted": "2026-07-17",
-   "deadline": "",
-   "contact": "",
+   "deadline": "Until Position is Filled",
+   "contact": "Claire Gilbert",
    "id": "37883417afee",
    "type": "assistant",
    "school_key": "166027",
@@ -4562,81 +4638,6 @@
    }
   },
   {
-   "title": "Head Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://www.paycomonline.net/v4/ats/web.php/portal/16288201D4A1D6526C3A89AE4682CD7B/jobs/239229"
-    }
-   ],
-   "posted": "2026-06-24",
-   "deadline": "Preference will be given to those application submitted by June 26, 2026",
-   "contact": "Human Resources",
-   "id": "d47e17f05fdc",
-   "type": "head",
-   "school_key": "231581",
-   "tok": [
-    "head"
-   ],
-   "unitid": "231581",
-   "school_name": "Bridgewater College",
-   "city": "Bridgewater",
-   "state": "VA",
-   "division": "NCAA D3",
-   "group": "d3",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Bridgewater College Athletics is seeking an accomplished and energetic Head Softball Coach to lead our NCAA Division III softball program. Reporting to the Director of Athletics, the Head Coach is responsible for all aspects of the program, including recruiting, player development, competitive success, academic achievement, and program administration. The successful candidate will be a strong leader, mentor, and\u2026",
-   "school": {
-    "name": "Bridgewater College",
-    "city": "Bridgewater",
-    "state": "VA",
-    "division": "NCAA D3",
-    "group": "d3",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 1396,
-    "sb_players": 26,
-    "sb_opexp": 118244,
-    "sb_expenses": 222240,
-    "sb_revenue": 222240,
-    "sb_head_ft": 0,
-    "sb_head_pt": 1,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 4,
-    "hc_salary_women": 55966,
-    "ac_salary_women": 38045,
-    "student_aid_women": 0,
-    "recruit_exp_women": 40305,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     94928,
-     76677,
-     175027,
-     182808,
-     196800,
-     222240
-    ],
-    "trend_players": [
-     22,
-     22,
-     26,
-     29,
-     25,
-     26
-    ]
-   }
-  },
-  {
    "title": "Assistant Coach",
    "links": [
     {
@@ -6068,36 +6069,6 @@
    }
   },
   {
-   "title": "Graduate Assistant Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=acafb953-757f-4fc8-b0ee-c3d3b317c413&ccId=19000101_000001&lang=en_US"
-    }
-   ],
-   "posted": "2026-06-04",
-   "deadline": "N/A",
-   "contact": "Seth Berkebile",
-   "id": "0d1b4f3b6277",
-   "type": "other",
-   "school_key": "wesleyan college",
-   "tok": [
-    "assistant",
-    "graduate"
-   ],
-   "unitid": null,
-   "school_name": "Wesleyan College",
-   "city": "Macon",
-   "state": "GA",
-   "division": "NAIA",
-   "group": "naia",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "The Graduate Assistant - Softball Coach plays a pivotal role in supporting the athletic department's operations and enhancing the student-athlete experience. This position involves assisting with administrative tasks, coordinating and supporting events, and providing support to coaching staff and athletic",
-   "school": null
-  },
-  {
    "title": "Assistant Coach",
    "links": [
     {
@@ -6249,158 +6220,6 @@
    }
   },
   {
-   "title": "Graduate Assistant Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://www.paycomonline.net/v4/ats/web.php/portal/9B7DD7DDF4B46DE388E0D590C86BBE1D/jobs/247817"
-    }
-   ],
-   "posted": "2026-06-03",
-   "deadline": "Until Position is Filled",
-   "contact": "Stephanie Zimny",
-   "id": "579f677ae6f7",
-   "type": "other",
-   "school_key": "151290",
-   "tok": [
-    "assistant",
-    "graduate"
-   ],
-   "unitid": "151290",
-   "school_name": "Indiana Institute of Technology",
-   "city": "Fort Wayne",
-   "state": "IN",
-   "division": "NAIA",
-   "group": "naia",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "The Department of Athletics Graduate Assistant position(s) shall support the student-athlete experience by executing duties directly related to the success, engagement, and retention of JV student-athletes through academic and personal mentorship and individual athletic and technical development. Essential Duties & Responsibilities Serve as a direct contact for the JV program in the appropriate sport, including, but\u2026",
-   "school": {
-    "name": "Indiana Institute of Technology",
-    "city": "Fort Wayne",
-    "state": "IN",
-    "division": "NAIA",
-    "group": "naia",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 1398,
-    "sb_players": 34,
-    "sb_opexp": 62325,
-    "sb_expenses": 447132,
-    "sb_revenue": 447132,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 3,
-    "hc_salary_women": 47320,
-    "ac_salary_women": 24013,
-    "student_aid_women": 2854998,
-    "recruit_exp_women": 30668,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     375070,
-     352526,
-     417005,
-     415927,
-     407358,
-     447132
-    ],
-    "trend_players": [
-     36,
-     33,
-     37,
-     36,
-     36,
-     34
-    ]
-   }
-  },
-  {
-   "title": "Graduate Assistant Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://apptrkr.com/7190211"
-    }
-   ],
-   "posted": "2026-06-01",
-   "deadline": "N/A",
-   "contact": "Human Resources",
-   "id": "dc14e68ee02b",
-   "type": "other",
-   "school_key": "238458",
-   "tok": [
-    "assistant",
-    "graduate"
-   ],
-   "unitid": "238458",
-   "school_name": "Carroll University",
-   "city": "Waukesha",
-   "state": "WI",
-   "division": "NCAA D3",
-   "group": "d3",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "This position is designed to give the qualified candidate hands on experience with all facets of an intercollegiate softball program. This is a two year position with the expectation of successful graduation from Carroll University with a Master's Degree. This position is supervised by the Head Softball",
-   "school": {
-    "name": "Carroll University",
-    "city": "Waukesha",
-    "state": "WI",
-    "division": "NCAA D3",
-    "group": "d3",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 2439,
-    "sb_players": 20,
-    "sb_opexp": 48915,
-    "sb_expenses": 162839,
-    "sb_revenue": 173473,
-    "sb_head_ft": 0,
-    "sb_head_pt": 1,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 5,
-    "hc_salary_women": 45344,
-    "ac_salary_women": 25808,
-    "student_aid_women": 0,
-    "recruit_exp_women": 13008,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     113799,
-     104512,
-     168481,
-     167781,
-     172953,
-     162839
-    ],
-    "trend_players": [
-     22,
-     23,
-     31,
-     25,
-     25,
-     20
-    ]
-   }
-  },
-  {
    "title": "Assistant Coach",
    "links": [
     {
@@ -6476,81 +6295,6 @@
    }
   },
   {
-   "title": "Assistant Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://binghamton.interviewexchange.com/jobofferdetails.jsp?JOBID=200577"
-    }
-   ],
-   "posted": "2026-05-29",
-   "deadline": "Until position is filled",
-   "contact": "Erin Moore",
-   "id": "e838a441e527",
-   "type": "assistant",
-   "school_key": "196079",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "196079",
-   "school_name": "Binghamton University",
-   "city": "Binghamton",
-   "state": "NY",
-   "division": "NCAA D1",
-   "group": "d1",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Posting Date: 5/29/26 Binghamton University, a NCAA Division I institution, member of the America East Conference, is seeking an Assistant Softball Coach. This position will assist in all aspects of the softball program under the direction of the head coach including instruction, conducting practice and teaching skill development, game planning, film review, recruiting, budget, team travel, scheduling, practice and\u2026",
-   "school": {
-    "name": "Binghamton University",
-    "city": "Vestal",
-    "state": "NY",
-    "division": "NCAA D1",
-    "group": "d1",
-    "sector": "Public, 4-year or above",
-    "enrollment": 14318,
-    "sb_players": 18,
-    "sb_opexp": 197982,
-    "sb_expenses": 892585,
-    "sb_revenue": 1308024,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 2,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 117125,
-    "ac_salary_women": 57601,
-    "student_aid_women": 2710455,
-    "recruit_exp_women": 109649,
-    "conference": "America East Conference",
-    "ath_url": "https://www.bubearcats.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     708844,
-     713278,
-     635644,
-     744717,
-     860307,
-     892585
-    ],
-    "trend_players": [
-     22,
-     26,
-     17,
-     21,
-     22,
-     18
-    ]
-   }
-  },
-  {
    "title": "Assistant Coach (Pitching)",
    "links": [
     {
@@ -6619,81 +6363,6 @@
      31,
      34,
      36
-    ]
-   }
-  },
-  {
-   "title": "Assistant Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://nfca.org/nfca-job-postings"
-    }
-   ],
-   "posted": "2026-05-28",
-   "deadline": "Until Position is filled",
-   "contact": "Julie LeMaire",
-   "id": "deb86c86f6cf",
-   "type": "assistant",
-   "school_key": "136215",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "136215",
-   "school_name": "Nova Southeastern University",
-   "city": "Fort Lauderdale",
-   "state": "FL",
-   "division": "NCAA D2",
-   "group": "d2",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Support the head coach in managing a high level DII competitive program. Responsibilities include on-field player development (preference in Pitching, but considering all candidates), video/technology analysis, scouting, recruiting, monitoring academics, coordinating travel, and ensuring compliance with NCAA, SSC, and NSU rules. Please send inquiries",
-   "school": {
-    "name": "Nova Southeastern University",
-    "city": "Fort Lauderdale",
-    "state": "FL",
-    "division": "NCAA D2",
-    "group": "d2",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 6826,
-    "sb_players": 18,
-    "sb_opexp": 87418,
-    "sb_expenses": 613492,
-    "sb_revenue": 613492,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 1,
-    "sb_asst_pt": 0,
-    "hc_salary_women": 89122,
-    "ac_salary_women": 55740,
-    "student_aid_women": 2757254,
-    "recruit_exp_women": 32103,
-    "conference": "Sunshine State Conference",
-    "ath_url": "https://nsusharks.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     489965,
-     446546,
-     543147,
-     588023,
-     628597,
-     613492
-    ],
-    "trend_players": [
-     18,
-     18,
-     22,
-     20,
-     22,
-     18
     ]
    }
   },
@@ -7409,82 +7078,6 @@
    }
   },
   {
-   "title": "Graduate Assistant Coach (pitching preferred)",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://portals.williamwoods.edu/employment/job_details.aspx?id=23"
-    }
-   ],
-   "posted": "2026-05-07",
-   "deadline": "Until filled",
-   "contact": "Tracy Gastineau",
-   "id": "7d5906f6c9f1",
-   "type": "other",
-   "school_key": "179964",
-   "tok": [
-    "assistant",
-    "graduate"
-   ],
-   "unitid": "179964",
-   "school_name": "William Woods University",
-   "city": "Fulton",
-   "state": "MO",
-   "division": "NAIA",
-   "group": "naia",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "The duties of the Graduate Assistant Softball Coach will be to assist the Head Softball Coach in all areas of the operations of the softball program, with emphasis in working with pitchers is preferred. This will include, but not be limited to, the items listed in this job description.Compensation includes full tuition in a masters program and board when the campus dining facility is open. Room is provided as\u2026",
-   "school": {
-    "name": "William Woods University",
-    "city": "Fulton",
-    "state": "MO",
-    "division": "NAIA",
-    "group": "naia",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 1036,
-    "sb_players": 28,
-    "sb_opexp": 151329,
-    "sb_expenses": 945509,
-    "sb_revenue": 998244,
-    "sb_head_ft": 0,
-    "sb_head_pt": 1,
-    "sb_asst_ft": 1,
-    "sb_asst_pt": 2,
-    "hc_salary_women": 47631,
-    "ac_salary_women": 28070,
-    "student_aid_women": 5042772,
-    "recruit_exp_women": 18769,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     344809,
-     326390,
-     342000,
-     322855,
-     486361,
-     945509
-    ],
-    "trend_players": [
-     20,
-     20,
-     21,
-     21,
-     23,
-     28
-    ]
-   }
-  },
-  {
    "title": "Graduate Assistant Coach",
    "links": [
     {
@@ -7680,7 +7273,6 @@
   "2203c19ce5c2": "2026-07-14",
   "230f89a9a4df": "2026-07-09",
   "8f5981eafc1d": "2026-07-09",
-  "d47e17f05fdc": "2026-07-09",
   "d386be189b21": "2026-07-09",
   "a81e3ed2442f": "2026-07-09",
   "f6e75bcaa5d5": "2026-07-09",
@@ -7688,6 +7280,7 @@
   "75feb34c8e03": "2026-07-09",
   "1bd975199ae6": "2026-07-09",
   "1c53ca778641": "2026-07-09",
+  "739cb2438050": "2026-07-29",
   "6b6b58e8843e": "2026-07-27",
   "4f05100dd981": "2026-07-24",
   "899cfdd8a2b9": "2026-07-23",
@@ -7715,9 +7308,7 @@
   "2ce2b48ada9c": "2026-07-09",
   "a70fcd3eb920": "2026-07-09",
   "65cc84f81c35": "2026-07-09",
-  "e838a441e527": "2026-07-09",
   "9d196befe576": "2026-07-09",
-  "deb86c86f6cf": "2026-07-09",
   "fc7196391817": "2026-07-09",
   "a746ff2593b0": "2026-07-09",
   "73c2c9224bbd": "2026-07-09",
@@ -7733,14 +7324,17 @@
   "d7040b6b2311": "2026-07-09",
   "f0b4406776a1": "2026-07-09",
   "9dfbd4f8ec44": "2026-07-09",
-  "0d1b4f3b6277": "2026-07-09",
   "9eba332a18e4": "2026-07-09",
-  "579f677ae6f7": "2026-07-09",
-  "dc14e68ee02b": "2026-07-09",
   "ee0b5f4b9eba": "2026-07-09",
   "ca96890caf3d": "2026-07-09",
-  "7d5906f6c9f1": "2026-07-09",
   "7b43a964823c": "2026-07-21",
+  "d47e17f05fdc": "2026-07-09",
+  "e838a441e527": "2026-07-09",
+  "deb86c86f6cf": "2026-07-09",
+  "0d1b4f3b6277": "2026-07-09",
+  "579f677ae6f7": "2026-07-09",
+  "dc14e68ee02b": "2026-07-09",
+  "7d5906f6c9f1": "2026-07-09",
   "7e966c47342c": "2026-07-09",
   "2e5bfb488088": "2026-07-10",
   "f4e36379ec03": "2026-07-09",
