@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-07-29T16:44:06+00:00",
+ "generated_at": "2026-07-29T19:49:47+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 36
+   "count": 35
   },
   {
    "name": "NFCA",
@@ -24,7 +24,7 @@
    "count": 1
   }
  ],
- "count": 98,
+ "count": 97,
  "jobs": [
   {
    "title": "Assistant Coach",
@@ -3026,81 +3026,6 @@
      19,
      21,
      24
-    ]
-   }
-  },
-  {
-   "title": "Head Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22405383/head-softball-coach"
-    }
-   ],
-   "posted": "2026-07-07",
-   "deadline": "",
-   "contact": "",
-   "id": "d0d50f6147e1",
-   "type": "head",
-   "school_key": "229832",
-   "tok": [
-    "head"
-   ],
-   "unitid": "229832",
-   "school_name": "Western Texas College",
-   "city": "Snyder",
-   "state": "TX",
-   "division": "NJCAA D1",
-   "group": "juco",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "$10,000",
-   "snippet": "Position Summary The Head Softball Coach provides leadership, coaching, and administrative oversight for the College\u2019s intercollegiate softball program, supporting student-athlete success, regulatory compliance, and competitive performance. This position is responsible for recruiting and developing student-athletes, organizing practices and competitions, managing program operations, and ensuring alignment with\u2026",
-   "school": {
-    "name": "Western Texas College",
-    "city": "Snyder",
-    "state": "TX",
-    "division": "NJCAA D1",
-    "group": "juco",
-    "sector": "Public, 2-year",
-    "enrollment": 378,
-    "sb_players": 19,
-    "sb_opexp": 50520,
-    "sb_expenses": 242807,
-    "sb_revenue": 260138,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 1,
-    "sb_asst_pt": 0,
-    "hc_salary_women": 63368,
-    "ac_salary_women": 28760,
-    "student_aid_women": 462149,
-    "recruit_exp_women": 32514,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     205994,
-     228607,
-     242214,
-     228357,
-     237618,
-     242807
-    ],
-    "trend_players": [
-     15,
-     15,
-     16,
-     15,
-     22,
-     19
     ]
    }
   },
@@ -7331,7 +7256,6 @@
   "b3bfa5acc501": "2026-07-09",
   "6bfd433b5593": "2026-07-09",
   "1bd1d2243ea1": "2026-07-09",
-  "d0d50f6147e1": "2026-07-09",
   "a9b675d23aac": "2026-07-09",
   "d01a1c153845": "2026-07-09",
   "6f7cc7032079": "2026-07-09",
@@ -7405,6 +7329,7 @@
   "ee0b5f4b9eba": "2026-07-09",
   "ca96890caf3d": "2026-07-09",
   "7b43a964823c": "2026-07-21",
+  "d0d50f6147e1": "2026-07-09",
   "d47e17f05fdc": "2026-07-09",
   "e838a441e527": "2026-07-09",
   "deb86c86f6cf": "2026-07-09",
