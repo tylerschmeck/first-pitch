@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-07-29T19:49:47+00:00",
+ "generated_at": "2026-07-29T22:25:32+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 35
+   "count": 36
   },
   {
    "name": "NFCA",
@@ -24,8 +24,81 @@
    "count": 1
   }
  ],
- "count": 97,
+ "count": 98,
  "jobs": [
+  {
+   "title": "Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22463100/softball-coach"
+    }
+   ],
+   "posted": "2026-07-29",
+   "deadline": "",
+   "contact": "",
+   "id": "8837ad19e266",
+   "type": "head",
+   "school_key": "224323",
+   "tok": [],
+   "unitid": "224323",
+   "school_name": "University of Dallas",
+   "city": "Irving",
+   "state": "TX",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-29",
+   "salary": "",
+   "snippet": "WHO WE ARE The University of Dallas is a Catholic university that seeks to educate the whole person, encouraging its students to pursue wisdom, truth and virtue as the proper and primary ends of education. We have consistently ranked as one of the top regional universities in the country. We are dedicated and guided by our Mission. SUMMARY UD is currently seeking a Softball Coach who will be responsible for the\u2026",
+   "school": {
+    "name": "University of Dallas",
+    "city": "Irving",
+    "state": "TX",
+    "division": "NCAA D3",
+    "group": "d3",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 1385,
+    "sb_players": 25,
+    "sb_opexp": 46052,
+    "sb_expenses": 114096,
+    "sb_revenue": 114096,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 0,
+    "hc_salary_women": 71343,
+    "ac_salary_women": null,
+    "student_aid_women": 0,
+    "recruit_exp_women": 1241,
+    "conference": "Southern Collegiate Athletic Conference",
+    "ath_url": "https://www.udallasathletics.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     104967,
+     96519,
+     131887,
+     115219,
+     126852,
+     114096
+    ],
+    "trend_players": [
+     17,
+     14,
+     18,
+     15,
+     25,
+     25
+    ]
+   }
+  },
   {
    "title": "Assistant Coach",
    "links": [
@@ -7232,6 +7305,7 @@
   }
  ],
  "seen": {
+  "8837ad19e266": "2026-07-29",
   "66bde41afbb9": "2026-07-27",
   "ae9f6e04dd73": "2026-07-24",
   "c124472ef591": "2026-07-23",
