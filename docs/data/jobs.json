@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-30T19:57:51+00:00",
+ "generated_at": "2026-07-30T22:32:01+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -11,7 +11,7 @@
   {
    "name": "NFCA",
    "ok": true,
-   "count": 81
+   "count": 82
   },
   {
    "name": "NJCAA Career Center",
@@ -24,7 +24,7 @@
    "count": 1
   }
  ],
- "count": 103,
+ "count": 104,
  "jobs": [
   {
    "title": "Assistant Coach Softball",
@@ -211,6 +211,81 @@
    "salary": "",
    "snippet": "Nationwide, The Division I Softball Championship Subcommittee is requesting applications from interested individuals to serve as the Softball Director of Training and Video Review. The softball director of training and video review provides leadership in the areas of education and training of softball umpires and supports the NCAA\u2019s commitment to improving the overall quality and consistency of softball umpiring\u2026",
    "school": null
+  },
+  {
+   "title": "Head Coach",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://nfca.org/nfca-job-postings"
+    }
+   ],
+   "posted": "2026-07-30",
+   "deadline": "N/A Posting Date: 7/30/26",
+   "contact": "Lea Freeman",
+   "id": "072a486f57ef",
+   "type": "head",
+   "school_key": "161253",
+   "tok": [
+    "head"
+   ],
+   "unitid": "161253",
+   "school_name": "University of Maine",
+   "city": "Fort Kent",
+   "state": "ME",
+   "division": "NCAA D1",
+   "group": "d1",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-30",
+   "salary": "$45,301",
+   "snippet": "The University of Maine at Fort Kent is seeking to hire a Head Softball Coach in its athletics department. The Head Softball Coach oversees the day-to-day operations of the program. They will coach intercollegiate Softball, recruit as permitted by USCAA rules, conduct on-the-field teaching and coaching. Please note that UMFK has the intention to reclassify to NCAA DIII. This position requires frequent travel, work\u2026",
+   "school": {
+    "name": "University of Maine",
+    "city": "Orono",
+    "state": "ME",
+    "division": "NCAA D1",
+    "group": "d1",
+    "sector": "Public, 4-year or above",
+    "enrollment": 7449,
+    "sb_players": 21,
+    "sb_opexp": 272053,
+    "sb_expenses": 1236071,
+    "sb_revenue": 1236071,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 2,
+    "sb_asst_pt": 0,
+    "hc_salary_women": 119956,
+    "ac_salary_women": 45886,
+    "student_aid_women": 3704110,
+    "recruit_exp_women": 129311,
+    "conference": "America East Conference",
+    "ath_url": "https://goblackbears.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     776006,
+     737850,
+     925273,
+     993493,
+     1023453,
+     1236071
+    ],
+    "trend_players": [
+     23,
+     22,
+     20,
+     20,
+     22,
+     21
+    ]
+   }
   },
   {
    "title": "Assistant Coach",
@@ -7670,6 +7745,7 @@
   "06678715b44e": "2026-07-09",
   "12b7fcbbf3fd": "2026-07-29",
   "39d765218403": "2026-07-30",
+  "072a486f57ef": "2026-07-30",
   "aaf152d8b3d2": "2026-07-16",
   "d0f0cd5b2273": "2026-07-16",
   "9385fae9ae6e": "2026-07-16",
