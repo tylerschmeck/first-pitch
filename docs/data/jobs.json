@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-07-30T03:38:54+00:00",
+ "generated_at": "2026-07-30T09:08:40+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 36
+   "count": 34
   },
   {
    "name": "NFCA",
@@ -2270,12 +2270,8 @@
    }
   },
   {
-   "title": "Head Softball Coach",
+   "title": "Head Coach",
    "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22386923/head-softball-coach"
-    },
     {
      "source": "NFCA",
      "url": "https://tinyurl.com/mryst7fx"
@@ -5909,12 +5905,8 @@
    }
   },
   {
-   "title": "Assistant Softball Coach \u2013 Athletics \u2013 Division of Student Affairs",
+   "title": "Assistant Coach",
    "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22386888/assistant-softball-coach-athletics-division-of-student-affairs"
-    },
     {
      "source": "NFCA",
      "url": "https://cmu.wd5.myworkdayjobs.com/CMU/job/Pittsburgh-PA/Assistant-Softball-Coach---Athletics---Division-of-Student-Affairs_2024662"
@@ -5938,7 +5930,7 @@
    "posted_is_estimate": false,
    "first_seen": "2026-07-09",
    "salary": "",
-   "snippet": "Carnegie Mellon University has a world-renowned reputation with core values that reflect its commitment to hiring and retaining individuals with a diversity of talents, perspectives and experiences. A national research university, Carnegie Mellon is a member of the NCAA Division III and University Athletic Association. Carnegie Mellon University\u2019s department of Athletics is searching for an Assistant Coach in its\u2026",
+   "snippet": "Direct oversight and development of a portion of program (infield, hitting or pitching staff) dependent on candidate\u2019s strength. Assist in preparation, planning, conducting, and evaluating practice sessions, as alongside the head coach. Candidate must be flexible in teaching methods and communication styles to connect with players while teaching player-to-player sport and position specific skills, during and after\u2026",
    "school": {
     "name": "Carnegie Mellon University",
     "city": "Pittsburgh",
@@ -7336,14 +7328,13 @@
   "66f319a3b67f": "2026-07-09",
   "2f979de02f20": "2026-07-09",
   "3e298fcd2c7d": "2026-07-09",
-  "a6b8c400c81c": "2026-07-09",
-  "c19ca237bbf3": "2026-07-09",
   "06678715b44e": "2026-07-09",
   "12b7fcbbf3fd": "2026-07-29",
   "aaf152d8b3d2": "2026-07-16",
   "d0f0cd5b2273": "2026-07-16",
   "9385fae9ae6e": "2026-07-16",
   "b710c7f6dbd0": "2026-07-15",
+  "a6b8c400c81c": "2026-07-09",
   "2203c19ce5c2": "2026-07-14",
   "230f89a9a4df": "2026-07-09",
   "8f5981eafc1d": "2026-07-09",
@@ -7379,6 +7370,7 @@
   "450b879ffa47": "2026-07-09",
   "2b8deebb921e": "2026-07-09",
   "4fa6c0ff2416": "2026-07-09",
+  "c19ca237bbf3": "2026-07-09",
   "2ce2b48ada9c": "2026-07-09",
   "a70fcd3eb920": "2026-07-09",
   "65cc84f81c35": "2026-07-09",
