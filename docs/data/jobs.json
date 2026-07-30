@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-07-30T16:55:51+00:00",
+ "generated_at": "2026-07-30T19:57:51+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "name": "NFCA",
    "ok": true,
-   "count": 78
+   "count": 81
   },
   {
    "name": "NJCAA Career Center",
@@ -24,7 +24,7 @@
    "count": 1
   }
  ],
- "count": 100,
+ "count": 103,
  "jobs": [
   {
    "title": "Assistant Coach Softball",
@@ -32,11 +32,15 @@
     {
      "source": "NCAA Market",
      "url": "https://ncaamarket.ncaa.org/jobs/22465550/assistant-coach-softball"
+    },
+    {
+     "source": "NFCA",
+     "url": "https://www.paycomonline.net/v4/ats/web.php/portal/16288201D4A1D6526C3A89AE4682CD7B/jobs/247029"
     }
    ],
    "posted": "2026-07-30",
-   "deadline": "",
-   "contact": "",
+   "deadline": "Open until filled",
+   "contact": "Human Resources",
    "id": "7011b9a026b9",
    "type": "assistant",
    "school_key": "231581",
@@ -173,6 +177,189 @@
      31,
      28,
      23
+    ]
+   }
+  },
+  {
+   "title": "NCAA Softball Director of Training and Video Review",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22465653/ncaa-softball-director-of-training-and-video-review"
+    }
+   ],
+   "posted": "2026-07-30",
+   "deadline": "",
+   "contact": "",
+   "id": "39d765218403",
+   "type": "other",
+   "school_key": "ncaa",
+   "tok": [
+    "director",
+    "review",
+    "training",
+    "video"
+   ],
+   "unitid": null,
+   "school_name": "NCAA",
+   "city": "",
+   "state": "",
+   "division": "\u2014",
+   "group": "other",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-30",
+   "salary": "",
+   "snippet": "Nationwide, The Division I Softball Championship Subcommittee is requesting applications from interested individuals to serve as the Softball Director of Training and Video Review. The softball director of training and video review provides leadership in the areas of education and training of softball umpires and supports the NCAA\u2019s commitment to improving the overall quality and consistency of softball umpiring\u2026",
+   "school": null
+  },
+  {
+   "title": "Assistant Coach",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://washcollege.clearcompany.com/careers/jobs/62d31133-b7e8-0ce2-2ea2-173404f6ada9/apply?source=CJB-0"
+    }
+   ],
+   "posted": "2026-07-30",
+   "deadline": "Until position is filled",
+   "contact": "Sally Snover",
+   "id": "7e89ad8f7d1d",
+   "type": "assistant",
+   "school_key": "164216",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "164216",
+   "school_name": "Washington College",
+   "city": "Chestertown",
+   "state": "MD",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-30",
+   "salary": "",
+   "snippet": "Posting Date: 7/30/26 Washington College, an NCAA Division III member of the Centennial Conference, is accepting applications for a full-time assistant softball coach. The assistant softball coach is responsible for assisting the head coach in all aspects of running a competitive softball program. Coaching responsibilities and additional responsibilities will be based on candidate\u2019s skill set and",
+   "school": {
+    "name": "Washington College",
+    "city": "Chestertown",
+    "state": "MD",
+    "division": "NCAA D3",
+    "group": "d3",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 880,
+    "sb_players": 19,
+    "sb_opexp": 59532,
+    "sb_expenses": 185163,
+    "sb_revenue": 185163,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 1,
+    "sb_asst_pt": 0,
+    "hc_salary_women": 62899,
+    "ac_salary_women": 29319,
+    "student_aid_women": 0,
+    "recruit_exp_women": 19300,
+    "conference": "",
+    "ath_url": "",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     90811,
+     69458,
+     127658,
+     156915,
+     156396,
+     185163
+    ],
+    "trend_players": [
+     19,
+     13,
+     13,
+     21,
+     21,
+     19
+    ]
+   }
+  },
+  {
+   "title": "Graduate Assistant Coach",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://nfca.org/nfca-job-postings"
+    }
+   ],
+   "posted": "2026-07-30",
+   "deadline": "Until Position is Filled",
+   "contact": "Taylor Welch",
+   "id": "1baaaeecda6c",
+   "type": "other",
+   "school_key": "237312",
+   "tok": [
+    "assistant",
+    "graduate"
+   ],
+   "unitid": "237312",
+   "school_name": "University of Charleston",
+   "city": "Charleston",
+   "state": "WV",
+   "division": "NCAA D2",
+   "group": "d2",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-30",
+   "salary": "",
+   "snippet": "The graduate assistant for women\u2019s softball is responsible for assisting the head coach with the facilitation of all aspects that are associated with running a collegiate women\u2019s softball program. The graduate assistant coach will assist the head coach with the recruitment of student-athletes and managing part-time coaches and student workers. In addition, the graduate assistant for women\u2019s softball will assist the\u2026",
+   "school": {
+    "name": "University of Charleston",
+    "city": "Charleston",
+    "state": "WV",
+    "division": "NCAA D2",
+    "group": "d2",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 1220,
+    "sb_players": 29,
+    "sb_opexp": 59479,
+    "sb_expenses": 410271,
+    "sb_revenue": 453127,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 52049,
+    "ac_salary_women": 27203,
+    "student_aid_women": 2489099,
+    "recruit_exp_women": 24972,
+    "conference": "",
+    "ath_url": "",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     373091,
+     396102,
+     379352,
+     416770,
+     511037,
+     410271
+    ],
+    "trend_players": [
+     34,
+     36,
+     31,
+     33,
+     34,
+     29
     ]
    }
   },
@@ -7482,6 +7669,7 @@
   "3e298fcd2c7d": "2026-07-09",
   "06678715b44e": "2026-07-09",
   "12b7fcbbf3fd": "2026-07-29",
+  "39d765218403": "2026-07-30",
   "aaf152d8b3d2": "2026-07-16",
   "d0f0cd5b2273": "2026-07-16",
   "9385fae9ae6e": "2026-07-16",
@@ -7497,6 +7685,7 @@
   "75feb34c8e03": "2026-07-09",
   "1bd975199ae6": "2026-07-09",
   "1c53ca778641": "2026-07-09",
+  "7e89ad8f7d1d": "2026-07-30",
   "739cb2438050": "2026-07-29",
   "6b6b58e8843e": "2026-07-27",
   "4f05100dd981": "2026-07-24",
@@ -7530,6 +7719,7 @@
   "fc7196391817": "2026-07-09",
   "a746ff2593b0": "2026-07-09",
   "73c2c9224bbd": "2026-07-09",
+  "1baaaeecda6c": "2026-07-30",
   "e62b6b968f0a": "2026-07-29",
   "52ed177399b2": "2026-07-22",
   "7940a4546058": "2026-07-09",
