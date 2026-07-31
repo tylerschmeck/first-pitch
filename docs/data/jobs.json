@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-31T11:38:08+00:00",
+ "generated_at": "2026-07-31T14:43:11+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -11,7 +11,7 @@
   {
    "name": "NFCA",
    "ok": true,
-   "count": 82
+   "count": 81
   },
   {
    "name": "NJCAA Career Center",
@@ -24,8 +24,40 @@
    "count": 1
   }
  ],
- "count": 103,
+ "count": 102,
  "jobs": [
+  {
+   "title": "NCAA Softball Director of Training and Video Review",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22465653/ncaa-softball-director-of-training-and-video-review"
+    }
+   ],
+   "posted": "2026-07-31",
+   "deadline": "",
+   "contact": "",
+   "id": "39d765218403",
+   "type": "other",
+   "school_key": "ncaa",
+   "tok": [
+    "director",
+    "review",
+    "training",
+    "video"
+   ],
+   "unitid": null,
+   "school_name": "NCAA",
+   "city": "",
+   "state": "",
+   "division": "\u2014",
+   "group": "other",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-30",
+   "salary": "",
+   "snippet": "Nationwide, The Division I Softball Championship Subcommittee is requesting applications from interested individuals to serve as the Softball Director of Training and Video Review. The softball director of training and video review provides leadership in the areas of education and training of softball umpires and supports the NCAA\u2019s commitment to improving the overall quality and consistency of softball umpiring\u2026",
+   "school": null
+  },
   {
    "title": "Assistant Coach Softball",
    "links": [
@@ -179,38 +211,6 @@
      23
     ]
    }
-  },
-  {
-   "title": "NCAA Softball Director of Training and Video Review",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22465653/ncaa-softball-director-of-training-and-video-review"
-    }
-   ],
-   "posted": "2026-07-30",
-   "deadline": "",
-   "contact": "",
-   "id": "39d765218403",
-   "type": "other",
-   "school_key": "ncaa",
-   "tok": [
-    "director",
-    "review",
-    "training",
-    "video"
-   ],
-   "unitid": null,
-   "school_name": "NCAA",
-   "city": "",
-   "state": "",
-   "division": "\u2014",
-   "group": "other",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-30",
-   "salary": "",
-   "snippet": "Nationwide, The Division I Softball Championship Subcommittee is requesting applications from interested individuals to serve as the Softball Director of Training and Video Review. The softball director of training and video review provides leadership in the areas of education and training of softball umpires and supports the NCAA\u2019s commitment to improving the overall quality and consistency of softball umpiring\u2026",
-   "school": null
   },
   {
    "title": "Head Coach",
@@ -5711,81 +5711,6 @@
    }
   },
   {
-   "title": "Head Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://hr.myu.umn.edu/jobs/ext/374338"
-    }
-   ],
-   "posted": "2026-06-16",
-   "deadline": "Open until filled",
-   "contact": "Wendy Larrivy",
-   "id": "f6e75bcaa5d5",
-   "type": "head",
-   "school_key": "174233",
-   "tok": [
-    "head"
-   ],
-   "unitid": "174233",
-   "school_name": "University of Minnesota-Duluth",
-   "city": "Duluth",
-   "state": "MN",
-   "division": "NCAA D2",
-   "group": "d2",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "The Head Coach develops and maintains a competitive NCAA Division II softball program in a manner compatible with department of athletics and university values, and in compliance with NCAA and NSIC conference rules and regulations. The Head Coach supports the UMD department of athletics mission of excellence in the Classroom, Community and Competition while furthering UMD\u2019s strategic",
-   "school": {
-    "name": "University of Minnesota-Duluth",
-    "city": "Duluth",
-    "state": "MN",
-    "division": "NCAA D2",
-    "group": "d2",
-    "sector": "Public, 4-year or above",
-    "enrollment": 6974,
-    "sb_players": 20,
-    "sb_opexp": 166687,
-    "sb_expenses": 391761,
-    "sb_revenue": 391761,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 3,
-    "hc_salary_women": 148912,
-    "ac_salary_women": 77598,
-    "student_aid_women": 1375822,
-    "recruit_exp_women": 70759,
-    "conference": "Northern Sun Intercollegiate Conference",
-    "ath_url": "https://umdbulldogs.com/",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     263545,
-     301692,
-     341825,
-     319168,
-     412417,
-     391761
-    ],
-    "trend_players": [
-     15,
-     22,
-     20,
-     20,
-     26,
-     20
-    ]
-   }
-  },
-  {
    "title": "Graduate Assistant Coach",
    "links": [
     {
@@ -7671,7 +7596,6 @@
   "8f5981eafc1d": "2026-07-09",
   "d386be189b21": "2026-07-09",
   "a81e3ed2442f": "2026-07-09",
-  "f6e75bcaa5d5": "2026-07-09",
   "d15026de3f7f": "2026-07-09",
   "75feb34c8e03": "2026-07-09",
   "1bd975199ae6": "2026-07-09",
@@ -7728,6 +7652,7 @@
   "ee0b5f4b9eba": "2026-07-09",
   "ca96890caf3d": "2026-07-09",
   "7b43a964823c": "2026-07-21",
+  "f6e75bcaa5d5": "2026-07-09",
   "2f979de02f20": "2026-07-09",
   "d0d50f6147e1": "2026-07-09",
   "d47e17f05fdc": "2026-07-09",
