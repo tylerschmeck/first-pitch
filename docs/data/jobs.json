@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-07-31T03:57:58+00:00",
+ "generated_at": "2026-07-31T09:22:02+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 37
+   "count": 34
   },
   {
    "name": "NFCA",
@@ -24,7 +24,7 @@
    "count": 1
   }
  ],
- "count": 104,
+ "count": 103,
  "jobs": [
   {
    "title": "Assistant Coach Softball",
@@ -4122,6 +4122,157 @@
    }
   },
   {
+   "title": "Assistant/Associate Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22395564/assistant-associate-softball-coach"
+    }
+   ],
+   "posted": "2026-07-02",
+   "deadline": "",
+   "contact": "",
+   "id": "06678715b44e",
+   "type": "assistant",
+   "school_key": "150136",
+   "tok": [
+    "assistant",
+    "associate"
+   ],
+   "unitid": "150136",
+   "school_name": "Ball State University",
+   "city": "Muncie",
+   "state": "IN",
+   "division": "NCAA D1",
+   "group": "d1",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-09",
+   "salary": "",
+   "snippet": "Assistant/Associate Softball Coach About this opportunity: Ball State University Athletics seeks a highly motivated and energetic professional to join our softball program as an Assistant/Associate Softball Coach. Located in Muncie, Indiana, Ball State is a proud member of the Mid-American Conference (MAC) and competes at the NCAA Division I level. This position offers the opportunity to contribute to a\u2026",
+   "school": {
+    "name": "Ball State University",
+    "city": "Muncie",
+    "state": "IN",
+    "division": "NCAA D1",
+    "group": "d1",
+    "sector": "Public, 4-year or above",
+    "enrollment": 13027,
+    "sb_players": 25,
+    "sb_opexp": 239931,
+    "sb_expenses": 1100597,
+    "sb_revenue": 1100597,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 2,
+    "sb_asst_pt": 0,
+    "hc_salary_women": 110586,
+    "ac_salary_women": 66241,
+    "student_aid_women": 4039187,
+    "recruit_exp_women": 293629,
+    "conference": "Mid-American Conference",
+    "ath_url": "https://www.ballstatesports.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     849668,
+     766459,
+     1013717,
+     953510,
+     1069008,
+     1100597
+    ],
+    "trend_players": [
+     24,
+     32,
+     28,
+     26,
+     29,
+     25
+    ]
+   }
+  },
+  {
+   "title": "Head Coach",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://willamette.wd501.myworkdayjobs.com/WillametteUniversityJobs/job/Salem-Campus/Head-Coach--Softball_R0007123"
+    }
+   ],
+   "posted": "2026-07-02",
+   "deadline": "Until position is filled",
+   "contact": "Leslie Shevlin",
+   "id": "3e298fcd2c7d",
+   "type": "head",
+   "school_key": "210401",
+   "tok": [
+    "head"
+   ],
+   "unitid": "210401",
+   "school_name": "Willamette University",
+   "city": "Salem",
+   "state": "OR",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-09",
+   "salary": "",
+   "snippet": "Posting Date: 7/2/26 The Head Coach, Softball, directs all areas associated with the softball program including practice and competition preparation; student-athlete recruitment; student leadership development; and budget management. You will need to upload the following two documents as part of your application materials in the \"My Experience\" section labeled Resume: Cover letter addressing qualifications Current\u2026",
+   "school": {
+    "name": "Willamette University",
+    "city": "Salem",
+    "state": "OR",
+    "division": "NCAA D3",
+    "group": "d3",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 1578,
+    "sb_players": 21,
+    "sb_opexp": 84863,
+    "sb_expenses": 177812,
+    "sb_revenue": 177812,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 5,
+    "hc_salary_women": 58851,
+    "ac_salary_women": 20892,
+    "student_aid_women": 0,
+    "recruit_exp_women": 33810,
+    "conference": "Northwest Conference",
+    "ath_url": "https://willamette.prestosports.com/landing/index",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     143807,
+     80411,
+     170832,
+     173158,
+     144916,
+     177812
+    ],
+    "trend_players": [
+     23,
+     21,
+     24,
+     21,
+     24,
+     21
+    ]
+   }
+  },
+  {
    "title": "Assistant Coach",
    "links": [
     {
@@ -4427,241 +4578,6 @@
      18,
      20,
      20
-    ]
-   }
-  },
-  {
-   "title": "Assistant Coach Softball - Pitching Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22389358/assistant-coach-softball-pitching-coach"
-    }
-   ],
-   "posted": "2026-06-30",
-   "deadline": "",
-   "contact": "",
-   "id": "2f979de02f20",
-   "type": "assistant",
-   "school_key": "133951",
-   "tok": [
-    "assistant",
-    "pitching"
-   ],
-   "unitid": "133951",
-   "school_name": "Florida International University",
-   "city": "Miami",
-   "state": "FL",
-   "division": "Other",
-   "group": "other",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "About FIU: Florida International University is a Top 50, preeminent public research university with 55,000 students from all 50 states and more than 140 countries, as well as an alumni network of more than 340,000. Located in the global city of Miami, the university offers more than 200 degree programs at the undergraduate, graduate and professional levels, including medicine and law. FIU faculty are leaders in\u2026",
-   "school": {
-    "name": "Florida International University",
-    "city": "Miami",
-    "state": "FL",
-    "division": "Other",
-    "group": "other",
-    "sector": "Public, 4-year or above",
-    "enrollment": 26215,
-    "sb_players": 22,
-    "sb_opexp": 297585,
-    "sb_expenses": 1010546,
-    "sb_revenue": 1010546,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 2,
-    "sb_asst_pt": 0,
-    "hc_salary_women": 108398,
-    "ac_salary_women": 50119,
-    "student_aid_women": 4001321,
-    "recruit_exp_women": 131430,
-    "conference": "Conference USA",
-    "ath_url": "https://www.fiusports.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     531113,
-     508609,
-     655795,
-     899321,
-     738374,
-     1010546
-    ],
-    "trend_players": [
-     24,
-     30,
-     27,
-     23,
-     24,
-     22
-    ]
-   }
-  },
-  {
-   "title": "Head Coach, Softball",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22389347/head-coach-softball"
-    },
-    {
-     "source": "NFCA",
-     "url": "https://willamette.wd501.myworkdayjobs.com/WillametteUniversityJobs/job/Salem-Campus/Head-Coach--Softball_R0007123"
-    }
-   ],
-   "posted": "2026-06-30",
-   "deadline": "Until position is filled",
-   "contact": "Leslie Shevlin",
-   "id": "3e298fcd2c7d",
-   "type": "head",
-   "school_key": "210401",
-   "tok": [
-    "head"
-   ],
-   "unitid": "210401",
-   "school_name": "Willamette University",
-   "city": "Salem",
-   "state": "OR",
-   "division": "NCAA D3",
-   "group": "d3",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "POSITION SUMMARY The Head Coach, Softball, directs all areas associated with the softball program including practice and competition preparation; student-athlete recruitment; student leadership development; and budget management. RESPONSIBILITIES Directs and coordinates all aspects of the softball program, serving as head coach. Recruits qualified student-athletes for admission to a demanding academic environment.\u2026",
-   "school": {
-    "name": "Willamette University",
-    "city": "Salem",
-    "state": "OR",
-    "division": "NCAA D3",
-    "group": "d3",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 1578,
-    "sb_players": 21,
-    "sb_opexp": 84863,
-    "sb_expenses": 177812,
-    "sb_revenue": 177812,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 5,
-    "hc_salary_women": 58851,
-    "ac_salary_women": 20892,
-    "student_aid_women": 0,
-    "recruit_exp_women": 33810,
-    "conference": "Northwest Conference",
-    "ath_url": "https://willamette.prestosports.com/landing/index",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     143807,
-     80411,
-     170832,
-     173158,
-     144916,
-     177812
-    ],
-    "trend_players": [
-     23,
-     21,
-     24,
-     21,
-     24,
-     21
-    ]
-   }
-  },
-  {
-   "title": "Assistant/Associate Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22395564/assistant-associate-softball-coach"
-    },
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22389371/assistant-associate-softball-coach"
-    }
-   ],
-   "posted": "2026-06-30",
-   "deadline": "",
-   "contact": "",
-   "id": "06678715b44e",
-   "type": "assistant",
-   "school_key": "150136",
-   "tok": [
-    "assistant",
-    "associate"
-   ],
-   "unitid": "150136",
-   "school_name": "Ball State University",
-   "city": "Muncie",
-   "state": "IN",
-   "division": "NCAA D1",
-   "group": "d1",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Ball State University Athletics seeks a highly motivated and energetic professional to join our softball program as an Assistant/Associate Softball Coach. Located in Muncie, Indiana, Ball State is a proud member of the Mid-American Conference (MAC) and competes at the NCAA Division I level. This position offers the opportunity to contribute to a championship-caliber program committed to competitive excellence,\u2026",
-   "school": {
-    "name": "Ball State University",
-    "city": "Muncie",
-    "state": "IN",
-    "division": "NCAA D1",
-    "group": "d1",
-    "sector": "Public, 4-year or above",
-    "enrollment": 13027,
-    "sb_players": 25,
-    "sb_opexp": 239931,
-    "sb_expenses": 1100597,
-    "sb_revenue": 1100597,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 2,
-    "sb_asst_pt": 0,
-    "hc_salary_women": 110586,
-    "ac_salary_women": 66241,
-    "student_aid_women": 4039187,
-    "recruit_exp_women": 293629,
-    "conference": "Mid-American Conference",
-    "ath_url": "https://www.ballstatesports.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     849668,
-     766459,
-     1013717,
-     953510,
-     1069008,
-     1100597
-    ],
-    "trend_players": [
-     24,
-     32,
-     28,
-     26,
-     29,
-     25
     ]
    }
   },
@@ -7740,8 +7656,6 @@
   "6f7cc7032079": "2026-07-09",
   "d01a1c153845": "2026-07-09",
   "66f319a3b67f": "2026-07-09",
-  "2f979de02f20": "2026-07-09",
-  "3e298fcd2c7d": "2026-07-09",
   "06678715b44e": "2026-07-09",
   "12b7fcbbf3fd": "2026-07-29",
   "39d765218403": "2026-07-30",
@@ -7753,6 +7667,7 @@
   "a6b8c400c81c": "2026-07-09",
   "2203c19ce5c2": "2026-07-14",
   "230f89a9a4df": "2026-07-09",
+  "3e298fcd2c7d": "2026-07-09",
   "8f5981eafc1d": "2026-07-09",
   "d386be189b21": "2026-07-09",
   "a81e3ed2442f": "2026-07-09",
@@ -7813,6 +7728,7 @@
   "ee0b5f4b9eba": "2026-07-09",
   "ca96890caf3d": "2026-07-09",
   "7b43a964823c": "2026-07-21",
+  "2f979de02f20": "2026-07-09",
   "d0d50f6147e1": "2026-07-09",
   "d47e17f05fdc": "2026-07-09",
   "e838a441e527": "2026-07-09",
