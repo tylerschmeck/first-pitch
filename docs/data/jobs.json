@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-02T10:54:41+00:00",
+ "generated_at": "2026-08-02T14:04:45+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -1286,6 +1286,81 @@
    }
   },
   {
+   "title": "Assistant Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22431734/assistant-softball-coach"
+    }
+   ],
+   "posted": "2026-07-16",
+   "deadline": "",
+   "contact": "",
+   "id": "74237ab25b90",
+   "type": "assistant",
+   "school_key": "154095",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "154095",
+   "school_name": "University of Northern Iowa",
+   "city": "Cedar Falls",
+   "state": "IA",
+   "division": "NCAA D1",
+   "group": "d1",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-16",
+   "salary": "",
+   "snippet": "Primary Function: Supports all aspects of competitive NCAA Division I softball program, with primary responsibilities in coaching, recruiting, player development, scouting, and program operations; plays a key role in the instruction and development of student-athletes, focusing on pitchers and catchers, while assisting with team practices, game preparation, and in-game strategy; serves as the program\u2019s lead\u2026",
+   "school": {
+    "name": "University of Northern Iowa",
+    "city": "Cedar Falls",
+    "state": "IA",
+    "division": "NCAA D1",
+    "group": "d1",
+    "sector": "Public, 4-year or above",
+    "enrollment": 6904,
+    "sb_players": 22,
+    "sb_opexp": 197837,
+    "sb_expenses": 825460,
+    "sb_revenue": 825460,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 2,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 98848,
+    "ac_salary_women": 59703,
+    "student_aid_women": 2120639,
+    "recruit_exp_women": 87242,
+    "conference": "Missouri Valley Conference",
+    "ath_url": "https://unipanthers.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     595078,
+     628505,
+     792876,
+     820768,
+     781705,
+     825460
+    ],
+    "trend_players": [
+     23,
+     20,
+     25,
+     25,
+     23,
+     22
+    ]
+   }
+  },
+  {
    "title": "Graduate Assistant - Softball",
    "links": [
     {
@@ -1358,81 +1433,6 @@
      22,
      17,
      26
-    ]
-   }
-  },
-  {
-   "title": "Assistant Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22431734/assistant-softball-coach"
-    }
-   ],
-   "posted": "2026-07-16",
-   "deadline": "",
-   "contact": "",
-   "id": "74237ab25b90",
-   "type": "assistant",
-   "school_key": "154095",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "154095",
-   "school_name": "University of Northern Iowa",
-   "city": "Cedar Falls",
-   "state": "IA",
-   "division": "NCAA D1",
-   "group": "d1",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-16",
-   "salary": "",
-   "snippet": "Primary Function: Supports all aspects of competitive NCAA Division I softball program, with primary responsibilities in coaching, recruiting, player development, scouting, and program operations; plays a key role in the instruction and development of student-athletes, focusing on pitchers and catchers, while assisting with team practices, game preparation, and in-game strategy; serves as the program\u2019s lead\u2026",
-   "school": {
-    "name": "University of Northern Iowa",
-    "city": "Cedar Falls",
-    "state": "IA",
-    "division": "NCAA D1",
-    "group": "d1",
-    "sector": "Public, 4-year or above",
-    "enrollment": 6904,
-    "sb_players": 22,
-    "sb_opexp": 197837,
-    "sb_expenses": 825460,
-    "sb_revenue": 825460,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 2,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 98848,
-    "ac_salary_women": 59703,
-    "student_aid_women": 2120639,
-    "recruit_exp_women": 87242,
-    "conference": "Missouri Valley Conference",
-    "ath_url": "https://unipanthers.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     595078,
-     628505,
-     792876,
-     820768,
-     781705,
-     825460
-    ],
-    "trend_players": [
-     23,
-     20,
-     25,
-     25,
-     23,
-     22
     ]
    }
   },
@@ -2041,6 +2041,81 @@
    "links": [
     {
      "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22408561/head-softball-coach"
+    }
+   ],
+   "posted": "2026-07-08",
+   "deadline": "",
+   "contact": "",
+   "id": "b3bfa5acc501",
+   "type": "head",
+   "school_key": "212009",
+   "tok": [
+    "head"
+   ],
+   "unitid": "212009",
+   "school_name": "Dickinson College",
+   "city": "Carlisle",
+   "state": "PA",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-09",
+   "salary": "",
+   "snippet": "This position is responsible for the administration of a designated Dickinson sport program. The Head Coach is responsible for managing a sufficient roster of student-athletes while making both academic and athletic success a priority and embracing the Division III liberal arts experience. The position is responsible for recruiting and developing student athletes, organizational and fiscal management of the program,\u2026",
+   "school": {
+    "name": "Dickinson College",
+    "city": "Carlisle",
+    "state": "PA",
+    "division": "NCAA D3",
+    "group": "d3",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 2270,
+    "sb_players": 16,
+    "sb_opexp": 26074,
+    "sb_expenses": 96391,
+    "sb_revenue": 125723,
+    "sb_head_ft": 0,
+    "sb_head_pt": 1,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 52358,
+    "ac_salary_women": 28288,
+    "student_aid_women": 0,
+    "recruit_exp_women": 29341,
+    "conference": "Centennial Conference",
+    "ath_url": "https://www.dickinsonathletics.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     85968,
+     96637,
+     97264,
+     99779,
+     74528,
+     96391
+    ],
+    "trend_players": [
+     21,
+     21,
+     16,
+     20,
+     17,
+     16
+    ]
+   }
+  },
+  {
+   "title": "Head Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
      "url": "https://ncaamarket.ncaa.org/jobs/22408423/head-softball-coach"
     }
    ],
@@ -2183,81 +2258,6 @@
      18,
      20,
      20
-    ]
-   }
-  },
-  {
-   "title": "Head Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22408561/head-softball-coach"
-    }
-   ],
-   "posted": "2026-07-08",
-   "deadline": "",
-   "contact": "",
-   "id": "b3bfa5acc501",
-   "type": "head",
-   "school_key": "212009",
-   "tok": [
-    "head"
-   ],
-   "unitid": "212009",
-   "school_name": "Dickinson College",
-   "city": "Carlisle",
-   "state": "PA",
-   "division": "NCAA D3",
-   "group": "d3",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "This position is responsible for the administration of a designated Dickinson sport program. The Head Coach is responsible for managing a sufficient roster of student-athletes while making both academic and athletic success a priority and embracing the Division III liberal arts experience. The position is responsible for recruiting and developing student athletes, organizational and fiscal management of the program,\u2026",
-   "school": {
-    "name": "Dickinson College",
-    "city": "Carlisle",
-    "state": "PA",
-    "division": "NCAA D3",
-    "group": "d3",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 2270,
-    "sb_players": 16,
-    "sb_opexp": 26074,
-    "sb_expenses": 96391,
-    "sb_revenue": 125723,
-    "sb_head_ft": 0,
-    "sb_head_pt": 1,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 52358,
-    "ac_salary_women": 28288,
-    "student_aid_women": 0,
-    "recruit_exp_women": 29341,
-    "conference": "Centennial Conference",
-    "ath_url": "https://www.dickinsonathletics.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     85968,
-     96637,
-     97264,
-     99779,
-     74528,
-     96391
-    ],
-    "trend_players": [
-     21,
-     21,
-     16,
-     20,
-     17,
-     16
     ]
    }
   },
@@ -2568,22 +2568,22 @@
   "76fb9696d5ed": "2026-07-21",
   "5c53fec6c0fc": "2026-07-20",
   "492e302e27eb": "2026-07-18",
-  "c6988c263366": "2026-07-16",
   "37883417afee": "2026-07-17",
-  "98cc111baa5c": "2026-07-09",
+  "c6988c263366": "2026-07-16",
   "c6eb0a343ae6": "2026-07-16",
-  "e32a5e12db7a": "2026-07-16",
   "74237ab25b90": "2026-07-16",
+  "e32a5e12db7a": "2026-07-16",
+  "98cc111baa5c": "2026-07-09",
   "785064da4c02": "2026-07-16",
   "87161bbef83f": "2026-07-13",
   "ac6fc459f4be": "2026-07-10",
   "1a663c4725c5": "2026-07-10",
-  "5dad2186c904": "2026-07-10",
   "456cf7190ab0": "2026-07-09",
   "1f6a4a73100c": "2026-07-09",
+  "5dad2186c904": "2026-07-10",
+  "b3bfa5acc501": "2026-07-09",
   "6bfd433b5593": "2026-07-09",
   "1bd1d2243ea1": "2026-07-09",
-  "b3bfa5acc501": "2026-07-09",
   "a9b675d23aac": "2026-07-09",
   "6f7cc7032079": "2026-07-09",
   "d01a1c153845": "2026-07-09",
