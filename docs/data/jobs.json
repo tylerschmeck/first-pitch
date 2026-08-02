@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-08-02T04:01:42+00:00",
+ "generated_at": "2026-08-02T08:41:27+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 33
+   "count": 32
   },
   {
    "name": "NFCA",
@@ -24,7 +24,7 @@
    "count": 1
   }
  ],
- "count": 102,
+ "count": 101,
  "jobs": [
   {
    "title": "NCAA Softball Director of Training and Video Review",
@@ -4122,82 +4122,6 @@
    }
   },
   {
-   "title": "Assistant/Associate Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22395564/assistant-associate-softball-coach"
-    }
-   ],
-   "posted": "2026-07-02",
-   "deadline": "",
-   "contact": "",
-   "id": "06678715b44e",
-   "type": "assistant",
-   "school_key": "150136",
-   "tok": [
-    "assistant",
-    "associate"
-   ],
-   "unitid": "150136",
-   "school_name": "Ball State University",
-   "city": "Muncie",
-   "state": "IN",
-   "division": "NCAA D1",
-   "group": "d1",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Assistant/Associate Softball Coach About this opportunity: Ball State University Athletics seeks a highly motivated and energetic professional to join our softball program as an Assistant/Associate Softball Coach. Located in Muncie, Indiana, Ball State is a proud member of the Mid-American Conference (MAC) and competes at the NCAA Division I level. This position offers the opportunity to contribute to a\u2026",
-   "school": {
-    "name": "Ball State University",
-    "city": "Muncie",
-    "state": "IN",
-    "division": "NCAA D1",
-    "group": "d1",
-    "sector": "Public, 4-year or above",
-    "enrollment": 13027,
-    "sb_players": 25,
-    "sb_opexp": 239931,
-    "sb_expenses": 1100597,
-    "sb_revenue": 1100597,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 2,
-    "sb_asst_pt": 0,
-    "hc_salary_women": 110586,
-    "ac_salary_women": 66241,
-    "student_aid_women": 4039187,
-    "recruit_exp_women": 293629,
-    "conference": "Mid-American Conference",
-    "ath_url": "https://www.ballstatesports.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     849668,
-     766459,
-     1013717,
-     953510,
-     1069008,
-     1100597
-    ],
-    "trend_players": [
-     24,
-     32,
-     28,
-     26,
-     29,
-     25
-    ]
-   }
-  },
-  {
    "title": "Head Coach",
    "links": [
     {
@@ -7576,7 +7500,6 @@
   "a9b675d23aac": "2026-07-09",
   "6f7cc7032079": "2026-07-09",
   "d01a1c153845": "2026-07-09",
-  "06678715b44e": "2026-07-09",
   "12b7fcbbf3fd": "2026-07-29",
   "39d765218403": "2026-07-30",
   "072a486f57ef": "2026-07-30",
@@ -7648,6 +7571,7 @@
   "ee0b5f4b9eba": "2026-07-09",
   "ca96890caf3d": "2026-07-09",
   "7b43a964823c": "2026-07-21",
+  "06678715b44e": "2026-07-09",
   "f6e75bcaa5d5": "2026-07-09",
   "2f979de02f20": "2026-07-09",
   "d0d50f6147e1": "2026-07-09",
