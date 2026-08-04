@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-04T11:36:37+00:00",
+ "generated_at": "2026-08-04T14:56:13+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -11,7 +11,7 @@
   {
    "name": "NFCA",
    "ok": true,
-   "count": 81
+   "count": 83
   },
   {
    "name": "NJCAA Career Center",
@@ -24,8 +24,159 @@
    "count": 1
   }
  ],
- "count": 101,
+ "count": 103,
  "jobs": [
+  {
+   "title": "Assistant Coach",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://jobs.kent.edu/jobs/assistant-softball-coach-kent-campus-kent-ohio-united-states"
+    }
+   ],
+   "posted": "2026-08-04",
+   "deadline": "8/10/2026",
+   "contact": "Jexx Varner",
+   "id": "a8f909bb21f6",
+   "type": "assistant",
+   "school_key": "203517",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "203517",
+   "school_name": "Kent State University at Kent",
+   "city": "Kent",
+   "state": "OH",
+   "division": "NCAA D1",
+   "group": "d1",
+   "posted_is_estimate": false,
+   "first_seen": "2026-08-04",
+   "salary": "",
+   "snippet": "Assist in coaching, recruiting, counseling, conditioning, and training the intercollegiate softball team. Reports to Head Softball Coach. Assist in coaching the softball team; utilize coaching and teaching methods to develop student-athletes' skills and teamwork. Assist with the development of team strategy; analyze performance of student-athletes. Scout and recruit student-athletes. Assist in fundraising activities\u2026",
+   "school": {
+    "name": "Kent State University at Kent",
+    "city": "Kent",
+    "state": "OH",
+    "division": "NCAA D1",
+    "group": "d1",
+    "sector": "Public, 4-year or above",
+    "enrollment": 17000,
+    "sb_players": 17,
+    "sb_opexp": 172347,
+    "sb_expenses": 946188,
+    "sb_revenue": 946188,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 2,
+    "sb_asst_pt": 0,
+    "hc_salary_women": 117787,
+    "ac_salary_women": 61486,
+    "student_aid_women": 3747084,
+    "recruit_exp_women": 182368,
+    "conference": "Mid-American Conference",
+    "ath_url": "https://www.kentstatesports.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     796449,
+     663000,
+     784270,
+     790257,
+     827372,
+     946188
+    ],
+    "trend_players": [
+     26,
+     26,
+     27,
+     26,
+     24,
+     17
+    ]
+   }
+  },
+  {
+   "title": "Assistant Coach - Defense",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://gsu.taleo.net/careersection/2/jobdetail.ftl?job=26001092"
+    }
+   ],
+   "posted": "2026-08-04",
+   "deadline": "Until position is filled",
+   "contact": "Rebecca Mueller",
+   "id": "158eac0feeb5",
+   "type": "assistant",
+   "school_key": "139940",
+   "tok": [
+    "assistant",
+    "defense"
+   ],
+   "unitid": "139940",
+   "school_name": "Georgia State University",
+   "city": "Augusta",
+   "state": "GA",
+   "division": "NCAA D1",
+   "group": "d1",
+   "posted_is_estimate": false,
+   "first_seen": "2026-08-04",
+   "salary": "",
+   "snippet": "Posting Date: 8/4/26 WHAT WILL YOU DO: The Assistant Coach for Softball will provide support to the Head Coach of the Softball Team in all aspects of academic success, coaching, strength, and conditioning, recruiting, planning of practice, organization of team meetings and film study, scheduling and trip management. DUTIES AND RESPONSIBILITIES INCLUDE: Will perform other related duties as assigned by the Head Coach\u2026",
+   "school": {
+    "name": "Georgia State University",
+    "city": "Atlanta",
+    "state": "GA",
+    "division": "NCAA D1",
+    "group": "d1",
+    "sector": "Public, 4-year or above",
+    "enrollment": 20390,
+    "sb_players": 24,
+    "sb_opexp": 200790,
+    "sb_expenses": 1106247,
+    "sb_revenue": 1106247,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 2,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 106846,
+    "ac_salary_women": 52854,
+    "student_aid_women": 3522570,
+    "recruit_exp_women": 175756,
+    "conference": "Sun Belt Conference",
+    "ath_url": "https://georgiastatesports.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     712584,
+     777165,
+     1030963,
+     981650,
+     1092952,
+     1106247
+    ],
+    "trend_players": [
+     22,
+     24,
+     28,
+     21,
+     25,
+     24
+    ]
+   }
+  },
   {
    "title": "Assistant Coach",
    "links": [
@@ -7519,6 +7670,8 @@
   "75feb34c8e03": "2026-07-09",
   "1bd975199ae6": "2026-07-09",
   "1c53ca778641": "2026-07-09",
+  "a8f909bb21f6": "2026-08-04",
+  "158eac0feeb5": "2026-08-04",
   "af30e912df7d": "2026-08-02",
   "7e89ad8f7d1d": "2026-07-30",
   "739cb2438050": "2026-07-29",
