@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-08-04T17:09:44+00:00",
+ "generated_at": "2026-08-04T20:04:48+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "name": "NFCA",
@@ -24,8 +24,83 @@
    "count": 1
   }
  ],
- "count": 103,
+ "count": 104,
  "jobs": [
+  {
+   "title": "Assistant Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22477024/assistant-softball-coach"
+    }
+   ],
+   "posted": "2026-08-04",
+   "deadline": "",
+   "contact": "",
+   "id": "bef6a2f80c46",
+   "type": "assistant",
+   "school_key": "202514",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "202514",
+   "school_name": "Defiance College",
+   "city": "Defiance",
+   "state": "OH",
+   "division": "NAIA",
+   "group": "naia",
+   "posted_is_estimate": false,
+   "first_seen": "2026-08-04",
+   "salary": "",
+   "snippet": "Defiance College, an NAIA institution and member of the Wolverine-Hoosier Athletic Conference (WHAC), seeks applications for an Assistant Softball Coach. Under the direction of the Head Coach, responsibilities will include coaching, recruiting, practice planning and preparation, academic monitoring, fund raising, mentoring of student-athletes, developing annual service/engagement projects for student-athletes, and\u2026",
+   "school": {
+    "name": "Defiance College",
+    "city": "Defiance",
+    "state": "OH",
+    "division": "NAIA",
+    "group": "naia",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 481,
+    "sb_players": 17,
+    "sb_opexp": 52581,
+    "sb_expenses": 434280,
+    "sb_revenue": 592355,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 1,
+    "sb_asst_pt": 0,
+    "hc_salary_women": 53806,
+    "ac_salary_women": 19292,
+    "student_aid_women": 272302,
+    "recruit_exp_women": 26494,
+    "conference": "",
+    "ath_url": "",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     91102,
+     111508,
+     142875,
+     91012,
+     102966,
+     434280
+    ],
+    "trend_players": [
+     26,
+     31,
+     28,
+     27,
+     19,
+     17
+    ]
+   }
+  },
   {
    "title": "Assistant Coach",
    "links": [
@@ -7621,6 +7696,7 @@
   }
  ],
  "seen": {
+  "bef6a2f80c46": "2026-08-04",
   "7cad80858e06": "2026-07-30",
   "7011b9a026b9": "2026-07-30",
   "8837ad19e266": "2026-07-29",
