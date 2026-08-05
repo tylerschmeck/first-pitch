@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-05T11:33:48+00:00",
+ "generated_at": "2026-08-05T14:41:45+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -11,7 +11,7 @@
   {
    "name": "NFCA",
    "ok": true,
-   "count": 83
+   "count": 86
   },
   {
    "name": "NJCAA Career Center",
@@ -24,19 +24,98 @@
    "count": 1
   }
  ],
- "count": 104,
+ "count": 106,
  "jobs": [
+  {
+   "title": "Assistant Coach",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://www.uamont.edu/jobs"
+    }
+   ],
+   "posted": "2026-08-05",
+   "deadline": "N/A",
+   "contact": "Kyle Lem",
+   "id": "bf19c569e749",
+   "type": "assistant",
+   "school_key": "106485",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "106485",
+   "school_name": "University of Arkansas at Monticello",
+   "city": "Monticello",
+   "state": "AR",
+   "division": "NCAA D2",
+   "group": "d2",
+   "posted_is_estimate": false,
+   "first_seen": "2026-08-05",
+   "salary": "",
+   "snippet": "Summary Of Job Duties Duties include assisting in the implementation and management of all phases of a competitive NCAA Division II women\u2019s softball program in accordance with NCAA, Great American Conference, and University regulations including coaching, recruiting, scheduling, traveling, managing budget, supervising athletes, fund-raising, promoting and monitoring academic progress of student athletes, and\u2026",
+   "school": {
+    "name": "University of Arkansas at Monticello",
+    "city": "Monticello",
+    "state": "AR",
+    "division": "NCAA D2",
+    "group": "d2",
+    "sector": "Public, 4-year or above",
+    "enrollment": 1610,
+    "sb_players": 26,
+    "sb_opexp": 84163,
+    "sb_expenses": 303501,
+    "sb_revenue": 303501,
+    "sb_head_ft": 0,
+    "sb_head_pt": 1,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 47882,
+    "ac_salary_women": 33990,
+    "student_aid_women": 460369,
+    "recruit_exp_women": 23581,
+    "conference": "Great American Conference",
+    "ath_url": "https://www.uamsports.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     246841,
+     269410,
+     300592,
+     310692,
+     316008,
+     303501
+    ],
+    "trend_players": [
+     18,
+     17,
+     22,
+     23,
+     25,
+     26
+    ]
+   }
+  },
   {
    "title": "Assistant Softball Coach",
    "links": [
     {
      "source": "NCAA Market",
      "url": "https://ncaamarket.ncaa.org/jobs/22477024/assistant-softball-coach"
+    },
+    {
+     "source": "NFCA",
+     "url": "https://www.defiance.edu/employment-opportunities/"
     }
    ],
    "posted": "2026-08-04",
-   "deadline": "",
-   "contact": "",
+   "deadline": "N/A",
+   "contact": "Kyle Lem",
    "id": "bef6a2f80c46",
    "type": "assistant",
    "school_key": "202514",
@@ -957,6 +1036,81 @@
      20,
      21,
      23
+    ]
+   }
+  },
+  {
+   "title": "Assistant Coach",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://nfca.org/nfca-job-postings"
+    }
+   ],
+   "posted": "2026-07-28",
+   "deadline": "Open until filled",
+   "contact": "Deena McLaughlin",
+   "id": "7be01ca00aec",
+   "type": "assistant",
+   "school_key": "147341",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "147341",
+   "school_name": "Monmouth College",
+   "city": "Monmouth",
+   "state": "IL",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-08-05",
+   "salary": "",
+   "snippet": "Monmouth College seeks applications for the position of Assistant Softball Coach (Positional Experience). Reporting to the Head Softball Coach, then to the Director of Athletics, the Assistant Softball Coach is responsible for assisting the softball program, as well as being committed to the academic mission of the College. The Assistant Softball Coach teaches the sport of softball to student athletes, and provides\u2026",
+   "school": {
+    "name": "Monmouth College",
+    "city": "Monmouth",
+    "state": "IL",
+    "division": "NCAA D3",
+    "group": "d3",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 700,
+    "sb_players": 22,
+    "sb_opexp": 42943,
+    "sb_expenses": 98397,
+    "sb_revenue": 98397,
+    "sb_head_ft": 0,
+    "sb_head_pt": 1,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 35195,
+    "ac_salary_women": 22933,
+    "student_aid_women": 0,
+    "recruit_exp_women": 12239,
+    "conference": "",
+    "ath_url": "",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     40943,
+     53482,
+     73391,
+     99594,
+     101236,
+     98397
+    ],
+    "trend_players": [
+     24,
+     24,
+     22,
+     19,
+     20,
+     22
     ]
    }
   },
@@ -7746,10 +7900,12 @@
   "75feb34c8e03": "2026-07-09",
   "1bd975199ae6": "2026-07-09",
   "1c53ca778641": "2026-07-09",
+  "bf19c569e749": "2026-08-05",
   "a8f909bb21f6": "2026-08-04",
   "158eac0feeb5": "2026-08-04",
   "af30e912df7d": "2026-08-02",
   "7e89ad8f7d1d": "2026-07-30",
+  "7be01ca00aec": "2026-08-05",
   "739cb2438050": "2026-07-29",
   "6b6b58e8843e": "2026-07-27",
   "4f05100dd981": "2026-07-24",
