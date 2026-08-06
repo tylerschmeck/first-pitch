@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-08-06T03:46:48+00:00",
+ "generated_at": "2026-08-06T09:17:49+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 34
+   "count": 32
   },
   {
    "name": "NFCA",
@@ -24,7 +24,7 @@
    "count": 1
   }
  ],
- "count": 106,
+ "count": 105,
  "jobs": [
   {
    "title": "Assistant Coach - Stunt",
@@ -4075,82 +4075,6 @@
    }
   },
   {
-   "title": "Assistant Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22403474/assistant-softball-coach"
-    },
-    {
-     "source": "NFCA",
-     "url": "https://apply.interfolio.com/188911"
-    }
-   ],
-   "posted": "2026-07-07",
-   "deadline": "Open until filled",
-   "contact": "Jennifer Teague",
-   "id": "6f7cc7032079",
-   "type": "assistant",
-   "school_key": "190150",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "190150",
-   "school_name": "Columbia University in the City of New York",
-   "city": "New York",
-   "state": "NY",
-   "division": "NCAA D1",
-   "group": "d1",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Description One of the world\u2019s leading universities, Columbia University Athletics offers elite-level student-athletes the ability to compete for and win Ivy League titles and NCAA Championships. With 32 varsity sports, Columbia Athletics is the largest NCAA Division I athletics program in New York City and the only NCAA Division I sports program in Manhattan. A beautiful and peaceful campus in the heart of New York\u2026",
-   "school": {
-    "name": "Columbia University in the City of New York",
-    "city": "New York",
-    "state": "NY",
-    "division": "NCAA D1",
-    "group": "d1",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 8374,
-    "sb_players": 19,
-    "sb_opexp": 208279,
-    "sb_expenses": 598785,
-    "sb_revenue": 598785,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 2,
-    "sb_asst_pt": 0,
-    "hc_salary_women": 172182,
-    "ac_salary_women": 94084,
-    "student_aid_women": 0,
-    "recruit_exp_women": 405964,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     410749,
-     467760,
-     594201,
-     447846,
-     598785
-    ],
-    "trend_players": [
-     20,
-     19,
-     20,
-     19,
-     19
-    ]
-   }
-  },
-  {
    "title": "Head Softball Coach",
    "links": [
     {
@@ -4305,6 +4229,78 @@
    }
   },
   {
+   "title": "Assistant Coach",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://apply.interfolio.com/188911"
+    }
+   ],
+   "posted": "2026-07-07",
+   "deadline": "Open until filled",
+   "contact": "Jennifer Teague",
+   "id": "6f7cc7032079",
+   "type": "assistant",
+   "school_key": "190150",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "190150",
+   "school_name": "Columbia University in the City of New York",
+   "city": "New York",
+   "state": "NY",
+   "division": "NCAA D1",
+   "group": "d1",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-09",
+   "salary": "",
+   "snippet": "DESCRIPTION One of the world\u2019s leading universities, Columbia University Athletics offers elite-level student-athletes the ability to compete for and win Ivy League titles and NCAA Championships. With 32 varsity sports, Columbia Athletics is the largest NCAA Division I athletics program in New York City and the only NCAA Division I sports program in Manhattan. A beautiful and peaceful campus in the heart of New York\u2026",
+   "school": {
+    "name": "Columbia University in the City of New York",
+    "city": "New York",
+    "state": "NY",
+    "division": "NCAA D1",
+    "group": "d1",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 8374,
+    "sb_players": 19,
+    "sb_opexp": 208279,
+    "sb_expenses": 598785,
+    "sb_revenue": 598785,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 2,
+    "sb_asst_pt": 0,
+    "hc_salary_women": 172182,
+    "ac_salary_women": 94084,
+    "student_aid_women": 0,
+    "recruit_exp_women": 405964,
+    "conference": "",
+    "ath_url": "",
+    "trend_years": [
+     2020,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     410749,
+     467760,
+     594201,
+     447846,
+     598785
+    ],
+    "trend_players": [
+     20,
+     19,
+     20,
+     19,
+     19
+    ]
+   }
+  },
+  {
    "title": "Graduate Assistant Coach",
    "links": [
     {
@@ -4377,78 +4373,6 @@
      17,
      16,
      20
-    ]
-   }
-  },
-  {
-   "title": "Head Softball Coach (Part-Time)",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22403385/head-softball-coach-part-time"
-    }
-   ],
-   "posted": "2026-07-06",
-   "deadline": "",
-   "contact": "",
-   "id": "d01a1c153845",
-   "type": "head",
-   "school_key": "190600",
-   "tok": [
-    "head"
-   ],
-   "unitid": "190600",
-   "school_name": "CUNY John Jay College of Criminal Justice",
-   "city": "New York",
-   "state": "NY",
-   "division": "NCAA D3",
-   "group": "d3",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "ESSENTIAL RESPONSIBILITIES/PRINCIPAL ACTIVITIES: - Must be available for 7:00-9:00am or 12:00-3:00pm weekday practices as well as weekday and weekend games. - Support the academic success of all student-athletes and demonstrate a strong commitment to their personal and professional development. - Assist in the planning, management, evaluation, operation, and coordination of all aspects of the Softball program. -\u2026",
-   "school": {
-    "name": "CUNY John Jay College of Criminal Justice",
-    "city": "New York",
-    "state": "NY",
-    "division": "NCAA D3",
-    "group": "d3",
-    "sector": "Public, 4-year or above",
-    "enrollment": 9616,
-    "sb_players": 21,
-    "sb_opexp": 66561,
-    "sb_expenses": 112139,
-    "sb_revenue": 112139,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 2,
-    "hc_salary_women": 48366,
-    "ac_salary_women": 63960,
-    "student_aid_women": 0,
-    "recruit_exp_women": 3372,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     51340,
-     53110,
-     121531,
-     108678,
-     112139
-    ],
-    "trend_players": [
-     17,
-     18,
-     17,
-     17,
-     21
     ]
    }
   },
@@ -7834,8 +7758,6 @@
   "b3bfa5acc501": "2026-07-09",
   "1bd1d2243ea1": "2026-07-09",
   "a9b675d23aac": "2026-07-09",
-  "d01a1c153845": "2026-07-09",
-  "6f7cc7032079": "2026-07-09",
   "12b7fcbbf3fd": "2026-07-29",
   "39d765218403": "2026-07-30",
   "072a486f57ef": "2026-07-30",
@@ -7871,6 +7793,7 @@
   "206f76c36985": "2026-07-10",
   "cec1cc3ee078": "2026-07-09",
   "0a1dbea49bd1": "2026-07-09",
+  "6f7cc7032079": "2026-07-09",
   "acb6e4e4c922": "2026-07-09",
   "ad2257272c4b": "2026-07-09",
   "727e80a27d13": "2026-07-09",
@@ -7911,6 +7834,7 @@
   "ee0b5f4b9eba": "2026-07-09",
   "ca96890caf3d": "2026-07-09",
   "7b43a964823c": "2026-07-21",
+  "d01a1c153845": "2026-07-09",
   "c19ca237bbf3": "2026-07-09",
   "06678715b44e": "2026-07-09",
   "f6e75bcaa5d5": "2026-07-09",
