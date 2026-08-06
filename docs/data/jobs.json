@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-05T22:32:11+00:00",
+ "generated_at": "2026-08-06T03:46:48+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -24,7 +24,7 @@
    "count": 1
   }
  ],
- "count": 107,
+ "count": 106,
  "jobs": [
   {
    "title": "Assistant Coach - Stunt",
@@ -7799,82 +7799,6 @@
      36,
      26,
      33
-    ]
-   }
-  },
-  {
-   "title": "Graduate Assistant Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://prd.hcm.ndus.edu/psc/recruit/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=1&JobOpeningId=2958486&PostingSeq=1&"
-    }
-   ],
-   "posted": "2026-04-07",
-   "deadline": "Until filled",
-   "contact": "Sal Rodriguez",
-   "id": "7940a4546058",
-   "type": "other",
-   "school_key": "200253",
-   "tok": [
-    "assistant",
-    "graduate"
-   ],
-   "unitid": "200253",
-   "school_name": "Minot State University",
-   "city": "Minot",
-   "state": "ND",
-   "division": "NCAA D2",
-   "group": "d2",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "The Graduate Assistant will primarily focus on the development and implementation of practice plans, in-game strategy, and recruiting efforts. The ideal candidate will have a strong background in pitching and a commitment to fostering the growth and success of student-athletes both on and off the",
-   "school": {
-    "name": "Minot State University",
-    "city": "Minot",
-    "state": "ND",
-    "division": "NCAA D2",
-    "group": "d2",
-    "sector": "Public, 4-year or above",
-    "enrollment": 1696,
-    "sb_players": 24,
-    "sb_opexp": 132785,
-    "sb_expenses": 375438,
-    "sb_revenue": 375438,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 1,
-    "sb_asst_pt": 2,
-    "hc_salary_women": 76762,
-    "ac_salary_women": 76740,
-    "student_aid_women": 674397,
-    "recruit_exp_women": 67899,
-    "conference": "Northern Sun Intercollegiate Conference",
-    "ath_url": "https://www.msubeavers.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     246039,
-     292312,
-     361946,
-     371856,
-     314161,
-     375438
-    ],
-    "trend_players": [
-     23,
-     26,
-     25,
-     24,
-     24,
-     24
     ]
    }
   }
