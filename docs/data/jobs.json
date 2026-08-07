@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-08-06T14:41:32+00:00",
+ "generated_at": "2026-08-07T00:20:16+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 32
+   "count": 35
   },
   {
    "name": "NFCA",
    "ok": true,
-   "count": 86
+   "count": 87
   },
   {
    "name": "NJCAA Career Center",
@@ -24,8 +24,237 @@
    "count": 1
   }
  ],
- "count": 105,
+ "count": 107,
  "jobs": [
+  {
+   "title": "Assistant Coach (Part-time)",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22483261/assistant-coach-softball"
+    },
+    {
+     "source": "NFCA",
+     "url": "https://bentley.wd503.myworkdayjobs.com/en-US/staff/job/Waltham-MA/Assistant-Coach--Softball_R0006244?applicant_guid=221356ff-d564-4202-b47d-a031ed7e450a&source=JobTarget&utm_source=JobTarget&utm_medium=National%20Fastpitch%20Coaches%20Association&utm_campaign=Assistant%20Coach%252C%20Softball%20R0006244_staff&_jtochash=rz6GXjS7AxbQasPmecz7AP&_jtocprof=CNum5iyTesoWa61yzzPrUqD8t8z7ejwJ"
+    }
+   ],
+   "posted": "2026-08-06",
+   "deadline": "N/A",
+   "contact": "Sara Mihajlovits",
+   "id": "02f02f6b340b",
+   "type": "assistant",
+   "school_key": "164739",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "164739",
+   "school_name": "Bentley University",
+   "city": "Waltham",
+   "state": "MA",
+   "division": "NCAA D2",
+   "group": "d2",
+   "posted_is_estimate": false,
+   "first_seen": "2026-08-07",
+   "salary": "$10,609.00",
+   "snippet": "Job Description Summary Responsible for assisting the Head Coach in all aspects of running an intercollegiate Softball program. The Assistant Coach assists in teaching/coaching student athletes in all aspects of the sport in a manner that supports the quality and integrity of the program and the overall mission of Bentley University. Essential Duties Responsible for assisting the Head Coach in conducting practice\u2026",
+   "school": {
+    "name": "Bentley University",
+    "city": "Waltham",
+    "state": "MA",
+    "division": "NCAA D2",
+    "group": "d2",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 4433,
+    "sb_players": 19,
+    "sb_opexp": 103041,
+    "sb_expenses": 390619,
+    "sb_revenue": 392314,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 2,
+    "hc_salary_women": 81958,
+    "ac_salary_women": 47052,
+    "student_aid_women": 2027035,
+    "recruit_exp_women": 22815,
+    "conference": "Northeast 10 Conference",
+    "ath_url": "https://www.bentley.edu/athletics",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     333392,
+     314246,
+     372540,
+     373413,
+     406561,
+     390619
+    ],
+    "trend_players": [
+     23,
+     27,
+     23,
+     21,
+     21,
+     19
+    ]
+   }
+  },
+  {
+   "title": "Assistant Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22483120/assistant-softball-coach"
+    }
+   ],
+   "posted": "2026-08-06",
+   "deadline": "",
+   "contact": "",
+   "id": "8750efb417ff",
+   "type": "assistant",
+   "school_key": "145691",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "145691",
+   "school_name": "Illinois College",
+   "city": "Jacksonville",
+   "state": "IL",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-08-07",
+   "salary": "$27,000.00 - $27,000.00",
+   "snippet": "Description The Assistant Coach is responsible for assisting the Head Coach in all program operations, including recruiting, retaining and coaching members of the softball team. The Assistant Coach is responsible for day-to-day coaching responsibilities and is expected to meet recruiting and retention goals. This position will also assist the Head Coach on the coordination of travel, game day operations, equipment\u2026",
+   "school": {
+    "name": "Illinois College",
+    "city": "Jacksonville",
+    "state": "IL",
+    "division": "NCAA D3",
+    "group": "d3",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 868,
+    "sb_players": 21,
+    "sb_opexp": 58785,
+    "sb_expenses": 179686,
+    "sb_revenue": 179686,
+    "sb_head_ft": 0,
+    "sb_head_pt": 1,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 52854,
+    "ac_salary_women": 31583,
+    "student_aid_women": 0,
+    "recruit_exp_women": 39294,
+    "conference": "Midwest Conference",
+    "ath_url": "https://www.illinoiscollegeathletics.com/",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     86354,
+     95326,
+     153051,
+     176354,
+     164997,
+     179686
+    ],
+    "trend_players": [
+     26,
+     28,
+     23,
+     28,
+     31,
+     21
+    ]
+   }
+  },
+  {
+   "title": "Assistant Coach",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://nfca.org/nfca-job-postings"
+    }
+   ],
+   "posted": "2026-08-06",
+   "deadline": "Until position is filled",
+   "contact": "Vanessa Kellems",
+   "id": "dee816ff8d62",
+   "type": "assistant",
+   "school_key": "174358",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "174358",
+   "school_name": "Minnesota State University Moorhead",
+   "city": "Moorhead",
+   "state": "MN",
+   "division": "NCAA D2",
+   "group": "d2",
+   "posted_is_estimate": false,
+   "first_seen": "2026-08-07",
+   "salary": "",
+   "snippet": "Posting Date: 8/6/26 Looking for part time assistant coach- preferable pitching or outfield coach. The Assistant Softball Coach reports to and will assist the Head Softball Coach in directing all activities of the softball program within NCAA, NSIC and MSUM policies, guidelines, and procedures. The Assistant Softball Coach is responsible for supporting the athletic and academic development of student-athletes while\u2026",
+   "school": {
+    "name": "Minnesota State University Moorhead",
+    "city": "Moorhead",
+    "state": "MN",
+    "division": "NCAA D2",
+    "group": "d2",
+    "sector": "Public, 4-year or above",
+    "enrollment": 2598,
+    "sb_players": 17,
+    "sb_opexp": 114223,
+    "sb_expenses": 316274,
+    "sb_revenue": 334198,
+    "sb_head_ft": 0,
+    "sb_head_pt": 1,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 5,
+    "hc_salary_women": 82186,
+    "ac_salary_women": 50947,
+    "student_aid_women": 672226,
+    "recruit_exp_women": 29163,
+    "conference": "Northern Sun Intercollegiate Conference",
+    "ath_url": "https://msumdragons.com/",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     212514,
+     228111,
+     257558,
+     415413,
+     360389,
+     316274
+    ],
+    "trend_players": [
+     16,
+     17,
+     15,
+     21,
+     21,
+     17
+    ]
+   }
+  },
   {
    "title": "Assistant Coach - Stunt",
    "links": [
@@ -2182,8 +2411,12 @@
    }
   },
   {
-   "title": "Assistant Coach - Softball",
+   "title": "Seasonal Assistant Coach - Softball",
    "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22483243/seasonal-assistant-coach-softball"
+    },
     {
      "source": "NCAA Market",
      "url": "https://ncaamarket.ncaa.org/jobs/22434357/assistant-coach-softball"
@@ -2196,11 +2429,12 @@
    "posted": "2026-07-17",
    "deadline": "Until Position is Filled",
    "contact": "Claire Gilbert",
-   "id": "37883417afee",
+   "id": "4c1e5fed330e",
    "type": "assistant",
    "school_key": "166027",
    "tok": [
-    "assistant"
+    "assistant",
+    "seasonal"
    ],
    "unitid": "166027",
    "school_name": "Harvard University",
@@ -5890,80 +6124,6 @@
    }
   },
   {
-   "title": "Head Coach/Retention Coordinator",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://fa-ewca-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2857/?utm_medium=jobshare&utm_source=External+Job+Share"
-    }
-   ],
-   "posted": "2026-06-17",
-   "deadline": "6/26/2026 by 5 PM ET",
-   "contact": "Sandra W McDougal",
-   "id": "a81e3ed2442f",
-   "type": "head",
-   "school_key": "161341",
-   "tok": [
-    "coordinator",
-    "head",
-    "retention"
-   ],
-   "unitid": "161341",
-   "school_name": "University of Maine at Presque Isle",
-   "city": "Presque Isle",
-   "state": "ME",
-   "division": "NCAA D3",
-   "group": "d3",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "The University of Maine at Presque Isle seeking to hire a Head Women\u2019s Softball Coach/ Retention Coordinator. Reporting to the Director of Athletics, this 12-month, full-time role is responsible for leading all aspects of a competitive NCAA Division III softball program, including recruiting, coaching, student-athlete development, program administration, and compliance with university and NCAA",
-   "school": {
-    "name": "University of Maine at Presque Isle",
-    "city": "Presque Isle",
-    "state": "ME",
-    "division": "NCAA D3",
-    "group": "d3",
-    "sector": "Public, 4-year or above",
-    "enrollment": 1279,
-    "sb_players": 14,
-    "sb_opexp": 25992,
-    "sb_expenses": 55812,
-    "sb_revenue": 55812,
-    "sb_head_ft": 0,
-    "sb_head_pt": 1,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 0,
-    "hc_salary_women": 39024,
-    "ac_salary_women": 15789,
-    "student_aid_women": 0,
-    "recruit_exp_women": 6047,
-    "conference": "North Atlantic Conference",
-    "ath_url": "https://owls.umpi.edu/landing/index",
-    "trend_years": [
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     30071,
-     54406,
-     60000,
-     67429,
-     55812
-    ],
-    "trend_players": [
-     18,
-     13,
-     14,
-     15,
-     14
-    ]
-   }
-  },
-  {
    "title": "Graduate Assistant Coach",
    "links": [
     {
@@ -7728,6 +7888,8 @@
   }
  ],
  "seen": {
+  "4c1e5fed330e": "2026-07-17",
+  "02f02f6b340b": "2026-08-07",
   "21b06cf9fcc9": "2026-08-05",
   "bef6a2f80c46": "2026-08-04",
   "7011b9a026b9": "2026-07-30",
@@ -7742,7 +7904,6 @@
   "5c53fec6c0fc": "2026-07-20",
   "c6988c263366": "2026-07-16",
   "492e302e27eb": "2026-07-18",
-  "37883417afee": "2026-07-17",
   "e32a5e12db7a": "2026-07-16",
   "c6eb0a343ae6": "2026-07-16",
   "785064da4c02": "2026-07-16",
@@ -7759,6 +7920,7 @@
   "b3bfa5acc501": "2026-07-09",
   "a9b675d23aac": "2026-07-09",
   "12b7fcbbf3fd": "2026-07-29",
+  "8750efb417ff": "2026-08-07",
   "39d765218403": "2026-07-30",
   "072a486f57ef": "2026-07-30",
   "aaf152d8b3d2": "2026-07-16",
@@ -7772,11 +7934,11 @@
   "3e298fcd2c7d": "2026-07-09",
   "8f5981eafc1d": "2026-07-09",
   "d386be189b21": "2026-07-09",
-  "a81e3ed2442f": "2026-07-09",
   "d15026de3f7f": "2026-07-09",
   "75feb34c8e03": "2026-07-09",
   "1bd975199ae6": "2026-07-09",
   "1c53ca778641": "2026-07-09",
+  "dee816ff8d62": "2026-08-07",
   "bf19c569e749": "2026-08-05",
   "a8f909bb21f6": "2026-08-04",
   "158eac0feeb5": "2026-08-04",
@@ -7834,6 +7996,8 @@
   "ee0b5f4b9eba": "2026-07-09",
   "ca96890caf3d": "2026-07-09",
   "7b43a964823c": "2026-07-21",
+  "37883417afee": "2026-07-17",
+  "a81e3ed2442f": "2026-07-09",
   "d01a1c153845": "2026-07-09",
   "c19ca237bbf3": "2026-07-09",
   "06678715b44e": "2026-07-09",
