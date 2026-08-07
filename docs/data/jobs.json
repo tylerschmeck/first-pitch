@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-08-07T19:25:46+00:00",
+ "generated_at": "2026-08-07T22:01:24+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "name": "NFCA",
@@ -24,8 +24,83 @@
    "count": 1
   }
  ],
- "count": 107,
+ "count": 108,
  "jobs": [
+  {
+   "title": "Assistant Women's Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22485762/assistant-women-s-softball-coach"
+    }
+   ],
+   "posted": "2026-08-07",
+   "deadline": "",
+   "contact": "",
+   "id": "e7240072cf1f",
+   "type": "assistant",
+   "school_key": "180179",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "180179",
+   "school_name": "Montana State University Billings",
+   "city": "Billings",
+   "state": "MT",
+   "division": "NCAA D2",
+   "group": "d2",
+   "posted_is_estimate": false,
+   "first_seen": "2026-08-07",
+   "salary": "",
+   "snippet": "Assistant Coaches support the head coach of a particular sport within the university\u2019s athletics program. Specific responsibilities vary by sport and by requirements of the head coach. Duties and Responsibilities Recruiting and retaining qualified student-athletes and then mentoring them in their academic performance to assure their academic success and timely progress toward degree completion and graduation.\u2026",
+   "school": {
+    "name": "Montana State University Billings",
+    "city": "Billings",
+    "state": "MT",
+    "division": "NCAA D2",
+    "group": "d2",
+    "sector": "Public, 4-year or above",
+    "enrollment": 1821,
+    "sb_players": 21,
+    "sb_opexp": 146450,
+    "sb_expenses": 448239,
+    "sb_revenue": 454401,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 64334,
+    "ac_salary_women": 34571,
+    "student_aid_women": 816507,
+    "recruit_exp_women": 14474,
+    "conference": "Great Northwest Athletic Conference",
+    "ath_url": "https://www.msubsports.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     387839,
+     372910,
+     491796,
+     438120,
+     476879,
+     448239
+    ],
+    "trend_players": [
+     25,
+     25,
+     21,
+     18,
+     20,
+     21
+    ]
+   }
+  },
   {
    "title": "Assistant Coach (Part-time)",
    "links": [
@@ -7880,6 +7955,7 @@
   }
  ],
  "seen": {
+  "e7240072cf1f": "2026-08-07",
   "02f02f6b340b": "2026-08-07",
   "4c1e5fed330e": "2026-07-17",
   "21b06cf9fcc9": "2026-08-05",
