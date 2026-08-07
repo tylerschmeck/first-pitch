@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-08-07T03:24:35+00:00",
+ "generated_at": "2026-08-07T07:49:20+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "name": "NFCA",
@@ -16,7 +16,7 @@
   {
    "name": "NJCAA Career Center",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "name": "NAIA Careers",
@@ -4159,6 +4159,81 @@
    "links": [
     {
      "source": "NFCA",
+     "url": "https://careers.pageuppeople.com/873/lb/en-us/job/559662/assistant-coach-softball"
+    }
+   ],
+   "posted": "2026-07-08",
+   "deadline": "Until filled",
+   "contact": "Kendall Fearn",
+   "id": "a9b675d23aac",
+   "type": "assistant",
+   "school_key": "110583",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "110583",
+   "school_name": "California State University-Long Beach",
+   "city": "Long Beach",
+   "state": "CA",
+   "division": "NCAA D1",
+   "group": "d1",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-09",
+   "salary": "",
+   "snippet": "Long Beach State Athletics invites applications for the position of Assistant Softball",
+   "school": {
+    "name": "California State University-Long Beach",
+    "city": "Long Beach",
+    "state": "CA",
+    "division": "NCAA D1",
+    "group": "d1",
+    "sector": "Public, 4-year or above",
+    "enrollment": 30695,
+    "sb_players": 26,
+    "sb_opexp": 329417,
+    "sb_expenses": 1321951,
+    "sb_revenue": 1321951,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 2,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 150987,
+    "ac_salary_women": 85443,
+    "student_aid_women": 2467934,
+    "recruit_exp_women": 112219,
+    "conference": "",
+    "ath_url": "",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     820912,
+     838258,
+     1021567,
+     1169081,
+     1172972,
+     1321951
+    ],
+    "trend_players": [
+     24,
+     26,
+     29,
+     24,
+     24,
+     26
+    ]
+   }
+  },
+  {
+   "title": "Assistant Coach",
+   "links": [
+    {
+     "source": "NFCA",
      "url": "https://marietta.interviewexchange.com/jobofferdetails.jsp?JOBID=202258"
     }
    ],
@@ -4230,94 +4305,11 @@
    }
   },
   {
-   "title": "Assistant Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22405697/assistant-softball-coach"
-    },
-    {
-     "source": "NFCA",
-     "url": "https://careers.pageuppeople.com/873/lb/en-us/job/559662/assistant-coach-softball"
-    }
-   ],
-   "posted": "2026-07-07",
-   "deadline": "Until filled",
-   "contact": "Kendall Fearn",
-   "id": "a9b675d23aac",
-   "type": "assistant",
-   "school_key": "110583",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "110583",
-   "school_name": "California State University-Long Beach",
-   "city": "Long Beach",
-   "state": "CA",
-   "division": "NCAA D1",
-   "group": "d1",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "LONG BEACH STATE ATHLETICS invites applications for the position of Assistant Softball Coach. Required Qualifications: \u2022 Bachelor\u2019s degree \u2022 Prior athletic participation in Softball \u2022 Demonstrated commitment to working successfully with a diverse student population, including Black/African American, Latine/x, Native American/Indigenous, low-income, first-generation, and minoritized students. Preferred\u2026",
-   "school": {
-    "name": "California State University-Long Beach",
-    "city": "Long Beach",
-    "state": "CA",
-    "division": "NCAA D1",
-    "group": "d1",
-    "sector": "Public, 4-year or above",
-    "enrollment": 30695,
-    "sb_players": 26,
-    "sb_opexp": 329417,
-    "sb_expenses": 1321951,
-    "sb_revenue": 1321951,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 2,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 150987,
-    "ac_salary_women": 85443,
-    "student_aid_women": 2467934,
-    "recruit_exp_women": 112219,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     820912,
-     838258,
-     1021567,
-     1169081,
-     1172972,
-     1321951
-    ],
-    "trend_players": [
-     24,
-     26,
-     29,
-     24,
-     24,
-     26
-    ]
-   }
-  },
-  {
-   "title": "Head Softball Coach",
+   "title": "Head Coach",
    "links": [
     {
      "source": "NFCA",
      "url": "https://prcc.edu/about/employment-opportunities/"
-    },
-    {
-     "source": "NJCAA Career Center",
-     "url": "https://careers.njcaa.org/jobs/22405420/head-softball-coach"
     }
    ],
    "posted": "2026-07-07",
@@ -4338,7 +4330,7 @@
    "posted_is_estimate": false,
    "first_seen": "2026-07-09",
    "salary": "",
-   "snippet": "Head Softball Coach Location: Poplarville Overview: Collegiate head coaching experience preferred. Duties will include (but are not limited to) recruitment of student-athletes, assisting in running the day-to-day operations for the program, and learning/understanding compliance rules for the NJCAA and the MACCC. Status: Full-Time (12 month) / Professional position Educational Requirements: Bachelor\u2019s degree required\u2026",
+   "snippet": "Posting Date: 7/7/26 Collegiate head coaching experience preferred. Duties will include (but are not limited to) recruitment of student-athletes, assisting in running the day-to-day operations for the program, and learning/understanding compliance rules for the NJCAA and the",
    "school": {
     "name": "Pearl River Community College",
     "city": "Poplarville",
@@ -7918,7 +7910,6 @@
   "6bfd433b5593": "2026-07-09",
   "1bd1d2243ea1": "2026-07-09",
   "b3bfa5acc501": "2026-07-09",
-  "a9b675d23aac": "2026-07-09",
   "12b7fcbbf3fd": "2026-07-29",
   "8750efb417ff": "2026-08-07",
   "39d765218403": "2026-07-30",
@@ -7953,6 +7944,7 @@
   "287e859d9d4f": "2026-07-16",
   "ea2153bb6a7a": "2026-07-14",
   "206f76c36985": "2026-07-10",
+  "a9b675d23aac": "2026-07-09",
   "cec1cc3ee078": "2026-07-09",
   "0a1dbea49bd1": "2026-07-09",
   "6f7cc7032079": "2026-07-09",
