@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-08T15:53:33+00:00",
+ "generated_at": "2026-08-08T19:06:03+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -16,7 +16,7 @@
   {
    "name": "NJCAA Career Center",
    "ok": false,
-   "error": "Failed to perform, curl: (28) Operation timed out after 30003 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
+   "error": "Failed to perform, curl: (28) Operation timed out after 30002 milliseconds with 0 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more details."
   },
   {
    "name": "NAIA Careers",
