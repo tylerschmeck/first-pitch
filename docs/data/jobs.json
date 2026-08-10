@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T10:39:54+00:00",
+ "generated_at": "2026-08-10T13:50:38+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -11,7 +11,7 @@
   {
    "name": "NFCA",
    "ok": true,
-   "count": 87
+   "count": 88
   },
   {
    "name": "NJCAA Career Center",
@@ -24,8 +24,83 @@
    "count": 1
   }
  ],
- "count": 105,
+ "count": 106,
  "jobs": [
+  {
+   "title": "Assistant Coach (Pitching)",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://stthom.applicantpro.com/jobs/4166011"
+    }
+   ],
+   "posted": "2026-08-10",
+   "deadline": "Until position is filled",
+   "contact": "Angela Froboese",
+   "id": "3d904613fa56",
+   "type": "assistant",
+   "school_key": "174914",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "174914",
+   "school_name": "University of St Thomas",
+   "city": "Saint Paul",
+   "state": "MN",
+   "division": "NCAA D1",
+   "group": "d1",
+   "posted_is_estimate": false,
+   "first_seen": "2026-08-10",
+   "salary": "",
+   "snippet": "Application Deadline: Until position is filled Posting Date: 8/10/26 Summary Of Job Duties Coach will work with pitchers and help with the rest of the team. Will help plan travel and",
+   "school": {
+    "name": "University of St Thomas",
+    "city": "Saint Paul",
+    "state": "MN",
+    "division": "NCAA D1",
+    "group": "d1",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 6126,
+    "sb_players": 24,
+    "sb_opexp": 107534,
+    "sb_expenses": 1098722,
+    "sb_revenue": 1098722,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 2,
+    "sb_asst_pt": 0,
+    "hc_salary_women": 95687,
+    "ac_salary_women": 56454,
+    "student_aid_women": 5402693,
+    "recruit_exp_women": 129744,
+    "conference": "",
+    "ath_url": "",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     186919,
+     132702,
+     615447,
+     851361,
+     906957,
+     1098722
+    ],
+    "trend_players": [
+     36,
+     42,
+     28,
+     25,
+     24,
+     24
+    ]
+   }
+  },
   {
    "title": "Assistant Women's Softball Coach",
    "links": [
@@ -2646,58 +2721,54 @@
    }
   },
   {
-   "title": "Assistant Coach's Women's Softball",
+   "title": "Assistant Coach- Softball",
    "links": [
     {
      "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22431107/assistant-coach-s-women-s-softball"
-    },
-    {
-     "source": "NFCA",
-     "url": "https://bc.csod.com/ux/ats/careersite/7/home/requisition/11017?c=bc"
+     "url": "https://ncaamarket.ncaa.org/jobs/22431721/assistant-coach-softball"
     }
    ],
    "posted": "2026-07-16",
-   "deadline": "N/A",
-   "contact": "John Bogdan",
-   "id": "785064da4c02",
+   "deadline": "",
+   "contact": "",
+   "id": "c6eb0a343ae6",
    "type": "assistant",
-   "school_key": "164924",
+   "school_key": "182670",
    "tok": [
     "assistant"
    ],
-   "unitid": "164924",
-   "school_name": "Boston College",
-   "city": "Chestnut Hill",
-   "state": "MA",
+   "unitid": "182670",
+   "school_name": "Dartmouth College",
+   "city": "Hanover",
+   "state": "NH",
    "division": "NCAA D1",
    "group": "d1",
    "posted_is_estimate": false,
    "first_seen": "2026-07-16",
-   "salary": "$67,350 to $84,200",
-   "snippet": "Assistant Coach's Women's Softball Reporting to the head women's softball coach, the assistant women's softball coach will help provide leadership and oversight for all aspects of a competitive program. This includes; -Strong ability to assist in providing overall leadership of the women's softball program -Proven recruiter and evaluator at Division I, II or III level -Ability to foster a strong and positive culture\u2026",
+   "salary": "",
+   "snippet": "Looking for a candidate to assist the head coach in planning, coaching, recruiting, administering, and promoting the softball program within NCAA, Ivy League, and institutional standards. Ideal candidate will have a strong background in either pitching or defensive development and excellent recruiter, teacher, and mentor who will positively contribute to our program\u2019s culture and student-athlete development.\u2026",
    "school": {
-    "name": "Boston College",
-    "city": "Chestnut Hill",
-    "state": "MA",
+    "name": "Dartmouth College",
+    "city": "Hanover",
+    "state": "NH",
     "division": "NCAA D1",
     "group": "d1",
     "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 9812,
-    "sb_players": 26,
-    "sb_opexp": 607995,
-    "sb_expenses": 2412518,
-    "sb_revenue": 2412518,
+    "enrollment": 4541,
+    "sb_players": 20,
+    "sb_opexp": 206712,
+    "sb_expenses": 588382,
+    "sb_revenue": 588382,
     "sb_head_ft": 1,
     "sb_head_pt": 0,
-    "sb_asst_ft": 2,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 194967,
-    "ac_salary_women": 94045,
-    "student_aid_women": 12962005,
-    "recruit_exp_women": 473572,
-    "conference": "Atlantic Coast Conference",
-    "ath_url": "https://www.bceagles.com",
+    "sb_asst_ft": 1,
+    "sb_asst_pt": 2,
+    "hc_salary_women": 138534,
+    "ac_salary_women": 65391,
+    "student_aid_women": 0,
+    "recruit_exp_women": 435853,
+    "conference": "The Ivy League",
+    "ath_url": "https://www.dartmouthsports.com",
     "trend_years": [
      2020,
      2021,
@@ -2707,20 +2778,20 @@
      2025
     ],
     "trend_exp": [
-     1371293,
-     1423812,
-     1614389,
-     2161210,
-     2414614,
-     2412518
+     368314,
+     229082,
+     533538,
+     530419,
+     529259,
+     588382
     ],
     "trend_players": [
-     20,
-     25,
+     24,
+     16,
      21,
-     23,
-     22,
-     26
+     16,
+     15,
+     20
     ]
    }
   },
@@ -2800,6 +2871,85 @@
    }
   },
   {
+   "title": "Assistant Coach's Women's Softball",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22431107/assistant-coach-s-women-s-softball"
+    },
+    {
+     "source": "NFCA",
+     "url": "https://bc.csod.com/ux/ats/careersite/7/home/requisition/11017?c=bc"
+    }
+   ],
+   "posted": "2026-07-16",
+   "deadline": "N/A",
+   "contact": "John Bogdan",
+   "id": "785064da4c02",
+   "type": "assistant",
+   "school_key": "164924",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "164924",
+   "school_name": "Boston College",
+   "city": "Chestnut Hill",
+   "state": "MA",
+   "division": "NCAA D1",
+   "group": "d1",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-16",
+   "salary": "$67,350 to $84,200",
+   "snippet": "Assistant Coach's Women's Softball Reporting to the head women's softball coach, the assistant women's softball coach will help provide leadership and oversight for all aspects of a competitive program. This includes; -Strong ability to assist in providing overall leadership of the women's softball program -Proven recruiter and evaluator at Division I, II or III level -Ability to foster a strong and positive culture\u2026",
+   "school": {
+    "name": "Boston College",
+    "city": "Chestnut Hill",
+    "state": "MA",
+    "division": "NCAA D1",
+    "group": "d1",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 9812,
+    "sb_players": 26,
+    "sb_opexp": 607995,
+    "sb_expenses": 2412518,
+    "sb_revenue": 2412518,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 2,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 194967,
+    "ac_salary_women": 94045,
+    "student_aid_women": 12962005,
+    "recruit_exp_women": 473572,
+    "conference": "Atlantic Coast Conference",
+    "ath_url": "https://www.bceagles.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     1371293,
+     1423812,
+     1614389,
+     2161210,
+     2414614,
+     2412518
+    ],
+    "trend_players": [
+     20,
+     25,
+     21,
+     23,
+     22,
+     26
+    ]
+   }
+  },
+  {
    "title": "Graduate Assistant - Softball",
    "links": [
     {
@@ -2872,81 +3022,6 @@
      22,
      17,
      26
-    ]
-   }
-  },
-  {
-   "title": "Assistant Coach- Softball",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22431721/assistant-coach-softball"
-    }
-   ],
-   "posted": "2026-07-16",
-   "deadline": "",
-   "contact": "",
-   "id": "c6eb0a343ae6",
-   "type": "assistant",
-   "school_key": "182670",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "182670",
-   "school_name": "Dartmouth College",
-   "city": "Hanover",
-   "state": "NH",
-   "division": "NCAA D1",
-   "group": "d1",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-16",
-   "salary": "",
-   "snippet": "Looking for a candidate to assist the head coach in planning, coaching, recruiting, administering, and promoting the softball program within NCAA, Ivy League, and institutional standards. Ideal candidate will have a strong background in either pitching or defensive development and excellent recruiter, teacher, and mentor who will positively contribute to our program\u2019s culture and student-athlete development.\u2026",
-   "school": {
-    "name": "Dartmouth College",
-    "city": "Hanover",
-    "state": "NH",
-    "division": "NCAA D1",
-    "group": "d1",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 4541,
-    "sb_players": 20,
-    "sb_opexp": 206712,
-    "sb_expenses": 588382,
-    "sb_revenue": 588382,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 1,
-    "sb_asst_pt": 2,
-    "hc_salary_women": 138534,
-    "ac_salary_women": 65391,
-    "student_aid_women": 0,
-    "recruit_exp_women": 435853,
-    "conference": "The Ivy League",
-    "ath_url": "https://www.dartmouthsports.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     368314,
-     229082,
-     533538,
-     530419,
-     529259,
-     588382
-    ],
-    "trend_players": [
-     24,
-     16,
-     21,
-     16,
-     15,
-     20
     ]
    }
   },
@@ -7727,10 +7802,10 @@
   "5c53fec6c0fc": "2026-07-20",
   "492e302e27eb": "2026-07-18",
   "c6988c263366": "2026-07-16",
-  "785064da4c02": "2026-07-16",
-  "74237ab25b90": "2026-07-16",
-  "e32a5e12db7a": "2026-07-16",
   "c6eb0a343ae6": "2026-07-16",
+  "74237ab25b90": "2026-07-16",
+  "785064da4c02": "2026-07-16",
+  "e32a5e12db7a": "2026-07-16",
   "98cc111baa5c": "2026-07-09",
   "87161bbef83f": "2026-07-13",
   "12b7fcbbf3fd": "2026-07-29",
@@ -7754,6 +7829,7 @@
   "75feb34c8e03": "2026-07-09",
   "1bd975199ae6": "2026-07-09",
   "1c53ca778641": "2026-07-09",
+  "3d904613fa56": "2026-08-10",
   "dee816ff8d62": "2026-08-07",
   "bf19c569e749": "2026-08-05",
   "a8f909bb21f6": "2026-08-04",
