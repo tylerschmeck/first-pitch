@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T16:14:09+00:00",
+ "generated_at": "2026-08-13T19:30:56+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -11,7 +11,7 @@
   {
    "name": "NFCA",
    "ok": true,
-   "count": 82
+   "count": 81
   },
   {
    "name": "NJCAA Career Center",
@@ -24,7 +24,7 @@
    "count": 1
   }
  ],
- "count": 102,
+ "count": 101,
  "jobs": [
   {
    "title": "Head Softball Coach",
@@ -2125,81 +2125,6 @@
      23,
      27,
      24
-    ]
-   }
-  },
-  {
-   "title": "Assistant Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://nfca.org/nfca-job-postings"
-    }
-   ],
-   "posted": "2026-07-27",
-   "deadline": "Until position is filled",
-   "contact": "Jim Peterson",
-   "id": "6b6b58e8843e",
-   "type": "assistant",
-   "school_key": "236452",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "236452",
-   "school_name": "Saint Martin's University",
-   "city": "Lacey",
-   "state": "WA",
-   "division": "NCAA D2",
-   "group": "d2",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-27",
-   "salary": "$40,000",
-   "snippet": "Application Deadline: Until position is filled Posting Date: 7/27/26 Saint Martin\u2019s Softball is accepting applications for an Assistant Softball Coach. This is a full-time, benefited position with a base salary of $40,000. We are seeking an Assistant Softball Coach to support a competitive and successful Division II program in Lacey, Washington that competes in the Great Northwest Athletic Conference (GNAC). The\u2026",
-   "school": {
-    "name": "Saint Martin's University",
-    "city": "Lacey",
-    "state": "WA",
-    "division": "NCAA D2",
-    "group": "d2",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 1094,
-    "sb_players": 21,
-    "sb_opexp": 100635,
-    "sb_expenses": 344100,
-    "sb_revenue": 344100,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 57648,
-    "ac_salary_women": 36882,
-    "student_aid_women": 1222105,
-    "recruit_exp_women": 8405,
-    "conference": "Great Northwest Athletic Conference",
-    "ath_url": "https://www.smusaints.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     310305,
-     225927,
-     307125,
-     276200,
-     262650,
-     344100
-    ],
-    "trend_players": [
-     20,
-     23,
-     23,
-     20,
-     18,
-     21
     ]
    }
   },
@@ -7541,7 +7466,6 @@
   "7e89ad8f7d1d": "2026-07-30",
   "7be01ca00aec": "2026-08-05",
   "739cb2438050": "2026-07-29",
-  "6b6b58e8843e": "2026-07-27",
   "4f05100dd981": "2026-07-24",
   "899cfdd8a2b9": "2026-07-23",
   "55ae7d5f9b92": "2026-07-22",
@@ -7593,6 +7517,7 @@
   "ee0b5f4b9eba": "2026-07-09",
   "ca96890caf3d": "2026-07-09",
   "7b43a964823c": "2026-07-21",
+  "6b6b58e8843e": "2026-07-27",
   "87161bbef83f": "2026-07-13",
   "287e859d9d4f": "2026-07-16",
   "37883417afee": "2026-07-17",
