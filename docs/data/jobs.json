@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T10:32:34+00:00",
+ "generated_at": "2026-08-13T13:53:42+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -11,7 +11,7 @@
   {
    "name": "NFCA",
    "ok": true,
-   "count": 81
+   "count": 82
   },
   {
    "name": "NJCAA Career Center",
@@ -2639,81 +2639,6 @@
    }
   },
   {
-   "title": "Head Coach - Softball",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22443256/head-coach-softball"
-    }
-   ],
-   "posted": "2026-07-21",
-   "deadline": "",
-   "contact": "",
-   "id": "31ad743b3296",
-   "type": "head",
-   "school_key": "168148",
-   "tok": [
-    "head"
-   ],
-   "unitid": "168148",
-   "school_name": "Tufts University",
-   "city": "Medford",
-   "state": "MA",
-   "division": "NCAA D3",
-   "group": "d3",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-21",
-   "salary": "",
-   "snippet": "Located five miles from downtown Boston, Tufts University is a Division III member of the National Collegiate Athletic Association (NCAA) and the highly-competitive New England Small College Athletic Conference (NESCAC). Tufts student-athletes participate in 30 varsity sports, 32 club sports and a number of intramural sports. Tufts Athletics has won 19 NCAA team championships since 2010 and has finished in the top\u2026",
-   "school": {
-    "name": "Tufts University",
-    "city": "Medford",
-    "state": "MA",
-    "division": "NCAA D3",
-    "group": "d3",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 6928,
-    "sb_players": 20,
-    "sb_opexp": 126978,
-    "sb_expenses": 323484,
-    "sb_revenue": 346144,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 1,
-    "sb_asst_pt": 2,
-    "hc_salary_women": 92286,
-    "ac_salary_women": 45953,
-    "student_aid_women": 0,
-    "recruit_exp_women": 44639,
-    "conference": "New England Small College Athletic Conference",
-    "ath_url": "https://www.gotuftsjumbos.com/landing/index",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     null,
-     155588,
-     177619,
-     256666,
-     314381,
-     323484
-    ],
-    "trend_players": [
-     null,
-     18,
-     19,
-     22,
-     20,
-     20
-    ]
-   }
-  },
-  {
    "title": "Assistant Softball Coach",
    "links": [
     {
@@ -2785,6 +2710,81 @@
      17,
      15,
      19
+    ]
+   }
+  },
+  {
+   "title": "Head Coach - Softball",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22443256/head-coach-softball"
+    }
+   ],
+   "posted": "2026-07-21",
+   "deadline": "",
+   "contact": "",
+   "id": "31ad743b3296",
+   "type": "head",
+   "school_key": "168148",
+   "tok": [
+    "head"
+   ],
+   "unitid": "168148",
+   "school_name": "Tufts University",
+   "city": "Medford",
+   "state": "MA",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-21",
+   "salary": "",
+   "snippet": "Located five miles from downtown Boston, Tufts University is a Division III member of the National Collegiate Athletic Association (NCAA) and the highly-competitive New England Small College Athletic Conference (NESCAC). Tufts student-athletes participate in 30 varsity sports, 32 club sports and a number of intramural sports. Tufts Athletics has won 19 NCAA team championships since 2010 and has finished in the top\u2026",
+   "school": {
+    "name": "Tufts University",
+    "city": "Medford",
+    "state": "MA",
+    "division": "NCAA D3",
+    "group": "d3",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 6928,
+    "sb_players": 20,
+    "sb_opexp": 126978,
+    "sb_expenses": 323484,
+    "sb_revenue": 346144,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 1,
+    "sb_asst_pt": 2,
+    "hc_salary_women": 92286,
+    "ac_salary_women": 45953,
+    "student_aid_women": 0,
+    "recruit_exp_women": 44639,
+    "conference": "New England Small College Athletic Conference",
+    "ath_url": "https://www.gotuftsjumbos.com/landing/index",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     null,
+     155588,
+     177619,
+     256666,
+     314381,
+     323484
+    ],
+    "trend_players": [
+     null,
+     18,
+     19,
+     22,
+     20,
+     20
     ]
    }
   },
@@ -3016,7 +3016,7 @@
    }
   },
   {
-   "title": "Seasonal Assistant Coach - Softball",
+   "title": "Assistant Coach (Seasonal / Part-Time)",
    "links": [
     {
      "source": "NCAA Market",
@@ -3025,11 +3025,15 @@
     {
      "source": "NCAA Market",
      "url": "https://ncaamarket.ncaa.org/jobs/22434357/assistant-coach-softball"
+    },
+    {
+     "source": "NFCA",
+     "url": "https://nfca.org/nfca-job-postings"
     }
    ],
    "posted": "2026-07-17",
-   "deadline": "",
-   "contact": "",
+   "deadline": "Until position is filled",
+   "contact": "Jenny Rohn",
    "id": "4c1e5fed330e",
    "type": "assistant",
    "school_key": "166027",
@@ -3168,6 +3172,81 @@
      18,
      18,
      18
+    ]
+   }
+  },
+  {
+   "title": "Assistant Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22431734/assistant-softball-coach"
+    }
+   ],
+   "posted": "2026-07-16",
+   "deadline": "",
+   "contact": "",
+   "id": "74237ab25b90",
+   "type": "assistant",
+   "school_key": "154095",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "154095",
+   "school_name": "University of Northern Iowa",
+   "city": "Cedar Falls",
+   "state": "IA",
+   "division": "NCAA D1",
+   "group": "d1",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-16",
+   "salary": "",
+   "snippet": "Primary Function: Supports all aspects of competitive NCAA Division I softball program, with primary responsibilities in coaching, recruiting, player development, scouting, and program operations; plays a key role in the instruction and development of student-athletes, focusing on pitchers and catchers, while assisting with team practices, game preparation, and in-game strategy; serves as the program\u2019s lead\u2026",
+   "school": {
+    "name": "University of Northern Iowa",
+    "city": "Cedar Falls",
+    "state": "IA",
+    "division": "NCAA D1",
+    "group": "d1",
+    "sector": "Public, 4-year or above",
+    "enrollment": 6904,
+    "sb_players": 22,
+    "sb_opexp": 197837,
+    "sb_expenses": 825460,
+    "sb_revenue": 825460,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 2,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 98848,
+    "ac_salary_women": 59703,
+    "student_aid_women": 2120639,
+    "recruit_exp_women": 87242,
+    "conference": "Missouri Valley Conference",
+    "ath_url": "https://unipanthers.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     595078,
+     628505,
+     792876,
+     820768,
+     781705,
+     825460
+    ],
+    "trend_players": [
+     23,
+     20,
+     25,
+     25,
+     23,
+     22
     ]
    }
   },
@@ -3319,81 +3398,6 @@
      16,
      15,
      20
-    ]
-   }
-  },
-  {
-   "title": "Assistant Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22431734/assistant-softball-coach"
-    }
-   ],
-   "posted": "2026-07-16",
-   "deadline": "",
-   "contact": "",
-   "id": "74237ab25b90",
-   "type": "assistant",
-   "school_key": "154095",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "154095",
-   "school_name": "University of Northern Iowa",
-   "city": "Cedar Falls",
-   "state": "IA",
-   "division": "NCAA D1",
-   "group": "d1",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-16",
-   "salary": "",
-   "snippet": "Primary Function: Supports all aspects of competitive NCAA Division I softball program, with primary responsibilities in coaching, recruiting, player development, scouting, and program operations; plays a key role in the instruction and development of student-athletes, focusing on pitchers and catchers, while assisting with team practices, game preparation, and in-game strategy; serves as the program\u2019s lead\u2026",
-   "school": {
-    "name": "University of Northern Iowa",
-    "city": "Cedar Falls",
-    "state": "IA",
-    "division": "NCAA D1",
-    "group": "d1",
-    "sector": "Public, 4-year or above",
-    "enrollment": 6904,
-    "sb_players": 22,
-    "sb_opexp": 197837,
-    "sb_expenses": 825460,
-    "sb_revenue": 825460,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 2,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 98848,
-    "ac_salary_women": 59703,
-    "student_aid_women": 2120639,
-    "recruit_exp_women": 87242,
-    "conference": "Missouri Valley Conference",
-    "ath_url": "https://unipanthers.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     595078,
-     628505,
-     792876,
-     820768,
-     781705,
-     825460
-    ],
-    "trend_players": [
-     23,
-     20,
-     25,
-     25,
-     23,
-     22
     ]
    }
   },
@@ -7500,15 +7504,15 @@
   "ae9f6e04dd73": "2026-07-24",
   "c124472ef591": "2026-07-23",
   "ec6071b0fdef": "2026-07-23",
-  "31ad743b3296": "2026-07-21",
   "76fb9696d5ed": "2026-07-21",
+  "31ad743b3296": "2026-07-21",
   "5c53fec6c0fc": "2026-07-20",
-  "c6988c263366": "2026-07-16",
   "492e302e27eb": "2026-07-18",
+  "c6988c263366": "2026-07-16",
+  "74237ab25b90": "2026-07-16",
   "e32a5e12db7a": "2026-07-16",
   "c6eb0a343ae6": "2026-07-16",
   "98cc111baa5c": "2026-07-09",
-  "74237ab25b90": "2026-07-16",
   "785064da4c02": "2026-07-16",
   "12b7fcbbf3fd": "2026-07-29",
   "8750efb417ff": "2026-08-07",
