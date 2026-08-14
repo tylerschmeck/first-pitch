@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-08-14T19:24:26+00:00",
+ "generated_at": "2026-08-14T21:45:17+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "name": "NFCA",
@@ -24,8 +24,37 @@
    "count": 1
   }
  ],
- "count": 100,
+ "count": 101,
  "jobs": [
+  {
+   "title": "Head Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22503307/head-softball-coach"
+    }
+   ],
+   "posted": "2026-08-14",
+   "deadline": "",
+   "contact": "",
+   "id": "c5aa6f4f787a",
+   "type": "head",
+   "school_key": "www waynesburg edu",
+   "tok": [
+    "head"
+   ],
+   "unitid": null,
+   "school_name": "www.waynesburg.edu",
+   "city": "Waynesburg",
+   "state": "PA",
+   "division": "\u2014",
+   "group": "other",
+   "posted_is_estimate": false,
+   "first_seen": "2026-08-14",
+   "salary": "",
+   "snippet": "Waynesburg University is seeking a Head Women\u2019s Softball Coach. This is a full-time position. Prior experience in coaching on a high school or intercollegiate level required. Bachelor\u2019s degree required. Knowledge of recruitment strategies for non-scholarship student athletes desirable. Knowledge of NCAA rules and regulations preferred. Position will oversee the women\u2019s intercollegiate softball program at the\u2026",
+   "school": null
+  },
   {
    "title": "Assistant Softball Coach",
    "links": [
@@ -7340,6 +7369,7 @@
   }
  ],
  "seen": {
+  "c5aa6f4f787a": "2026-08-14",
   "a158a7cc1528": "2026-08-14",
   "a58129cedfaa": "2026-08-12",
   "173ebd9b0e89": "2026-08-11",
