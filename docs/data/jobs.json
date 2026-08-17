@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-08-17T04:07:58+00:00",
+ "generated_at": "2026-08-17T07:28:36+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 26
+   "count": 23
   },
   {
    "name": "NFCA",
@@ -24,7 +24,7 @@
    "count": 1
   }
  ],
- "count": 98,
+ "count": 97,
  "jobs": [
   {
    "title": "Assistant Softball Coach",
@@ -915,6 +915,83 @@
      21,
      21,
      17
+    ]
+   }
+  },
+  {
+   "title": "Assistant Coach (Seasonal / Part-Time)",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22483243/seasonal-assistant-coach-softball"
+    },
+    {
+     "source": "NFCA",
+     "url": "https://nfca.org/nfca-job-postings"
+    }
+   ],
+   "posted": "2026-08-06",
+   "deadline": "Until position is filled",
+   "contact": "Jenny Rohn",
+   "id": "4c1e5fed330e",
+   "type": "assistant",
+   "school_key": "166027",
+   "tok": [
+    "assistant",
+    "seasonal"
+   ],
+   "unitid": "166027",
+   "school_name": "Harvard University",
+   "city": "Boston",
+   "state": "MA",
+   "division": "NCAA D1",
+   "group": "d1",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-17",
+   "salary": "",
+   "snippet": "Under the direction of the Head Coach, the purpose of this position is to use athletics as a tool to educate college students. By using intercollegiate competition and all activities related to such competition, this position serves as a teacher and mentor to help build student character, prepare students for a constructive and effective life, and teach valuable life lessons including work ethic; discipline;\u2026",
+   "school": {
+    "name": "Harvard University",
+    "city": "Cambridge",
+    "state": "MA",
+    "division": "NCAA D1",
+    "group": "d1",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 7115,
+    "sb_players": 21,
+    "sb_opexp": 220886,
+    "sb_expenses": 665827,
+    "sb_revenue": 665827,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 1,
+    "sb_asst_pt": 2,
+    "hc_salary_women": 173756,
+    "ac_salary_women": 86078,
+    "student_aid_women": 0,
+    "recruit_exp_women": 637479,
+    "conference": "The Ivy League",
+    "ath_url": "https://gocrimson.com/",
+    "trend_years": [
+     2020,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     433605,
+     550760,
+     694638,
+     627493,
+     665827
+    ],
+    "trend_players": [
+     20,
+     25,
+     26,
+     20,
+     21
     ]
    }
   },
@@ -2895,241 +2972,6 @@
    }
   },
   {
-   "title": "GA Coaching Positions (Men & Women's Basketball, Wrestling, Softball, Golf & Men's Soccer)",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22434525/ga-coaching-positions-men-women-s-basketball-wrestling-softball-golf-men-s-soccer"
-    }
-   ],
-   "posted": "2026-07-18",
-   "deadline": "",
-   "contact": "",
-   "id": "492e302e27eb",
-   "type": "other",
-   "school_key": "237181",
-   "tok": [
-    "positions"
-   ],
-   "unitid": "237181",
-   "school_name": "Bethany College",
-   "city": "Bethany",
-   "state": "WV",
-   "division": "NCAA D3",
-   "group": "d3",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-18",
-   "salary": "",
-   "snippet": "Bethany College Graduate Assistant Positions Men\u2019s Basketball This is a 10-month appointment with the opportunity. Responsibilities include assisting the head coach with coaching, workouts, administrative tasks, film analysis, driving to competitions, duties during trips, helping with recruiting, and creating social media content. This position will report directly to the Head Coach and is expected to adhere to NCAA\u2026",
-   "school": {
-    "name": "Bethany College",
-    "city": "Bethany",
-    "state": "WV",
-    "division": "NCAA D3",
-    "group": "d3",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 613,
-    "sb_players": 25,
-    "sb_opexp": 23874,
-    "sb_expenses": 105304,
-    "sb_revenue": 126304,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 47475,
-    "ac_salary_women": 21122,
-    "student_aid_women": 0,
-    "recruit_exp_women": 17290,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     103740,
-     75330,
-     72477,
-     85776,
-     91619,
-     105304
-    ],
-    "trend_players": [
-     14,
-     13,
-     18,
-     19,
-     19,
-     25
-    ]
-   }
-  },
-  {
-   "title": "Assistant Coach (Seasonal / Part-Time)",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22483243/seasonal-assistant-coach-softball"
-    },
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22434357/assistant-coach-softball"
-    },
-    {
-     "source": "NFCA",
-     "url": "https://nfca.org/nfca-job-postings"
-    }
-   ],
-   "posted": "2026-07-17",
-   "deadline": "Until position is filled",
-   "contact": "Jenny Rohn",
-   "id": "4c1e5fed330e",
-   "type": "assistant",
-   "school_key": "166027",
-   "tok": [
-    "assistant",
-    "seasonal"
-   ],
-   "unitid": "166027",
-   "school_name": "Harvard University",
-   "city": "Boston",
-   "state": "MA",
-   "division": "NCAA D1",
-   "group": "d1",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-17",
-   "salary": "$61,000-$95,000",
-   "snippet": "Under the supervision of the Head Coach, the purpose of this position is to use athletics as a tool to educate college students. By using inter-collegiate competition and all activities related to such competition, this position serves as a teacher and mentor to help build student character, prepare students for a constructive and effective life, and teach valuable life lessons including work ethic; discipline;\u2026",
-   "school": {
-    "name": "Harvard University",
-    "city": "Cambridge",
-    "state": "MA",
-    "division": "NCAA D1",
-    "group": "d1",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 7115,
-    "sb_players": 21,
-    "sb_opexp": 220886,
-    "sb_expenses": 665827,
-    "sb_revenue": 665827,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 1,
-    "sb_asst_pt": 2,
-    "hc_salary_women": 173756,
-    "ac_salary_women": 86078,
-    "student_aid_women": 0,
-    "recruit_exp_women": 637479,
-    "conference": "The Ivy League",
-    "ath_url": "https://gocrimson.com/",
-    "trend_years": [
-     2020,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     433605,
-     550760,
-     694638,
-     627493,
-     665827
-    ],
-    "trend_players": [
-     20,
-     25,
-     26,
-     20,
-     21
-    ]
-   }
-  },
-  {
-   "title": "Assistant Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22434256/assistant-softball-coach"
-    },
-    {
-     "source": "NFCA",
-     "url": "https://stevens.wd5.myworkdayjobs.com/External"
-    }
-   ],
-   "posted": "2026-07-16",
-   "deadline": "Until position is filled",
-   "contact": "Emily Kaczmarek",
-   "id": "c6988c263366",
-   "type": "assistant",
-   "school_key": "186867",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "186867",
-   "school_name": "Stevens Institute of Technology",
-   "city": "Hoboken",
-   "state": "NJ",
-   "division": "NCAA D3",
-   "group": "d3",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-16",
-   "salary": "$35,600.00 - $45,066.67",
-   "snippet": "Job Description Assistant Softball Coach Department: Athletics & Recreation Reports To: Head Softball Coach Position Summary The Assistant Softball Coach assists in the development, implementation, and daily operations of a competitive NCAA Division III softball program. This position supports all aspects of the student-athlete experience, including athletic and personal development, recruiting, competitive\u2026",
-   "school": {
-    "name": "Stevens Institute of Technology",
-    "city": "Hoboken",
-    "state": "NJ",
-    "division": "NCAA D3",
-    "group": "d3",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 4158,
-    "sb_players": 18,
-    "sb_opexp": 135721,
-    "sb_expenses": 293343,
-    "sb_revenue": 293343,
-    "sb_head_ft": 0,
-    "sb_head_pt": 1,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 4,
-    "hc_salary_women": 80384,
-    "ac_salary_women": 40088,
-    "student_aid_women": 0,
-    "recruit_exp_women": 85122,
-    "conference": "Middle Atlantic Conferences",
-    "ath_url": "https://www.stevensducks.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     127200,
-     123399,
-     215353,
-     215234,
-     251557,
-     293343
-    ],
-    "trend_players": [
-     21,
-     22,
-     19,
-     18,
-     18,
-     18
-    ]
-   }
-  },
-  {
    "title": "Head Coach",
    "links": [
     {
@@ -3201,6 +3043,81 @@
      18,
      21,
      20
+    ]
+   }
+  },
+  {
+   "title": "Assistant Coach",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://stevens.wd5.myworkdayjobs.com/External"
+    }
+   ],
+   "posted": "2026-07-16",
+   "deadline": "Until position is filled",
+   "contact": "Emily Kaczmarek",
+   "id": "c6988c263366",
+   "type": "assistant",
+   "school_key": "186867",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "186867",
+   "school_name": "Stevens Institute of Technology",
+   "city": "Hoboken",
+   "state": "NJ",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-16",
+   "salary": "",
+   "snippet": "Posting Date: 7/16/26 Position Summary The Assistant Softball Coach assists in the development, implementation, and daily operations of a competitive NCAA Division III softball program. This position supports all aspects of the student-athlete experience, including athletic and personal development, recruiting, competitive preparation, program administration, and operational management. The Assistant Coach\u2026",
+   "school": {
+    "name": "Stevens Institute of Technology",
+    "city": "Hoboken",
+    "state": "NJ",
+    "division": "NCAA D3",
+    "group": "d3",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 4158,
+    "sb_players": 18,
+    "sb_opexp": 135721,
+    "sb_expenses": 293343,
+    "sb_revenue": 293343,
+    "sb_head_ft": 0,
+    "sb_head_pt": 1,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 4,
+    "hc_salary_women": 80384,
+    "ac_salary_women": 40088,
+    "student_aid_women": 0,
+    "recruit_exp_women": 85122,
+    "conference": "Middle Atlantic Conferences",
+    "ath_url": "https://www.stevensducks.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     127200,
+     123399,
+     215353,
+     215234,
+     251557,
+     293343
+    ],
+    "trend_players": [
+     21,
+     22,
+     19,
+     18,
+     18,
+     18
     ]
    }
   },
@@ -7154,8 +7071,6 @@
   "76fb9696d5ed": "2026-07-21",
   "31ad743b3296": "2026-07-21",
   "5c53fec6c0fc": "2026-07-20",
-  "c6988c263366": "2026-07-16",
-  "492e302e27eb": "2026-07-18",
   "12b7fcbbf3fd": "2026-07-29",
   "8750efb417ff": "2026-08-07",
   "d7b6d63b2cbf": "2026-08-11",
@@ -7184,6 +7099,7 @@
   "739cb2438050": "2026-07-29",
   "4f05100dd981": "2026-07-24",
   "55ae7d5f9b92": "2026-07-22",
+  "c6988c263366": "2026-07-16",
   "785064da4c02": "2026-07-16",
   "ac6fc459f4be": "2026-07-10",
   "ea2153bb6a7a": "2026-07-14",
@@ -7234,6 +7150,7 @@
   "ee0b5f4b9eba": "2026-07-09",
   "ca96890caf3d": "2026-07-09",
   "7b43a964823c": "2026-07-21",
+  "492e302e27eb": "2026-07-18",
   "e32a5e12db7a": "2026-07-16",
   "74237ab25b90": "2026-07-16",
   "c6eb0a343ae6": "2026-07-16",
