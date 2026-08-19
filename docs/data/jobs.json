@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T09:54:47+00:00",
+ "generated_at": "2026-08-19T13:17:28+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -177,35 +177,6 @@
    }
   },
   {
-   "title": "Assistant Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22503199/assistant-softball-coach"
-    }
-   ],
-   "posted": "2026-08-14",
-   "deadline": "",
-   "contact": "",
-   "id": "a158a7cc1528",
-   "type": "assistant",
-   "school_key": "uva wise",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": null,
-   "school_name": "UVA Wise",
-   "city": "Wise",
-   "state": "VA",
-   "division": "\u2014",
-   "group": "other",
-   "posted_is_estimate": false,
-   "first_seen": "2026-08-14",
-   "salary": "$29,000 - $31,000",
-   "snippet": "The University of Virginia\u2019s College at Wise, located in the beautiful rural mountains of southwestern Virginia, is currently seeking applicants for an Assistant Softball Coach. An Assistant Softball Coach works with the sports program and are responsible for contributing to the successful execution of objectives as defined by the Head Coach. They participate in the planning, design, implementation, management, and\u2026",
-   "school": null
-  },
-  {
    "title": "Head Softball Coach",
    "links": [
     {
@@ -232,6 +203,35 @@
    "first_seen": "2026-08-14",
    "salary": "",
    "snippet": "Waynesburg University is seeking a Head Women\u2019s Softball Coach. This is a full-time position. Prior experience in coaching on a high school or intercollegiate level required. Bachelor\u2019s degree required. Knowledge of recruitment strategies for non-scholarship student athletes desirable. Knowledge of NCAA rules and regulations preferred. Position will oversee the women\u2019s intercollegiate softball program at the\u2026",
+   "school": null
+  },
+  {
+   "title": "Assistant Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22503199/assistant-softball-coach"
+    }
+   ],
+   "posted": "2026-08-14",
+   "deadline": "",
+   "contact": "",
+   "id": "a158a7cc1528",
+   "type": "assistant",
+   "school_key": "uva wise",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": null,
+   "school_name": "UVA Wise",
+   "city": "Wise",
+   "state": "VA",
+   "division": "\u2014",
+   "group": "other",
+   "posted_is_estimate": false,
+   "first_seen": "2026-08-14",
+   "salary": "$29,000 - $31,000",
+   "snippet": "The University of Virginia\u2019s College at Wise, located in the beautiful rural mountains of southwestern Virginia, is currently seeking applicants for an Assistant Softball Coach. An Assistant Softball Coach works with the sports program and are responsible for contributing to the successful execution of objectives as defined by the Head Coach. They participate in the planning, design, implementation, management, and\u2026",
    "school": null
   },
   {
@@ -6225,8 +6225,8 @@
   }
  ],
  "seen": {
-  "a158a7cc1528": "2026-08-14",
   "c5aa6f4f787a": "2026-08-14",
+  "a158a7cc1528": "2026-08-14",
   "a58129cedfaa": "2026-08-12",
   "173ebd9b0e89": "2026-08-11",
   "e7240072cf1f": "2026-08-07",
