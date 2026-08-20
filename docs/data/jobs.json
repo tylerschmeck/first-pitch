@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-08-20T04:03:49+00:00",
+ "generated_at": "2026-08-20T07:13:06+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "name": "NFCA",
@@ -24,7 +24,7 @@
    "count": 1
   }
  ],
- "count": 87,
+ "count": 86,
  "jobs": [
   {
    "title": "Head Softball Coach",
@@ -2739,81 +2739,6 @@
      17,
      15,
      19
-    ]
-   }
-  },
-  {
-   "title": "Assistant Coach of Women's Softball",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22440771/assistant-coach-of-women-s-softball"
-    }
-   ],
-   "posted": "2026-07-20",
-   "deadline": "",
-   "contact": "",
-   "id": "5c53fec6c0fc",
-   "type": "assistant",
-   "school_key": "196413",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "196413",
-   "school_name": "Syracuse University",
-   "city": "Syracuse",
-   "state": "NY",
-   "division": "NCAA D1",
-   "group": "d1",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-20",
-   "salary": "",
-   "snippet": "The Assistant Coach will assist the head coach in all aspects of running the softball team. The position will assist with organization of practices, recruiting, individual player development, scouting reports and video. Education: Bachelor\u2019s degree 5 years of collegiate coaching or playing at high level required. Skill and Knowledge: Significant softball coaching experience preferred. At least 5 years of coaching or\u2026",
-   "school": {
-    "name": "Syracuse University",
-    "city": "Syracuse",
-    "state": "NY",
-    "division": "NCAA D1",
-    "group": "d1",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 14961,
-    "sb_players": 23,
-    "sb_opexp": 355741,
-    "sb_expenses": 2145707,
-    "sb_revenue": 1150504,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 2,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 235863,
-    "ac_salary_women": 85486,
-    "student_aid_women": 11189256,
-    "recruit_exp_women": 425953,
-    "conference": "Atlantic Coast Conference",
-    "ath_url": "https://cuse.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     1983023,
-     2042429,
-     2026782,
-     2106457,
-     2077463,
-     2145707
-    ],
-    "trend_players": [
-     22,
-     27,
-     23,
-     24,
-     23,
-     23
     ]
    }
   },
@@ -6318,7 +6243,6 @@
   "c124472ef591": "2026-07-23",
   "31ad743b3296": "2026-07-21",
   "76fb9696d5ed": "2026-07-21",
-  "5c53fec6c0fc": "2026-07-20",
   "12b7fcbbf3fd": "2026-07-29",
   "8750efb417ff": "2026-08-07",
   "d7b6d63b2cbf": "2026-08-11",
@@ -6388,6 +6312,7 @@
   "ee0b5f4b9eba": "2026-07-09",
   "ca96890caf3d": "2026-07-09",
   "7b43a964823c": "2026-07-21",
+  "5c53fec6c0fc": "2026-07-20",
   "ec6071b0fdef": "2026-07-23",
   "a8f909bb21f6": "2026-08-04",
   "158eac0feeb5": "2026-08-04",
