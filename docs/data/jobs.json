@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T19:07:28+00:00",
+ "generated_at": "2026-08-20T21:49:25+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -11,7 +11,7 @@
   {
    "name": "NFCA",
    "ok": true,
-   "count": 68
+   "count": 71
   },
   {
    "name": "NJCAA Career Center",
@@ -24,7 +24,7 @@
    "count": 1
   }
  ],
- "count": 86,
+ "count": 89,
  "jobs": [
   {
    "title": "ASSISTANT SOFTBALL COACH",
@@ -98,6 +98,231 @@
      28,
      20,
      20
+    ]
+   }
+  },
+  {
+   "title": "Assistant Coach (Part-Time)",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://nfca.org/nfca-job-postings"
+    }
+   ],
+   "posted": "2026-08-20",
+   "deadline": "Until position is filled",
+   "contact": "Amber Maisonet",
+   "id": "82d0c2a18f9d",
+   "type": "assistant",
+   "school_key": "129215",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "129215",
+   "school_name": "Eastern Connecticut State University",
+   "city": "Willimantic",
+   "state": "CT",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-08-20",
+   "salary": "",
+   "snippet": "Posting Date: 8/20/26 Eastern Connecticut State University\u2019s Softball team is looking for a part-time Assistant Coach specializing in pitching. This position is located onsite in Willimantic, CT. You will report to the Head Coach of the Softball team. What you'll do Participate in the leading and implementing the preseason and season practices. Help monitor conditioning programs Provide input to the evaluation of\u2026",
+   "school": {
+    "name": "Eastern Connecticut State University",
+    "city": "Willimantic",
+    "state": "CT",
+    "division": "NCAA D3",
+    "group": "d3",
+    "sector": "Public, 4-year or above",
+    "enrollment": 3262,
+    "sb_players": 19,
+    "sb_opexp": 74327,
+    "sb_expenses": 258290,
+    "sb_revenue": 258290,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 3,
+    "hc_salary_women": 111514,
+    "ac_salary_women": 48989,
+    "student_aid_women": 0,
+    "recruit_exp_women": 9067,
+    "conference": "Little East Conference",
+    "ath_url": "https://gowarriorathletics.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     239672,
+     250954,
+     314309,
+     374893,
+     280886,
+     258290
+    ],
+    "trend_players": [
+     20,
+     18,
+     21,
+     20,
+     19,
+     19
+    ]
+   }
+  },
+  {
+   "title": "Assistant Coach",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://uscjobs.sc.edu/postings/211776"
+    }
+   ],
+   "posted": "2026-08-20",
+   "deadline": "8/22/26",
+   "contact": "Dexter Harris",
+   "id": "37fd008740ce",
+   "type": "assistant",
+   "school_key": "218645",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "218645",
+   "school_name": "University of South Carolina Aiken",
+   "city": "Aiken",
+   "state": "SC",
+   "division": "NCAA D2",
+   "group": "d2",
+   "posted_is_estimate": false,
+   "first_seen": "2026-08-20",
+   "salary": "",
+   "snippet": "The University of South Carolina Aiken, an NCAA Division II Institution, is seeking an Assistant Softball Coach. Under the direction of the Head Coach, the Assistant Coach is responsible for assisting with all aspects of a competitive NCAA Division II program. The successful candidate will recruit student-athletes who have the ability to succeed academically and athletically, while promoting, developing, and\u2026",
+   "school": {
+    "name": "University of South Carolina Aiken",
+    "city": "Aiken",
+    "state": "SC",
+    "division": "NCAA D2",
+    "group": "d2",
+    "sector": "Public, 4-year or above",
+    "enrollment": 2571,
+    "sb_players": 20,
+    "sb_opexp": 87080,
+    "sb_expenses": 403350,
+    "sb_revenue": 403349,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 1,
+    "sb_asst_pt": 0,
+    "hc_salary_women": 61757,
+    "ac_salary_women": 42754,
+    "student_aid_women": 905382,
+    "recruit_exp_women": 21104,
+    "conference": "Peach Belt Conference",
+    "ath_url": "https://www.pacersports.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     286878,
+     242991,
+     362269,
+     407005,
+     396910,
+     403350
+    ],
+    "trend_players": [
+     22,
+     24,
+     20,
+     26,
+     22,
+     20
+    ]
+   }
+  },
+  {
+   "title": "Assistant Coach",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://www.beloit.edu/live/profiles/11059-assistant-softball-coach"
+    }
+   ],
+   "posted": "2026-08-20",
+   "deadline": "Until position is filled",
+   "contact": "Kim Zarling",
+   "id": "3c2d2a4f2c45",
+   "type": "assistant",
+   "school_key": "238333",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "238333",
+   "school_name": "Beloit College",
+   "city": "Beloit",
+   "state": "WI",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-08-20",
+   "salary": "",
+   "snippet": "Posting Date: 8/20/26 The College is seeking candidates for this position who can demonstrate a record of success in coaching softball and recruiting student-athletes at the collegiate level. In addition, candidates will support the Sports Information Director in the fall semester in covering various",
+   "school": {
+    "name": "Beloit College",
+    "city": "Beloit",
+    "state": "WI",
+    "division": "NCAA D3",
+    "group": "d3",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 924,
+    "sb_players": 19,
+    "sb_opexp": 63755,
+    "sb_expenses": 147288,
+    "sb_revenue": 147288,
+    "sb_head_ft": 0,
+    "sb_head_pt": 1,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 4,
+    "hc_salary_women": 41942,
+    "ac_salary_women": 19757,
+    "student_aid_women": 0,
+    "recruit_exp_women": 15395,
+    "conference": "Midwest Conference",
+    "ath_url": "https://www.beloit.edu/bucs/",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     110930,
+     95795,
+     142234,
+     142060,
+     135475,
+     147288
+    ],
+    "trend_players": [
+     15,
+     18,
+     24,
+     21,
+     19,
+     19
     ]
    }
   },
@@ -6257,6 +6482,9 @@
   "8f5981eafc1d": "2026-07-09",
   "d15026de3f7f": "2026-07-09",
   "1c53ca778641": "2026-07-09",
+  "82d0c2a18f9d": "2026-08-20",
+  "37fd008740ce": "2026-08-20",
+  "3c2d2a4f2c45": "2026-08-20",
   "62f9abccf6ec": "2026-08-17",
   "77fdfc3157f6": "2026-08-17",
   "19e669e7e066": "2026-08-11",
@@ -6312,7 +6540,6 @@
   "ee0b5f4b9eba": "2026-07-09",
   "ca96890caf3d": "2026-07-09",
   "7b43a964823c": "2026-07-21",
-  "82d0c2a18f9d": "2026-08-20",
   "cec1cc3ee078": "2026-07-09",
   "5c53fec6c0fc": "2026-07-20",
   "ec6071b0fdef": "2026-07-23",
