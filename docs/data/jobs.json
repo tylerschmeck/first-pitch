@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-21T19:03:26+00:00",
+ "generated_at": "2026-08-21T21:44:00+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -11,7 +11,7 @@
   {
    "name": "NFCA",
    "ok": true,
-   "count": 71
+   "count": 72
   },
   {
    "name": "NJCAA Career Center",
@@ -24,8 +24,83 @@
    "count": 1
   }
  ],
- "count": 86,
+ "count": 87,
  "jobs": [
+  {
+   "title": "Assistant Coach",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Assistant-Coach--Softball_JR104732"
+    }
+   ],
+   "posted": "2026-08-21",
+   "deadline": "Until position is filled",
+   "contact": "Holly Frantz",
+   "id": "c576021ccc92",
+   "type": "assistant",
+   "school_key": "163286",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "163286",
+   "school_name": "University of Maryland-College Park",
+   "city": "College Park",
+   "state": "MD",
+   "division": "NCAA D1",
+   "group": "d1",
+   "posted_is_estimate": false,
+   "first_seen": "2026-08-21",
+   "salary": "",
+   "snippet": "Posting Date: 8/21/26 Assist the Head Softball Coach with the organization, development, and implementation of a competitive NCAA Division I women\u2019s softball program that competes in the Big Ten Conference. Responsibilities include recruiting, scouting, coaching, travel coordination, program administration, fundraising, and other duties the Head Coach",
+   "school": {
+    "name": "University of Maryland-College Park",
+    "city": "College Park",
+    "state": "MD",
+    "division": "NCAA D1",
+    "group": "d1",
+    "sector": "Public, 4-year or above",
+    "enrollment": 29078,
+    "sb_players": 20,
+    "sb_opexp": 459741,
+    "sb_expenses": 1790898,
+    "sb_revenue": 307111,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 2,
+    "sb_asst_pt": 0,
+    "hc_salary_women": 422409,
+    "ac_salary_women": 94515,
+    "student_aid_women": 8222557,
+    "recruit_exp_women": 596091,
+    "conference": "Big Ten Conference",
+    "ath_url": "https://www.umterps.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     1278104,
+     1398599,
+     1556562,
+     1771425,
+     1842714,
+     1790898
+    ],
+    "trend_players": [
+     19,
+     25,
+     20,
+     20,
+     20,
+     20
+    ]
+   }
+  },
   {
    "title": "ASSISTANT SOFTBALL COACH",
    "links": [
@@ -6297,6 +6372,7 @@
   "8f5981eafc1d": "2026-07-09",
   "d15026de3f7f": "2026-07-09",
   "1c53ca778641": "2026-07-09",
+  "c576021ccc92": "2026-08-21",
   "82d0c2a18f9d": "2026-08-20",
   "37fd008740ce": "2026-08-20",
   "3c2d2a4f2c45": "2026-08-20",
