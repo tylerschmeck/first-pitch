@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-24T13:26:55+00:00",
+ "generated_at": "2026-08-24T16:00:46+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -11,7 +11,7 @@
   {
    "name": "NFCA",
    "ok": true,
-   "count": 71
+   "count": 64
   },
   {
    "name": "NJCAA Career Center",
@@ -24,7 +24,7 @@
    "count": 0
   }
  ],
- "count": 82,
+ "count": 75,
  "jobs": [
   {
    "title": "Assistant Coach",
@@ -36,7 +36,7 @@
    ],
    "posted": "2026-08-21",
    "deadline": "Until position is filled",
-   "contact": "Holly Frantz",
+   "contact": "Jennifer Lapicki",
    "id": "c576021ccc92",
    "type": "assistant",
    "school_key": "163286",
@@ -2013,7 +2013,7 @@
    "links": [
     {
      "source": "NFCA",
-     "url": "https://nfca.org/nfca-job-postings"
+     "url": "http://www.umfk.edu/jobs"
     }
    ],
    "posted": "2026-07-30",
@@ -2832,81 +2832,6 @@
    }
   },
   {
-   "title": "Head Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://apptrkr.com/7333418"
-    }
-   ],
-   "posted": "2026-07-16",
-   "deadline": "N/A Posting Date: 7/16/26",
-   "contact": "Human Resources",
-   "id": "aaf152d8b3d2",
-   "type": "head",
-   "school_key": "188429",
-   "tok": [
-    "head"
-   ],
-   "unitid": "188429",
-   "school_name": "Adelphi University",
-   "city": "Garden City",
-   "state": "NY",
-   "division": "NCAA D2",
-   "group": "d2",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-16",
-   "salary": "",
-   "snippet": "The head softball coach is responsible for the recruitment and retention of quality student-athletes. The head coach, in addition to all the requirements detailed in the Responsibilities and Duties section, is recognized as pivotal to, and responsible for, the record of the program as it relates to competitive scheduling, university/community relations and the enhancement and academic achievement of the\u2026",
-   "school": {
-    "name": "Adelphi University",
-    "city": "Garden City",
-    "state": "NY",
-    "division": "NCAA D2",
-    "group": "d2",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 5129,
-    "sb_players": 20,
-    "sb_opexp": 88643,
-    "sb_expenses": 387345,
-    "sb_revenue": 387345,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 3,
-    "hc_salary_women": 60970,
-    "ac_salary_women": 40792,
-    "student_aid_women": 2029574,
-    "recruit_exp_women": 14972,
-    "conference": "Northeast 10 Conference",
-    "ath_url": "https://www.aupanthers.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     447046,
-     369423,
-     452809,
-     507669,
-     521541,
-     387345
-    ],
-    "trend_players": [
-     18,
-     18,
-     18,
-     18,
-     21,
-     20
-    ]
-   }
-  },
-  {
    "title": "Assistant Coach",
    "links": [
     {
@@ -3718,156 +3643,6 @@
      20,
      17,
      16
-    ]
-   }
-  },
-  {
-   "title": "Head Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://rosehulman.csod.com/ux/ats/careersite/8/home/requisition/767?c=rosehulman"
-    }
-   ],
-   "posted": "2026-07-02",
-   "deadline": "Until position is filled",
-   "contact": "Seth Woodason",
-   "id": "66f319a3b67f",
-   "type": "head",
-   "school_key": "152318",
-   "tok": [
-    "head"
-   ],
-   "unitid": "152318",
-   "school_name": "Rose-Hulman Institute of Technology",
-   "city": "Terre Haute",
-   "state": "IN",
-   "division": "NCAA D3",
-   "group": "d3",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Application Deadline: Until position is filled Posting Date: 7/2/26 Rose-Hulman Institute of Technology invites applications for the position of Head Softball Coach. Consistently ranked No. 1 among U.S. engineering colleges by U.S. News & World Report, Rose-Hulman recognizes intercollegiate athletics as an essential part of a well-rounded student experience. This position provides an opportunity to lead and grow a\u2026",
-   "school": {
-    "name": "Rose-Hulman Institute of Technology",
-    "city": "Terre Haute",
-    "state": "IN",
-    "division": "NCAA D3",
-    "group": "d3",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 2294,
-    "sb_players": 18,
-    "sb_opexp": 74060,
-    "sb_expenses": 188399,
-    "sb_revenue": 188399,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 69343,
-    "ac_salary_women": 34312,
-    "student_aid_women": 0,
-    "recruit_exp_women": 19283,
-    "conference": "Heartland Collegiate Athletic Conference",
-    "ath_url": "https://www.rose-hulman.edu/athletics",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     79376,
-     82706,
-     103094,
-     179689,
-     173230,
-     188399
-    ],
-    "trend_players": [
-     15,
-     22,
-     24,
-     16,
-     16,
-     18
-    ]
-   }
-  },
-  {
-   "title": "Head Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://willamette.wd501.myworkdayjobs.com/WillametteUniversityJobs/job/Salem-Campus/Head-Coach--Softball_R0007123"
-    }
-   ],
-   "posted": "2026-07-02",
-   "deadline": "Until position is filled",
-   "contact": "Leslie Shevlin",
-   "id": "3e298fcd2c7d",
-   "type": "head",
-   "school_key": "210401",
-   "tok": [
-    "head"
-   ],
-   "unitid": "210401",
-   "school_name": "Willamette University",
-   "city": "Salem",
-   "state": "OR",
-   "division": "NCAA D3",
-   "group": "d3",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Posting Date: 7/2/26 The Head Coach, Softball, directs all areas associated with the softball program including practice and competition preparation; student-athlete recruitment; student leadership development; and budget management. You will need to upload the following two documents as part of your application materials in the \"My Experience\" section labeled Resume: Cover letter addressing qualifications Current\u2026",
-   "school": {
-    "name": "Willamette University",
-    "city": "Salem",
-    "state": "OR",
-    "division": "NCAA D3",
-    "group": "d3",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 1578,
-    "sb_players": 21,
-    "sb_opexp": 84863,
-    "sb_expenses": 177812,
-    "sb_revenue": 177812,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 5,
-    "hc_salary_women": 58851,
-    "ac_salary_women": 20892,
-    "student_aid_women": 0,
-    "recruit_exp_women": 33810,
-    "conference": "Northwest Conference",
-    "ath_url": "https://willamette.prestosports.com/landing/index",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     143807,
-     80411,
-     170832,
-     173158,
-     144916,
-     177812
-    ],
-    "trend_players": [
-     23,
-     21,
-     24,
-     21,
-     24,
-     21
     ]
    }
   },
@@ -5679,261 +5454,6 @@
    }
   },
   {
-   "title": "Assistant Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://wisconsin.wd1.myworkdayjobs.com/UW_Comprehensives/job/Stevens-Point-WI/Assistant-Coach--Softball_JR10011203"
-    }
-   ],
-   "posted": "2026-05-19",
-   "deadline": "Until position is filled",
-   "contact": "Ryan Konitzer",
-   "id": "fc7196391817",
-   "type": "assistant",
-   "school_key": "240480",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "240480",
-   "school_name": "University of Wisconsin-Stevens Point",
-   "city": "Stevens Point",
-   "state": "WI",
-   "division": "NCAA D3",
-   "group": "d3",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Posting Date: 5/19/26 Full-time position. Will help with all the day-to-day operations of running a successful D3 softball",
-   "school": {
-    "name": "University of Wisconsin-Stevens Point",
-    "city": "Stevens Point",
-    "state": "WI",
-    "division": "NCAA D3",
-    "group": "d3",
-    "sector": "Public, 4-year or above",
-    "enrollment": 6603,
-    "sb_players": 19,
-    "sb_opexp": 84308,
-    "sb_expenses": 190922,
-    "sb_revenue": 182401,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 59422,
-    "ac_salary_women": 33731,
-    "student_aid_women": 0,
-    "recruit_exp_women": 42763,
-    "conference": "Wisconsin Intercollegiate Athletic Conference",
-    "ath_url": "https://athletics.uwsp.edu",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     110317,
-     168534,
-     178993,
-     173207,
-     177473,
-     190922
-    ],
-    "trend_players": [
-     14,
-     21,
-     19,
-     21,
-     21,
-     19
-    ]
-   }
-  },
-  {
-   "title": "Assistant Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://apptrkr.com/7158149"
-    }
-   ],
-   "posted": "2026-05-15",
-   "deadline": "N/A",
-   "contact": "Human Resources",
-   "id": "a746ff2593b0",
-   "type": "assistant",
-   "school_key": "135391",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "135391",
-   "school_name": "State College of Florida-Manatee-Sarasota",
-   "city": "Bradenton",
-   "state": "FL",
-   "division": "NJCAA D1",
-   "group": "juco",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "The Assistant Coach will assist the head coach maintaining and /or enhancing every aspect of the intercollegiate athletic program as part of the mission of State College of",
-   "school": {
-    "name": "State College of Florida-Manatee-Sarasota",
-    "city": "Bradenton",
-    "state": "FL",
-    "division": "NJCAA D1",
-    "group": "juco",
-    "sector": "Public, 4-year or above",
-    "enrollment": 3264,
-    "sb_players": 13,
-    "sb_opexp": 48227,
-    "sb_expenses": 166413,
-    "sb_revenue": 165667,
-    "sb_head_ft": 0,
-    "sb_head_pt": 1,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 72454,
-    "ac_salary_women": 33236,
-    "student_aid_women": 183056,
-    "recruit_exp_women": 1913,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     270208,
-     254436,
-     264065,
-     282762,
-     292471,
-     166413
-    ],
-    "trend_players": [
-     23,
-     21,
-     18,
-     23,
-     20,
-     13
-    ]
-   }
-  },
-  {
-   "title": "Graduate Assistant Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://www.kwu.edu/about/careers/#jobopenings"
-    }
-   ],
-   "posted": "2026-05-15",
-   "deadline": "Until filled",
-   "contact": "Megan Elliott",
-   "id": "ca96890caf3d",
-   "type": "other",
-   "school_key": "155414",
-   "tok": [
-    "assistant",
-    "graduate"
-   ],
-   "unitid": "155414",
-   "school_name": "Kansas Wesleyan University",
-   "city": "Salinas",
-   "state": "KS",
-   "division": "NAIA",
-   "group": "naia",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "We are looking to hire two graduate assistant coaches! We want one of the graduate assistant coaches to work with our pitching staff, so if you have pitched in college or have a background in pitching, that would be preferred. The other graduate assistant role is open to",
-   "school": {
-    "name": "Kansas Wesleyan University",
-    "city": "Salina",
-    "state": "KS",
-    "division": "NAIA",
-    "group": "naia",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 897,
-    "sb_players": 45,
-    "sb_opexp": 61034,
-    "sb_expenses": 868238,
-    "sb_revenue": 930438,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 1,
-    "sb_asst_pt": 0,
-    "hc_salary_women": 73446,
-    "ac_salary_women": 22859,
-    "student_aid_women": 1555113,
-    "recruit_exp_women": 10671,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     305664,
-     378277,
-     369302,
-     878638,
-     1133102,
-     868238
-    ],
-    "trend_players": [
-     24,
-     27,
-     29,
-     35,
-     43,
-     45
-    ]
-   }
-  },
-  {
-   "title": "Head Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://form.jotform.com/261308567291057"
-    }
-   ],
-   "posted": "2026-05-12",
-   "deadline": "Until Position is Filled",
-   "contact": "Crystalrae States",
-   "id": "1c53ca778641",
-   "type": "head",
-   "school_key": "boilermakers fastpitch",
-   "tok": [
-    "head"
-   ],
-   "unitid": null,
-   "school_name": "Boilermakers Fastpitch",
-   "city": "Lansdale",
-   "state": "PA",
-   "division": "\u2014",
-   "group": "other",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "About us Our Mission: To provide a healthy, fun and competitive environment for girls to develop their softball skills to their highest potential & enjoy the game. We have 10U-18U teams that include a college prep teams. Paid is a stipend based on the age of the team that is coached Job Summary We are seeking a dedicated Softball Coach to join our Boilermakers Fastpitch Program and lead our players in developing\u2026",
-   "school": null
-  },
-  {
    "title": "Graduate Assistant Coach",
    "links": [
     {
@@ -6030,14 +5550,10 @@
   "8750efb417ff": "2026-08-07",
   "d7b6d63b2cbf": "2026-08-11",
   "072a486f57ef": "2026-07-30",
-  "aaf152d8b3d2": "2026-07-16",
   "a6b8c400c81c": "2026-07-09",
   "b3bfa5acc501": "2026-07-09",
-  "66f319a3b67f": "2026-07-09",
-  "3e298fcd2c7d": "2026-07-09",
   "8f5981eafc1d": "2026-07-09",
   "d15026de3f7f": "2026-07-09",
-  "1c53ca778641": "2026-07-09",
   "c576021ccc92": "2026-08-21",
   "82d0c2a18f9d": "2026-08-20",
   "37fd008740ce": "2026-08-20",
@@ -6076,8 +5592,6 @@
   "a70fcd3eb920": "2026-07-09",
   "65cc84f81c35": "2026-07-09",
   "9d196befe576": "2026-07-09",
-  "fc7196391817": "2026-07-09",
-  "a746ff2593b0": "2026-07-09",
   "1baaaeecda6c": "2026-07-30",
   "e62b6b968f0a": "2026-07-29",
   "52ed177399b2": "2026-07-22",
@@ -6094,6 +5608,12 @@
   "9dfbd4f8ec44": "2026-07-09",
   "9eba332a18e4": "2026-07-09",
   "ee0b5f4b9eba": "2026-07-09",
+  "aaf152d8b3d2": "2026-07-16",
+  "66f319a3b67f": "2026-07-09",
+  "3e298fcd2c7d": "2026-07-09",
+  "1c53ca778641": "2026-07-09",
+  "fc7196391817": "2026-07-09",
+  "a746ff2593b0": "2026-07-09",
   "ca96890caf3d": "2026-07-09",
   "d4b13924beed": "2026-07-09",
   "ae9f6e04dd73": "2026-07-24",
