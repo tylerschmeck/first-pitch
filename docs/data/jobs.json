@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-08-24T04:11:27+00:00",
+ "generated_at": "2026-08-24T07:33:21+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "name": "NFCA",
@@ -24,7 +24,7 @@
    "count": 0
   }
  ],
- "count": 84,
+ "count": 83,
  "jobs": [
   {
    "title": "Assistant Coach",
@@ -2677,81 +2677,6 @@
      23,
      27,
      24
-    ]
-   }
-  },
-  {
-   "title": "Head Coach, Women's Softball",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22451903/head-coach-women-s-softball"
-    }
-   ],
-   "posted": "2026-07-24",
-   "deadline": "",
-   "contact": "",
-   "id": "ae9f6e04dd73",
-   "type": "head",
-   "school_key": "130226",
-   "tok": [
-    "head"
-   ],
-   "unitid": "130226",
-   "school_name": "Quinnipiac University",
-   "city": "Hamden",
-   "state": "CT",
-   "division": "NCAA D1",
-   "group": "d1",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-24",
-   "salary": "",
-   "snippet": "Head Coach, Women's Softball Quinnipiac University seeks applications for a full-time Head Coach for Women's Softball. In this position, you will be responsible for total program management, including coaching, administration, recruitment and coordination of a collegiate women's softball program. You will be responsible for the supervision of assistant coaches as well as be actively involved in collaboration with\u2026",
-   "school": {
-    "name": "Quinnipiac University",
-    "city": "Hamden",
-    "state": "CT",
-    "division": "NCAA D1",
-    "group": "d1",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 6404,
-    "sb_players": 27,
-    "sb_opexp": 235277,
-    "sb_expenses": 1095892,
-    "sb_revenue": 1095892,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 1,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 158579,
-    "ac_salary_women": 60891,
-    "student_aid_women": 9553664,
-    "recruit_exp_women": 196930,
-    "conference": "Metro Conference",
-    "ath_url": "https://www.gobobcats.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     827835,
-     839499,
-     896856,
-     929584,
-     1004281,
-     1095892
-    ],
-    "trend_players": [
-     19,
-     20,
-     19,
-     23,
-     24,
-     27
     ]
    }
   },
@@ -6176,7 +6101,6 @@
   "7cad80858e06": "2026-07-30",
   "8837ad19e266": "2026-07-29",
   "66bde41afbb9": "2026-07-27",
-  "ae9f6e04dd73": "2026-07-24",
   "12b7fcbbf3fd": "2026-07-29",
   "8750efb417ff": "2026-08-07",
   "d7b6d63b2cbf": "2026-08-11",
@@ -6247,6 +6171,7 @@
   "9eba332a18e4": "2026-07-09",
   "ee0b5f4b9eba": "2026-07-09",
   "ca96890caf3d": "2026-07-09",
+  "ae9f6e04dd73": "2026-07-24",
   "c124472ef591": "2026-07-23",
   "7b43a964823c": "2026-07-21",
   "39d765218403": "2026-07-30",
