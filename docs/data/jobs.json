@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-23T21:40:57+00:00",
+ "generated_at": "2026-08-24T02:01:57+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -24,7 +24,7 @@
    "count": 0
   }
  ],
- "count": 85,
+ "count": 84,
  "jobs": [
   {
    "title": "Assistant Coach",
@@ -6156,82 +6156,6 @@
      20,
      18,
      17
-    ]
-   }
-  },
-  {
-   "title": "Graduate Assistant Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://www.unionky.edu/about/human-resources/employment-opportunities/part-time-staff-positions"
-    }
-   ],
-   "posted": "2026-04-25",
-   "deadline": "Until filled",
-   "contact": "Kiley Goff",
-   "id": "4b246c6d945d",
-   "type": "other",
-   "school_key": "157863",
-   "tok": [
-    "assistant",
-    "graduate"
-   ],
-   "unitid": "157863",
-   "school_name": "Union Commonwealth University",
-   "city": "Barbourville",
-   "state": "KY",
-   "division": "NAIA",
-   "group": "naia",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "The responsibilities of the Graduate Assistant for Softball are to assist the Head Softball Coach in conducting all aspects of the Softball program within the philosophy and guidelines set forth by Union Commonwealth University, the NAIA, and the Appalachian Athletic",
-   "school": {
-    "name": "Union Commonwealth University",
-    "city": "Barbourville",
-    "state": "KY",
-    "division": "NAIA",
-    "group": "naia",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 705,
-    "sb_players": 33,
-    "sb_opexp": 38960,
-    "sb_expenses": 638116,
-    "sb_revenue": 653349,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 39482,
-    "ac_salary_women": 25641,
-    "student_aid_women": 3038994,
-    "recruit_exp_women": 1094,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     564764,
-     625410,
-     641984,
-     581794,
-     700493,
-     638116
-    ],
-    "trend_players": [
-     37,
-     34,
-     36,
-     36,
-     26,
-     33
     ]
    }
   }
