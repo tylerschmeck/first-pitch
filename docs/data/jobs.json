@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T19:05:24+00:00",
+ "generated_at": "2026-08-25T21:49:10+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -11,7 +11,7 @@
   {
    "name": "NFCA",
    "ok": true,
-   "count": 65
+   "count": 66
   },
   {
    "name": "NJCAA Career Center",
@@ -24,8 +24,83 @@
    "count": 0
   }
  ],
- "count": 76,
+ "count": 77,
  "jobs": [
+  {
+   "title": "Assistant Coach",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://nfca.org/nfca-job-postings"
+    }
+   ],
+   "posted": "2026-08-25",
+   "deadline": "Until position is filled",
+   "contact": "Diann Ramsey",
+   "id": "3cc86b697de3",
+   "type": "assistant",
+   "school_key": "164465",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "164465",
+   "school_name": "Amherst College",
+   "city": "Amherst",
+   "state": "MA",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-08-25",
+   "salary": "",
+   "snippet": "Posting Date: 8/25/26 Full Time Assistant Coach Contact Diann Ramsey to apply",
+   "school": {
+    "name": "Amherst College",
+    "city": "Amherst",
+    "state": "MA",
+    "division": "NCAA D3",
+    "group": "d3",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 1911,
+    "sb_players": 15,
+    "sb_opexp": 74757,
+    "sb_expenses": 289038,
+    "sb_revenue": 289038,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 1,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 117785,
+    "ac_salary_women": 39039,
+    "student_aid_women": 0,
+    "recruit_exp_women": 68244,
+    "conference": "New England Small College Athletic Conference",
+    "ath_url": "https://athletics.amherst.edu/landing/index",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     193247,
+     169014,
+     261871,
+     205757,
+     268322,
+     289038
+    ],
+    "trend_players": [
+     18,
+     17,
+     13,
+     15,
+     14,
+     15
+    ]
+   }
+  },
   {
    "title": "Head Coach",
    "links": [
@@ -5635,6 +5710,7 @@
   "b3bfa5acc501": "2026-07-09",
   "8f5981eafc1d": "2026-07-09",
   "d15026de3f7f": "2026-07-09",
+  "3cc86b697de3": "2026-08-25",
   "82d0c2a18f9d": "2026-08-20",
   "37fd008740ce": "2026-08-20",
   "3c2d2a4f2c45": "2026-08-20",
