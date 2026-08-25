@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-08-25T16:04:54+00:00",
+ "generated_at": "2026-08-25T19:05:24+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "name": "NFCA",
    "ok": true,
-   "count": 64
+   "count": 65
   },
   {
    "name": "NJCAA Career Center",
@@ -24,11 +24,90 @@
    "count": 0
   }
  ],
- "count": 75,
+ "count": 76,
  "jobs": [
   {
-   "title": "Assistant Coach",
+   "title": "Head Coach",
    "links": [
+    {
+     "source": "NFCA",
+     "url": "https://centralcc.peopleadmin.com/postings/7559"
+    }
+   ],
+   "posted": "2026-08-25",
+   "deadline": "9/10/26 Posting Date: 8/25/26",
+   "contact": "Mary Young",
+   "id": "b710c7f6dbd0",
+   "type": "head",
+   "school_key": "180902",
+   "tok": [
+    "head"
+   ],
+   "unitid": "180902",
+   "school_name": "Central Community College",
+   "city": "Columbus",
+   "state": "NE",
+   "division": "Other",
+   "group": "other",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-15",
+   "salary": "",
+   "snippet": "The University of Maine at Fort Kent is seeking to hire a The Softball Coach works under the supervision of the Athletic Director and is responsible for all programming and operations associated with the Central Community College Women\u2019s Softball Program. S/he will recruit student-athletes, direct practices, manage travel and practice schedules and supervise team conduct. Performs other duties as assigned. Includes:\u2026",
+   "school": {
+    "name": "Central Community College",
+    "city": "Grand Island",
+    "state": "NE",
+    "division": "Other",
+    "group": "other",
+    "sector": "Public, 2-year",
+    "enrollment": 1718,
+    "sb_players": 16,
+    "sb_opexp": 62409,
+    "sb_expenses": 187469,
+    "sb_revenue": 187469,
+    "sb_head_ft": 0,
+    "sb_head_pt": 1,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 2,
+    "hc_salary_women": 240249,
+    "ac_salary_women": 33251,
+    "student_aid_women": 111331,
+    "recruit_exp_women": 2908,
+    "conference": "",
+    "ath_url": "",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     119137,
+     127424,
+     168822,
+     170120,
+     175732,
+     187469
+    ],
+    "trend_players": [
+     21,
+     12,
+     15,
+     16,
+     16,
+     16
+    ]
+   }
+  },
+  {
+   "title": "Assistant Coach, Softball",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22527538/assistant-coach-softball"
+    },
     {
      "source": "NFCA",
      "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Assistant-Coach--Softball_JR104732"
@@ -52,7 +131,7 @@
    "posted_is_estimate": false,
    "first_seen": "2026-08-21",
    "salary": "",
-   "snippet": "Posting Date: 8/21/26 Assist the Head Softball Coach with the organization, development, and implementation of a competitive NCAA Division I women\u2019s softball program that competes in the Big Ten Conference. Responsibilities include recruiting, scouting, coaching, travel coordination, program administration, fundraising, and other duties the Head Coach",
+   "snippet": "The Softball Assistant Coach will assist the Head Coach with the organization, development, and implementation of a competitive, NCAA Division I women\u2019s softball program that competes in the Big Ten Conference. Responsibilities include recruiting, scouting, coaching, travel coordination, program administration, fundraising, and other duties as assigned by the Head Coach. The Assistant Coach will develop and maintain\u2026",
    "school": {
     "name": "University of Maryland-College Park",
     "city": "College Park",
@@ -5531,6 +5610,7 @@
   }
  ],
  "seen": {
+  "c576021ccc92": "2026-08-21",
   "91ee91be44a6": "2026-08-20",
   "a54725602578": "2026-08-19",
   "a158a7cc1528": "2026-08-14",
@@ -5549,12 +5629,12 @@
   "12b7fcbbf3fd": "2026-07-29",
   "8750efb417ff": "2026-08-07",
   "d7b6d63b2cbf": "2026-08-11",
+  "b710c7f6dbd0": "2026-07-15",
   "072a486f57ef": "2026-07-30",
   "a6b8c400c81c": "2026-07-09",
   "b3bfa5acc501": "2026-07-09",
   "8f5981eafc1d": "2026-07-09",
   "d15026de3f7f": "2026-07-09",
-  "c576021ccc92": "2026-08-21",
   "82d0c2a18f9d": "2026-08-20",
   "37fd008740ce": "2026-08-20",
   "3c2d2a4f2c45": "2026-08-20",
@@ -5648,7 +5728,6 @@
   "287e859d9d4f": "2026-07-16",
   "37883417afee": "2026-07-17",
   "9385fae9ae6e": "2026-07-16",
-  "b710c7f6dbd0": "2026-07-15",
   "456cf7190ab0": "2026-07-09",
   "230f89a9a4df": "2026-07-09",
   "d386be189b21": "2026-07-09",
