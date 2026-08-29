@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T10:15:02+00:00",
+ "generated_at": "2026-08-29T16:48:28+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -26,81 +26,6 @@
  ],
  "count": 75,
  "jobs": [
-  {
-   "title": "Assistant Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22534224/assistant-softball-coach"
-    }
-   ],
-   "posted": "2026-08-27",
-   "deadline": "",
-   "contact": "",
-   "id": "9f2acc8f097c",
-   "type": "assistant",
-   "school_key": "154101",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "154101",
-   "school_name": "Northwestern College",
-   "city": "Orange City",
-   "state": "IA",
-   "division": "NAIA",
-   "group": "naia",
-   "posted_is_estimate": false,
-   "first_seen": "2026-08-28",
-   "salary": "",
-   "snippet": "Northwestern College is seeking applicants for the position of assistant softball coach. Red Raider softball is seeking a candidate who can assist in leading a nationally contending program that won three consecutive GPAC titles from 2023-2025, and hosted back-to-back NAIA regionals in 2024-2025. Join the excellent Red Raider athletic department that claimed 5 GPAC titles this past year and sent 13 teams to the NAIA\u2026",
-   "school": {
-    "name": "Northwestern College",
-    "city": "Orange City",
-    "state": "IA",
-    "division": "NAIA",
-    "group": "naia",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 1057,
-    "sb_players": 33,
-    "sb_opexp": 75926,
-    "sb_expenses": 436023,
-    "sb_revenue": 440965,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 57308,
-    "ac_salary_women": 33422,
-    "student_aid_women": 1187980,
-    "recruit_exp_women": 7909,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     295101,
-     285885,
-     342198,
-     387898,
-     388189,
-     436023
-    ],
-    "trend_players": [
-     28,
-     33,
-     25,
-     34,
-     32,
-     33
-    ]
-   }
-  },
   {
    "title": "Assistant Coach - Softball",
    "links": [
@@ -173,6 +98,81 @@
      19,
      24,
      21
+    ]
+   }
+  },
+  {
+   "title": "Assistant Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22534224/assistant-softball-coach"
+    }
+   ],
+   "posted": "2026-08-27",
+   "deadline": "",
+   "contact": "",
+   "id": "9f2acc8f097c",
+   "type": "assistant",
+   "school_key": "154101",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "154101",
+   "school_name": "Northwestern College",
+   "city": "Orange City",
+   "state": "IA",
+   "division": "NAIA",
+   "group": "naia",
+   "posted_is_estimate": false,
+   "first_seen": "2026-08-28",
+   "salary": "",
+   "snippet": "Northwestern College is seeking applicants for the position of assistant softball coach. Red Raider softball is seeking a candidate who can assist in leading a nationally contending program that won three consecutive GPAC titles from 2023-2025, and hosted back-to-back NAIA regionals in 2024-2025. Join the excellent Red Raider athletic department that claimed 5 GPAC titles this past year and sent 13 teams to the NAIA\u2026",
+   "school": {
+    "name": "Northwestern College",
+    "city": "Orange City",
+    "state": "IA",
+    "division": "NAIA",
+    "group": "naia",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 1057,
+    "sb_players": 33,
+    "sb_opexp": 75926,
+    "sb_expenses": 436023,
+    "sb_revenue": 440965,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 57308,
+    "ac_salary_women": 33422,
+    "student_aid_women": 1187980,
+    "recruit_exp_women": 7909,
+    "conference": "",
+    "ath_url": "",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     295101,
+     285885,
+     342198,
+     387898,
+     388189,
+     436023
+    ],
+    "trend_players": [
+     28,
+     33,
+     25,
+     34,
+     32,
+     33
     ]
    }
   },
@@ -5579,8 +5579,8 @@
   }
  ],
  "seen": {
-  "9f2acc8f097c": "2026-08-28",
   "216400e79700": "2026-08-28",
+  "9f2acc8f097c": "2026-08-28",
   "c576021ccc92": "2026-08-21",
   "91ee91be44a6": "2026-08-20",
   "a54725602578": "2026-08-19",
