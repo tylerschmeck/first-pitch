@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T11:27:16+00:00",
+ "generated_at": "2026-09-03T16:33:37+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -11,7 +11,7 @@
   {
    "name": "NFCA",
    "ok": true,
-   "count": 47
+   "count": 48
   },
   {
    "name": "NJCAA Career Center",
@@ -24,8 +24,83 @@
    "count": 0
   }
  ],
- "count": 59,
+ "count": 60,
  "jobs": [
+  {
+   "title": "Assistant Coach (Pitching)",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://moreheadstate.peopleadmin.com/postings/44993"
+    }
+   ],
+   "posted": "2026-09-03",
+   "deadline": "N/A",
+   "contact": "Mallory Borden",
+   "id": "ac3839776ddd",
+   "type": "assistant",
+   "school_key": "157386",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "157386",
+   "school_name": "Morehead State University",
+   "city": "Morehead",
+   "state": "KY",
+   "division": "NCAA D1",
+   "group": "d1",
+   "posted_is_estimate": false,
+   "first_seen": "2026-09-03",
+   "salary": "",
+   "snippet": "The primary responsibility of the Assistant Softball Coach is instructing student athletes in the performance of the sport of softball. To that end, under the supervision of the Head Women\u2019s Softball Coach, the incumbent will perform coaching duties pertinent to the position. Assist with other duties including, but not limited to, recruiting student-athletes, academic progress of student-athletes, planning\u2026",
+   "school": {
+    "name": "Morehead State University",
+    "city": "Morehead",
+    "state": "KY",
+    "division": "NCAA D1",
+    "group": "d1",
+    "sector": "Public, 4-year or above",
+    "enrollment": 4197,
+    "sb_players": 18,
+    "sb_opexp": 271046,
+    "sb_expenses": 697858,
+    "sb_revenue": 697388,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 1,
+    "sb_asst_pt": 0,
+    "hc_salary_women": 58102,
+    "ac_salary_women": 19755,
+    "student_aid_women": 1505062,
+    "recruit_exp_women": 46922,
+    "conference": "Ohio Valley Conference",
+    "ath_url": "https://www.msueagles.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     354391,
+     380691,
+     442680,
+     434420,
+     574313,
+     697858
+    ],
+    "trend_players": [
+     21,
+     21,
+     22,
+     15,
+     21,
+     18
+    ]
+   }
+  },
   {
    "title": "Assistant Softball Coach",
    "links": [
@@ -331,7 +406,7 @@
    "links": [
     {
      "source": "NFCA",
-     "url": "https://nfca.org/nfca-job-postings"
+     "url": "https://www.bates.edu/employment/opportunities/?job=493140"
     }
    ],
    "posted": "2026-08-25",
@@ -352,7 +427,7 @@
    "posted_is_estimate": false,
    "first_seen": "2026-08-25",
    "salary": "",
-   "snippet": "Posting Date: 8/25/26 Full Time Assistant Coach Contact Diann Ramsey to apply",
+   "snippet": "Posting Date: 8/25/26 Full Time Assistant",
    "school": {
     "name": "Amherst College",
     "city": "Amherst",
@@ -4403,6 +4478,7 @@
   "072a486f57ef": "2026-07-30",
   "a6b8c400c81c": "2026-07-09",
   "8f5981eafc1d": "2026-07-09",
+  "ac3839776ddd": "2026-09-03",
   "3cc86b697de3": "2026-08-25",
   "82d0c2a18f9d": "2026-08-20",
   "37fd008740ce": "2026-08-20",
