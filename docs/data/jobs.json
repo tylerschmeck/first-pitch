@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-04T04:46:37+00:00",
+ "generated_at": "2026-09-04T11:30:06+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 18
+   "count": 17
   },
   {
    "name": "NFCA",
@@ -2201,18 +2201,14 @@
    }
   },
   {
-   "title": "Assistant Softball Coach",
+   "title": "Assistant Coach",
    "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22477024/assistant-softball-coach"
-    },
     {
      "source": "NFCA",
      "url": "https://www.defiance.edu/employment-opportunities/"
     }
    ],
-   "posted": "2026-08-04",
+   "posted": "2026-08-05",
    "deadline": "N/A",
    "contact": "Human Resources",
    "id": "bef6a2f80c46",
@@ -4468,10 +4464,9 @@
   "a58129cedfaa": "2026-08-12",
   "173ebd9b0e89": "2026-08-11",
   "e7240072cf1f": "2026-08-07",
-  "02f02f6b340b": "2026-08-07",
   "4c1e5fed330e": "2026-07-17",
+  "02f02f6b340b": "2026-08-07",
   "21b06cf9fcc9": "2026-08-05",
-  "bef6a2f80c46": "2026-08-04",
   "8750efb417ff": "2026-08-07",
   "d7b6d63b2cbf": "2026-08-11",
   "b710c7f6dbd0": "2026-07-15",
@@ -4490,6 +4485,7 @@
   "57d90c034f57": "2026-08-11",
   "3d904613fa56": "2026-08-10",
   "dee816ff8d62": "2026-08-07",
+  "bef6a2f80c46": "2026-08-04",
   "bf19c569e749": "2026-08-05",
   "af30e912df7d": "2026-08-02",
   "7e89ad8f7d1d": "2026-07-30",
