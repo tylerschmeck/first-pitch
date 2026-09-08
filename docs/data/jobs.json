@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T11:30:18+00:00",
+ "generated_at": "2026-09-08T16:44:34+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -11,7 +11,7 @@
   {
    "name": "NFCA",
    "ok": true,
-   "count": 48
+   "count": 44
   },
   {
    "name": "NJCAA Career Center",
@@ -24,7 +24,7 @@
    "count": 0
   }
  ],
- "count": 56,
+ "count": 52,
  "jobs": [
   {
    "title": "Assistant Coach (Pitching)",
@@ -2916,81 +2916,6 @@
    }
   },
   {
-   "title": "Assistant Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://wesleyan.wd5.myworkdayjobs.com/en-US/careers/job/Middletown-CT-Main-Campus/Assistant-Softball-Coach_R101282"
-    }
-   ],
-   "posted": "2026-07-14",
-   "deadline": "Until Position is Filled",
-   "contact": "Jennifer Lane",
-   "id": "ea2153bb6a7a",
-   "type": "assistant",
-   "school_key": "130697",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "130697",
-   "school_name": "Wesleyan University",
-   "city": "Middletown",
-   "state": "CT",
-   "division": "NCAA D3",
-   "group": "d3",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-14",
-   "salary": "",
-   "snippet": "The Assistant Softball Coach supports all aspects of Wesleyan University's NCAA Division III softball program, including coaching, recruiting, player development, and administrative operations. Reporting to the Head Coach, the role focuses on helping student-athletes achieve academic and athletic success while contributing to the long-term growth of the program. Key Responsibilities Assist with practices, game\u2026",
-   "school": {
-    "name": "Wesleyan University",
-    "city": "Middletown",
-    "state": "CT",
-    "division": "NCAA D3",
-    "group": "d3",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 3059,
-    "sb_players": 20,
-    "sb_opexp": 60037,
-    "sb_expenses": 266431,
-    "sb_revenue": 311864,
-    "sb_head_ft": 0,
-    "sb_head_pt": 1,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 3,
-    "hc_salary_women": 131107,
-    "ac_salary_women": 28934,
-    "student_aid_women": 0,
-    "recruit_exp_women": 60296,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     160547,
-     151757,
-     186346,
-     243584,
-     227948,
-     266431
-    ],
-    "trend_players": [
-     15,
-     11,
-     13,
-     15,
-     16,
-     20
-    ]
-   }
-  },
-  {
    "title": "Head Coach",
    "links": [
     {
@@ -3278,78 +3203,6 @@
      27,
      20,
      25,
-     19
-    ]
-   }
-  },
-  {
-   "title": "Assistant Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://apply.interfolio.com/188911"
-    }
-   ],
-   "posted": "2026-07-07",
-   "deadline": "Open until filled",
-   "contact": "Jennifer Teague",
-   "id": "6f7cc7032079",
-   "type": "assistant",
-   "school_key": "190150",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "190150",
-   "school_name": "Columbia University in the City of New York",
-   "city": "New York",
-   "state": "NY",
-   "division": "NCAA D1",
-   "group": "d1",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "DESCRIPTION One of the world\u2019s leading universities, Columbia University Athletics offers elite-level student-athletes the ability to compete for and win Ivy League titles and NCAA Championships. With 32 varsity sports, Columbia Athletics is the largest NCAA Division I athletics program in New York City and the only NCAA Division I sports program in Manhattan. A beautiful and peaceful campus in the heart of New York\u2026",
-   "school": {
-    "name": "Columbia University in the City of New York",
-    "city": "New York",
-    "state": "NY",
-    "division": "NCAA D1",
-    "group": "d1",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 8374,
-    "sb_players": 19,
-    "sb_opexp": 208279,
-    "sb_expenses": 598785,
-    "sb_revenue": 598785,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 2,
-    "sb_asst_pt": 0,
-    "hc_salary_women": 172182,
-    "ac_salary_women": 94084,
-    "student_aid_women": 0,
-    "recruit_exp_women": 405964,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     410749,
-     467760,
-     594201,
-     447846,
-     598785
-    ],
-    "trend_players": [
-     20,
-     19,
-     20,
-     19,
      19
     ]
    }
@@ -4034,156 +3887,6 @@
      23
     ]
    }
-  },
-  {
-   "title": "Assistant Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://fa-eygi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs"
-    }
-   ],
-   "posted": "2026-06-05",
-   "deadline": "6/15/26 or until position is filled",
-   "contact": "Danielle Penner",
-   "id": "2ce2b48ada9c",
-   "type": "assistant",
-   "school_key": "221847",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "221847",
-   "school_name": "Tennessee Technological University",
-   "city": "Cookeville",
-   "state": "TN",
-   "division": "NCAA D1",
-   "group": "d1",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Coaching: Includes knowledge and technical expertise, ability to develop skills in players, teaching ability and methodology, game management, and effective program discipline and motivational techniques., Student-Athlete Welfare: Includes commitment to the welfare and safety of student-athletes, efforts to facilitate academic success, cooperation with academic units and counselors, and commitment to the social\u2026",
-   "school": {
-    "name": "Tennessee Technological University",
-    "city": "Cookeville",
-    "state": "TN",
-    "division": "NCAA D1",
-    "group": "d1",
-    "sector": "Public, 4-year or above",
-    "enrollment": 8103,
-    "sb_players": 27,
-    "sb_opexp": 179394,
-    "sb_expenses": 699832,
-    "sb_revenue": 699832,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 2,
-    "sb_asst_pt": 0,
-    "hc_salary_women": 108651,
-    "ac_salary_women": 54720,
-    "student_aid_women": 1934225,
-    "recruit_exp_women": 70367,
-    "conference": "Ohio Valley Conference",
-    "ath_url": "https://www.TTUsports.com/",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     524390,
-     516837,
-     597950,
-     611302,
-     709519,
-     699832
-    ],
-    "trend_players": [
-     22,
-     22,
-     21,
-     21,
-     27,
-     27
-    ]
-   }
-  },
-  {
-   "title": "Assistant Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://careers.indwes.edu/en/job/494974/assistant-softball-coach"
-    }
-   ],
-   "posted": "2026-06-03",
-   "deadline": "7/19/26",
-   "contact": "Kelsey Kooistra",
-   "id": "a70fcd3eb920",
-   "type": "assistant",
-   "school_key": "151801",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "151801",
-   "school_name": "Indiana Wesleyan University-Marion",
-   "city": "Marion",
-   "state": "IN",
-   "division": "NAIA",
-   "group": "naia",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Indiana Wesleyan University Softball is seeking a full time assistant coach. Preferably with experience in pitching or hitting instruction. See link to job posting for further",
-   "school": {
-    "name": "Indiana Wesleyan University-Marion",
-    "city": "Marion",
-    "state": "IN",
-    "division": "NAIA",
-    "group": "naia",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 1951,
-    "sb_players": 28,
-    "sb_opexp": 106038,
-    "sb_expenses": 441032,
-    "sb_revenue": 474498,
-    "sb_head_ft": 0,
-    "sb_head_pt": 1,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 5,
-    "hc_salary_women": 61632,
-    "ac_salary_women": 57144,
-    "student_aid_women": 1756179,
-    "recruit_exp_women": 18427,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     264629,
-     268750,
-     501763,
-     396322,
-     450589,
-     441032
-    ],
-    "trend_players": [
-     19,
-     26,
-     30,
-     24,
-     26,
-     28
-    ]
-   }
   }
  ],
  "seen": {
@@ -4225,14 +3928,10 @@
   "739cb2438050": "2026-07-29",
   "55ae7d5f9b92": "2026-07-22",
   "ac6fc459f4be": "2026-07-10",
-  "ea2153bb6a7a": "2026-07-14",
   "1f6a4a73100c": "2026-07-09",
   "206f76c36985": "2026-07-10",
-  "6f7cc7032079": "2026-07-09",
   "8b7f7f88000b": "2026-07-09",
   "44069d553dca": "2026-07-09",
-  "2ce2b48ada9c": "2026-07-09",
-  "a70fcd3eb920": "2026-07-09",
   "1baaaeecda6c": "2026-07-30",
   "e62b6b968f0a": "2026-07-29",
   "52ed177399b2": "2026-07-22",
@@ -4245,6 +3944,10 @@
   "25611366e4f4": "2026-07-09",
   "d7040b6b2311": "2026-07-09",
   "9dfbd4f8ec44": "2026-07-09",
+  "ea2153bb6a7a": "2026-07-14",
+  "6f7cc7032079": "2026-07-09",
+  "2ce2b48ada9c": "2026-07-09",
+  "a70fcd3eb920": "2026-07-09",
   "e7240072cf1f": "2026-08-07",
   "4c1e5fed330e": "2026-07-17",
   "8750efb417ff": "2026-08-07",
