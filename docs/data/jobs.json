@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-09T16:46:20+00:00",
+ "generated_at": "2026-09-09T21:01:08+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "name": "NFCA",
@@ -24,8 +24,83 @@
    "count": 0
   }
  ],
- "count": 52,
+ "count": 53,
  "jobs": [
+  {
+   "title": "Head Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22565468/head-softball-coach"
+    }
+   ],
+   "posted": "2026-09-09",
+   "deadline": "",
+   "contact": "",
+   "id": "b14a01f77753",
+   "type": "head",
+   "school_key": "196006",
+   "tok": [
+    "head"
+   ],
+   "unitid": "196006",
+   "school_name": "SUNY College of Technology at Alfred",
+   "city": "Alfred",
+   "state": "NY",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-09-09",
+   "salary": "",
+   "snippet": "Head Softball Coach About Alfred State College: Join a Mission That Matters at Alfred State College Are you ready to join our winning team? At top-ranked and growing Alfred State College, we transform lives by equipping students with the skills they need to succeed, providing upward mobility, and making higher education accessible to all. Known for affordability, exceptional academic support, and career-ready\u2026",
+   "school": {
+    "name": "SUNY College of Technology at Alfred",
+    "city": "Alfred",
+    "state": "NY",
+    "division": "NCAA D3",
+    "group": "d3",
+    "sector": "Public, 4-year or above",
+    "enrollment": 3264,
+    "sb_players": 15,
+    "sb_opexp": 92599,
+    "sb_expenses": 200934,
+    "sb_revenue": 200934,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 3,
+    "hc_salary_women": 56210,
+    "ac_salary_women": 32680,
+    "student_aid_women": 0,
+    "recruit_exp_women": 7274,
+    "conference": "",
+    "ath_url": "",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     111724,
+     43699,
+     139595,
+     156292,
+     167540,
+     200934
+    ],
+    "trend_players": [
+     14,
+     13,
+     13,
+     14,
+     14,
+     15
+    ]
+   }
+  },
   {
    "title": "Assistant Coach (Pitching)",
    "links": [
@@ -3890,6 +3965,7 @@
   }
  ],
  "seen": {
+  "b14a01f77753": "2026-09-09",
   "ab6ce25cdce8": "2026-09-01",
   "c53c73f0b7df": "2026-08-31",
   "7011b9a026b9": "2026-07-30",
