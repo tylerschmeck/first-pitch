@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T04:56:16+00:00",
+ "generated_at": "2026-09-10T11:32:39+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -327,81 +327,6 @@
    }
   },
   {
-   "title": "Assistant Coach - Softball",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22534175/assistant-coach-softball"
-    }
-   ],
-   "posted": "2026-08-27",
-   "deadline": "",
-   "contact": "",
-   "id": "216400e79700",
-   "type": "assistant",
-   "school_key": "131113",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "131113",
-   "school_name": "Wilmington University",
-   "city": "New Castle",
-   "state": "DE",
-   "division": "NCAA D2",
-   "group": "d2",
-   "posted_is_estimate": false,
-   "first_seen": "2026-08-28",
-   "salary": "",
-   "snippet": "Assistant Coach - Softball Wilmington University EMPLOYMENT OPPORTUNITY POSITION: Assistant Coach \u2013 Softball (PT) Requirements: A bachelor's degree is required. The incumbent must have demonstrated knowledge of NCAA rules and a commitment to the academic development of student-athletes. Must demonstrate excellent communication, customer service, interpersonal, and organizational skills. Attention to detail and the\u2026",
-   "school": {
-    "name": "Wilmington University",
-    "city": "New Castle",
-    "state": "DE",
-    "division": "NCAA D2",
-    "group": "d2",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 2985,
-    "sb_players": 21,
-    "sb_opexp": 141477,
-    "sb_expenses": 338344,
-    "sb_revenue": 348057,
-    "sb_head_ft": 0,
-    "sb_head_pt": 1,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 3,
-    "hc_salary_women": 54970,
-    "ac_salary_women": 29987,
-    "student_aid_women": 737821,
-    "recruit_exp_women": 11850,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     223981,
-     207387,
-     380552,
-     387063,
-     384665,
-     338344
-    ],
-    "trend_players": [
-     18,
-     23,
-     19,
-     19,
-     24,
-     21
-    ]
-   }
-  },
-  {
    "title": "Assistant Softball Coach",
    "links": [
     {
@@ -473,6 +398,81 @@
      34,
      32,
      33
+    ]
+   }
+  },
+  {
+   "title": "Assistant Coach - Softball",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22534175/assistant-coach-softball"
+    }
+   ],
+   "posted": "2026-08-27",
+   "deadline": "",
+   "contact": "",
+   "id": "216400e79700",
+   "type": "assistant",
+   "school_key": "131113",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "131113",
+   "school_name": "Wilmington University",
+   "city": "New Castle",
+   "state": "DE",
+   "division": "NCAA D2",
+   "group": "d2",
+   "posted_is_estimate": false,
+   "first_seen": "2026-08-28",
+   "salary": "",
+   "snippet": "Assistant Coach - Softball Wilmington University EMPLOYMENT OPPORTUNITY POSITION: Assistant Coach \u2013 Softball (PT) Requirements: A bachelor's degree is required. The incumbent must have demonstrated knowledge of NCAA rules and a commitment to the academic development of student-athletes. Must demonstrate excellent communication, customer service, interpersonal, and organizational skills. Attention to detail and the\u2026",
+   "school": {
+    "name": "Wilmington University",
+    "city": "New Castle",
+    "state": "DE",
+    "division": "NCAA D2",
+    "group": "d2",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 2985,
+    "sb_players": 21,
+    "sb_opexp": 141477,
+    "sb_expenses": 338344,
+    "sb_revenue": 348057,
+    "sb_head_ft": 0,
+    "sb_head_pt": 1,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 3,
+    "hc_salary_women": 54970,
+    "ac_salary_women": 29987,
+    "student_aid_women": 737821,
+    "recruit_exp_women": 11850,
+    "conference": "",
+    "ath_url": "",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     223981,
+     207387,
+     380552,
+     387063,
+     384665,
+     338344
+    ],
+    "trend_players": [
+     18,
+     23,
+     19,
+     19,
+     24,
+     21
     ]
    }
   },
@@ -3967,10 +3967,10 @@
  "seen": {
   "b14a01f77753": "2026-09-09",
   "ab6ce25cdce8": "2026-09-01",
-  "c53c73f0b7df": "2026-08-31",
   "7011b9a026b9": "2026-07-30",
-  "216400e79700": "2026-08-28",
+  "c53c73f0b7df": "2026-08-31",
   "9f2acc8f097c": "2026-08-28",
+  "216400e79700": "2026-08-28",
   "c576021ccc92": "2026-08-21",
   "91ee91be44a6": "2026-08-20",
   "a54725602578": "2026-08-19",
