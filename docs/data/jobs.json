@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-14T05:10:02+00:00",
+ "generated_at": "2026-09-14T13:04:36+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "name": "NFCA",
@@ -24,7 +24,7 @@
    "count": 0
   }
  ],
- "count": 50,
+ "count": 49,
  "jobs": [
   {
    "title": "Head Softball Coach",
@@ -327,81 +327,6 @@
    }
   },
   {
-   "title": "Assistant Coach - Softball",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22534175/assistant-coach-softball"
-    }
-   ],
-   "posted": "2026-08-27",
-   "deadline": "",
-   "contact": "",
-   "id": "216400e79700",
-   "type": "assistant",
-   "school_key": "131113",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "131113",
-   "school_name": "Wilmington University",
-   "city": "New Castle",
-   "state": "DE",
-   "division": "NCAA D2",
-   "group": "d2",
-   "posted_is_estimate": false,
-   "first_seen": "2026-08-28",
-   "salary": "",
-   "snippet": "Assistant Coach - Softball Wilmington University EMPLOYMENT OPPORTUNITY POSITION: Assistant Coach \u2013 Softball (PT) Requirements: A bachelor's degree is required. The incumbent must have demonstrated knowledge of NCAA rules and a commitment to the academic development of student-athletes. Must demonstrate excellent communication, customer service, interpersonal, and organizational skills. Attention to detail and the\u2026",
-   "school": {
-    "name": "Wilmington University",
-    "city": "New Castle",
-    "state": "DE",
-    "division": "NCAA D2",
-    "group": "d2",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 2985,
-    "sb_players": 21,
-    "sb_opexp": 141477,
-    "sb_expenses": 338344,
-    "sb_revenue": 348057,
-    "sb_head_ft": 0,
-    "sb_head_pt": 1,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 3,
-    "hc_salary_women": 54970,
-    "ac_salary_women": 29987,
-    "student_aid_women": 737821,
-    "recruit_exp_women": 11850,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     223981,
-     207387,
-     380552,
-     387063,
-     384665,
-     338344
-    ],
-    "trend_players": [
-     18,
-     23,
-     19,
-     19,
-     24,
-     21
-    ]
-   }
-  },
-  {
    "title": "Assistant Softball Coach",
    "links": [
     {
@@ -473,6 +398,81 @@
      34,
      32,
      33
+    ]
+   }
+  },
+  {
+   "title": "Assistant Coach - Softball",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22534175/assistant-coach-softball"
+    }
+   ],
+   "posted": "2026-08-27",
+   "deadline": "",
+   "contact": "",
+   "id": "216400e79700",
+   "type": "assistant",
+   "school_key": "131113",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "131113",
+   "school_name": "Wilmington University",
+   "city": "New Castle",
+   "state": "DE",
+   "division": "NCAA D2",
+   "group": "d2",
+   "posted_is_estimate": false,
+   "first_seen": "2026-08-28",
+   "salary": "",
+   "snippet": "Assistant Coach - Softball Wilmington University EMPLOYMENT OPPORTUNITY POSITION: Assistant Coach \u2013 Softball (PT) Requirements: A bachelor's degree is required. The incumbent must have demonstrated knowledge of NCAA rules and a commitment to the academic development of student-athletes. Must demonstrate excellent communication, customer service, interpersonal, and organizational skills. Attention to detail and the\u2026",
+   "school": {
+    "name": "Wilmington University",
+    "city": "New Castle",
+    "state": "DE",
+    "division": "NCAA D2",
+    "group": "d2",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 2985,
+    "sb_players": 21,
+    "sb_opexp": 141477,
+    "sb_expenses": 338344,
+    "sb_revenue": 348057,
+    "sb_head_ft": 0,
+    "sb_head_pt": 1,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 3,
+    "hc_salary_women": 54970,
+    "ac_salary_women": 29987,
+    "student_aid_women": 737821,
+    "recruit_exp_women": 11850,
+    "conference": "",
+    "ath_url": "",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     223981,
+     207387,
+     380552,
+     387063,
+     384665,
+     338344
+    ],
+    "trend_players": [
+     18,
+     23,
+     19,
+     19,
+     24,
+     21
     ]
    }
   },
@@ -1233,35 +1233,6 @@
      20
     ]
    }
-  },
-  {
-   "title": "Assistant Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22503199/assistant-softball-coach"
-    }
-   ],
-   "posted": "2026-08-14",
-   "deadline": "",
-   "contact": "",
-   "id": "a158a7cc1528",
-   "type": "assistant",
-   "school_key": "uva wise",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": null,
-   "school_name": "UVA Wise",
-   "city": "Wise",
-   "state": "VA",
-   "division": "\u2014",
-   "group": "other",
-   "posted_is_estimate": false,
-   "first_seen": "2026-08-14",
-   "salary": "$29,000 - $31,000",
-   "snippet": "The University of Virginia\u2019s College at Wise, located in the beautiful rural mountains of southwestern Virginia, is currently seeking applicants for an Assistant Softball Coach. An Assistant Softball Coach works with the sports program and are responsible for contributing to the successful execution of objectives as defined by the Head Coach. They participate in the planning, design, implementation, management, and\u2026",
-   "school": null
   },
   {
    "title": "Assistant Coach (Seasonal / Part-Time)",
@@ -3742,14 +3713,13 @@
   "3cc86b697de3": "2026-08-25",
   "b14a01f77753": "2026-09-09",
   "ab6ce25cdce8": "2026-09-01",
-  "c53c73f0b7df": "2026-08-31",
   "7011b9a026b9": "2026-07-30",
-  "216400e79700": "2026-08-28",
+  "c53c73f0b7df": "2026-08-31",
   "9f2acc8f097c": "2026-08-28",
+  "216400e79700": "2026-08-28",
   "c576021ccc92": "2026-08-21",
   "91ee91be44a6": "2026-08-20",
   "a54725602578": "2026-08-19",
-  "a158a7cc1528": "2026-08-14",
   "b710c7f6dbd0": "2026-07-15",
   "072a486f57ef": "2026-07-30",
   "a6b8c400c81c": "2026-07-09",
@@ -3791,6 +3761,7 @@
   "25611366e4f4": "2026-07-09",
   "d7040b6b2311": "2026-07-09",
   "9dfbd4f8ec44": "2026-07-09",
+  "a158a7cc1528": "2026-08-14",
   "a58129cedfaa": "2026-08-12",
   "173ebd9b0e89": "2026-08-11",
   "d7b6d63b2cbf": "2026-08-11",
