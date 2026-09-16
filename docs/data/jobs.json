@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-09-16T11:50:43+00:00",
+ "generated_at": "2026-09-16T17:09:22+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "name": "NFCA",
    "ok": true,
-   "count": 44
+   "count": 46
   },
   {
    "name": "NJCAA Career Center",
@@ -24,8 +24,162 @@
    "count": 0
   }
  ],
- "count": 49,
+ "count": 51,
  "jobs": [
+  {
+   "title": "Head Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22585238/head-softball-coach"
+    },
+    {
+     "source": "NFCA",
+     "url": "https://www.ursinus.edu/live/profiles/11538-head-coach-womens-softball"
+    }
+   ],
+   "posted": "2026-09-16",
+   "deadline": "N/A Posting Date: 9/16/26",
+   "contact": "Al Reiser",
+   "id": "4f52adc33f74",
+   "type": "head",
+   "school_key": "216524",
+   "tok": [
+    "head"
+   ],
+   "unitid": "216524",
+   "school_name": "Ursinus College",
+   "city": "Collegeville",
+   "state": "PA",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-09-16",
+   "salary": "",
+   "snippet": "Summary and Scope of Position: The Head Coach is responsible for the administration and organization of a successful athletic program that competes in the Centennial Conference at the NCAA Division III level. Specific Responsibilities: Prepare, schedule and organize daily practice sessions, travel schedules, game preparation for competition, and off-season training; devise team rules and expectations Organize and\u2026",
+   "school": {
+    "name": "Ursinus College",
+    "city": "Collegeville",
+    "state": "PA",
+    "division": "NCAA D3",
+    "group": "d3",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 1487,
+    "sb_players": 17,
+    "sb_opexp": 25786,
+    "sb_expenses": 134908,
+    "sb_revenue": 134908,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 4,
+    "hc_salary_women": 66111,
+    "ac_salary_women": 35369,
+    "student_aid_women": 0,
+    "recruit_exp_women": 29086,
+    "conference": "Centennial Conference",
+    "ath_url": "https://www.ursinusathletics.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     119607,
+     87156,
+     140754,
+     149936,
+     139576,
+     134908
+    ],
+    "trend_players": [
+     20,
+     25,
+     24,
+     23,
+     21,
+     17
+    ]
+   }
+  },
+  {
+   "title": "Assistant Coach",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5d9b6439-fef5-4e9e-a43b-c8a37684841c&ccId=19000101_000001&lang=en_US&jobId=629542"
+    }
+   ],
+   "posted": "2026-09-16",
+   "deadline": "Until position is filled",
+   "contact": "Gregory Cary",
+   "id": "f1a8857784e3",
+   "type": "assistant",
+   "school_key": "225371",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "225371",
+   "school_name": "Hill College",
+   "city": "Hillsboro",
+   "state": "TX",
+   "division": "NJCAA D1",
+   "group": "juco",
+   "posted_is_estimate": false,
+   "first_seen": "2026-09-16",
+   "salary": "",
+   "snippet": "Posting Date: 9/16/26 Full Description in link application!! Assist in the following areas of Softball Program Recruiting Practice Plan / Execution Field Maintenance / Game Prep Academic Awareness Game Day / Travel Day operations Fundraising Community Engagement Overall program growth Secondary Responsibilities Live on campus Secure residence halls Safety team Nights & Weekends Work athletic events on",
+   "school": {
+    "name": "Hill College",
+    "city": "Hillsboro",
+    "state": "TX",
+    "division": "NJCAA D1",
+    "group": "juco",
+    "sector": "Public, 2-year",
+    "enrollment": 845,
+    "sb_players": 21,
+    "sb_opexp": 26886,
+    "sb_expenses": 212334,
+    "sb_revenue": 231791,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 56812,
+    "ac_salary_women": 15740,
+    "student_aid_women": 375303,
+    "recruit_exp_women": 4955,
+    "conference": "",
+    "ath_url": "",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     142917,
+     126659,
+     172251,
+     192281,
+     161106,
+     212334
+    ],
+    "trend_players": [
+     23,
+     18,
+     21,
+     21,
+     24,
+     21
+    ]
+   }
+  },
   {
    "title": "Head Softball Coach",
    "links": [
@@ -3710,6 +3864,7 @@
   }
  ],
  "seen": {
+  "4f52adc33f74": "2026-09-16",
   "3cc86b697de3": "2026-08-25",
   "b14a01f77753": "2026-09-09",
   "ab6ce25cdce8": "2026-09-01",
@@ -3724,6 +3879,7 @@
   "072a486f57ef": "2026-07-30",
   "a6b8c400c81c": "2026-07-09",
   "8f5981eafc1d": "2026-07-09",
+  "f1a8857784e3": "2026-09-16",
   "ac3839776ddd": "2026-09-03",
   "82d0c2a18f9d": "2026-08-20",
   "37fd008740ce": "2026-08-20",
