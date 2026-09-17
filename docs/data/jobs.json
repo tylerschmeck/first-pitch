@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-17T17:09:21+00:00",
+ "generated_at": "2026-09-17T21:31:40+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 11
+   "count": 13
   },
   {
    "name": "NFCA",
@@ -24,8 +24,159 @@
    "count": 0
   }
  ],
- "count": 51,
+ "count": 53,
  "jobs": [
+  {
+   "title": "Director of Operations - Softball",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22588354/director-of-operations-softball"
+    }
+   ],
+   "posted": "2026-09-17",
+   "deadline": "",
+   "contact": "",
+   "id": "8bb1a6d3bb0e",
+   "type": "other",
+   "school_key": "200280",
+   "tok": [
+    "director",
+    "operations"
+   ],
+   "unitid": "200280",
+   "school_name": "University of North Dakota",
+   "city": "Grand Forks",
+   "state": "ND",
+   "division": "NCAA D1",
+   "group": "d1",
+   "posted_is_estimate": false,
+   "first_seen": "2026-09-17",
+   "salary": "",
+   "snippet": "The purpose of the Director of Operations \u2013 Softball position is to direct the day-to-day operations of the UND softball program. These duties include, but are not limited to, arranging team travel, practice and game day duties including keeping statistics for data analysis, serving as the softball camp director, developing a competitive game schedule under the direction of the Head Coach, & overseeing travel and\u2026",
+   "school": {
+    "name": "University of North Dakota",
+    "city": "Grand Forks",
+    "state": "ND",
+    "division": "NCAA D1",
+    "group": "d1",
+    "sector": "Public, 4-year or above",
+    "enrollment": 7698,
+    "sb_players": 34,
+    "sb_opexp": 403052,
+    "sb_expenses": 1297720,
+    "sb_revenue": 1297720,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 2,
+    "sb_asst_pt": 0,
+    "hc_salary_women": 99608,
+    "ac_salary_women": 58839,
+    "student_aid_women": 2640836,
+    "recruit_exp_women": 222157,
+    "conference": "The Summit League",
+    "ath_url": "https://www.fightinghawks.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     883416,
+     852781,
+     1038401,
+     1013461,
+     1200466,
+     1297720
+    ],
+    "trend_players": [
+     26,
+     25,
+     25,
+     23,
+     26,
+     34
+    ]
+   }
+  },
+  {
+   "title": "Head Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22588367/head-softball-coach"
+    }
+   ],
+   "posted": "2026-09-17",
+   "deadline": "",
+   "contact": "",
+   "id": "241469e38663",
+   "type": "head",
+   "school_key": "150756",
+   "tok": [
+    "head"
+   ],
+   "unitid": "150756",
+   "school_name": "Hanover College",
+   "city": "Hanover",
+   "state": "IN",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-09",
+   "salary": "",
+   "snippet": "Position Summary Leads and develops a competitive NCAA Division III women's softball program that operates within the parameters set by Hanover College, the conference, and the NCAA. Ensures an excellent student-athlete experience focused on competitive excellence, academic success, wellness, character development, and inclusive excellence while engaging alumni, families, and the broader community. Primary\u2026",
+   "school": {
+    "name": "Hanover College",
+    "city": "Hanover",
+    "state": "IN",
+    "division": "NCAA D3",
+    "group": "d3",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 1021,
+    "sb_players": 19,
+    "sb_opexp": 57785,
+    "sb_expenses": 117221,
+    "sb_revenue": 117221,
+    "sb_head_ft": 0,
+    "sb_head_pt": 1,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 60502,
+    "ac_salary_women": 42304,
+    "student_aid_women": 0,
+    "recruit_exp_women": 35985,
+    "conference": "Heartland Collegiate Athletic Conference",
+    "ath_url": "https://athletics.hanover.edu/landing/index",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     78938,
+     78108,
+     101667,
+     108826,
+     97785,
+     117221
+    ],
+    "trend_players": [
+     17,
+     14,
+     14,
+     19,
+     17,
+     19
+    ]
+   }
+  },
   {
    "title": "Head Softball Coach",
    "links": [
@@ -3864,12 +4015,14 @@
   }
  ],
  "seen": {
+  "8bb1a6d3bb0e": "2026-09-17",
+  "241469e38663": "2026-07-09",
   "4f52adc33f74": "2026-09-16",
   "3cc86b697de3": "2026-08-25",
   "b14a01f77753": "2026-09-09",
   "ab6ce25cdce8": "2026-09-01",
-  "c53c73f0b7df": "2026-08-31",
   "7011b9a026b9": "2026-07-30",
+  "c53c73f0b7df": "2026-08-31",
   "216400e79700": "2026-08-28",
   "9f2acc8f097c": "2026-08-28",
   "c576021ccc92": "2026-08-21",
@@ -4028,7 +4181,6 @@
   "43b25cc21dbc": "2026-07-09",
   "6ae1599c2db0": "2026-07-09",
   "0cac66c17393": "2026-07-09",
-  "241469e38663": "2026-07-09",
   "facf7663474b": "2026-07-09",
   "4fb4b1ef6446": "2026-07-09",
   "746a1b232f15": "2026-07-09",
