@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T11:29:55+00:00",
+ "generated_at": "2026-09-18T16:34:23+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -11,7 +11,7 @@
   {
    "name": "NFCA",
    "ok": true,
-   "count": 46
+   "count": 47
   },
   {
    "name": "NJCAA Career Center",
@@ -108,11 +108,15 @@
     {
      "source": "NCAA Market",
      "url": "https://ncaamarket.ncaa.org/jobs/22588367/head-softball-coach"
+    },
+    {
+     "source": "NFCA",
+     "url": "https://www.hanover.edu/about/employment/"
     }
    ],
    "posted": "2026-09-17",
    "deadline": "",
-   "contact": "",
+   "contact": "Mark Shook",
    "id": "241469e38663",
    "type": "head",
    "school_key": "150756",
@@ -4021,8 +4025,8 @@
   "3cc86b697de3": "2026-08-25",
   "b14a01f77753": "2026-09-09",
   "ab6ce25cdce8": "2026-09-01",
-  "c53c73f0b7df": "2026-08-31",
   "7011b9a026b9": "2026-07-30",
+  "c53c73f0b7df": "2026-08-31",
   "9f2acc8f097c": "2026-08-28",
   "216400e79700": "2026-08-28",
   "c576021ccc92": "2026-08-21",
