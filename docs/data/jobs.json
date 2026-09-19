@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-19T04:46:26+00:00",
+ "generated_at": "2026-09-19T11:13:46+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "name": "NFCA",
@@ -24,7 +24,7 @@
    "count": 0
   }
  ],
- "count": 53,
+ "count": 52,
  "jobs": [
   {
    "title": "Director of Operations - Softball",
@@ -1315,81 +1315,6 @@
      21,
      19,
      19
-    ]
-   }
-  },
-  {
-   "title": "Head Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22514584/head-softball-coach"
-    }
-   ],
-   "posted": "2026-08-19",
-   "deadline": "",
-   "contact": "",
-   "id": "a54725602578",
-   "type": "head",
-   "school_key": "217776",
-   "tok": [
-    "head"
-   ],
-   "unitid": "217776",
-   "school_name": "Southern Wesleyan University",
-   "city": "Central",
-   "state": "SC",
-   "division": "NCAA D2",
-   "group": "d2",
-   "posted_is_estimate": false,
-   "first_seen": "2026-08-19",
-   "salary": "",
-   "snippet": "HEAD COACH SOFTBALL Position Description LOCATION: Central, SC CLASSIFICATION:10-month, full-time, salaried, exempt position with benefits REPORTS TO: Vice President of Athletics GENERAL DESCRIPTION Located in the upstate region of South Carolina, Southern Wesleyan University sits just minutes from Clemson University of the ACC. Southern Wesleyan University is dedicated to the concept that God is the source of all\u2026",
-   "school": {
-    "name": "Southern Wesleyan University",
-    "city": "Central",
-    "state": "SC",
-    "division": "NCAA D2",
-    "group": "d2",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 583,
-    "sb_players": 33,
-    "sb_opexp": 73265,
-    "sb_expenses": 362753,
-    "sb_revenue": 362753,
-    "sb_head_ft": 0,
-    "sb_head_pt": 1,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 41000,
-    "ac_salary_women": 22735,
-    "student_aid_women": 1039575,
-    "recruit_exp_women": 5688,
-    "conference": "Conference Carolinas",
-    "ath_url": "https://swuathletics.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     225713,
-     210304,
-     175669,
-     198539,
-     333761,
-     362753
-    ],
-    "trend_players": [
-     17,
-     16,
-     13,
-     15,
-     24,
-     33
     ]
    }
   },
@@ -4031,7 +3956,6 @@
   "216400e79700": "2026-08-28",
   "c576021ccc92": "2026-08-21",
   "91ee91be44a6": "2026-08-20",
-  "a54725602578": "2026-08-19",
   "b710c7f6dbd0": "2026-07-15",
   "072a486f57ef": "2026-07-30",
   "a6b8c400c81c": "2026-07-09",
@@ -4074,6 +3998,7 @@
   "25611366e4f4": "2026-07-09",
   "d7040b6b2311": "2026-07-09",
   "9dfbd4f8ec44": "2026-07-09",
+  "a54725602578": "2026-08-19",
   "a158a7cc1528": "2026-08-14",
   "a58129cedfaa": "2026-08-12",
   "173ebd9b0e89": "2026-08-11",
