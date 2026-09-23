@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-09-23T17:17:00+00:00",
+ "generated_at": "2026-09-23T21:36:29+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "name": "NFCA",
    "ok": true,
-   "count": 48
+   "count": 42
   },
   {
    "name": "NJCAA Career Center",
@@ -24,8 +24,83 @@
    "count": 0
   }
  ],
- "count": 52,
+ "count": 47,
  "jobs": [
+  {
+   "title": "Head Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22604068/head-softball-coach"
+    }
+   ],
+   "posted": "2026-09-23",
+   "deadline": "",
+   "contact": "",
+   "id": "2b63b9edf199",
+   "type": "head",
+   "school_key": "226152",
+   "tok": [
+    "head"
+   ],
+   "unitid": "226152",
+   "school_name": "Texas A & M International University",
+   "city": "Laredo",
+   "state": "TX",
+   "division": "NCAA D2",
+   "group": "d2",
+   "posted_is_estimate": false,
+   "first_seen": "2026-09-23",
+   "salary": "",
+   "snippet": "The Head Softball Coach, under direction, is responsible for the development, management, and successful coaching of the TAMIU Softball program, to include scheduling, recruiting, equipment management, reporting scores and statistics, and website updating. Essential Duties and Responsibilities - Responsible for the development, management, and successful coaching of the TAMIU Softball program, to include scheduling,\u2026",
+   "school": {
+    "name": "Texas A & M International University",
+    "city": "Laredo",
+    "state": "TX",
+    "division": "NCAA D2",
+    "group": "d2",
+    "sector": "Public, 4-year or above",
+    "enrollment": 5481,
+    "sb_players": 30,
+    "sb_opexp": 212867,
+    "sb_expenses": 582269,
+    "sb_revenue": 582269,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 2,
+    "sb_asst_pt": 0,
+    "hc_salary_women": 61993,
+    "ac_salary_women": 37391,
+    "student_aid_women": 911742,
+    "recruit_exp_women": 52279,
+    "conference": "Lone Star Conference",
+    "ath_url": "https://godustdevils.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     373446,
+     439243,
+     418025,
+     537347,
+     541174,
+     582269
+    ],
+    "trend_players": [
+     28,
+     29,
+     24,
+     28,
+     33,
+     30
+    ]
+   }
+  },
   {
    "title": "Director of Operations",
    "links": [
@@ -1420,78 +1495,6 @@
      13,
      19,
      20
-    ]
-   }
-  },
-  {
-   "title": "Assistant Coach (Seasonal / Part-Time)",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://nfca.org/nfca-job-postings"
-    }
-   ],
-   "posted": "2026-08-13",
-   "deadline": "Until position is filled",
-   "contact": "Jenny Rohn",
-   "id": "37883417afee",
-   "type": "assistant",
-   "school_key": "166027",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "166027",
-   "school_name": "Harvard University",
-   "city": "Boston",
-   "state": "MA",
-   "division": "NCAA D1",
-   "group": "d1",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-17",
-   "salary": "",
-   "snippet": "Posting Date: 8/13/26 This position will work 17 hours per week during the in-season, championship segments of the Softball varsity sport season. This typically includes September through November and January \u2013 May. (This is a temporary, part-time, non-benefits eligible position.) This position assists in planning, directing and coaching the women\u2019s intercollegiate Softball program. Typically works with all\u2026",
-   "school": {
-    "name": "Harvard University",
-    "city": "Cambridge",
-    "state": "MA",
-    "division": "NCAA D1",
-    "group": "d1",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 7115,
-    "sb_players": 21,
-    "sb_opexp": 220886,
-    "sb_expenses": 665827,
-    "sb_revenue": 665827,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 1,
-    "sb_asst_pt": 2,
-    "hc_salary_women": 173756,
-    "ac_salary_women": 86078,
-    "student_aid_women": 0,
-    "recruit_exp_women": 637479,
-    "conference": "The Ivy League",
-    "ath_url": "https://gocrimson.com/",
-    "trend_years": [
-     2020,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     433605,
-     550760,
-     694638,
-     627493,
-     665827
-    ],
-    "trend_players": [
-     20,
-     25,
-     26,
-     20,
-     21
     ]
    }
   },
@@ -3517,396 +3520,18 @@
      20
     ]
    }
-  },
-  {
-   "title": "Assistant Coach (Pitching)",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://nfca.org/nfca-job-postings"
-    }
-   ],
-   "posted": "2026-06-22",
-   "deadline": "Until position is filled",
-   "contact": "Beau Schultz",
-   "id": "44069d553dca",
-   "type": "assistant",
-   "school_key": "155681",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "155681",
-   "school_name": "Pittsburg State University",
-   "city": "Pittsburg",
-   "state": "KS",
-   "division": "NCAA D2",
-   "group": "d2",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Posting Date: 6/22/26 Contact head coach Beau Schultz for more information.",
-   "school": {
-    "name": "Pittsburg State University",
-    "city": "Pittsburg",
-    "state": "KS",
-    "division": "NCAA D2",
-    "group": "d2",
-    "sector": "Public, 4-year or above",
-    "enrollment": 3889,
-    "sb_players": 20,
-    "sb_opexp": 189094,
-    "sb_expenses": 554431,
-    "sb_revenue": 554431,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 1,
-    "sb_asst_pt": 0,
-    "hc_salary_women": 113709,
-    "ac_salary_women": 93271,
-    "student_aid_women": 1200432,
-    "recruit_exp_women": 58325,
-    "conference": "Mid-America Intercollegiate Athletics Association",
-    "ath_url": "https://www.pittstategorillas.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     259242,
-     292318,
-     360236,
-     395275,
-     643783,
-     554431
-    ],
-    "trend_players": [
-     18,
-     21,
-     25,
-     25,
-     23,
-     20
-    ]
-   }
-  },
-  {
-   "title": "Graduate Assistant Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://nfca.org/nfca-job-postings"
-    }
-   ],
-   "posted": "2026-06-17",
-   "deadline": "Until position is filled",
-   "contact": "Brooke O'Hair",
-   "id": "60e2cf34bbd6",
-   "type": "other",
-   "school_key": "482680",
-   "tok": [
-    "assistant",
-    "graduate"
-   ],
-   "unitid": "482680",
-   "school_name": "University of North Georgia",
-   "city": "Dahlonega",
-   "state": "GA",
-   "division": "NCAA D2",
-   "group": "d2",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Position Start Date: 8/1/26 Posting Date: 6/17/26 Assist the head and assistant coaches in managing a high level DII competitive program. Responsibilities include on-field player development, video/technology analysis, scouting, recruiting, camps, equipment management, field maintenance, and ensuring compliance with NCAA, PBC, and UNG rules and regulations. To apply, email Brooke O'Hair",
-   "school": {
-    "name": "University of North Georgia",
-    "city": "Dahlonega",
-    "state": "GA",
-    "division": "NCAA D2",
-    "group": "d2",
-    "sector": "Public, 4-year or above",
-    "enrollment": 12134,
-    "sb_players": 23,
-    "sb_opexp": 312769,
-    "sb_expenses": 872122,
-    "sb_revenue": 601195,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 2,
-    "sb_asst_pt": 0,
-    "hc_salary_women": 86261,
-    "ac_salary_women": 44955,
-    "student_aid_women": 738990,
-    "recruit_exp_women": 16928,
-    "conference": "Peach Belt Conference",
-    "ath_url": "https://www.ungathletics.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     434064,
-     441361,
-     556645,
-     400402,
-     524407,
-     872122
-    ],
-    "trend_players": [
-     24,
-     23,
-     23,
-     25,
-     28,
-     23
-    ]
-   }
-  },
-  {
-   "title": "Graduate Assistant Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://nfca.org/nfca-job-postings"
-    }
-   ],
-   "posted": "2026-06-16",
-   "deadline": "Until position is filled",
-   "contact": "Nicole Thompson",
-   "id": "25611366e4f4",
-   "type": "other",
-   "school_key": "156541",
-   "tok": [
-    "assistant",
-    "graduate"
-   ],
-   "unitid": "156541",
-   "school_name": "University of the Cumberlands",
-   "city": "Williamsburg",
-   "state": "KY",
-   "division": "NAIA",
-   "group": "naia",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Position Start Date: N/A Posting Date: 6/16/26 The University of the Cumberlands is seeking a GA that specializes in Pitching. - Assist head coach in design, implementation and evaluation of a pitching staff. - Conduct individual and group pitching bullpens and practice plans. - Develop and implement pitcher-specific mechanical drills, conditioning, video analysis and mental skill training. - Assist with game-day\u2026",
-   "school": {
-    "name": "University of the Cumberlands",
-    "city": "Williamsburg",
-    "state": "KY",
-    "division": "NAIA",
-    "group": "naia",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 5812,
-    "sb_players": 25,
-    "sb_opexp": 125749,
-    "sb_expenses": 461201,
-    "sb_revenue": 461201,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 1,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 68375,
-    "ac_salary_women": 39973,
-    "student_aid_women": 1749600,
-    "recruit_exp_women": 56709,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     283600,
-     385220,
-     392305,
-     446849,
-     461201,
-     461201
-    ],
-    "trend_players": [
-     25,
-     27,
-     27,
-     20,
-     25,
-     25
-    ]
-   }
-  },
-  {
-   "title": "Graduate Assistant Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=8a7883d098156f9c01982e34a60801d2&id=8a7887a19cd56543019cddd6ea4a59a6&source=&lang=en"
-    }
-   ],
-   "posted": "2026-06-12",
-   "deadline": "Until position is filled",
-   "contact": "Mikayla Wyrwas",
-   "id": "d7040b6b2311",
-   "type": "other",
-   "school_key": "214166",
-   "tok": [
-    "assistant",
-    "graduate"
-   ],
-   "unitid": "214166",
-   "school_name": "Mount Aloysius College",
-   "city": "Cresson",
-   "state": "PA",
-   "division": "NCAA D3",
-   "group": "d3",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Position Start Date: 8/1/26 Posting Date: 6/12/26 Mount Aloysius College, repeatedly recognized by ModernThink as a \u201cGreat College to Work For,\u201d invites applications for a temporary, part-time Graduate Assistant to serve the Women\u2019s Softball team beginning August 2026 through May 2027. The Graduate Assistant (GA) will work as a collaborative member of the Women\u2019s Softball team to carry out the goals and objectives\u2026",
-   "school": {
-    "name": "Mount Aloysius College",
-    "city": "Cresson",
-    "state": "PA",
-    "division": "NCAA D3",
-    "group": "d3",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 1031,
-    "sb_players": 20,
-    "sb_opexp": 17291,
-    "sb_expenses": 95621,
-    "sb_revenue": 95621,
-    "sb_head_ft": 0,
-    "sb_head_pt": 1,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 30901,
-    "ac_salary_women": 16316,
-    "student_aid_women": 0,
-    "recruit_exp_women": 2295,
-    "conference": "Allegheny Mountain Collegiate Conference",
-    "ath_url": "https://www.mountieathletics.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     null,
-     32071,
-     66993,
-     60402,
-     71545,
-     95621
-    ],
-    "trend_players": [
-     null,
-     16,
-     28,
-     25,
-     21,
-     20
-    ]
-   }
-  },
-  {
-   "title": "Graduate Assistant Coach",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://nfca.org/nfca-job-postings"
-    }
-   ],
-   "posted": "2026-06-09",
-   "deadline": "Until position is filled",
-   "contact": "Ashlyn Englehorn",
-   "id": "9dfbd4f8ec44",
-   "type": "other",
-   "school_key": "219046",
-   "tok": [
-    "assistant",
-    "graduate"
-   ],
-   "unitid": "219046",
-   "school_name": "Black Hills State University",
-   "city": "Spearfish",
-   "state": "SD",
-   "division": "NCAA D2",
-   "group": "d2",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "$10,000",
-   "snippet": "Position Start Date: 8/1/26 Posting Date: 6/9/26 Black Hills State University Softball is seeking candidates for a Graduate Assistant Coach. Pitching experience is preferred, but not required. The Graduate Assistant will assist in all areas of operations of the softball program, including helping with practices, scouting, logistics, and other duties as assigned. Consistent with BOR policy 5:22, graduate assistants\u2026",
-   "school": {
-    "name": "Black Hills State University",
-    "city": "Spearfish",
-    "state": "SD",
-    "division": "NCAA D2",
-    "group": "d2",
-    "sector": "Public, 4-year or above",
-    "enrollment": 1557,
-    "sb_players": 23,
-    "sb_opexp": 122574,
-    "sb_expenses": 378470,
-    "sb_revenue": 366961,
-    "sb_head_ft": 0,
-    "sb_head_pt": 1,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 69354,
-    "ac_salary_women": 42666,
-    "student_aid_women": 776907,
-    "recruit_exp_women": 24893,
-    "conference": "Rocky Mountain Athletic Conference",
-    "ath_url": "https://bhsuathletics.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     142292,
-     188663,
-     184884,
-     216971,
-     206106,
-     378470
-    ],
-    "trend_players": [
-     25,
-     18,
-     18,
-     19,
-     15,
-     23
-    ]
-   }
   }
  ],
  "seen": {
+  "2b63b9edf199": "2026-09-23",
   "8bb1a6d3bb0e": "2026-09-17",
   "241469e38663": "2026-07-09",
   "4f52adc33f74": "2026-09-16",
   "3cc86b697de3": "2026-08-25",
   "b14a01f77753": "2026-09-09",
   "ab6ce25cdce8": "2026-09-01",
-  "7011b9a026b9": "2026-07-30",
   "c53c73f0b7df": "2026-08-31",
+  "7011b9a026b9": "2026-07-30",
   "9f2acc8f097c": "2026-08-28",
   "216400e79700": "2026-08-28",
   "c576021ccc92": "2026-08-21",
@@ -3921,7 +3546,6 @@
   "3c2d2a4f2c45": "2026-08-20",
   "62f9abccf6ec": "2026-08-17",
   "77fdfc3157f6": "2026-08-17",
-  "37883417afee": "2026-07-17",
   "19e669e7e066": "2026-08-11",
   "19025299dae1": "2026-08-11",
   "57d90c034f57": "2026-08-11",
@@ -3939,7 +3563,6 @@
   "1f6a4a73100c": "2026-07-09",
   "206f76c36985": "2026-07-10",
   "8b7f7f88000b": "2026-07-09",
-  "44069d553dca": "2026-07-09",
   "1baaaeecda6c": "2026-07-30",
   "e62b6b968f0a": "2026-07-29",
   "52ed177399b2": "2026-07-22",
@@ -3948,11 +3571,13 @@
   "592651c371ea": "2026-07-10",
   "88a0a3e70647": "2026-07-09",
   "92570bc7c17b": "2026-07-09",
+  "a0deff2a2c9c": "2026-09-23",
+  "37883417afee": "2026-07-17",
+  "44069d553dca": "2026-07-09",
   "60e2cf34bbd6": "2026-07-09",
   "25611366e4f4": "2026-07-09",
   "d7040b6b2311": "2026-07-09",
   "9dfbd4f8ec44": "2026-07-09",
-  "a0deff2a2c9c": "2026-09-23",
   "91ee91be44a6": "2026-08-20",
   "a54725602578": "2026-08-19",
   "a158a7cc1528": "2026-08-14",
