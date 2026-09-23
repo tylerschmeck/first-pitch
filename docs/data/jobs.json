@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-23T11:52:15+00:00",
+ "generated_at": "2026-09-23T17:17:00+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -11,7 +11,7 @@
   {
    "name": "NFCA",
    "ok": true,
-   "count": 47
+   "count": 48
   },
   {
    "name": "NJCAA Career Center",
@@ -24,8 +24,38 @@
    "count": 0
   }
  ],
- "count": 51,
+ "count": 52,
  "jobs": [
+  {
+   "title": "Director of Operations",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://careers.und.edu/jobs/director-of-operations-softball-grand-forks-north-dakota-united-states"
+    }
+   ],
+   "posted": "2026-09-23",
+   "deadline": "9/30/26",
+   "contact": "Jordan Stevens",
+   "id": "a0deff2a2c9c",
+   "type": "other",
+   "school_key": "university of north dakota",
+   "tok": [
+    "director",
+    "operations"
+   ],
+   "unitid": null,
+   "school_name": "University of North Dakota",
+   "city": "Grand Forks",
+   "state": "SD",
+   "division": "NJCAA D1",
+   "group": "juco",
+   "posted_is_estimate": false,
+   "first_seen": "2026-09-23",
+   "salary": "",
+   "snippet": "The purpose of the Director of Operations \u2013 Softball position is to direct the day-to-day operations of the UND softball program. These duties include, but are not limited to, arranging team travel, practice and game day duties including keeping statistics for data analysis, serving as the softball camp director, developing a competitive game schedule under the direction of the Head Coach, & overseeing travel and\u2026",
+   "school": null
+  },
   {
    "title": "Director of Operations - Softball",
    "links": [
@@ -3875,8 +3905,8 @@
   "3cc86b697de3": "2026-08-25",
   "b14a01f77753": "2026-09-09",
   "ab6ce25cdce8": "2026-09-01",
-  "c53c73f0b7df": "2026-08-31",
   "7011b9a026b9": "2026-07-30",
+  "c53c73f0b7df": "2026-08-31",
   "9f2acc8f097c": "2026-08-28",
   "216400e79700": "2026-08-28",
   "c576021ccc92": "2026-08-21",
@@ -3922,6 +3952,7 @@
   "25611366e4f4": "2026-07-09",
   "d7040b6b2311": "2026-07-09",
   "9dfbd4f8ec44": "2026-07-09",
+  "a0deff2a2c9c": "2026-09-23",
   "91ee91be44a6": "2026-08-20",
   "a54725602578": "2026-08-19",
   "a158a7cc1528": "2026-08-14",
