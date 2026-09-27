@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-27T05:28:16+00:00",
+ "generated_at": "2026-09-27T12:14:23+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 11
+   "count": 9
   },
   {
    "name": "NFCA",
@@ -24,7 +24,7 @@
    "count": 0
   }
  ],
- "count": 50,
+ "count": 48,
  "jobs": [
   {
    "title": "Head Coach/WPE Instructor",
@@ -917,156 +917,6 @@
      23,
      24,
      27
-    ]
-   }
-  },
-  {
-   "title": "Assistant Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22534224/assistant-softball-coach"
-    }
-   ],
-   "posted": "2026-08-27",
-   "deadline": "",
-   "contact": "",
-   "id": "9f2acc8f097c",
-   "type": "assistant",
-   "school_key": "154101",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "154101",
-   "school_name": "Northwestern College",
-   "city": "Orange City",
-   "state": "IA",
-   "division": "NAIA",
-   "group": "naia",
-   "posted_is_estimate": false,
-   "first_seen": "2026-08-28",
-   "salary": "",
-   "snippet": "Northwestern College is seeking applicants for the position of assistant softball coach. Red Raider softball is seeking a candidate who can assist in leading a nationally contending program that won three consecutive GPAC titles from 2023-2025, and hosted back-to-back NAIA regionals in 2024-2025. Join the excellent Red Raider athletic department that claimed 5 GPAC titles this past year and sent 13 teams to the NAIA\u2026",
-   "school": {
-    "name": "Northwestern College",
-    "city": "Orange City",
-    "state": "IA",
-    "division": "NAIA",
-    "group": "naia",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 1057,
-    "sb_players": 33,
-    "sb_opexp": 75926,
-    "sb_expenses": 436023,
-    "sb_revenue": 440965,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 57308,
-    "ac_salary_women": 33422,
-    "student_aid_women": 1187980,
-    "recruit_exp_women": 7909,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     295101,
-     285885,
-     342198,
-     387898,
-     388189,
-     436023
-    ],
-    "trend_players": [
-     28,
-     33,
-     25,
-     34,
-     32,
-     33
-    ]
-   }
-  },
-  {
-   "title": "Assistant Coach - Softball",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22534175/assistant-coach-softball"
-    }
-   ],
-   "posted": "2026-08-27",
-   "deadline": "",
-   "contact": "",
-   "id": "216400e79700",
-   "type": "assistant",
-   "school_key": "131113",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "131113",
-   "school_name": "Wilmington University",
-   "city": "New Castle",
-   "state": "DE",
-   "division": "NCAA D2",
-   "group": "d2",
-   "posted_is_estimate": false,
-   "first_seen": "2026-08-28",
-   "salary": "",
-   "snippet": "Assistant Coach - Softball Wilmington University EMPLOYMENT OPPORTUNITY POSITION: Assistant Coach \u2013 Softball (PT) Requirements: A bachelor's degree is required. The incumbent must have demonstrated knowledge of NCAA rules and a commitment to the academic development of student-athletes. Must demonstrate excellent communication, customer service, interpersonal, and organizational skills. Attention to detail and the\u2026",
-   "school": {
-    "name": "Wilmington University",
-    "city": "New Castle",
-    "state": "DE",
-    "division": "NCAA D2",
-    "group": "d2",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 2985,
-    "sb_players": 21,
-    "sb_opexp": 141477,
-    "sb_expenses": 338344,
-    "sb_revenue": 348057,
-    "sb_head_ft": 0,
-    "sb_head_pt": 1,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 3,
-    "hc_salary_women": 54970,
-    "ac_salary_women": 29987,
-    "student_aid_women": 737821,
-    "recruit_exp_women": 11850,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     223981,
-     207387,
-     380552,
-     387063,
-     384665,
-     338344
-    ],
-    "trend_players": [
-     18,
-     23,
-     19,
-     19,
-     24,
-     21
     ]
    }
   },
@@ -3708,8 +3558,6 @@
   "ab6ce25cdce8": "2026-09-01",
   "7011b9a026b9": "2026-07-30",
   "c53c73f0b7df": "2026-08-31",
-  "9f2acc8f097c": "2026-08-28",
-  "216400e79700": "2026-08-28",
   "a6a41aab1967": "2026-09-25",
   "b710c7f6dbd0": "2026-07-15",
   "072a486f57ef": "2026-07-30",
@@ -3751,6 +3599,8 @@
   "88a0a3e70647": "2026-07-09",
   "92570bc7c17b": "2026-07-09",
   "a0deff2a2c9c": "2026-09-23",
+  "9f2acc8f097c": "2026-08-28",
+  "216400e79700": "2026-08-28",
   "37883417afee": "2026-07-17",
   "44069d553dca": "2026-07-09",
   "60e2cf34bbd6": "2026-07-09",
