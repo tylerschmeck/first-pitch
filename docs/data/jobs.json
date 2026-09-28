@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-28T14:13:34+00:00",
+ "generated_at": "2026-09-28T21:17:08+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -11,7 +11,7 @@
   {
    "name": "NFCA",
    "ok": true,
-   "count": 45
+   "count": 46
   },
   {
    "name": "NJCAA Career Center",
@@ -24,8 +24,84 @@
    "count": 0
   }
  ],
- "count": 48,
+ "count": 49,
  "jobs": [
+  {
+   "title": "Head Coach & Faculty",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "http://www.minnesota.edu/jobs/"
+    }
+   ],
+   "posted": "2026-09-28",
+   "deadline": "Open until filled Posting Date: 9/28/26",
+   "contact": "Heidi R. Balgaard",
+   "id": "32267aae1b0b",
+   "type": "head",
+   "school_key": "173559",
+   "tok": [
+    "faculty",
+    "head"
+   ],
+   "unitid": "173559",
+   "school_name": "Minnesota State Community and Technical College",
+   "city": "Fergus Falls",
+   "state": "MN",
+   "division": "NJCAA D3",
+   "group": "juco",
+   "posted_is_estimate": false,
+   "first_seen": "2026-09-28",
+   "salary": "",
+   "snippet": "The vacancy is posted online open until filled with application review to begin the week of September 21, 2026. Note: Internal applicants need to apply through the Jobs Hub in Workday. Application must include: Letter of interest Curriculum vitae (or resume) Name and contact information for three professional references College transcripts (copies are acceptable for initial application screening) NOTICE: The college\u2026",
+   "school": {
+    "name": "Minnesota State Community and Technical College",
+    "city": "Fergus Falls",
+    "state": "MN",
+    "division": "NJCAA D3",
+    "group": "juco",
+    "sector": "Public, 2-year",
+    "enrollment": 1704,
+    "sb_players": 11,
+    "sb_opexp": 14150,
+    "sb_expenses": 38230,
+    "sb_revenue": 38230,
+    "sb_head_ft": 0,
+    "sb_head_pt": 1,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 70400,
+    "ac_salary_women": 36000,
+    "student_aid_women": 0,
+    "recruit_exp_women": 1538,
+    "conference": "",
+    "ath_url": "",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     null,
+     37268,
+     60198,
+     51221,
+     56697,
+     38230
+    ],
+    "trend_players": [
+     null,
+     10,
+     13,
+     11,
+     10,
+     11
+    ]
+   }
+  },
   {
    "title": "Head Coach/WPE Instructor",
    "links": [
@@ -3558,6 +3634,7 @@
   "ab6ce25cdce8": "2026-09-01",
   "c53c73f0b7df": "2026-08-31",
   "7011b9a026b9": "2026-07-30",
+  "32267aae1b0b": "2026-09-28",
   "a6a41aab1967": "2026-09-25",
   "b710c7f6dbd0": "2026-07-15",
   "072a486f57ef": "2026-07-30",
