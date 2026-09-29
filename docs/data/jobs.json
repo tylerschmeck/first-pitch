@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-09-29T18:09:14+00:00",
+ "generated_at": "2026-09-29T22:25:58+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "name": "NFCA",
@@ -24,8 +24,84 @@
    "count": 0
   }
  ],
- "count": 49,
+ "count": 50,
  "jobs": [
+  {
+   "title": "Associate Athletic Trainer, Softball (Athletic Trainer II)",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22618756/associate-athletic-trainer-softball-athletic-trainer-ii"
+    }
+   ],
+   "posted": "2026-09-29",
+   "deadline": "",
+   "contact": "",
+   "id": "b52284e13168",
+   "type": "other",
+   "school_key": "122409",
+   "tok": [
+    "associate",
+    "trainer"
+   ],
+   "unitid": "122409",
+   "school_name": "San Diego State University",
+   "city": "San Diego",
+   "state": "CA",
+   "division": "NCAA D1",
+   "group": "d1",
+   "posted_is_estimate": false,
+   "first_seen": "2026-09-29",
+   "salary": "",
+   "snippet": "The Associate Athletic Trainer, Softball (Athletic Trainer II) plays a key role in supporting the health, safety, and peak performance of SDSU Softball student-athletes while contributing to the broader success of the university\u2019s sports medicine program. Reporting to the Sr. Associate Athletic Director of Athletic Medicine, this position provides comprehensive clinical care spanning injury prevention, assessment,\u2026",
+   "school": {
+    "name": "San Diego State University",
+    "city": "San Diego",
+    "state": "CA",
+    "division": "NCAA D1",
+    "group": "d1",
+    "sector": "Public, 4-year or above",
+    "enrollment": 32130,
+    "sb_players": 24,
+    "sb_opexp": 595758,
+    "sb_expenses": 1863959,
+    "sb_revenue": 1894947,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 2,
+    "sb_asst_pt": 0,
+    "hc_salary_women": 266102,
+    "ac_salary_women": 139861,
+    "student_aid_women": 5387074,
+    "recruit_exp_women": 263926,
+    "conference": "Pac-12 Conference",
+    "ath_url": "https://goaztecs.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     1074423,
+     951164,
+     1198261,
+     1515693,
+     2196659,
+     1863959
+    ],
+    "trend_players": [
+     24,
+     22,
+     24,
+     24,
+     21,
+     24
+    ]
+   }
+  },
   {
    "title": "Head Coach & Faculty",
    "links": [
@@ -3632,8 +3708,9 @@
   "3cc86b697de3": "2026-08-25",
   "b14a01f77753": "2026-09-09",
   "ab6ce25cdce8": "2026-09-01",
-  "c53c73f0b7df": "2026-08-31",
   "7011b9a026b9": "2026-07-30",
+  "c53c73f0b7df": "2026-08-31",
+  "b52284e13168": "2026-09-29",
   "32267aae1b0b": "2026-09-28",
   "a6a41aab1967": "2026-09-25",
   "b710c7f6dbd0": "2026-07-15",
