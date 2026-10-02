@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T09:55:45+00:00",
+ "generated_at": "2026-10-02T17:55:33+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -11,7 +11,7 @@
   {
    "name": "NFCA",
    "ok": true,
-   "count": 46
+   "count": 47
   },
   {
    "name": "NJCAA Career Center",
@@ -24,8 +24,84 @@
    "count": 0
   }
  ],
- "count": 48,
+ "count": 49,
  "jobs": [
+  {
+   "title": "Graduate Assistant Coach",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://nfca.org/nfca-job-postings"
+    }
+   ],
+   "posted": "2026-10-02",
+   "deadline": "Until Position is Filled",
+   "contact": "Riley LaBoe",
+   "id": "9d0c126f28b1",
+   "type": "other",
+   "school_key": "237181",
+   "tok": [
+    "assistant",
+    "graduate"
+   ],
+   "unitid": "237181",
+   "school_name": "Bethany College",
+   "city": "Bethany",
+   "state": "WV",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-10-02",
+   "salary": "",
+   "snippet": "The graduate assistant for women\u2019s softball is responsible for assisting the head coach with the facilitation of all aspects that are associated with running a collegiate women\u2019s softball program. The graduate assistant coach will assist the head coach with the recruitment of student-athletes. In addition, the graduate assistant for women\u2019s softball will assist the head coach with the planning, implementation, and\u2026",
+   "school": {
+    "name": "Bethany College",
+    "city": "Bethany",
+    "state": "WV",
+    "division": "NCAA D3",
+    "group": "d3",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 613,
+    "sb_players": 25,
+    "sb_opexp": 23874,
+    "sb_expenses": 105304,
+    "sb_revenue": 126304,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 47475,
+    "ac_salary_women": 21122,
+    "student_aid_women": 0,
+    "recruit_exp_women": 17290,
+    "conference": "",
+    "ath_url": "",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     103740,
+     75330,
+     72477,
+     85776,
+     91619,
+     105304
+    ],
+    "trend_players": [
+     14,
+     13,
+     18,
+     19,
+     19,
+     25
+    ]
+   }
+  },
   {
    "title": "Associate Athletic Trainer, Softball (Athletic Trainer II)",
    "links": [
@@ -3548,8 +3624,8 @@
  ],
  "seen": {
   "2b63b9edf199": "2026-09-23",
-  "8bb1a6d3bb0e": "2026-09-17",
   "241469e38663": "2026-07-09",
+  "8bb1a6d3bb0e": "2026-09-17",
   "4f52adc33f74": "2026-09-16",
   "3cc86b697de3": "2026-08-25",
   "b14a01f77753": "2026-09-09",
@@ -3588,6 +3664,7 @@
   "1f6a4a73100c": "2026-07-09",
   "206f76c36985": "2026-07-10",
   "8b7f7f88000b": "2026-07-09",
+  "9d0c126f28b1": "2026-10-02",
   "1baaaeecda6c": "2026-07-30",
   "e62b6b968f0a": "2026-07-29",
   "52ed177399b2": "2026-07-22",
