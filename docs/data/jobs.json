@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-06T06:34:41+00:00",
+ "generated_at": "2026-10-06T16:02:54+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "name": "NFCA",
@@ -24,8 +24,83 @@
    "count": 0
   }
  ],
- "count": 44,
+ "count": 45,
  "jobs": [
+  {
+   "title": "ASSISTANT SOFTBALL COACH",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22637120/assistant-softball-coach"
+    }
+   ],
+   "posted": "2026-10-06",
+   "deadline": "",
+   "contact": "",
+   "id": "91ee91be44a6",
+   "type": "assistant",
+   "school_key": "148131",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "148131",
+   "school_name": "Quincy University",
+   "city": "Quincy",
+   "state": "IL",
+   "division": "NCAA D2",
+   "group": "d2",
+   "posted_is_estimate": false,
+   "first_seen": "2026-08-20",
+   "salary": "$30,000 - $33,000",
+   "snippet": "Quincy University, an NCAA Division II institution and member of the Great Lakes Valley Conference, invites applications for the position of Assistant Softball Coach. Responsibilities: \u2022Serves as a representative of the University, promoting QU's mission, image and goals to colleagues and the community. \u2022All aspects of recruitment including - scouting perspective student athletes, organizing staff recruiting\u2026",
+   "school": {
+    "name": "Quincy University",
+    "city": "Quincy",
+    "state": "IL",
+    "division": "NCAA D2",
+    "group": "d2",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 989,
+    "sb_players": 20,
+    "sb_opexp": 79900,
+    "sb_expenses": 339312,
+    "sb_revenue": 347866,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 1,
+    "sb_asst_pt": 0,
+    "hc_salary_women": 51977,
+    "ac_salary_women": 34453,
+    "student_aid_women": 2341028,
+    "recruit_exp_women": 45601,
+    "conference": "Great Lakes Valley Conference",
+    "ath_url": "https://quhawks.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     268533,
+     294147,
+     318775,
+     585323,
+     311028,
+     339312
+    ],
+    "trend_players": [
+     19,
+     22,
+     25,
+     28,
+     20,
+     20
+    ]
+   }
+  },
   {
    "title": "Assistant Women\u2019s Softball Coach",
    "links": [
@@ -3256,6 +3331,7 @@
   }
  ],
  "seen": {
+  "91ee91be44a6": "2026-08-20",
   "0f8a4003d5d5": "2026-10-05",
   "2b63b9edf199": "2026-09-23",
   "8bb1a6d3bb0e": "2026-09-17",
@@ -3318,7 +3394,6 @@
   "25611366e4f4": "2026-07-09",
   "d7040b6b2311": "2026-07-09",
   "9dfbd4f8ec44": "2026-07-09",
-  "91ee91be44a6": "2026-08-20",
   "a54725602578": "2026-08-19",
   "a158a7cc1528": "2026-08-14",
   "a58129cedfaa": "2026-08-12",
