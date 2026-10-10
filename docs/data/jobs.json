@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-10T01:01:58+00:00",
+ "generated_at": "2026-10-10T10:00:17+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "name": "NFCA",
@@ -24,7 +24,7 @@
    "count": 0
   }
  ],
- "count": 45,
+ "count": 44,
  "jobs": [
   {
    "title": "ASSISTANT SOFTBALL COACH",
@@ -995,81 +995,6 @@
      19,
      17,
      19
-    ]
-   }
-  },
-  {
-   "title": "Head Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22565468/head-softball-coach"
-    }
-   ],
-   "posted": "2026-09-10",
-   "deadline": "",
-   "contact": "",
-   "id": "b14a01f77753",
-   "type": "head",
-   "school_key": "196006",
-   "tok": [
-    "head"
-   ],
-   "unitid": "196006",
-   "school_name": "SUNY College of Technology at Alfred",
-   "city": "Alfred",
-   "state": "NY",
-   "division": "NCAA D3",
-   "group": "d3",
-   "posted_is_estimate": false,
-   "first_seen": "2026-09-09",
-   "salary": "$55,000",
-   "snippet": "Head Softball Coach About Alfred State College: Join a Mission That Matters at Alfred State College Are you ready to join our winning team? At top-ranked and growing Alfred State College, we transform lives by equipping students with the skills they need to succeed, providing upward mobility, and making higher education accessible to all. Known for affordability, exceptional academic support, and career-ready\u2026",
-   "school": {
-    "name": "SUNY College of Technology at Alfred",
-    "city": "Alfred",
-    "state": "NY",
-    "division": "NCAA D3",
-    "group": "d3",
-    "sector": "Public, 4-year or above",
-    "enrollment": 3264,
-    "sb_players": 15,
-    "sb_opexp": 92599,
-    "sb_expenses": 200934,
-    "sb_revenue": 200934,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 3,
-    "hc_salary_women": 56210,
-    "ac_salary_women": 32680,
-    "student_aid_women": 0,
-    "recruit_exp_women": 7274,
-    "conference": "",
-    "ath_url": "",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     111724,
-     43699,
-     139595,
-     156292,
-     167540,
-     200934
-    ],
-    "trend_players": [
-     14,
-     13,
-     13,
-     14,
-     14,
-     15
     ]
    }
   },
@@ -3338,7 +3263,6 @@
   "241469e38663": "2026-07-09",
   "4f52adc33f74": "2026-09-16",
   "3cc86b697de3": "2026-08-25",
-  "b14a01f77753": "2026-09-09",
   "b52284e13168": "2026-09-29",
   "32267aae1b0b": "2026-09-28",
   "a6a41aab1967": "2026-09-25",
@@ -3378,6 +3302,7 @@
   "592651c371ea": "2026-07-10",
   "88a0a3e70647": "2026-07-09",
   "a0deff2a2c9c": "2026-09-23",
+  "b14a01f77753": "2026-09-09",
   "b710c7f6dbd0": "2026-07-15",
   "a6b8c400c81c": "2026-07-09",
   "8f5981eafc1d": "2026-07-09",
