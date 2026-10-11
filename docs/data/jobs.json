@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-11T06:02:07+00:00",
+ "generated_at": "2026-10-11T13:08:42+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "name": "NFCA",
@@ -1074,12 +1074,8 @@
    }
   },
   {
-   "title": "Assistant Coach - Softball",
+   "title": "Assistant Coach",
    "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22568714/assistant-coach-softball"
-    },
     {
      "source": "NFCA",
      "url": "https://www.bates.edu/employment/opportunities/?job=493140"
@@ -1102,8 +1098,8 @@
    "group": "d3",
    "posted_is_estimate": false,
    "first_seen": "2026-08-25",
-   "salary": "$36,000 to $38,300",
-   "snippet": "Assistant Coach - Softball Amherst Campus Full Time JR7298 Amherst has taken a leadership role among highly selective liberal arts colleges and universities in successfully diversifying the racial, socio-economic, and geographic profile of its student body. The College is similarly committed to enriching its educational experience and its culture through the diversity of its faculty, administration and staff. Job\u2026",
+   "salary": "",
+   "snippet": "Posting Date: 8/25/26 Full Time Assistant",
    "school": {
     "name": "Amherst College",
     "city": "Amherst",
@@ -3262,7 +3258,6 @@
   "241469e38663": "2026-07-09",
   "8bb1a6d3bb0e": "2026-09-17",
   "4f52adc33f74": "2026-09-16",
-  "3cc86b697de3": "2026-08-25",
   "b52284e13168": "2026-09-29",
   "32267aae1b0b": "2026-09-28",
   "a6a41aab1967": "2026-09-25",
@@ -3271,6 +3266,7 @@
   "3ccf1431f6fd": "2026-09-25",
   "f1a8857784e3": "2026-09-16",
   "ac3839776ddd": "2026-09-03",
+  "3cc86b697de3": "2026-08-25",
   "c576021ccc92": "2026-08-21",
   "82d0c2a18f9d": "2026-08-20",
   "37fd008740ce": "2026-08-20",
