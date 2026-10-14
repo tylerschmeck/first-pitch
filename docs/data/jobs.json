@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T14:34:43+00:00",
+ "generated_at": "2026-10-14T19:30:26+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -11,7 +11,7 @@
   {
    "name": "NFCA",
    "ok": true,
-   "count": 41
+   "count": 42
   },
   {
    "name": "NJCAA Career Center",
@@ -24,8 +24,83 @@
    "count": 0
   }
  ],
- "count": 44,
+ "count": 45,
  "jobs": [
+  {
+   "title": "Head Coach",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://www.schooljobs.com/careers/wcupa/jobs/5515948/27-47-head-softball-coach-athletics-department?pagetype=jobOpportunitiesJobs"
+    }
+   ],
+   "posted": "2026-10-14",
+   "deadline": "N/A Posting Date: 10/14/26",
+   "contact": "Natalie Lucca",
+   "id": "74d3ac5ec942",
+   "type": "head",
+   "school_key": "216764",
+   "tok": [
+    "head"
+   ],
+   "unitid": "216764",
+   "school_name": "West Chester University of Pennsylvania",
+   "city": "West Chester",
+   "state": "PA",
+   "division": "NCAA D2",
+   "group": "d2",
+   "posted_is_estimate": false,
+   "first_seen": "2026-10-14",
+   "salary": "",
+   "snippet": "West Chester University is seeking a softball head coach. The Head Softball Coach is responsible for all aspects of administering and operating an NCAA Division II program. The incumbent will supervise full-time and volunteer assistant coaches, recruit qualified prospective student-athletes, run summer camps and clinics as well as other fundraising events, and handle the administrative functions of the program. This\u2026",
+   "school": {
+    "name": "West Chester University of Pennsylvania",
+    "city": "West Chester",
+    "state": "PA",
+    "division": "NCAA D2",
+    "group": "d2",
+    "sector": "Public, 4-year or above",
+    "enrollment": 13000,
+    "sb_players": 32,
+    "sb_opexp": 122508,
+    "sb_expenses": 398134,
+    "sb_revenue": 355865,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 1,
+    "sb_asst_pt": 5,
+    "hc_salary_women": 77451,
+    "ac_salary_women": 44734,
+    "student_aid_women": 826357,
+    "recruit_exp_women": 12227,
+    "conference": "Pennsylvania State Athletic Conference",
+    "ath_url": "https://www.wcupagoldenrams.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     297118,
+     345358,
+     356078,
+     393448,
+     403901,
+     398134
+    ],
+    "trend_players": [
+     31,
+     36,
+     28,
+     29,
+     24,
+     32
+    ]
+   }
+  },
   {
    "title": "ASSISTANT SOFTBALL COACH",
    "links": [
@@ -3259,6 +3334,7 @@
   "8bb1a6d3bb0e": "2026-09-17",
   "4f52adc33f74": "2026-09-16",
   "b52284e13168": "2026-09-29",
+  "74d3ac5ec942": "2026-10-14",
   "32267aae1b0b": "2026-09-28",
   "a6a41aab1967": "2026-09-25",
   "072a486f57ef": "2026-07-30",
