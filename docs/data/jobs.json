@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-10-15T11:45:30+00:00",
+ "generated_at": "2026-10-15T17:11:44+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "name": "NFCA",
    "ok": true,
-   "count": 42
+   "count": 41
   },
   {
    "name": "NJCAA Career Center",
@@ -21,14 +21,48 @@
   {
    "name": "NAIA Careers",
    "ok": true,
-   "count": 0
+   "count": 1
   }
  ],
- "count": 45,
+ "count": 46,
  "jobs": [
   {
-   "title": "Head Coach",
+   "title": "Assistant Softball Coach / Graduate Assistant Softball Coach",
    "links": [
+    {
+     "source": "NAIA Careers",
+     "url": "https://jobs.naia.org/job/assistant-softball-coach-graduate-assistant-softball-coach/"
+    }
+   ],
+   "posted": "2026-10-15",
+   "deadline": "",
+   "contact": "",
+   "id": "67920f52895b",
+   "type": "other",
+   "school_key": "baptist university of florida",
+   "tok": [
+    "assistant",
+    "graduate"
+   ],
+   "unitid": null,
+   "school_name": "Baptist University of Florida",
+   "city": "",
+   "state": "",
+   "division": "NAIA",
+   "group": "naia",
+   "posted_is_estimate": false,
+   "first_seen": "2026-10-15",
+   "salary": "",
+   "snippet": "The Baptist University of Florida is seeking qualified candidates who would be willing invest in young women and assist with our softball program. The Coach must be willing to disciple student-athletes for the advancement of the Kingdom, develop within athletes skills and character, and lead athletes to displaythe University\u2019s spirit of excellence and passion, thus fulfilling the BUF Athletic Program",
+   "school": null
+  },
+  {
+   "title": "Head Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22662369/head-softball-coach"
+    },
     {
      "source": "NFCA",
      "url": "https://www.schooljobs.com/careers/wcupa/jobs/5515948/27-47-head-softball-coach-athletics-department?pagetype=jobOpportunitiesJobs"
@@ -52,7 +86,7 @@
    "posted_is_estimate": false,
    "first_seen": "2026-10-14",
    "salary": "",
-   "snippet": "West Chester University is seeking a softball head coach. The Head Softball Coach is responsible for all aspects of administering and operating an NCAA Division II program. The incumbent will supervise full-time and volunteer assistant coaches, recruit qualified prospective student-athletes, run summer camps and clinics as well as other fundraising events, and handle the administrative functions of the program. This\u2026",
+   "snippet": "Position Summary Join a vibrant equity-minded campus whose excellence is reflected in its community, cultural engagement, and student success. The Department of Athletics invites applicants for a Head Softball Coach position. This a Full-Time, salaried, 12-month position with benefits. West Chester University is an NCAA Division II member of the highly competitive Pennsylvania State Athletic Conference (PSAC). The\u2026",
    "school": {
     "name": "West Chester University of Pennsylvania",
     "city": "West Chester",
@@ -845,6 +879,81 @@
    "links": [
     {
      "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22588367/head-softball-coach"
+    }
+   ],
+   "posted": "2026-09-17",
+   "deadline": "",
+   "contact": "",
+   "id": "241469e38663",
+   "type": "head",
+   "school_key": "150756",
+   "tok": [
+    "head"
+   ],
+   "unitid": "150756",
+   "school_name": "Hanover College",
+   "city": "Hanover",
+   "state": "IN",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-09",
+   "salary": "",
+   "snippet": "Position Summary Leads and develops a competitive NCAA Division III women's softball program that operates within the parameters set by Hanover College, the conference, and the NCAA. Ensures an excellent student-athlete experience focused on competitive excellence, academic success, wellness, character development, and inclusive excellence while engaging alumni, families, and the broader community. Primary\u2026",
+   "school": {
+    "name": "Hanover College",
+    "city": "Hanover",
+    "state": "IN",
+    "division": "NCAA D3",
+    "group": "d3",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 1021,
+    "sb_players": 19,
+    "sb_opexp": 57785,
+    "sb_expenses": 117221,
+    "sb_revenue": 117221,
+    "sb_head_ft": 0,
+    "sb_head_pt": 1,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 60502,
+    "ac_salary_women": 42304,
+    "student_aid_women": 0,
+    "recruit_exp_women": 35985,
+    "conference": "Heartland Collegiate Athletic Conference",
+    "ath_url": "https://athletics.hanover.edu/landing/index",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     78938,
+     78108,
+     101667,
+     108826,
+     97785,
+     117221
+    ],
+    "trend_players": [
+     17,
+     14,
+     14,
+     19,
+     17,
+     19
+    ]
+   }
+  },
+  {
+   "title": "Head Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
      "url": "https://ncaamarket.ncaa.org/jobs/22585238/head-softball-coach"
     },
     {
@@ -991,85 +1100,6 @@
      21,
      24,
      21
-    ]
-   }
-  },
-  {
-   "title": "Head Softball Coach",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22588367/head-softball-coach"
-    },
-    {
-     "source": "NFCA",
-     "url": "https://www.hanover.edu/about/employment/"
-    }
-   ],
-   "posted": "2026-09-16",
-   "deadline": "N/A Posting Date: 9/16/26",
-   "contact": "Mark Shook",
-   "id": "241469e38663",
-   "type": "head",
-   "school_key": "150756",
-   "tok": [
-    "head"
-   ],
-   "unitid": "150756",
-   "school_name": "Hanover College",
-   "city": "Hanover",
-   "state": "IN",
-   "division": "NCAA D3",
-   "group": "d3",
-   "posted_is_estimate": false,
-   "first_seen": "2026-07-09",
-   "salary": "",
-   "snippet": "Position Summary Leads and develops a competitive NCAA Division III women's softball program that operates within the parameters set by Hanover College, the conference, and the NCAA. Ensures an excellent student-athlete experience focused on competitive excellence, academic success, wellness, character development, and inclusive excellence while engaging alumni, families, and the broader community. Primary\u2026",
-   "school": {
-    "name": "Hanover College",
-    "city": "Hanover",
-    "state": "IN",
-    "division": "NCAA D3",
-    "group": "d3",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 1021,
-    "sb_players": 19,
-    "sb_opexp": 57785,
-    "sb_expenses": 117221,
-    "sb_revenue": 117221,
-    "sb_head_ft": 0,
-    "sb_head_pt": 1,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 1,
-    "hc_salary_women": 60502,
-    "ac_salary_women": 42304,
-    "student_aid_women": 0,
-    "recruit_exp_women": 35985,
-    "conference": "Heartland Collegiate Athletic Conference",
-    "ath_url": "https://athletics.hanover.edu/landing/index",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     78938,
-     78108,
-     101667,
-     108826,
-     97785,
-     117221
-    ],
-    "trend_players": [
-     17,
-     14,
-     14,
-     19,
-     17,
-     19
     ]
    }
   },
@@ -3327,6 +3357,7 @@
   }
  ],
  "seen": {
+  "74d3ac5ec942": "2026-10-14",
   "91ee91be44a6": "2026-08-20",
   "0f8a4003d5d5": "2026-10-05",
   "2b63b9edf199": "2026-09-23",
@@ -3334,7 +3365,6 @@
   "241469e38663": "2026-07-09",
   "4f52adc33f74": "2026-09-16",
   "b52284e13168": "2026-09-29",
-  "74d3ac5ec942": "2026-10-14",
   "32267aae1b0b": "2026-09-28",
   "a6a41aab1967": "2026-09-25",
   "072a486f57ef": "2026-07-30",
@@ -3374,6 +3404,7 @@
   "592651c371ea": "2026-07-10",
   "88a0a3e70647": "2026-07-09",
   "a0deff2a2c9c": "2026-09-23",
+  "67920f52895b": "2026-10-15",
   "b14a01f77753": "2026-09-09",
   "b710c7f6dbd0": "2026-07-15",
   "a6b8c400c81c": "2026-07-09",
