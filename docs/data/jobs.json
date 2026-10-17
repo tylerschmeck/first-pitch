@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T21:25:14+00:00",
+ "generated_at": "2026-10-17T04:42:39+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -21,41 +21,11 @@
   {
    "name": "NAIA Careers",
    "ok": true,
-   "count": 1
+   "count": 0
   }
  ],
- "count": 46,
+ "count": 45,
  "jobs": [
-  {
-   "title": "Assistant Softball Coach / Graduate Assistant Softball Coach",
-   "links": [
-    {
-     "source": "NAIA Careers",
-     "url": "https://jobs.naia.org/job/assistant-softball-coach-graduate-assistant-softball-coach/"
-    }
-   ],
-   "posted": "2026-10-15",
-   "deadline": "",
-   "contact": "",
-   "id": "67920f52895b",
-   "type": "other",
-   "school_key": "baptist university of florida",
-   "tok": [
-    "assistant",
-    "graduate"
-   ],
-   "unitid": null,
-   "school_name": "Baptist University of Florida",
-   "city": "",
-   "state": "",
-   "division": "NAIA",
-   "group": "naia",
-   "posted_is_estimate": false,
-   "first_seen": "2026-10-15",
-   "salary": "",
-   "snippet": "The Baptist University of Florida is seeking qualified candidates who would be willing invest in young women and assist with our softball program. The Coach must be willing to disciple student-athletes for the advancement of the Kingdom, develop within athletes skills and character, and lead athletes to displaythe University\u2019s spirit of excellence and passion, thus fulfilling the BUF Athletic Program",
-   "school": null
-  },
   {
    "title": "Head Softball Coach",
    "links": [
