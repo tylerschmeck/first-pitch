@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-17T04:42:39+00:00",
+ "generated_at": "2026-10-17T10:59:01+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "name": "NFCA",
@@ -21,11 +21,41 @@
   {
    "name": "NAIA Careers",
    "ok": true,
-   "count": 0
+   "count": 1
   }
  ],
- "count": 45,
+ "count": 46,
  "jobs": [
+  {
+   "title": "Assistant Softball Coach / Graduate Assistant Softball Coach",
+   "links": [
+    {
+     "source": "NAIA Careers",
+     "url": "https://jobs.naia.org/job/assistant-softball-coach-graduate-assistant-softball-coach/"
+    }
+   ],
+   "posted": "2026-10-15",
+   "deadline": "",
+   "contact": "",
+   "id": "67920f52895b",
+   "type": "other",
+   "school_key": "baptist university of florida",
+   "tok": [
+    "assistant",
+    "graduate"
+   ],
+   "unitid": null,
+   "school_name": "Baptist University of Florida",
+   "city": "",
+   "state": "",
+   "division": "NAIA",
+   "group": "naia",
+   "posted_is_estimate": false,
+   "first_seen": "2026-10-15",
+   "salary": "",
+   "snippet": "The Baptist University of Florida is seeking qualified candidates who would be willing invest in young women and assist with our softball program. The Coach must be willing to disciple student-athletes for the advancement of the Kingdom, develop within athletes skills and character, and lead athletes to displaythe University\u2019s spirit of excellence and passion, thus fulfilling the BUF Athletic Program",
+   "school": null
+  },
   {
    "title": "Head Softball Coach",
    "links": [
@@ -920,12 +950,8 @@
    }
   },
   {
-   "title": "Head Softball Coach",
+   "title": "Head Coach",
    "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22585238/head-softball-coach"
-    },
     {
      "source": "NFCA",
      "url": "https://www.ursinus.edu/live/profiles/11538-head-coach-womens-softball"
@@ -949,7 +975,7 @@
    "posted_is_estimate": false,
    "first_seen": "2026-09-16",
    "salary": "",
-   "snippet": "Summary and Scope of Position: The Head Coach is responsible for the administration and organization of a successful athletic program that competes in the Centennial Conference at the NCAA Division III level. Specific Responsibilities: Prepare, schedule and organize daily practice sessions, travel schedules, game preparation for competition, and off-season training; devise team rules and expectations Organize and\u2026",
+   "snippet": "The Head Coach is responsible for the administration and organization of a successful athletic program that competes in the Centennial Conference at the NCAA Division III",
    "school": {
     "name": "Ursinus College",
     "city": "Collegeville",
@@ -3333,10 +3359,10 @@
   "2b63b9edf199": "2026-09-23",
   "241469e38663": "2026-07-09",
   "8bb1a6d3bb0e": "2026-09-17",
-  "4f52adc33f74": "2026-09-16",
   "b52284e13168": "2026-09-29",
   "32267aae1b0b": "2026-09-28",
   "a6a41aab1967": "2026-09-25",
+  "4f52adc33f74": "2026-09-16",
   "072a486f57ef": "2026-07-30",
   "6d55eb1c26d8": "2026-09-25",
   "3ccf1431f6fd": "2026-09-25",
