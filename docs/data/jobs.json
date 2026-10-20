@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T20:38:20+00:00",
+ "generated_at": "2026-10-20T00:27:25+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -11,7 +11,7 @@
   {
    "name": "NFCA",
    "ok": true,
-   "count": 41
+   "count": 40
   },
   {
    "name": "NJCAA Career Center",
@@ -24,7 +24,7 @@
    "count": 1
   }
  ],
- "count": 44,
+ "count": 43,
  "jobs": [
   {
    "title": "Assistant Softball Coach / Graduate Assistant Softball Coach",
@@ -1849,81 +1849,6 @@
    }
   },
   {
-   "title": "Assistant Coach (Part-time)",
-   "links": [
-    {
-     "source": "NFCA",
-     "url": "https://bentley.wd503.myworkdayjobs.com/en-US/staff/job/Waltham-MA/Assistant-Coach--Softball_R0006244?applicant_guid=221356ff-d564-4202-b47d-a031ed7e450a&source=JobTarget&utm_source=JobTarget&utm_medium=National%20Fastpitch%20Coaches%20Association&utm_campaign=Assistant%20Coach%252C%20Softball%20R0006244_staff&_jtochash=rz6GXjS7AxbQasPmecz7AP&_jtocprof=CNum5iyTesoWa61yzzPrUqD8t8z7ejwJ"
-    }
-   ],
-   "posted": "2026-08-06",
-   "deadline": "N/A",
-   "contact": "Sara Mihajlovits",
-   "id": "02f02f6b340b",
-   "type": "assistant",
-   "school_key": "164739",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "164739",
-   "school_name": "Bentley University",
-   "city": "Waltham",
-   "state": "MA",
-   "division": "NCAA D2",
-   "group": "d2",
-   "posted_is_estimate": false,
-   "first_seen": "2026-08-07",
-   "salary": "",
-   "snippet": "Responsible for assisting the Head Coach in all aspects of running an intercollegiate Softball program. The Assistant Coach assists in teaching/coaching student athletes in all aspects of the sport in a manner that supports the quality and integrity of the program and the overall mission of Bentley",
-   "school": {
-    "name": "Bentley University",
-    "city": "Waltham",
-    "state": "MA",
-    "division": "NCAA D2",
-    "group": "d2",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 4433,
-    "sb_players": 19,
-    "sb_opexp": 103041,
-    "sb_expenses": 390619,
-    "sb_revenue": 392314,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 0,
-    "sb_asst_pt": 2,
-    "hc_salary_women": 81958,
-    "ac_salary_women": 47052,
-    "student_aid_women": 2027035,
-    "recruit_exp_women": 22815,
-    "conference": "Northeast 10 Conference",
-    "ath_url": "https://www.bentley.edu/athletics",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     333392,
-     314246,
-     372540,
-     373413,
-     406561,
-     390619
-    ],
-    "trend_players": [
-     23,
-     27,
-     23,
-     21,
-     21,
-     19
-    ]
-   }
-  },
-  {
    "title": "Assistant Coach",
    "links": [
     {
@@ -3226,7 +3151,6 @@
   "19025299dae1": "2026-08-11",
   "57d90c034f57": "2026-08-11",
   "3d904613fa56": "2026-08-10",
-  "02f02f6b340b": "2026-08-07",
   "dee816ff8d62": "2026-08-07",
   "bef6a2f80c46": "2026-08-04",
   "bf19c569e749": "2026-08-05",
@@ -3248,6 +3172,7 @@
   "88a0a3e70647": "2026-07-09",
   "a0deff2a2c9c": "2026-09-23",
   "67920f52895b": "2026-10-15",
+  "02f02f6b340b": "2026-08-07",
   "8bb1a6d3bb0e": "2026-09-17",
   "241469e38663": "2026-07-09",
   "b14a01f77753": "2026-09-09",
