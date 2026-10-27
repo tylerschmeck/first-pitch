@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-27T15:26:39+00:00",
+ "generated_at": "2026-10-27T22:26:18+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "name": "NFCA",
@@ -24,8 +24,83 @@
    "count": 1
   }
  ],
- "count": 36,
+ "count": 37,
  "jobs": [
+  {
+   "title": "Head Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22690051/head-softball-coach"
+    }
+   ],
+   "posted": "2026-10-27",
+   "deadline": "",
+   "contact": "",
+   "id": "bf89bc0e6dbb",
+   "type": "head",
+   "school_key": "165334",
+   "tok": [
+    "head"
+   ],
+   "unitid": "165334",
+   "school_name": "Clark University",
+   "city": "Worcester",
+   "state": "MA",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-10-27",
+   "salary": "",
+   "snippet": "Clark University seeks a Head Softball Coach who brings a competitive spirit, a love of the game, and a talent for bringing out the best in student-athletes. Leading the Cougars in NCAA Division III's New England Women's and Men's Athletic Conference (NEWMAC), you'll guide all aspects of the program, from recruiting and player development to game strategy and team culture. You'll join a university where athletics is\u2026",
+   "school": {
+    "name": "Clark University",
+    "city": "Worcester",
+    "state": "MA",
+    "division": "NCAA D3",
+    "group": "d3",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 2199,
+    "sb_players": 20,
+    "sb_opexp": 51937,
+    "sb_expenses": 145607,
+    "sb_revenue": 145607,
+    "sb_head_ft": 0,
+    "sb_head_pt": 1,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 3,
+    "hc_salary_women": 57407,
+    "ac_salary_women": 40892,
+    "student_aid_women": 0,
+    "recruit_exp_women": 26768,
+    "conference": "",
+    "ath_url": "",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     119690,
+     84817,
+     125607,
+     152373,
+     175814,
+     145607
+    ],
+    "trend_players": [
+     23,
+     20,
+     21,
+     21,
+     22,
+     20
+    ]
+   }
+  },
   {
    "title": "Head Coach",
    "links": [
@@ -2557,6 +2632,7 @@
   }
  ],
  "seen": {
+  "bf89bc0e6dbb": "2026-10-27",
   "072a486f57ef": "2026-07-30",
   "74d3ac5ec942": "2026-10-14",
   "91ee91be44a6": "2026-08-20",
