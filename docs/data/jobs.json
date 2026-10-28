@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-27T22:26:18+00:00",
+ "generated_at": "2026-10-28T05:57:35+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "name": "NFCA",
@@ -24,8 +24,38 @@
    "count": 1
   }
  ],
- "count": 37,
+ "count": 38,
  "jobs": [
+  {
+   "title": "College Softball Coach Recruiting Intern",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22694651/college-softball-coach-recruiting-intern"
+    }
+   ],
+   "posted": "2026-10-28",
+   "deadline": "",
+   "contact": "",
+   "id": "be9353b4f122",
+   "type": "other",
+   "school_key": "college scouting bureau",
+   "tok": [
+    "intern",
+    "recruiting"
+   ],
+   "unitid": null,
+   "school_name": "College Scouting Bureau",
+   "city": "",
+   "state": "",
+   "division": "\u2014",
+   "group": "other",
+   "posted_is_estimate": false,
+   "first_seen": "2026-10-28",
+   "salary": "",
+   "snippet": "N/A,, Summer College Softball Coach & Showcase Operations Internship College Scouting Bureau | June \u2013 Early August Take Your Coaching Career Beyond the Field, Are you a young college softball coach or graduate assistant looking to expand your coaching network, sharpen your recruiting eye, and gain valuable experience in the business of college athletics? The College Scouting Bureau (CSB) is looking for a motivated,\u2026",
+   "school": null
+  },
   {
    "title": "Head Softball Coach",
    "links": [
@@ -2632,6 +2662,7 @@
   }
  ],
  "seen": {
+  "be9353b4f122": "2026-10-28",
   "bf89bc0e6dbb": "2026-10-27",
   "072a486f57ef": "2026-07-30",
   "74d3ac5ec942": "2026-10-14",
