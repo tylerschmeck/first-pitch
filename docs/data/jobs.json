@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T05:57:35+00:00",
+ "generated_at": "2026-10-28T13:15:38+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -11,7 +11,7 @@
   {
    "name": "NFCA",
    "ok": true,
-   "count": 32
+   "count": 33
   },
   {
    "name": "NJCAA Career Center",
@@ -62,11 +62,15 @@
     {
      "source": "NCAA Market",
      "url": "https://ncaamarket.ncaa.org/jobs/22690051/head-softball-coach"
+    },
+    {
+     "source": "NFCA",
+     "url": "https://clarku.interviewexchange.com/jobofferdetails.jsp?JOBID=206190"
     }
    ],
    "posted": "2026-10-27",
-   "deadline": "",
-   "contact": "",
+   "deadline": "Open until filled Posting Date: 10/28/26",
+   "contact": "Kirsten Clark",
    "id": "bf89bc0e6dbb",
    "type": "head",
    "school_key": "165334",
