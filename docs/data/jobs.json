@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-10-28T20:23:43+00:00",
+ "generated_at": "2026-10-29T01:04:36+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "name": "NFCA",
@@ -24,8 +24,37 @@
    "count": 1
   }
  ],
- "count": 38,
+ "count": 39,
  "jobs": [
+  {
+   "title": "Head Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22698174/head-softball-coach"
+    }
+   ],
+   "posted": "2026-10-28",
+   "deadline": "",
+   "contact": "",
+   "id": "59de0ec86b23",
+   "type": "head",
+   "school_key": "suny cobleskill ag and tech",
+   "tok": [
+    "head"
+   ],
+   "unitid": null,
+   "school_name": "SUNY Cobleskill Ag & Tech",
+   "city": "Cobleskill",
+   "state": "NY",
+   "division": "\u2014",
+   "group": "other",
+   "posted_is_estimate": false,
+   "first_seen": "2026-10-29",
+   "salary": "",
+   "snippet": "Softball is an important part of the Fighting Tigers' athletic tradition. SUNY Cobleskill is committed to elevating the program under new leadership, centered on the values of the NCAA Division III philosophy and the College's mission of student success. SUNY Cobleskill invites applications for the full-time, 10-month position of Head Softball Coach. Reporting to the Director of Athletics, this position holds\u2026",
+   "school": null
+  },
   {
    "title": "College Softball Coach Recruiting Intern",
    "links": [
@@ -2666,6 +2695,7 @@
   }
  ],
  "seen": {
+  "59de0ec86b23": "2026-10-29",
   "be9353b4f122": "2026-10-28",
   "bf89bc0e6dbb": "2026-10-27",
   "072a486f57ef": "2026-07-30",
