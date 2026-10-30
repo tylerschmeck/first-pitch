@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T10:15:21+00:00",
+ "generated_at": "2026-10-30T18:06:15+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -11,7 +11,7 @@
   {
    "name": "NFCA",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "name": "NJCAA Career Center",
@@ -24,8 +24,84 @@
    "count": 1
   }
  ],
- "count": 38,
+ "count": 39,
  "jobs": [
+  {
+   "title": "Graduate Assistant Coach",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://nfca.org/nfca-job-postings"
+    }
+   ],
+   "posted": "2026-10-30",
+   "deadline": "Until Position is Filled",
+   "contact": "Bill Vasko",
+   "id": "d2e828bf3c1b",
+   "type": "other",
+   "school_key": "215743",
+   "tok": [
+    "assistant",
+    "graduate"
+   ],
+   "unitid": "215743",
+   "school_name": "Saint Francis University",
+   "city": "Loretto",
+   "state": "PA",
+   "division": "NCAA D1",
+   "group": "d1",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-09",
+   "salary": "",
+   "snippet": "Saint Francis University is seeking a graduate assistant coach for women\u2019s softball. The graduate assistant is responsible for assisting the head coach with the facilitation of all aspects associated with running a collegiate women\u2019s softball program. Responsibilities include but are not limited to recruiting, administrative work, coaching in practice and games, game-day activities, social media posts, equipment\u2026",
+   "school": {
+    "name": "Saint Francis University",
+    "city": "Loretto",
+    "state": "PA",
+    "division": "NCAA D1",
+    "group": "d1",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 1422,
+    "sb_players": 17,
+    "sb_opexp": 207723,
+    "sb_expenses": 748592,
+    "sb_revenue": 748592,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 1,
+    "sb_asst_pt": 2,
+    "hc_salary_women": 63714,
+    "ac_salary_women": 23434,
+    "student_aid_women": 4553912,
+    "recruit_exp_women": 91211,
+    "conference": "Northeast Conference",
+    "ath_url": "https://www.sfuathletics.com",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     604356,
+     663503,
+     752087,
+     805161,
+     690571,
+     748592
+    ],
+    "trend_players": [
+     16,
+     20,
+     17,
+     20,
+     18,
+     17
+    ]
+   }
+  },
   {
    "title": "Head Softball Coach",
    "links": [
@@ -2652,6 +2728,7 @@
   "7e89ad8f7d1d": "2026-07-30",
   "7be01ca00aec": "2026-08-05",
   "739cb2438050": "2026-07-29",
+  "d2e828bf3c1b": "2026-07-09",
   "9d0c126f28b1": "2026-10-02",
   "1baaaeecda6c": "2026-07-30",
   "e62b6b968f0a": "2026-07-29",
@@ -2664,7 +2741,6 @@
   "206f76c36985": "2026-07-10",
   "52ed177399b2": "2026-07-22",
   "7940a4546058": "2026-07-09",
-  "d2e828bf3c1b": "2026-07-09",
   "592651c371ea": "2026-07-10",
   "88a0a3e70647": "2026-07-09",
   "2b63b9edf199": "2026-09-23",
