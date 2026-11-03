@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T19:37:56+00:00",
+ "generated_at": "2026-11-03T02:57:44+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -11,7 +11,7 @@
   {
    "name": "NFCA",
    "ok": true,
-   "count": 34
+   "count": 35
   },
   {
    "name": "NJCAA Career Center",
@@ -24,8 +24,38 @@
    "count": 1
   }
  ],
- "count": 39,
+ "count": 40,
  "jobs": [
+  {
+   "title": "Graduate Assistant Coach",
+   "links": [
+    {
+     "source": "NFCA",
+     "url": "https://applygrad.smith.edu/apply/"
+    }
+   ],
+   "posted": "2026-11-02",
+   "deadline": "3/1/27 - Applications will be reviewed as submitted",
+   "contact": "Emily Lopez",
+   "id": "33b662c4df3d",
+   "type": "other",
+   "school_key": "smith college",
+   "tok": [
+    "assistant",
+    "graduate"
+   ],
+   "unitid": null,
+   "school_name": "Smith College",
+   "city": "Northampton",
+   "state": "MA",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-11-03",
+   "salary": "",
+   "snippet": "Smith\u2019s unique two-year graduate program in Exercise and Sport Studies (ESS) prepares individuals to coach collegiate teams. The ESS program is recognized nationally for its excellence, and receives accreditation from the National Committee for Accreditation of Coaching Education (NCACE). There are coaches across all sports and all divisions who have graduated from the Smith ESS program. The two-year program (Summer\u2026",
+   "school": null
+  },
   {
    "title": "Graduate Assistant Coach",
    "links": [
@@ -2728,6 +2758,7 @@
   "7e89ad8f7d1d": "2026-07-30",
   "7be01ca00aec": "2026-08-05",
   "739cb2438050": "2026-07-29",
+  "33b662c4df3d": "2026-11-03",
   "d2e828bf3c1b": "2026-07-09",
   "9d0c126f28b1": "2026-10-02",
   "1baaaeecda6c": "2026-07-30",
