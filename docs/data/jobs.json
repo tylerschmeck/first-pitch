@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-04T11:15:34+00:00",
+ "generated_at": "2026-11-04T19:55:21+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 7
+   "count": 9
   },
   {
    "name": "NFCA",
@@ -24,8 +24,161 @@
    "count": 1
   }
  ],
- "count": 40,
+ "count": 42,
  "jobs": [
+  {
+   "title": "Graduate Assistant at FPU Only- Assistant Coach Softball",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22716738/graduate-assistant-at-fpu-only-assistant-coach-softball"
+    }
+   ],
+   "posted": "2026-11-04",
+   "deadline": "",
+   "contact": "",
+   "id": "744b1f8f5dfd",
+   "type": "other",
+   "school_key": "182795",
+   "tok": [
+    "assistant",
+    "at",
+    "graduate",
+    "only"
+   ],
+   "unitid": "182795",
+   "school_name": "Franklin Pierce University",
+   "city": "Rindge",
+   "state": "NH",
+   "division": "NCAA D2",
+   "group": "d2",
+   "posted_is_estimate": false,
+   "first_seen": "2026-11-04",
+   "salary": "",
+   "snippet": "Requires an undergraduate degree from an accredited institution and acceptance into a graduate studies program at Franklin Pierce University (acceptance must be confirmed before the candidate is considered). Franklin Pierce University, a proud member of NCAA Division II and the Northeast-10 Conference, is seeking a highly motivated and energetic individual for the position of Graduate Assistant Coach for Softball.\u2026",
+   "school": {
+    "name": "Franklin Pierce University",
+    "city": "Rindge",
+    "state": "NH",
+    "division": "NCAA D2",
+    "group": "d2",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 843,
+    "sb_players": 19,
+    "sb_opexp": 34933,
+    "sb_expenses": 334124,
+    "sb_revenue": 334124,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 0,
+    "hc_salary_women": 55772,
+    "ac_salary_women": 36285,
+    "student_aid_women": 108000,
+    "recruit_exp_women": 19026,
+    "conference": "Northeast 10 Conference",
+    "ath_url": "https://www.fpuravens.com/landing/index",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     262995,
+     306099,
+     339158,
+     293230,
+     295643,
+     334124
+    ],
+    "trend_players": [
+     22,
+     24,
+     22,
+     21,
+     22,
+     19
+    ]
+   }
+  },
+  {
+   "title": "Assistant Coach Softball",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22716836/assistant-coach-softball"
+    }
+   ],
+   "posted": "2026-11-04",
+   "deadline": "",
+   "contact": "",
+   "id": "7011b9a026b9",
+   "type": "assistant",
+   "school_key": "231581",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "231581",
+   "school_name": "Bridgewater College",
+   "city": "Bridgewater",
+   "state": "VA",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-07-30",
+   "salary": "$34,000.00 - $35,000.00",
+   "snippet": "$34,000.00 - $35,000.00 Bridgewater College is seeking an enthusiastic and student-centered Assistant Softball Coach to join its NCAA Division III softball program. This full-time position reports to the Head Softball Coach and offers an opportunity to help develop student-athletes while contributing to a competitive, values-driven program. The successful candidate will assist with coaching, recruiting, player\u2026",
+   "school": {
+    "name": "Bridgewater College",
+    "city": "Bridgewater",
+    "state": "VA",
+    "division": "NCAA D3",
+    "group": "d3",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 1396,
+    "sb_players": 26,
+    "sb_opexp": 118244,
+    "sb_expenses": 222240,
+    "sb_revenue": 222240,
+    "sb_head_ft": 0,
+    "sb_head_pt": 1,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 4,
+    "hc_salary_women": 55966,
+    "ac_salary_women": 38045,
+    "student_aid_women": 0,
+    "recruit_exp_women": 40305,
+    "conference": "",
+    "ath_url": "",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     94928,
+     76677,
+     175027,
+     182808,
+     196800,
+     222240
+    ],
+    "trend_players": [
+     22,
+     22,
+     26,
+     29,
+     25,
+     26
+    ]
+   }
+  },
   {
    "title": "Graduate Assistant Coach",
    "links": [
@@ -2725,9 +2878,11 @@
   }
  ],
  "seen": {
+  "744b1f8f5dfd": "2026-11-04",
+  "7011b9a026b9": "2026-07-30",
   "59de0ec86b23": "2026-10-29",
-  "bf89bc0e6dbb": "2026-10-27",
   "be9353b4f122": "2026-10-28",
+  "bf89bc0e6dbb": "2026-10-27",
   "072a486f57ef": "2026-07-30",
   "74d3ac5ec942": "2026-10-14",
   "91ee91be44a6": "2026-08-20",
@@ -2766,7 +2921,6 @@
   "a0deff2a2c9c": "2026-09-23",
   "67920f52895b": "2026-10-15",
   "b52284e13168": "2026-09-29",
-  "7011b9a026b9": "2026-07-30",
   "55ae7d5f9b92": "2026-07-22",
   "ac6fc459f4be": "2026-07-10",
   "206f76c36985": "2026-07-10",
