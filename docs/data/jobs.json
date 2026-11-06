@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-06T01:39:53+00:00",
+ "generated_at": "2026-11-06T11:11:57+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "name": "NFCA",
@@ -24,7 +24,7 @@
    "count": 1
   }
  ],
- "count": 37,
+ "count": 36,
  "jobs": [
   {
    "title": "Assistant Coach, Softball",
@@ -787,81 +787,6 @@
      29,
      24,
      32
-    ]
-   }
-  },
-  {
-   "title": "ASSISTANT SOFTBALL COACH",
-   "links": [
-    {
-     "source": "NCAA Market",
-     "url": "https://ncaamarket.ncaa.org/jobs/22637120/assistant-softball-coach"
-    }
-   ],
-   "posted": "2026-10-06",
-   "deadline": "",
-   "contact": "",
-   "id": "91ee91be44a6",
-   "type": "assistant",
-   "school_key": "148131",
-   "tok": [
-    "assistant"
-   ],
-   "unitid": "148131",
-   "school_name": "Quincy University",
-   "city": "Quincy",
-   "state": "IL",
-   "division": "NCAA D2",
-   "group": "d2",
-   "posted_is_estimate": false,
-   "first_seen": "2026-08-20",
-   "salary": "$30,000 - $33,000",
-   "snippet": "Quincy University, an NCAA Division II institution and member of the Great Lakes Valley Conference, invites applications for the position of Assistant Softball Coach. Responsibilities: \u2022Serves as a representative of the University, promoting QU's mission, image and goals to colleagues and the community. \u2022All aspects of recruitment including - scouting perspective student athletes, organizing staff recruiting\u2026",
-   "school": {
-    "name": "Quincy University",
-    "city": "Quincy",
-    "state": "IL",
-    "division": "NCAA D2",
-    "group": "d2",
-    "sector": "Private nonprofit, 4-year or above",
-    "enrollment": 989,
-    "sb_players": 20,
-    "sb_opexp": 79900,
-    "sb_expenses": 339312,
-    "sb_revenue": 347866,
-    "sb_head_ft": 1,
-    "sb_head_pt": 0,
-    "sb_asst_ft": 1,
-    "sb_asst_pt": 0,
-    "hc_salary_women": 51977,
-    "ac_salary_women": 34453,
-    "student_aid_women": 2341028,
-    "recruit_exp_women": 45601,
-    "conference": "Great Lakes Valley Conference",
-    "ath_url": "https://quhawks.com",
-    "trend_years": [
-     2020,
-     2021,
-     2022,
-     2023,
-     2024,
-     2025
-    ],
-    "trend_exp": [
-     268533,
-     294147,
-     318775,
-     585323,
-     311028,
-     339312
-    ],
-    "trend_players": [
-     19,
-     22,
-     25,
-     28,
-     20,
-     20
     ]
    }
   },
@@ -2504,15 +2429,14 @@
   }
  ],
  "seen": {
-  "744b1f8f5dfd": "2026-11-04",
   "7011b9a026b9": "2026-07-30",
+  "744b1f8f5dfd": "2026-11-04",
   "32f02bfbeab7": "2026-11-05",
   "59de0ec86b23": "2026-10-29",
-  "be9353b4f122": "2026-10-28",
   "bf89bc0e6dbb": "2026-10-27",
+  "be9353b4f122": "2026-10-28",
   "072a486f57ef": "2026-07-30",
   "74d3ac5ec942": "2026-10-14",
-  "91ee91be44a6": "2026-08-20",
   "70271b576bff": "2026-10-21",
   "32267aae1b0b": "2026-09-28",
   "a6a41aab1967": "2026-09-25",
@@ -2541,6 +2465,7 @@
   "9d0c126f28b1": "2026-10-02",
   "a0deff2a2c9c": "2026-09-23",
   "67920f52895b": "2026-10-15",
+  "91ee91be44a6": "2026-08-20",
   "0f8a4003d5d5": "2026-10-05",
   "af30e912df7d": "2026-08-02",
   "7e89ad8f7d1d": "2026-07-30",
