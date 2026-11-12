@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-11T17:17:07+00:00",
+ "generated_at": "2026-11-12T00:52:10+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "name": "NFCA",
@@ -24,8 +24,83 @@
    "count": 1
   }
  ],
- "count": 36,
+ "count": 37,
  "jobs": [
+  {
+   "title": "Assistant Coach - Softball",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22735820/assistant-coach-softball"
+    }
+   ],
+   "posted": "2026-11-11",
+   "deadline": "",
+   "contact": "",
+   "id": "0f809bd10ac6",
+   "type": "assistant",
+   "school_key": "215947",
+   "tok": [
+    "assistant"
+   ],
+   "unitid": "215947",
+   "school_name": "Seton Hill University",
+   "city": "Greensburg",
+   "state": "PA",
+   "division": "NCAA D2",
+   "group": "d2",
+   "posted_is_estimate": false,
+   "first_seen": "2026-11-12",
+   "salary": "",
+   "snippet": "DEPARTMENT: Athletics SUPERVISED BY: Head Coach, Women\u2019s Softball FLSA STATUS: Exempt EMPLOYMENT STATUS: Full-time POSITION DESCRIPTION: To serve in a full-time capacity as Assistant Coach of the University\u2019s Women\u2019s Softball program. RESPONSIBILITIES/DUTIES: Assist the head coach in planning and conducting practices, games, and team activities. Ensure compliance with NCAA, PSAC, and university policies. recruitment\u2026",
+   "school": {
+    "name": "Seton Hill University",
+    "city": "Greensburg",
+    "state": "PA",
+    "division": "NCAA D2",
+    "group": "d2",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 1394,
+    "sb_players": 28,
+    "sb_opexp": 181262,
+    "sb_expenses": 463521,
+    "sb_revenue": 463521,
+    "sb_head_ft": 1,
+    "sb_head_pt": 0,
+    "sb_asst_ft": 1,
+    "sb_asst_pt": 0,
+    "hc_salary_women": 47651,
+    "ac_salary_women": 31451,
+    "student_aid_women": 1431395,
+    "recruit_exp_women": 63312,
+    "conference": "Pennsylvania State Athletic Conference",
+    "ath_url": "https://www.setonhill.edu/athletics",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     286712,
+     311745,
+     384486,
+     374605,
+     473877,
+     463521
+    ],
+    "trend_players": [
+     23,
+     29,
+     34,
+     27,
+     27,
+     28
+    ]
+   }
+  },
   {
    "title": "Assistant Coach, Softball",
    "links": [
@@ -2429,6 +2504,7 @@
   }
  ],
  "seen": {
+  "0f809bd10ac6": "2026-11-12",
   "32f02bfbeab7": "2026-11-05",
   "7011b9a026b9": "2026-07-30",
   "744b1f8f5dfd": "2026-11-04",
