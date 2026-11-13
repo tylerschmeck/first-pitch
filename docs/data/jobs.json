@@ -1,17 +1,17 @@
 {
- "generated_at": "2026-11-12T20:09:57+00:00",
+ "generated_at": "2026-11-13T01:58:42+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
   {
    "name": "NCAA Market",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "name": "NFCA",
    "ok": true,
-   "count": 30
+   "count": 31
   },
   {
    "name": "NJCAA Career Center",
@@ -24,8 +24,87 @@
    "count": 1
   }
  ],
- "count": 37,
+ "count": 38,
  "jobs": [
+  {
+   "title": "Head Softball Coach",
+   "links": [
+    {
+     "source": "NCAA Market",
+     "url": "https://ncaamarket.ncaa.org/jobs/22738282/head-softball-coach"
+    },
+    {
+     "source": "NFCA",
+     "url": "https://recruiting.myapps.paychex.com/appone/MainInfoReq.asp?R_ID=7224849&B_ID=91&fid=1&Adid=0&ssbgcolor=17143A&SearchScreenID=26243&CountryID=3&LanguageID=2"
+    }
+   ],
+   "posted": "2026-11-12",
+   "deadline": "Open until filled Posting Date: 11/12/26",
+   "contact": "Nicole Karr",
+   "id": "c4f625e58314",
+   "type": "head",
+   "school_key": "215798",
+   "tok": [
+    "head"
+   ],
+   "unitid": "215798",
+   "school_name": "Saint Vincent College",
+   "city": "Latrobe",
+   "state": "PA",
+   "division": "NCAA D3",
+   "group": "d3",
+   "posted_is_estimate": false,
+   "first_seen": "2026-11-13",
+   "salary": "",
+   "snippet": "The Head Softball Coach is responsible for all aspects of administering and operating an NCAA Division III program. The incumbent will supervise full-time and volunteer assistant coaches, recruit qualified prospective student-athletes, run fundraising events, and handle the administrative functions of the program. This position requires regular afternoon, evening, and weekend availability, including travel with the\u2026",
+   "school": {
+    "name": "Saint Vincent College",
+    "city": "Latrobe",
+    "state": "PA",
+    "division": "NCAA D3",
+    "group": "d3",
+    "sector": "Private nonprofit, 4-year or above",
+    "enrollment": 1246,
+    "sb_players": 19,
+    "sb_opexp": 53881,
+    "sb_expenses": 139323,
+    "sb_revenue": 139323,
+    "sb_head_ft": 0,
+    "sb_head_pt": 1,
+    "sb_asst_ft": 0,
+    "sb_asst_pt": 1,
+    "hc_salary_women": 56047,
+    "ac_salary_women": 29166,
+    "student_aid_women": 0,
+    "recruit_exp_women": 11488,
+    "conference": "Presidents' Athletic Conference",
+    "ath_url": "https://www.athletics.stvincent.edu",
+    "trend_years": [
+     2020,
+     2021,
+     2022,
+     2023,
+     2024,
+     2025
+    ],
+    "trend_exp": [
+     88457,
+     79084,
+     101526,
+     149509,
+     118082,
+     139323
+    ],
+    "trend_players": [
+     17,
+     20,
+     16,
+     20,
+     23,
+     19
+    ]
+   }
+  },
   {
    "title": "Assistant Coach - Softball",
    "links": [
@@ -2504,13 +2583,14 @@
   }
  ],
  "seen": {
+  "c4f625e58314": "2026-11-13",
   "0f809bd10ac6": "2026-11-12",
   "32f02bfbeab7": "2026-11-05",
-  "744b1f8f5dfd": "2026-11-04",
   "7011b9a026b9": "2026-07-30",
+  "744b1f8f5dfd": "2026-11-04",
   "59de0ec86b23": "2026-10-29",
-  "be9353b4f122": "2026-10-28",
   "bf89bc0e6dbb": "2026-10-27",
+  "be9353b4f122": "2026-10-28",
   "072a486f57ef": "2026-07-30",
   "74d3ac5ec942": "2026-10-14",
   "70271b576bff": "2026-10-21",
