@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T22:38:13+00:00",
+ "generated_at": "2026-11-15T06:51:29+00:00",
  "eada_year": "2024\u201325",
  "max_age_days": 120,
  "sources": [
@@ -21,10 +21,10 @@
   {
    "name": "NAIA Careers",
    "ok": true,
-   "count": 1
+   "count": 0
   }
  ],
- "count": 38,
+ "count": 37,
  "jobs": [
   {
    "title": "Head Softball Coach",
@@ -833,36 +833,6 @@
    "first_seen": "2026-10-21",
    "salary": "",
    "snippet": "We are seeking a highly motivated and experienced individual to lead and develop the Madison Night Mares Softball team as the Head Coach. The ideal candidate will be responsible for providing strategic direction, recruiting, coaching, hiring assistant coach(es), and mentorship to our student-athletes while fostering a culture of excellence. The season will consist of 42 games (21 home games and 21 away games) that\u2026",
-   "school": null
-  },
-  {
-   "title": "Assistant Softball Coach / Graduate Assistant Softball Coach",
-   "links": [
-    {
-     "source": "NAIA Careers",
-     "url": "https://jobs.naia.org/job/assistant-softball-coach-graduate-assistant-softball-coach/"
-    }
-   ],
-   "posted": "2026-10-15",
-   "deadline": "",
-   "contact": "",
-   "id": "67920f52895b",
-   "type": "other",
-   "school_key": "baptist university of florida",
-   "tok": [
-    "assistant",
-    "graduate"
-   ],
-   "unitid": null,
-   "school_name": "Baptist University of Florida",
-   "city": "",
-   "state": "",
-   "division": "NAIA",
-   "group": "naia",
-   "posted_is_estimate": false,
-   "first_seen": "2026-10-15",
-   "salary": "",
-   "snippet": "The Baptist University of Florida is seeking qualified candidates who would be willing invest in young women and assist with our softball program. The Coach must be willing to disciple student-athletes for the advancement of the Kingdom, develop within athletes skills and character, and lead athletes to displaythe University\u2019s spirit of excellence and passion, thus fulfilling the BUF Athletic Program",
    "school": null
   },
   {
@@ -2586,8 +2556,8 @@
   "c4f625e58314": "2026-11-13",
   "0f809bd10ac6": "2026-11-12",
   "744b1f8f5dfd": "2026-11-04",
-  "7011b9a026b9": "2026-07-30",
   "32f02bfbeab7": "2026-11-05",
+  "7011b9a026b9": "2026-07-30",
   "59de0ec86b23": "2026-10-29",
   "be9353b4f122": "2026-10-28",
   "bf89bc0e6dbb": "2026-10-27",
